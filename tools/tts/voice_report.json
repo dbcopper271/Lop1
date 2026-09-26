@@ -9,11 +9,10 @@
 "á": {
 "mode": "short",
 "ok": true,
-"heard": "cô đọc chữ á nhé",
-"v": 3,
-"dur": 0.23,
-"speed": 0.64,
-"stretched": 0.5
+"heard": "(nguyên âm tự nhiên + giãn nhẹ)",
+"v": 7,
+"dur": 0.63,
+"ms": 429
 },
 "ăn cơm": {
 "mode": "short",
@@ -25,10 +24,10 @@
 "ớ": {
 "mode": "short",
 "ok": true,
-"heard": "bây giờ cô đọc ớ",
-"v": 2,
-"dur": 0.44,
-"stretched": 0.52
+"heard": "(nguyên âm tự nhiên + giãn nhẹ)",
+"v": 7,
+"dur": 0.64,
+"ms": 409
 },
 "cái ấm": {
 "mode": "short",
@@ -1919,11 +1918,10 @@
 "a": {
 "mode": "short",
 "ok": true,
-"heard": "cô đọc chữ a nhé",
-"v": 3,
-"dur": 0.33,
-"speed": 0.66,
-"stretched": 0.66
+"heard": "(nguyên âm tự nhiên + giãn nhẹ)",
+"v": 7,
+"dur": 0.48,
+"ms": 284
 },
 "dờ": {
 "mode": "short",
@@ -1935,19 +1933,18 @@
 "e": {
 "mode": "short",
 "ok": true,
-"heard": "bây giờ cô đọc âm e nhé",
-"v": 3,
-"dur": 0.25,
-"speed": 0.6,
-"stretched": 0.5
+"heard": "(nguyên âm tự nhiên + giãn nhẹ)",
+"v": 7,
+"dur": 0.57,
+"ms": 369
 },
 "ê": {
 "mode": "short",
 "ok": true,
-"heard": "bây giờ cô đọc ê",
-"v": 2,
-"dur": 0.41,
-"stretched": 0.5
+"heard": "(nguyên âm tự nhiên + giãn nhẹ)",
+"v": 7,
+"dur": 0.59,
+"ms": 394
 },
 "con ếch": {
 "mode": "short",
@@ -1975,11 +1972,10 @@
 "o": {
 "mode": "short",
 "ok": true,
-"heard": "bây giờ cô đọc âm o nhé",
-"v": 3,
-"dur": 0.23,
-"speed": 0.66,
-"stretched": 0.5
+"heard": "(nguyên âm tự nhiên + giãn nhẹ)",
+"v": 7,
+"dur": 0.64,
+"ms": 404
 },
 "con ong": {
 "mode": "short",
@@ -1991,11 +1987,10 @@
 "ô": {
 "mode": "short",
 "ok": true,
-"heard": "cô đọc chữ ô nhé",
-"v": 3,
-"dur": 0.24,
-"speed": 0.72,
-"stretched": 0.5
+"heard": "(nguyên âm tự nhiên + giãn nhẹ)",
+"v": 7,
+"dur": 0.59,
+"ms": 409
 },
 "cái ô": {
 "mode": "short",
@@ -2006,11 +2001,11 @@
 },
 "ơ": {
 "mode": "short",
-"ok": "carrier",
-"heard": "bây giờ cô đọc ở",
-"v": 2,
-"dur": 0.44,
-"stretched": 0.52
+"ok": true,
+"heard": "(nguyên âm tự nhiên + giãn nhẹ)",
+"v": 7,
+"dur": 0.59,
+"ms": 379
 },
 "pờ": {
 "mode": "short",
@@ -2050,11 +2045,10 @@
 "u": {
 "mode": "short",
 "ok": true,
-"heard": "bây giờ cô đọc âm u nhé",
-"v": 3,
-"dur": 0.32,
-"speed": 0.78,
-"stretched": 0.61
+"heard": "(nguyên âm tự nhiên + giãn nhẹ)",
+"v": 7,
+"dur": 0.41,
+"ms": 234
 },
 "đôi ủng": {
 "mode": "short",
@@ -2066,10 +2060,10 @@
 "ư": {
 "mode": "short",
 "ok": true,
-"heard": "bây giờ cô đọc ư nhé",
-"v": 2,
-"dur": 0.28,
-"stretched": 0.5
+"heard": "(nguyên âm tự nhiên + giãn nhẹ)",
+"v": 7,
+"dur": 0.59,
+"ms": 379
 },
 "con voi": {
 "mode": "short",
@@ -2304,10 +2298,11 @@
 },
 "hoa": {
 "mode": "short",
-"ok": false,
-"heard": "",
-"v": 2,
-"dur": 0.41
+"ok": true,
+"heard": "(giữa câu) hoa",
+"v": 6,
+"dur": 0.48,
+"ms": 304
 },
 "keo": {
 "mode": "short",
@@ -3281,9 +3276,9 @@
 },
 "Bé hãy ghép tiếng tôm nhé.": {
 "mode": "long",
-"score": 0.667,
-"heard": "bé hãy khét tiếng tùng nhé",
-"dur": 1.62,
+"score": 0.833,
+"heard": "bé hãy ghép tiếng tùng nhé",
+"dur": 1.67,
 "target_ok": false
 },
 "Bé hãy chọn tiếng nấm nhé.": {
@@ -4124,10 +4119,11 @@
 },
 "ngờ": {
 "mode": "short",
-"ok": "carrier",
-"heard": "bây giờ cô đọc ngợ",
-"v": 2,
-"dur": 0.45
+"ok": true,
+"heard": "(giữa câu) ngờ",
+"v": 6,
+"dur": 0.56,
+"ms": 379
 },
 "bong": {
 "mode": "short",
@@ -5150,8 +5146,8 @@
 "Tiếng rau có vần gì?": {
 "mode": "long",
 "score": 0.6,
-"heard": "tiếng sau có phần gì",
-"dur": 1.19,
+"heard": "tiếng sao có phần gì",
+"dur": 1.32,
 "target_ok": false
 },
 "Tiếng tai có vần gì?": {
@@ -5181,8 +5177,8 @@
 "Tiếng tôm có vần gì?": {
 "mode": "long",
 "score": 0.6,
-"heard": "tím tôm có phần gì",
-"dur": 1.3,
+"heard": "tiếng tung có phần gì",
+"dur": 1.35,
 "target_ok": true
 },
 "Tiếng nấm có vần gì?": {
@@ -5194,8 +5190,8 @@
 "Tiếng gấu có vần gì?": {
 "mode": "long",
 "score": 0.6,
-"heard": "tiếng gấu có phần gì",
-"dur": 1.18,
+"heard": "tiếng khấu có phần gì",
+"dur": 1.34,
 "target_ok": true
 },
 "Tiếng lợn có vần gì?": {
@@ -5401,9 +5397,9 @@
 },
 "Mẹ mua cá.": {
 "mode": "long",
-"score": 0.667,
-"heard": "mẹ mùa cá",
-"dur": 0.9
+"score": 1.0,
+"heard": "mẹ mua cá",
+"dur": 0.82
 },
 "Bố đi xe ô tô.": {
 "mode": "long",
@@ -5437,9 +5433,9 @@
 },
 "Bé ăn kem.": {
 "mode": "long",
-"score": 0.667,
-"heard": "bé ăn kèm",
-"dur": 0.79
+"score": 1.0,
+"heard": "bé ăn kem",
+"dur": 0.58
 },
 "Con khỉ trèo cây.": {
 "mode": "long",
@@ -5449,9 +5445,9 @@
 },
 "Con ong bay.": {
 "mode": "long",
-"score": 0.667,
-"heard": "con ong váy",
-"dur": 0.7
+"score": 1.0,
+"heard": "con ong bay",
+"dur": 0.56
 },
 "Bé đọc sách.": {
 "mode": "long",
@@ -5688,7 +5684,7 @@
 "mode": "long",
 "score": 0.6,
 "heard": "sáu hồn năm pha mấy",
-"dur": 1.39
+"dur": 1.5
 },
 "bảy gồm một và mấy?": {
 "mode": "long",
@@ -5741,8 +5737,8 @@
 "tám gồm ba và mấy?": {
 "mode": "long",
 "score": 0.6,
-"heard": "tám khuông ba và mấy",
-"dur": 1.22,
+"heard": "tám cuồng bà và mấy",
+"dur": 1.28,
 "target_ok": true
 },
 "tám gồm bốn và mấy?": {
@@ -5789,9 +5785,9 @@
 },
 "chín gồm bốn và mấy?": {
 "mode": "long",
-"score": 0.6,
+"score": 0.8,
 "heard": "chín bốn và mấy",
-"dur": 1.28,
+"dur": 1.71,
 "target_ok": true
 },
 "chín gồm năm và mấy?": {
@@ -6145,8 +6141,8 @@
 "Gà trống gáy ò ó o.": {
 "mode": "long",
 "score": 0.5,
-"heard": "cà trống khái ò o",
-"dur": 1.23
+"heard": "ca trống khái ò o",
+"dur": 1.37
 },
 "chôi": {
 "mode": "short",
@@ -8244,10 +8240,11 @@
 },
 "bão": {
 "mode": "short",
-"ok": "carrier",
-"heard": "bây giờ cô đọc báo",
-"v": 2,
-"dur": 0.49
+"ok": true,
+"heard": "(giữa câu) bão",
+"v": 6,
+"dur": 0.5,
+"ms": 314
 },
 "cơn bão": {
 "mode": "short",
@@ -9727,8 +9724,8 @@
 "Rau cải xanh mơn mởn.": {
 "mode": "long",
 "score": 0.6,
-"heard": "rau cải xanh mân",
-"dur": 1.29
+"heard": "rau cải xanh mân mờn",
+"dur": 1.32
 },
 "Bé giúp ông tưới rau.": {
 "mode": "long",
@@ -9811,8 +9808,8 @@
 "Đêm rằm, ông trăng tròn.": {
 "mode": "long",
 "score": 0.6,
-"heard": "đèn rằm ôm trăng tròn",
-"dur": 1.54
+"heard": "đền rằm ôm trăng tròn",
+"dur": 1.75
 },
 "Trăng sáng khắp sân.": {
 "mode": "long",
@@ -10459,9 +10456,10 @@
 "cộng": {
 "mode": "short",
 "ok": true,
-"heard": "bây giờ cô đọc cộng nhé",
-"v": 2,
-"dur": 0.24
+"heard": "(giữa câu) cộng",
+"v": 6,
+"dur": 0.51,
+"ms": 339
 },
 "trừ": {
 "mode": "short",
@@ -10627,9 +10625,9 @@
 },
 "Chị hái hoa.": {
 "mode": "long",
-"score": 0.667,
-"heard": "chị hái hòa",
-"dur": 0.88
+"score": 1.0,
+"heard": "chị hái hoa",
+"dur": 0.39
 },
 "Em bé đang ngủ.": {
 "mode": "long",
@@ -10724,8 +10722,8 @@
 "Dung dăng dung dẻ": {
 "mode": "long",
 "score": 0.5,
-"heard": "dung dẻ",
-"dur": 1.16
+"heard": "dung sang rung dẻ",
+"dur": 1.19
 },
 "Dắt trẻ đi chơi": {
 "mode": "long",
@@ -10742,8 +10740,8 @@
 "Lạy cậu, lạy mợ": {
 "mode": "long",
 "score": 0.5,
-"heard": "lại cậu gại mợ",
-"dur": 1.16
+"heard": "lại cậu lại mợ",
+"dur": 0.67
 },
 "Cho cháu về quê": {
 "mode": "long",
@@ -10814,8 +10812,8 @@
 "Con gà ú ụ": {
 "mode": "long",
 "score": 0.5,
-"heard": "con cá ú",
-"dur": 0.84
+"heard": "con cà ú",
+"dur": 0.89
 },
 "Nhà mụ thổi xôi": {
 "mode": "long",
@@ -10831,9 +10829,9 @@
 },
 "Tay xòe chân rụt.": {
 "mode": "long",
-"score": 0.5,
-"heard": "tay xẻ chân ruột",
-"dur": 0.95
+"score": 0.75,
+"heard": "tay xòe chân ruột",
+"dur": 1.09
 },
 "Chi chi chành chành": {
 "mode": "long",
@@ -10868,8 +10866,8 @@
 "Ù à ù ập": {
 "mode": "long",
 "score": 0.25,
-"heard": "ù",
-"dur": 0.84
+"heard": "ủa à của à",
+"dur": 0.97
 },
 "Đóng sập cửa vào.": {
 "mode": "long",
@@ -11138,9 +11136,9 @@
 },
 "Nét móc xuôi, có trong chữ mờ và chữ nờ.": {
 "mode": "long",
-"score": 0.6,
-"heard": "nét xuồi có trong chữ m và chữ n",
-"dur": 2.51
+"score": 0.7,
+"heard": "nét mốc sùi có trong chữ mờ và chữ né",
+"dur": 1.97
 },
 "Nét móc ngược": {
 "mode": "short",
