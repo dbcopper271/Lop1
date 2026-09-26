@@ -1,0 +1,16 @@
+{
+  "name": "Bé Vào Lớp 1",
+  "short_name": "Bé Vào Lớp 1",
+  "description": "Học chữ cái, đánh vần, làm toán và tập tô qua trò chơi giải cứu công chúa.",
+  "lang": "vi",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#FCFCFF",
+  "theme_color": "#6B4FD8",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}

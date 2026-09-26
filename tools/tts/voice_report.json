@@ -1,0 +1,7947 @@
+{
+"cái áo": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc cái áo",
+"v": 2,
+"dur": 0.63
+},
+"á": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc á nhé",
+"v": 2,
+"dur": 0.32
+},
+"ăn cơm": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc ăn cơm",
+"v": 2,
+"dur": 0.42
+},
+"ớ": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc ớ",
+"v": 2,
+"dur": 0.44
+},
+"cái ấm": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc cái ấm",
+"v": 2,
+"dur": 0.58
+},
+"bờ": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc bờ nhé",
+"v": 2,
+"dur": 0.36
+},
+"con bò": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cuộc đọc con bò",
+"v": 2,
+"dur": 0.63
+},
+"cờ": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc cờ",
+"v": 2,
+"dur": 0.4
+},
+"con cá": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc con cá nhé",
+"v": 2,
+"dur": 0.47
+},
+"con dê": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc con dê",
+"v": 2,
+"dur": 0.4
+},
+"đờ": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc đờ",
+"v": 2,
+"dur": 0.45
+},
+"bóng đèn": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cuộc đọc bóng đèn",
+"v": 2,
+"dur": 0.63
+},
+"em bé": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc em bé nhé",
+"v": 2,
+"dur": 0.46
+},
+"con gà": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc con gà",
+"v": 2,
+"dur": 0.56
+},
+"hờ": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc hờ",
+"v": 2,
+"dur": 0.46
+},
+"bông hoa": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc bông hoa nhé",
+"v": 2,
+"dur": 0.53
+},
+"con khỉ": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc con khỉ",
+"v": 2,
+"dur": 0.52
+},
+"ca": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc ca",
+"v": 2,
+"dur": 0.38
+},
+"que kem": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc que kem",
+"v": 2,
+"dur": 0.46
+},
+"lờ": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc lờ",
+"v": 2,
+"dur": 0.44
+},
+"chiếc lá": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc chiếc lá",
+"v": 2,
+"dur": 0.69
+},
+"mờ": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc mờ",
+"v": 2,
+"dur": 0.47
+},
+"con mèo": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc con mèo",
+"v": 2,
+"dur": 0.53
+},
+"nờ": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc nờ",
+"v": 2,
+"dur": 0.48
+},
+"quả ớt": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc quả ớt",
+"v": 2,
+"dur": 0.35
+},
+"hộp quà": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc hộp quà",
+"v": 2,
+"dur": 0.64
+},
+"con rùa": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cụ đọc con rùa",
+"v": 2,
+"dur": 0.42
+},
+"ngôi sao": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc ngôi sao",
+"v": 2,
+"dur": 0.67
+},
+"tờ": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc tờ nhé",
+"v": 2,
+"dur": 0.33
+},
+"quả táo": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc quả táo",
+"v": 2,
+"dur": 0.45
+},
+"con sư tử": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc con sư tử",
+"v": 2,
+"dur": 0.71
+},
+"vờ": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc vờ",
+"v": 2,
+"dur": 0.46
+},
+"xe ô tô": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc xe ô tô",
+"v": 2,
+"dur": 0.65
+},
+"cô y tá": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc cô y tá",
+"v": 2,
+"dur": 0.64
+},
+"một": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc một",
+"v": 2,
+"dur": 0.4
+},
+"hai": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc hai nhé",
+"v": 2,
+"dur": 0.28
+},
+"bốn": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc bốn",
+"v": 2,
+"dur": 0.48
+},
+"năm": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô bọc năm",
+"v": 2,
+"dur": 0.45
+},
+"sáu": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc sáu",
+"v": 2,
+"dur": 0.47
+},
+"tám": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc tám",
+"v": 2,
+"dur": 0.46
+},
+"chín": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc chín",
+"v": 2,
+"dur": 0.47
+},
+"mười": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc mười nhé",
+"v": 2,
+"dur": 0.32
+},
+"bà": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc bà",
+"v": 2,
+"dur": 0.44
+},
+"bà ơi": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc bà ơi",
+"v": 2,
+"dur": 0.38
+},
+"Tiếng áo bắt đầu bằng chữ nào?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tiếng áo bắt đầu bằng chữ nào",
+"dur": 1.69
+},
+"Tiếng ăn bắt đầu bằng chữ nào?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tiếng ăn bắt đầu bằng chữ nào",
+"dur": 1.59
+},
+"Tiếng ấm bắt đầu bằng chữ nào?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tiếng ấm bắt đầu bằng chữ nào",
+"dur": 1.71
+},
+"Tiếng bò bắt đầu bằng chữ nào?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tiếng bò bắt đầu bằng chữ nào",
+"dur": 1.63
+},
+"Tiếng cá bắt đầu bằng chữ nào?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tiếng cá bắt đầu bằng chữ nào",
+"dur": 1.64
+},
+"Tiếng dê bắt đầu bằng chữ nào?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tiếng dê bắt đầu bằng chữ nào",
+"dur": 1.68
+},
+"Tiếng đèn bắt đầu bằng chữ nào?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tiếng đèn bắt đầu bằng chữ nào",
+"dur": 1.71
+},
+"Tiếng em bắt đầu bằng chữ nào?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tiếng em bắt đầu bằng chữ nào",
+"dur": 1.63
+},
+"Tiếng ếch bắt đầu bằng chữ nào?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tiếng ếch bắt đầu bằng chữ nào",
+"exact": true,
+"dur": 1.64
+},
+"Tiếng gà bắt đầu bằng chữ nào?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tiếng gà bắt đầu bằng chữ nào",
+"exact": true,
+"dur": 1.67
+},
+"Tiếng hoa bắt đầu bằng chữ nào?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tiếng hoa bắt đầu bằng chữ nào",
+"dur": 1.68
+},
+"Tiếng kem bắt đầu bằng chữ nào?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tiếng kem bắt đầu bằng chữ nào",
+"exact": true,
+"dur": 1.77
+},
+"Tiếng lá bắt đầu bằng chữ nào?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tiếng lá bắt đầu bằng chữ nào",
+"dur": 1.68
+},
+"Tiếng mèo bắt đầu bằng chữ nào?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tiếng mèo bắt đầu bằng chữ nào",
+"dur": 1.62
+},
+"Tiếng ong bắt đầu bằng chữ nào?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tiếng ong bắt đầu bằng chữ nào",
+"exact": true,
+"dur": 1.71
+},
+"Tiếng ô bắt đầu bằng chữ nào?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tiếng ô bắt đầu bằng chữ nào",
+"dur": 1.57
+},
+"Tiếng ớt bắt đầu bằng chữ nào?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tiếng ớt bắt đầu bằng chữ nào",
+"dur": 1.75
+},
+"Tiếng pin bắt đầu bằng chữ nào?": {
+"mode": "long",
+"score": 0.857,
+"heard": "tiếng thìn bắt đầu bằng chữ nào",
+"dur": 1.66,
+"target_ok": false
+},
+"Tiếng quà bắt đầu bằng chữ nào?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tiếng quà bắt đầu bằng chữ nào",
+"dur": 1.69
+},
+"Tiếng rùa bắt đầu bằng chữ nào?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tiếng rùa bắt đầu bằng chữ nào",
+"dur": 1.63
+},
+"Tiếng sao bắt đầu bằng chữ nào?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tiếng sao bắt đầu bằng chữ nào",
+"dur": 1.66
+},
+"Tiếng táo bắt đầu bằng chữ nào?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tiếng táo bắt đầu bằng chữ nào",
+"dur": 1.66
+},
+"Tiếng ủng bắt đầu bằng chữ nào?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tiếng ủng bắt đầu bằng chữ nào",
+"exact": true,
+"dur": 1.73
+},
+"Tiếng voi bắt đầu bằng chữ nào?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tiếng voi bắt đầu bằng chữ nào",
+"dur": 1.64
+},
+"Tiếng xe bắt đầu bằng chữ nào?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tiếng xe bắt đầu bằng chữ nào",
+"dur": 1.63
+},
+"Tiếng y bắt đầu bằng chữ nào?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tiếng y bắt đầu bằng chữ nào",
+"dur": 1.53
+},
+"một cộng một bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "một cộng một bằng mấy",
+"dur": 1.22
+},
+"một cộng hai bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "một cộng hai bằng mấy",
+"dur": 1.33
+},
+"một cộng ba bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "một cộng ba bằng mấy",
+"dur": 1.6
+},
+"một cộng bốn bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "một cộng bốn bằng mấy",
+"dur": 1.33
+},
+"một cộng năm bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "một cộng năm bằng mấy",
+"dur": 1.29
+},
+"một cộng sáu bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "một cộng sáu bằng mấy",
+"dur": 1.24
+},
+"một cộng bảy bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "một cộng bảy bằng mấy",
+"dur": 1.23
+},
+"một cộng tám bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "một cộng tám bằng mấy",
+"dur": 1.21
+},
+"một cộng chín bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "một cộng chín bằng mấy",
+"exact": true,
+"dur": 1.34
+},
+"hai cộng một bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "hai cộng một bằng mấy",
+"dur": 1.3
+},
+"hai cộng hai bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "hai cộng hai bằng mấy",
+"dur": 1.26
+},
+"hai cộng ba bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "hai cộng ba bằng mấy",
+"dur": 1.18
+},
+"hai cộng bốn bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "hai cộng bốn bằng mấy",
+"dur": 1.29
+},
+"hai cộng năm bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "hai cộng năm bằng mấy",
+"dur": 1.28
+},
+"hai cộng sáu bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "hai cộng sáu bằng mấy",
+"dur": 1.4
+},
+"hai cộng bảy bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "hai cộng bảy bằng mấy",
+"dur": 1.27
+},
+"hai cộng tám bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "hai cộng tám bằng mấy",
+"dur": 1.29
+},
+"ba cộng một bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "ba cộng một bằng mấy",
+"dur": 1.15
+},
+"ba cộng hai bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "ba cộng hai bằng mấy",
+"dur": 1.27
+},
+"ba cộng ba bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "ba cộng ba bằng mấy",
+"dur": 1.21
+},
+"ba cộng bốn bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "ba cộng bốn bằng mấy",
+"dur": 1.24
+},
+"ba cộng năm bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "ba cộng năm bằng mấy",
+"dur": 1.25
+},
+"ba cộng sáu bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "ba cộng sáu bằng mấy",
+"dur": 1.28
+},
+"ba cộng bảy bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "ba cộng bảy bằng mấy",
+"dur": 1.29
+},
+"bốn cộng một bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "bốn cộng một bằng mấy",
+"dur": 1.25
+},
+"bốn cộng hai bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "bốn cộng hai bằng mấy",
+"dur": 1.27
+},
+"bốn cộng ba bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "bốn cộng ba bằng mấy",
+"dur": 1.28
+},
+"bốn cộng bốn bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "bốn cộng bốn bằng mấy",
+"dur": 1.34
+},
+"bốn cộng năm bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "bốn cộng năm bằng mấy",
+"dur": 1.31
+},
+"bốn cộng sáu bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "bốn cộng sáu bằng mấy",
+"dur": 1.36
+},
+"năm cộng một bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "năm cộng một bằng mấy",
+"dur": 1.27
+},
+"năm cộng hai bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "năm cộng hai bằng mấy",
+"dur": 1.32
+},
+"năm cộng ba bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "năm cộng ba bằng mấy",
+"dur": 1.62
+},
+"năm cộng bốn bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "năm cộng bốn bằng mấy",
+"dur": 1.27
+},
+"năm cộng năm bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "năm cộng năm bằng mấy",
+"dur": 1.37
+},
+"sáu cộng một bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "sáu cộng một bằng mấy",
+"dur": 1.33
+},
+"sáu cộng hai bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "sáu cộng hai bằng mấy",
+"dur": 1.39
+},
+"sáu cộng ba bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "sáu cộng ba bằng mấy",
+"dur": 1.22
+},
+"sáu cộng bốn bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "sáu cộng bốn bằng mấy",
+"dur": 1.33
+},
+"bảy cộng một bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "bảy cộng một bằng mấy",
+"dur": 1.19
+},
+"bảy cộng hai bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "bảy cộng hai bằng mấy",
+"dur": 1.25
+},
+"bảy cộng ba bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "bảy cộng ba bằng mấy",
+"dur": 1.29
+},
+"tám cộng một bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tám cộng một bằng mấy",
+"dur": 1.23
+},
+"tám cộng hai bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tám cộng hai bằng mấy",
+"dur": 1.36
+},
+"chín cộng một bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "chín cộng một bằng mấy",
+"dur": 1.25
+},
+"hai trừ một bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "hai trừ một bằng mấy",
+"dur": 1.29
+},
+"hai trừ hai bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "hai trừ hai bằng mấy",
+"dur": 1.15
+},
+"ba trừ một bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "ba trừ một bằng mấy",
+"dur": 1.16
+},
+"ba trừ hai bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "ba trừ hai bằng mấy",
+"dur": 1.16
+},
+"ba trừ ba bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "ba trừ ba bằng mấy",
+"dur": 1.15
+},
+"bốn trừ một bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "bốn trừ một bằng mấy",
+"dur": 1.26
+},
+"bốn trừ hai bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "bốn trừ hai bằng mấy",
+"dur": 1.23
+},
+"bốn trừ ba bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "bốn trừ ba bằng mấy",
+"dur": 1.18
+},
+"bốn trừ bốn bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "bốn trừ bốn bằng mấy",
+"dur": 1.33
+},
+"năm trừ một bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "năm trừ một bằng mấy",
+"dur": 1.25
+},
+"năm trừ hai bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "năm trừ hai bằng mấy",
+"dur": 1.24
+},
+"năm trừ ba bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "năm trừ ba bằng mấy",
+"dur": 1.12
+},
+"năm trừ bốn bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "năm trừ bốn bằng mấy",
+"dur": 1.32
+},
+"năm trừ năm bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "năm trừ năm bằng mấy",
+"dur": 1.3
+},
+"sáu trừ một bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "sáu trừ một bằng mấy",
+"dur": 1.34
+},
+"sáu trừ hai bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "sáu trừ hai bằng mấy",
+"dur": 1.33
+},
+"sáu trừ ba bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "sáu trừ ba bằng mấy",
+"dur": 1.27
+},
+"sáu trừ bốn bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "sáu trừ bốn bằng mấy",
+"dur": 1.35
+},
+"sáu trừ năm bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "sáu trừ năm bằng mấy",
+"dur": 1.35
+},
+"sáu trừ sáu bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "sáu trừ sáu bằng mấy",
+"dur": 1.39
+},
+"bảy trừ một bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "bảy trừ một bằng mấy",
+"dur": 1.23
+},
+"bảy trừ hai bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "bảy trừ hai bằng mấy",
+"dur": 1.21
+},
+"bảy trừ ba bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "bảy trừ ba bằng mấy",
+"dur": 1.16
+},
+"bảy trừ bốn bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "bảy trừ bốn bằng mấy",
+"dur": 1.26
+},
+"bảy trừ năm bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "bảy trừ năm bằng mấy",
+"dur": 1.22
+},
+"bảy trừ sáu bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "bảy trừ sáu bằng mấy",
+"dur": 1.28
+},
+"bảy trừ bảy bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "bảy trừ bảy bằng mấy",
+"dur": 1.3
+},
+"tám trừ một bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tám trừ một bằng mấy",
+"dur": 1.23
+},
+"tám trừ hai bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tám trừ hai bằng mấy",
+"dur": 1.22
+},
+"tám trừ ba bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tám trừ ba bằng mấy",
+"dur": 1.12
+},
+"tám trừ bốn bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tám trừ bốn bằng mấy",
+"dur": 1.28
+},
+"tám trừ năm bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tám trừ năm bằng mấy",
+"dur": 1.29
+},
+"tám trừ sáu bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tám trừ sáu bằng mấy",
+"dur": 1.36
+},
+"tám trừ bảy bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tám trừ bảy bằng mấy",
+"dur": 1.23
+},
+"tám trừ tám bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tám trừ tám bằng mấy",
+"dur": 1.27
+},
+"chín trừ một bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "chín trừ một bằng mấy",
+"dur": 1.29
+},
+"chín trừ hai bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "chín trừ hai bằng mấy",
+"dur": 1.25
+},
+"chín trừ ba bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "chín trừ ba bằng mấy",
+"dur": 1.21
+},
+"chín trừ bốn bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "chín trừ bốn bằng mấy",
+"dur": 1.35
+},
+"chín trừ năm bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "chín trừ năm bằng mấy",
+"dur": 1.31
+},
+"chín trừ sáu bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "chín trừ sáu bằng mấy",
+"dur": 1.33
+},
+"chín trừ bảy bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "chín trừ bảy bằng mấy",
+"dur": 1.32
+},
+"chín trừ tám bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "chín trừ tám bằng mấy",
+"dur": 1.35
+},
+"chín trừ chín bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "chín trừ chín bằng mấy",
+"dur": 1.37
+},
+"mười trừ một bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "mười trừ một bằng mấy",
+"dur": 1.3
+},
+"mười trừ hai bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "mười trừ hai bằng mấy",
+"dur": 1.29
+},
+"mười trừ ba bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "mười trừ ba bằng mấy",
+"dur": 1.25
+},
+"mười trừ bốn bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "mười trừ bốn bằng mấy",
+"dur": 1.45
+},
+"mười trừ năm bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "mười trừ năm bằng mấy",
+"dur": 1.25
+},
+"mười trừ sáu bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "mười trừ sáu bằng mấy",
+"dur": 1.37
+},
+"mười trừ bảy bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "mười trừ bảy bằng mấy",
+"dur": 1.42
+},
+"mười trừ tám bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "mười trừ tám bằng mấy",
+"dur": 1.41
+},
+"mười trừ chín bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "mười trừ chín bằng mấy",
+"dur": 1.41
+},
+"mười trừ mười bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "mười trừ mười bằng mấy",
+"exact": true,
+"dur": 1.39
+},
+"Có bao nhiêu quả táo?": {
+"mode": "long",
+"score": 1.0,
+"heard": "có bao nhiêu quả táo",
+"dur": 1.31
+},
+"Có bao nhiêu con cá?": {
+"mode": "long",
+"score": 1.0,
+"heard": "có bao nhiêu con cá",
+"dur": 1.3
+},
+"Có bao nhiêu bông hoa?": {
+"mode": "long",
+"score": 1.0,
+"heard": "có bao nhiêu bông hoa",
+"dur": 1.09
+},
+"Có bao nhiêu ngôi sao?": {
+"mode": "long",
+"score": 1.0,
+"heard": "có bao nhiêu ngôi sao",
+"dur": 1.19
+},
+"Có bao nhiêu chú gà con?": {
+"mode": "long",
+"score": 0.833,
+"heard": "có bao nhiêu chú kha con",
+"dur": 1.48
+},
+"Có bao nhiêu quả bóng bay?": {
+"mode": "long",
+"score": 1.0,
+"heard": "có bao nhiêu quả bóng bay",
+"dur": 1.39
+},
+"Có bao nhiêu quả dâu?": {
+"mode": "long",
+"score": 1.0,
+"heard": "có bao nhiêu quả dâu",
+"dur": 1.24
+},
+"Có bao nhiêu chiếc xe?": {
+"mode": "long",
+"score": 1.0,
+"heard": "có bao nhiêu chiếc xe",
+"dur": 1.17
+},
+"Có bao nhiêu con bọ rùa?": {
+"mode": "long",
+"score": 1.0,
+"heard": "có bao nhiêu con bọ rùa",
+"dur": 1.43
+},
+"Có bao nhiêu quả chuối?": {
+"mode": "long",
+"score": 1.0,
+"heard": "có bao nhiêu quả chuối",
+"dur": 1.28
+},
+"Có bao nhiêu con bướm?": {
+"mode": "long",
+"score": 1.0,
+"heard": "có bao nhiêu con bướm",
+"dur": 1.21
+},
+"Có bao nhiêu con rùa?": {
+"mode": "long",
+"score": 1.0,
+"heard": "có bao nhiêu con rùa",
+"dur": 1.25
+},
+"bố": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc bố nhé",
+"v": 2,
+"dur": 0.35
+},
+"mẹ": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc mẹ",
+"v": 2,
+"dur": 0.42
+},
+"mẹ ơi": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc mẹ ơi",
+"v": 2,
+"dur": 0.38
+},
+"bé": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc bé",
+"v": 2,
+"dur": 0.52
+},
+"cá": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc cá",
+"v": 2,
+"dur": 0.49
+},
+"hổ": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc hổ",
+"v": 2,
+"dur": 0.45
+},
+"con hổ": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc con hổ",
+"v": 2,
+"dur": 0.54
+},
+"lá": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc lá",
+"v": 2,
+"dur": 0.54
+},
+"xe": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc xe",
+"v": 2,
+"dur": 0.4
+},
+"lê": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc lê",
+"v": 2,
+"dur": 0.48
+},
+"quả lê": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc quả lê",
+"v": 2,
+"dur": 0.59
+},
+"mũ": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc mũ",
+"v": 2,
+"dur": 0.43
+},
+"cái mũ": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc cái mũ",
+"v": 2,
+"dur": 0.58
+},
+"cái dù": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc cái dù nhé",
+"v": 2,
+"dur": 0.46
+},
+"lá cờ": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc lá cờ",
+"v": 2,
+"dur": 0.68
+},
+"nơ": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc nơ",
+"v": 2,
+"dur": 0.43
+},
+"rổ": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc rồi",
+"v": 2,
+"dur": 0.41
+},
+"đá": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc đá",
+"v": 2,
+"dur": 0.51
+},
+"cục đá": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc cục đá",
+"v": 2,
+"dur": 0.65
+},
+"vẽ tranh": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc vẽ tranh",
+"v": 2,
+"dur": 0.62
+},
+"mèo": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc mèo",
+"v": 2,
+"dur": 0.43
+},
+"sao": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc sao",
+"v": 2,
+"dur": 0.43
+},
+"tao": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc tao nhé",
+"v": 2,
+"dur": 0.34
+},
+"táo": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc táo",
+"v": 2,
+"dur": 0.46
+},
+"cái kẹo": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc cái kẹo nhé",
+"v": 2,
+"dur": 0.28
+},
+"củ tỏi": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cuộc đọc củ tỏi",
+"v": 2,
+"dur": 0.4
+},
+"sữa": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc sữa",
+"v": 2,
+"dur": 0.41
+},
+"hộp sữa": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc hộp sữa",
+"v": 2,
+"dur": 0.63
+},
+"lửa": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc lửa",
+"v": 2,
+"dur": 0.48
+},
+"ngọn lửa": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc ngọn lửa",
+"v": 2,
+"dur": 0.68
+},
+"trời mưa": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc trời mưa",
+"v": 2,
+"dur": 0.62
+},
+"cua": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc cuối",
+"v": 2,
+"dur": 0.36
+},
+"con cua": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc con cua",
+"v": 2,
+"dur": 0.4
+},
+"rùa": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc rùa",
+"v": 2,
+"dur": 0.46
+},
+"dưa": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc dưa",
+"v": 2,
+"dur": 0.42
+},
+"quả dừa": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc quả dừa nhé",
+"v": 2,
+"dur": 0.33
+},
+"con cáo": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc con cáo nhé",
+"v": 2,
+"dur": 0.57
+},
+"tàu": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc tàu",
+"v": 2,
+"dur": 0.43
+},
+"con tàu": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc con tàu",
+"v": 2,
+"dur": 0.57
+},
+"rau xanh": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc rau xanh",
+"v": 2,
+"dur": 0.62
+},
+"cam": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc cam",
+"v": 2,
+"dur": 0.4
+},
+"quả cam": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc quả cam",
+"v": 2,
+"dur": 0.66
+},
+"nấm": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc nấm",
+"v": 2,
+"dur": 0.48
+},
+"cây nấm": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc cây nấm",
+"v": 2,
+"dur": 0.49
+},
+"âu": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc âu nhé",
+"v": 2,
+"dur": 0.3
+},
+"con gấu": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc con gấu nhé",
+"v": 2,
+"dur": 0.31
+},
+"con lợn": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc con lợn",
+"v": 2,
+"dur": 0.52
+},
+"đèn": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc đèn",
+"v": 2,
+"dur": 0.43
+},
+"tay": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc tay",
+"v": 2,
+"dur": 0.38
+},
+"bàn tay": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc bàn tay",
+"v": 2,
+"dur": 0.62
+},
+"túi": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc túi",
+"v": 2,
+"dur": 0.43
+},
+"cái túi": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc cái túi",
+"v": 2,
+"dur": 0.62
+},
+"cây": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc cây nhé",
+"v": 2,
+"dur": 0.27
+},
+"cái cây": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc cái cây",
+"v": 2,
+"dur": 0.59
+},
+"đám mây": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc đám mây",
+"v": 2,
+"dur": 0.67
+},
+"cơm": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc cơm",
+"v": 2,
+"dur": 0.46
+},
+"em": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc em nhé",
+"v": 2,
+"dur": 0.3
+},
+"kem": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc kem nhé",
+"v": 2,
+"dur": 0.34
+},
+"huyền": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc huyền",
+"v": 2,
+"dur": 0.4
+},
+"hỏi": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc hỏi",
+"v": 2,
+"dur": 0.46
+},
+"ngã": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc ngã",
+"v": 2,
+"dur": 0.45
+},
+"nặng": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc nặng nhé",
+"v": 2,
+"dur": 0.33
+},
+"Đâu là chữ in hoa của chữ này?": {
+"mode": "long",
+"score": 1.0,
+"heard": "đâu là chữ in hoa của chữ này",
+"exact": true,
+"dur": 1.71
+},
+"Đâu là chữ in thường của chữ này?": {
+"mode": "long",
+"score": 1.0,
+"heard": "đâu là chữ in thường của chữ này",
+"dur": 1.76
+},
+"Bé chạm vào từng hình để đếm nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé chạm vào từng hình để đếm nhé",
+"dur": 2.02
+},
+"Bên nào nhiều hơn?": {
+"mode": "long",
+"score": 1.0,
+"heard": "bên nào nhiều hơn",
+"dur": 1.0
+},
+"Bên nào ít hơn?": {
+"mode": "long",
+"score": 1.0,
+"heard": "bên nào ít hơn",
+"dur": 0.96
+},
+"Số nào lớn hơn?": {
+"mode": "long",
+"score": 1.0,
+"heard": "số nào lớn hơn",
+"dur": 1.06
+},
+"Số nào bé hơn?": {
+"mode": "long",
+"score": 1.0,
+"heard": "số nào bé hơn",
+"dur": 1.09
+},
+"Số nào còn thiếu?": {
+"mode": "long",
+"score": 1.0,
+"heard": "số nào còn thiếu",
+"dur": 1.27
+},
+"Cùng đánh vần nào!": {
+"mode": "long",
+"score": 0.75,
+"heard": "cùng đánh phần nào",
+"dur": 1.07
+},
+"Bây giờ bé tự ghép nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bây giờ bé tự ghép nhé",
+"exact": true,
+"dur": 1.58
+},
+"Bé dùng ngón tay tô theo nét chấm nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé dùng ngón tay tô theo nét chấm nhé",
+"dur": 2.15
+},
+"Bé tô sát vào nét chữ nhé. Mình xóa rồi tô lại nào.": {
+"mode": "long",
+"score": 0.923,
+"heard": "bé tô sắt vào nét chữ nhé mình xóa rồi tô lại nào",
+"dur": 3.0
+},
+"Sắp xong rồi, bé tô thêm chút nữa nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "sắp xong rồi bé tô thêm chút nữa nhé",
+"dur": 2.3
+},
+"Bé đã vượt qua màn chơi!": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé đã vượt qua màn chơi",
+"dur": 1.41
+},
+"Chưa đủ sức mạnh rồi. Bé đi luyện tập thêm nhé!": {
+"mode": "long",
+"score": 1.0,
+"heard": "chưa đủ sức mạnh rồi bé đi luyện tập thêm nhé",
+"dur": 2.36
+},
+"Bé đã đủ sức mạnh để vượt thử thách rồi!": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé đã đủ sức mạnh để vượt thử thách rồi",
+"dur": 2.42
+},
+"Màn này còn khóa. Bé vượt qua màn trước nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "màn này còn khóa bé vượt qua màn trước nhé",
+"exact": true,
+"dur": 2.6
+},
+"Vùng đất này còn khóa. Bé đánh bại quái vật ở vùng trước nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "vùng đất này còn khóa bé đánh bại quái vật ở vùng trước nhé",
+"dur": 3.3
+},
+"Đi tiếp nào!": {
+"mode": "long",
+"score": 1.0,
+"heard": "đi tiếp nào",
+"dur": 0.8
+},
+"Lên đường nào!": {
+"mode": "long",
+"score": 1.0,
+"heard": "lên đường nào",
+"dur": 0.85
+},
+"Bắt đầu nào!": {
+"mode": "long",
+"score": 1.0,
+"heard": "bắt đầu nào",
+"dur": 0.78
+},
+"Luyện tập để có thêm sức mạnh nhé! Bé chọn một bài luyện nào.": {
+"mode": "long",
+"score": 1.0,
+"heard": "luyện tập để có thêm sức mạnh nhé bé chọn một bài luyện nào",
+"dur": 3.29
+},
+"Bé được thêm sức mạnh rồi!": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé được thêm sức mạnh rồi",
+"dur": 1.52
+},
+"Tuyệt vời! Bé được thêm một bông hoa điểm tốt!": {
+"mode": "long",
+"score": 1.0,
+"heard": "tuyệt vời bé được thêm một bông hoa điểm tốt",
+"dur": 2.12
+},
+"Bé chạm vào chữ để nghe nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé chạm vào chữ để nghe nhé",
+"dur": 1.71
+},
+"Bé chạm vào một tiếng để nghe cô đánh vần nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé chạm vào một tiếng để nghe cô đánh vần nhé",
+"dur": 2.49
+},
+"Xin chào bé! Mình cùng học nhé.": {
+"mode": "long",
+"score": 0.857,
+"heard": "xin chào bé minh cùng học nhé",
+"dur": 1.87
+},
+"Ở Vương quốc Ô Li, Quái vật Tẩy đã bắt cóc Công chúa Chữ. Muốn cứu công chúa, bé cần thật nhiều sức mạnh. Bé hãy luyện tập chữ cái, đánh vần và tính toán để có sức mạnh, rồi vượt qua thử thách ở năm vùng đất nhé!": {
+"mode": "long",
+"score": 1.0,
+"heard": "ở vương quốc ô li quái vật tẩy đã bắt cóc công chúa chữ muốn cứu công chúa bé cần thật nhiều sức mạnh bé hãy luyện tập chữ cái đánh vần và tính toán để có sức mạnh rồi vượt qua thử thách ở năm vùng đất nhé",
+"exact": true,
+"dur": 11.47
+},
+"Giỏi quá, bé ơi!": {
+"mode": "long",
+"score": 1.0,
+"heard": "giỏi quá bé ơi",
+"dur": 1.21
+},
+"Đúng rồi, bé giỏi lắm!": {
+"mode": "long",
+"score": 1.0,
+"heard": "đúng rồi bé giỏi lắm",
+"dur": 1.48
+},
+"Tuyệt vời, bé làm tốt lắm!": {
+"mode": "long",
+"score": 1.0,
+"heard": "tuyệt vời bé làm tốt lắm",
+"dur": 1.73
+},
+"Chính xác, bé thông minh quá!": {
+"mode": "long",
+"score": 1.0,
+"heard": "chính xác bé thông minh quá",
+"dur": 1.68
+},
+"Chưa đúng rồi, bé thử lại nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "chưa đúng rồi bé thử lại nhé",
+"dur": 2.05
+},
+"Chưa phải rồi, mình chọn lại nào.": {
+"mode": "long",
+"score": 0.857,
+"heard": "chưa phải rồi mình chọn loại nào",
+"dur": 2.03
+},
+"Bé chọn âm đầu nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé chọn âm đầu nhé",
+"dur": 1.31
+},
+"Bé chọn vần nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé chọn vần nhé",
+"dur": 1.15
+},
+"Bé chọn dấu thanh nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé chọn dấu thanh nhé",
+"exact": true,
+"dur": 1.29
+},
+"Bé được một ngôi sao!": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé được một ngôi sao",
+"dur": 1.13
+},
+"Bé được hai ngôi sao!": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé được hai ngôi sao",
+"dur": 1.23
+},
+"Bé được ba ngôi sao!": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé được ba ngôi sao",
+"dur": 1.2
+},
+"Luyện chữ cái nào!": {
+"mode": "long",
+"score": 1.0,
+"heard": "luyện chữ cái nào",
+"dur": 1.06
+},
+"Luyện đánh vần nào!": {
+"mode": "long",
+"score": 0.75,
+"heard": "luyện đánh phần nào",
+"dur": 1.12
+},
+"Luyện tính toán nào!": {
+"mode": "long",
+"score": 1.0,
+"heard": "luyện tính toán nào",
+"dur": 1.15
+},
+"Luyện viết chữ nào!": {
+"mode": "long",
+"score": 1.0,
+"heard": "luyện viết chữ nào",
+"dur": 1.02
+},
+"Làng Ô Li bị Tẩy Con Hồng quấy phá. Bé học nguyên âm và đếm số để cứu làng nhé!": {
+"mode": "long",
+"score": 1.0,
+"heard": "làng ô li bị tẩy con hồng quấy phá bé học nguyên âm và đếm số để cứu làng nhé",
+"exact": true,
+"dur": 4.75
+},
+"Tẩy Con Hồng xuất hiện rồi! Bé trả lời đúng để đánh bại nó nhé!": {
+"mode": "long",
+"score": 1.0,
+"heard": "tẩy con hồng xuất hiện rồi bé trả lời đúng để đánh bại nó nhé",
+"dur": 3.21
+},
+"Bé đã đuổi được Tẩy Con Hồng! Làng Ô Li vui trở lại.": {
+"mode": "long",
+"score": 0.846,
+"heard": "bé đã đuổi được tẩy con hồng làng ô livu trở lại",
+"dur": 2.78
+},
+"Trong Rừng Phụ Âm, các chữ cái đang trốn. Bé tìm phụ âm và so sánh nhiều ít nhé!": {
+"mode": "long",
+"score": 1.0,
+"heard": "trong rừng phụ âm các chữ cái đang trốn bé tìm phụ âm và so sánh nhiều ít nhé",
+"dur": 4.47
+},
+"Tẩy Con Xanh xuất hiện rồi! Bé trả lời đúng để đánh bại nó nhé!": {
+"mode": "long",
+"score": 1.0,
+"heard": "tẩy con xanh xuất hiện rồi bé trả lời đúng để đánh bại nó nhé",
+"dur": 3.35
+},
+"Rừng Phụ Âm đã sáng trở lại!": {
+"mode": "long",
+"score": 1.0,
+"heard": "rừng phụ âm đã sáng trở lại",
+"dur": 1.63
+},
+"Qua Suối Đánh Vần, bé ghép âm đầu, vần và dấu thanh thành tiếng nhé!": {
+"mode": "long",
+"score": 0.933,
+"heard": "qua suối đánh vần bé khép âm đầu vần và dấu thanh thành tiếng nhé",
+"dur": 3.79
+},
+"Tẩy Con Nước xuất hiện rồi! Bé trả lời đúng để đánh bại nó nhé!": {
+"mode": "long",
+"score": 1.0,
+"heard": "tẩy con nước xuất hiện rồi bé trả lời đúng để đánh bại nó nhé",
+"dur": 3.33
+},
+"Tẩy Con Đá xuất hiện rồi! Bé trả lời đúng để đánh bại nó nhé!": {
+"mode": "long",
+"score": 1.0,
+"heard": "tẩy con đá xuất hiện rồi bé trả lời đúng để đánh bại nó nhé",
+"dur": 3.38
+},
+"Bé đã chinh phục Núi Phép Tính!": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé đã chinh phục núi phép tính",
+"dur": 1.64
+},
+"Đây là lâu đài của Quái vật Tẩy. Bé dùng hết sức mạnh để cứu Công chúa Chữ nhé!": {
+"mode": "long",
+"score": 1.0,
+"heard": "đây là lâu đài của quái vật tẩy bé dùng hết sức mạnh để cứu công chúa chữ nhé",
+"dur": 4.28
+},
+"Quái vật Tẩy xuất hiện rồi! Trận cuối, cố lên bé ơi!": {
+"mode": "long",
+"score": 1.0,
+"heard": "quái vật tẩy xuất hiện rồi trận cuối cố lên bé ơi",
+"dur": 2.92
+},
+"a": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc cái",
+"v": 2,
+"dur": 0.39
+},
+"dờ": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc giờ",
+"v": 2,
+"dur": 0.48
+},
+"e": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc e",
+"v": 2,
+"dur": 0.41
+},
+"ê": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc ê",
+"v": 2,
+"dur": 0.41
+},
+"con ếch": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc con ít",
+"v": 2,
+"dur": 0.55
+},
+"gờ": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc gờ nhé",
+"v": 2,
+"dur": 0.38
+},
+"i": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc kì",
+"v": 2,
+"dur": 0.35
+},
+"o": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc o nhé",
+"v": 2,
+"dur": 0.28
+},
+"con ong": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc con ong nhé",
+"v": 2,
+"dur": 0.5
+},
+"ô": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc ốm",
+"v": 2,
+"dur": 0.43
+},
+"cái ô": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc cái ô",
+"v": 2,
+"dur": 0.6
+},
+"ơ": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc ở",
+"v": 2,
+"dur": 0.44
+},
+"pờ": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc tờ",
+"v": 2,
+"dur": 0.44
+},
+"cục pin": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc cục",
+"v": 2,
+"dur": 0.59
+},
+"quờ": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc ờ",
+"v": 2,
+"dur": 0.37
+},
+"rờ": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc giờ",
+"v": 2,
+"dur": 0.42
+},
+"sờ": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc giờ",
+"v": 2,
+"dur": 0.4
+},
+"u": {
+"mode": "short",
+"ok": false,
+"heard": "",
+"v": 2,
+"dur": 0.37
+},
+"đôi ủng": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc ủng",
+"v": 2,
+"dur": 0.4
+},
+"ư": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc ư nhé",
+"v": 2,
+"dur": 0.28
+},
+"con voi": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc con voi nhé",
+"v": 2,
+"dur": 0.33
+},
+"xờ": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc giờ",
+"v": 2,
+"dur": 0.43
+},
+"i dài": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc y dài",
+"v": 2,
+"dur": 0.54
+},
+"không": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc không nhé",
+"v": 2,
+"dur": 0.32
+},
+"ba": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc bàn",
+"v": 2,
+"dur": 0.42
+},
+"bảy": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc bảy nhé",
+"v": 2,
+"dur": 0.3
+},
+"bô": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc bố",
+"v": 2,
+"dur": 0.39
+},
+"bố ơi": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đặc bố ơi",
+"v": 2,
+"dur": 0.37
+},
+"me": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc nè",
+"v": 2,
+"dur": 0.43
+},
+"be": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc bè",
+"v": 2,
+"dur": 0.41
+},
+"ga": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc à",
+"v": 2,
+"dur": 0.38
+},
+"gà": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc à",
+"v": 2,
+"dur": 0.45
+},
+"bo": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc bo nhé",
+"v": 2,
+"dur": 0.38
+},
+"bò": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc bò nhé",
+"v": 2,
+"dur": 0.35
+},
+"dê": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc gì",
+"v": 2,
+"dur": 0.43
+},
+"hô": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc hồ",
+"v": 2,
+"dur": 0.42
+},
+"la": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc lại",
+"v": 2,
+"dur": 0.43
+},
+"mu": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc mồ",
+"v": 2,
+"dur": 0.38
+},
+"du": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc giùm",
+"v": 2,
+"dur": 0.37
+},
+"dù": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc dù nhé",
+"v": 2,
+"dur": 0.31
+},
+"cơ": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc cờ",
+"v": 2,
+"dur": 0.39
+},
+"cái nơ": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc cái nơ nhé",
+"v": 2,
+"dur": 0.32
+},
+"rô": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc rồi",
+"v": 2,
+"dur": 0.4
+},
+"cái rổ": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc cái rồi",
+"v": 2,
+"dur": 0.57
+},
+"đa": {
+"mode": "short",
+"ok": false,
+"heard": "",
+"v": 2,
+"dur": 0.44
+},
+"ve": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc vé",
+"v": 2,
+"dur": 0.43
+},
+"vẽ": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc vẽ nhé",
+"v": 2,
+"dur": 0.33
+},
+"eo": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc cái áo",
+"v": 2,
+"dur": 0.48
+},
+"meo": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc nào",
+"v": 2,
+"dur": 0.45
+},
+"oi": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc rồi",
+"v": 2,
+"dur": 0.45
+},
+"voi": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc vào",
+"v": 2,
+"dur": 0.44
+},
+"ao": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc ao nhé",
+"v": 2,
+"dur": 0.27
+},
+"oa": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc quá",
+"v": 2,
+"dur": 0.41
+},
+"hoa": {
+"mode": "short",
+"ok": false,
+"heard": "",
+"v": 2,
+"dur": 0.41
+},
+"keo": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc à",
+"v": 2,
+"dur": 0.44
+},
+"kẹo": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc kẹo nhé",
+"v": 2,
+"dur": 0.31
+},
+"toi": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc tòi",
+"v": 2,
+"dur": 0.45
+},
+"tỏi": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc tỏi nhé",
+"v": 2,
+"dur": 0.31
+},
+"ưa": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc ưa nhé",
+"v": 2,
+"dur": 0.39
+},
+"sưa": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc xưa",
+"v": 2,
+"dur": 0.4
+},
+"lưa": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc lư",
+"v": 2,
+"dur": 0.44
+},
+"mưa": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc mưa nhé",
+"v": 2,
+"dur": 0.49
+},
+"ua": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc ua",
+"v": 2,
+"dur": 0.41
+},
+"rua": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc dù",
+"v": 2,
+"dur": 0.43
+},
+"dừa": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đi học dừa nhé",
+"v": 2,
+"dur": 0.34
+},
+"cao": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc cao nhé",
+"v": 2,
+"dur": 0.28
+},
+"cáo": {
+"mode": "short",
+"ok": false,
+"heard": "",
+"v": 2,
+"dur": 0.45
+},
+"au": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc à",
+"v": 2,
+"dur": 0.46
+},
+"tau": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc tàu",
+"v": 2,
+"dur": 0.38
+},
+"rau": {
+"mode": "short",
+"ok": false,
+"heard": "",
+"v": 2,
+"dur": 0.45
+},
+"am": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc am nhé",
+"v": 2,
+"dur": 0.28
+},
+"ôm": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc gồm",
+"v": 2,
+"dur": 0.44
+},
+"tôm": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc tóm",
+"v": 2,
+"dur": 0.42
+},
+"con tôm": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc con tôm",
+"v": 2,
+"dur": 0.67
+},
+"âm": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc âm nhé",
+"v": 2,
+"dur": 0.33
+},
+"nâm": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc năm",
+"v": 2,
+"dur": 0.48
+},
+"gâu": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc không",
+"v": 2,
+"dur": 0.38
+},
+"gấu": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc gấu nhé",
+"v": 2,
+"dur": 0.3
+},
+"ơn": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc ớn",
+"v": 2,
+"dur": 0.45
+},
+"lơn": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc lớn",
+"v": 2,
+"dur": 0.47
+},
+"lợn": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc giườn",
+"v": 2,
+"dur": 0.42
+},
+"en": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc tén",
+"v": 2,
+"dur": 0.45
+},
+"đen": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc đến",
+"v": 2,
+"dur": 0.48
+},
+"ay": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc này",
+"v": 2,
+"dur": 0.34
+},
+"ui": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc qui",
+"v": 2,
+"dur": 0.39
+},
+"tui": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc tui nhé",
+"v": 2,
+"dur": 0.32
+},
+"ây": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc ơi",
+"v": 2,
+"dur": 0.43
+},
+"mây": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc mấy",
+"v": 2,
+"dur": 0.41
+},
+"ơm": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc ơm",
+"v": 2,
+"dur": 0.46
+},
+"bát cơm": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc bát cờ",
+"v": 2,
+"dur": 0.63
+},
+"sắc": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc xác",
+"v": 2,
+"dur": 0.36
+},
+"i ngắn": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc ý ngắn",
+"v": 2,
+"dur": 0.58
+},
+"Tiếng nơ bắt đầu bằng chữ nào?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tiếng nơ bắt đầu bằng chữ nào",
+"exact": true,
+"dur": 1.55
+},
+"Bé tô theo nét chấm nhé.": {
+"mode": "long",
+"score": 0.833,
+"heard": "bé tô nét chấm nhé",
+"dur": 1.49
+},
+"Bé hãy tìm chữ ghi âm a nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy tìm chữ ghi âm a nhé",
+"dur": 1.89
+},
+"Bé hãy tìm chữ ghi âm á nhé.": {
+"mode": "long",
+"score": 0.875,
+"heard": "bé hãy tìm chữ khi âm á nhé",
+"dur": 1.85,
+"target_ok": true
+},
+"Bé hãy tìm chữ ghi âm ớ nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy tìm chữ ghi âm ớ nhé",
+"dur": 2.0
+},
+"Bé hãy tìm chữ ghi âm bờ nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy tìm chữ ghi âm bờ nhé",
+"dur": 1.92
+},
+"Bé hãy tìm chữ ghi âm cờ nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy tìm chữ ghi âm cờ nhé",
+"dur": 2.02
+},
+"Bé hãy tìm chữ ghi âm dờ nhé.": {
+"mode": "long",
+"score": 0.875,
+"heard": "bé hãy tìm chữ ghi âm giờ nhé",
+"dur": 1.97,
+"target_ok": false
+},
+"Bé hãy tìm chữ ghi âm đờ nhé.": {
+"mode": "long",
+"score": 0.875,
+"heard": "bé hãy tìm chữ ghi âm đời nhé",
+"dur": 1.92,
+"target_ok": false
+},
+"Bé hãy tìm chữ ghi âm e nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy tìm chữ ghi âm e nhé",
+"dur": 1.9
+},
+"Bé hãy tìm chữ ghi âm ê nhé.": {
+"mode": "long",
+"score": 0.875,
+"heard": "bé hãy tìm chữ ghi âm ấy nhé",
+"dur": 1.79,
+"target_ok": false
+},
+"Bé hãy tìm chữ ghi âm gờ nhé.": {
+"mode": "long",
+"score": 0.875,
+"heard": "bé hãy tìm chữ ghi âm nhé",
+"dur": 2.05,
+"target_ok": false
+},
+"Bé hãy tìm chữ ghi âm hờ nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy tìm chữ ghi âm hờ nhé",
+"dur": 1.93
+},
+"Bé hãy tìm chữ i ngắn nhé.": {
+"mode": "long",
+"score": 0.857,
+"heard": "bé hãy tìm chữ in ngắn nhé",
+"dur": 1.69,
+"target_ok": false
+},
+"Bé hãy tìm chữ ca nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy tìm chữ ca nhé",
+"dur": 1.58
+},
+"Bé hãy tìm chữ ghi âm lờ nhé.": {
+"mode": "long",
+"score": 0.875,
+"heard": "bé hãy tìm chữ ghi âm lời nhé",
+"dur": 2.06,
+"target_ok": false
+},
+"Bé hãy tìm chữ ghi âm mờ nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy tìm chữ ghi âm mờ nhé",
+"dur": 1.95
+},
+"Bé hãy tìm chữ ghi âm nờ nhé.": {
+"mode": "long",
+"score": 0.875,
+"heard": "bé hãy tìm chữ ghi âm lời nhé",
+"dur": 2.01,
+"target_ok": false
+},
+"Bé hãy tìm chữ ghi âm o nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy tìm chữ ghi âm o nhé",
+"dur": 1.93
+},
+"Bé hãy tìm chữ ghi âm ô nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy tìm chữ ghi âm ô nhé",
+"dur": 1.85
+},
+"Bé hãy tìm chữ ghi âm ơ nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy tìm chữ ghi âm ơ nhé",
+"dur": 1.88
+},
+"Bé hãy tìm chữ ghi âm pờ nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy tìm chữ ghi âm pờ nhé",
+"dur": 2.04
+},
+"Bé hãy tìm chữ ghi âm quờ nhé.": {
+"mode": "long",
+"score": 0.875,
+"heard": "bé hãy tìm chữ ghi âm cùi nhé",
+"dur": 2.03,
+"target_ok": false
+},
+"Bé hãy tìm chữ ghi âm rờ nhé.": {
+"mode": "long",
+"score": 0.875,
+"heard": "bé hãy tìm chữ ghi âm giờ nhé",
+"dur": 1.97,
+"target_ok": false
+},
+"Bé hãy tìm chữ ghi âm sờ nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy tìm chữ ghi âm sờ nhé",
+"dur": 1.99
+},
+"Bé hãy tìm chữ ghi âm tờ nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy tìm chữ ghi âm tờ nhé",
+"dur": 1.94
+},
+"Bé hãy tìm chữ ghi âm u nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy tìm chữ ghi âm u nhé",
+"dur": 1.92
+},
+"Bé hãy tìm chữ ghi âm ư nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy tìm chữ ghi âm ư nhé",
+"dur": 1.92
+},
+"Bé hãy tìm chữ ghi âm vờ nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy tìm chữ ghi âm vờ nhé",
+"dur": 1.94
+},
+"Bé hãy tìm chữ ghi âm xờ nhé.": {
+"mode": "long",
+"score": 0.875,
+"heard": "bé hãy tìm chữ ghi âm giờ nhé",
+"dur": 2.0,
+"target_ok": false
+},
+"Bé hãy tìm chữ i dài nhé.": {
+"mode": "long",
+"score": 0.857,
+"heard": "bé hãy tìm chữ dài nhé",
+"dur": 1.8,
+"target_ok": false
+},
+"Chạm vào màu đỏ nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "chạm vào màu đỏ nhé",
+"dur": 1.2
+},
+"Chạm vào màu vàng nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "chạm vào màu vàng nhé",
+"dur": 1.29
+},
+"Chạm vào màu xanh lá nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "chạm vào màu xanh lá nhé",
+"dur": 1.49
+},
+"Chạm vào màu xanh dương nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "chạm vào màu xanh dương nhé",
+"dur": 1.44
+},
+"Chạm vào màu cam nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "chạm vào màu cam nhé",
+"dur": 1.2
+},
+"Chạm vào màu tím nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "chạm vào màu tím nhé",
+"dur": 1.24
+},
+"Chạm vào màu hồng nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "chạm vào màu hồng nhé",
+"dur": 1.29
+},
+"Chạm vào màu nâu nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "chạm vào màu nâu nhé",
+"dur": 1.17
+},
+"Chạm vào màu đen nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "chạm vào màu đen nhé",
+"dur": 1.32
+},
+"Bé hãy chọn tiếng bà nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy chọn tiếng bà nhé",
+"dur": 1.56
+},
+"Bé hãy ghép tiếng bà nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy ghép tiếng bà nhé",
+"dur": 1.57
+},
+"Bé hãy chọn tiếng bố nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy chọn tiếng bố nhé",
+"dur": 1.58
+},
+"Bé hãy ghép tiếng bố nhé.": {
+"mode": "long",
+"score": 0.833,
+"heard": "bé hãy ghét tiếng bố nhé",
+"dur": 1.49
+},
+"Bé hãy chọn tiếng mẹ nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy chọn tiếng mẹ nhé",
+"dur": 1.61
+},
+"Bé hãy ghép tiếng mẹ nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy ghép tiếng mẹ nhé",
+"dur": 1.59
+},
+"Bé hãy chọn tiếng bé nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy chọn tiếng bé nhé",
+"dur": 1.61
+},
+"Bé hãy ghép tiếng bé nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy ghép tiếng bé nhé",
+"dur": 1.53
+},
+"Bé hãy chọn tiếng cá nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy chọn tiếng cá nhé",
+"dur": 1.61
+},
+"Bé hãy ghép tiếng cá nhé.": {
+"mode": "long",
+"score": 0.833,
+"heard": "bé hãy ghét tiếng cá nhé",
+"dur": 1.64
+},
+"Bé hãy chọn tiếng gà nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy chọn tiếng gà nhé",
+"dur": 1.54
+},
+"Bé hãy ghép tiếng gà nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy ghép tiếng gà nhé",
+"dur": 1.61
+},
+"Bé hãy chọn tiếng bò nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy chọn tiếng bò nhé",
+"dur": 1.65
+},
+"Bé hãy ghép tiếng bò nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy ghép tiếng bò nhé",
+"dur": 1.63
+},
+"Bé hãy chọn tiếng dê nhé.": {
+"mode": "long",
+"score": 0.833,
+"heard": "bé hãy chọn tiếng gì nhé",
+"dur": 1.5,
+"target_ok": false
+},
+"Bé hãy ghép tiếng dê nhé.": {
+"mode": "long",
+"score": 0.667,
+"heard": "bé hãy khét tiếng xình nhé",
+"dur": 1.55,
+"target_ok": false
+},
+"Bé hãy chọn tiếng hổ nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy chọn tiếng hổ nhé",
+"dur": 1.59
+},
+"Bé hãy ghép tiếng hổ nhé.": {
+"mode": "long",
+"score": 0.667,
+"heard": "bé hãy ghét tiếng hổ nhé",
+"dur": 1.58,
+"target_ok": true
+},
+"Bé hãy chọn tiếng lá nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy chọn tiếng lá nhé",
+"dur": 1.58
+},
+"Bé hãy ghép tiếng lá nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy ghép tiếng lá nhé",
+"dur": 1.63
+},
+"Bé hãy chọn tiếng xe nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy chọn tiếng xe nhé",
+"dur": 1.63
+},
+"Bé hãy ghép tiếng xe nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy ghép tiếng xe nhé",
+"dur": 1.58
+},
+"Bé hãy chọn tiếng lê nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy chọn tiếng lê nhé",
+"dur": 1.53
+},
+"Bé hãy ghép tiếng lê nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy ghép tiếng lê nhé",
+"dur": 1.52
+},
+"Bé hãy chọn tiếng mũ nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy chọn tiếng mũ nhé",
+"dur": 1.51
+},
+"Bé hãy ghép tiếng mũ nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy ghép tiếng mũ nhé",
+"dur": 1.62
+},
+"Bé hãy chọn tiếng dù nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy chọn tiếng dù nhé",
+"dur": 1.65
+},
+"Bé hãy ghép tiếng dù nhé.": {
+"mode": "long",
+"score": 0.833,
+"heard": "bé hãy ghét tiếng dù nhé",
+"dur": 1.66
+},
+"Bé hãy chọn tiếng cờ nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy chọn tiếng cờ nhé",
+"dur": 1.6
+},
+"Bé hãy ghép tiếng cờ nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy ghép tiếng cờ nhé",
+"dur": 1.71
+},
+"Bé hãy chọn tiếng nơ nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy chọn tiếng nơ nhé",
+"dur": 1.58
+},
+"Bé hãy ghép tiếng nơ nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy ghép tiếng nơ nhé",
+"dur": 1.58
+},
+"Bé hãy chọn tiếng rổ nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy chọn tiếng rổ nhé",
+"dur": 1.68
+},
+"Bé hãy ghép tiếng rổ nhé.": {
+"mode": "long",
+"score": 0.667,
+"heard": "bé hãy ghét tiếng rồ nhé",
+"dur": 1.69,
+"target_ok": false
+},
+"Bé hãy chọn tiếng đá nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy chọn tiếng đá nhé",
+"dur": 1.53
+},
+"Bé hãy ghép tiếng đá nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy ghép tiếng đá nhé",
+"dur": 1.71
+},
+"Bé hãy chọn tiếng vẽ nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy chọn tiếng vẽ nhé",
+"dur": 1.58
+},
+"Bé hãy ghép tiếng vẽ nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy ghép tiếng vẽ nhé",
+"dur": 1.69
+},
+"Bé hãy chọn tiếng mèo nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy chọn tiếng mèo nhé",
+"dur": 1.59
+},
+"Bé hãy ghép tiếng mèo nhé.": {
+"mode": "long",
+"score": 0.833,
+"heard": "bé hãy ghét tiếng mèo nhé",
+"dur": 1.59
+},
+"Bé hãy chọn tiếng voi nhé.": {
+"mode": "long",
+"score": 0.833,
+"heard": "bé hãy chọn tiếng phờ nhé",
+"dur": 1.54,
+"target_ok": false
+},
+"Bé hãy ghép tiếng voi nhé.": {
+"mode": "long",
+"score": 0.667,
+"heard": "bé hãy ghét tiếng voi nhé",
+"dur": 1.52,
+"target_ok": true
+},
+"Bé hãy chọn tiếng sao nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy chọn tiếng sao nhé",
+"dur": 1.64
+},
+"Bé hãy ghép tiếng sao nhé.": {
+"mode": "long",
+"score": 0.833,
+"heard": "bé hãy khét tiếng sao nhé",
+"dur": 1.7
+},
+"Bé hãy chọn tiếng táo nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy chọn tiếng táo nhé",
+"dur": 1.64
+},
+"Bé hãy ghép tiếng táo nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy ghép tiếng táo nhé",
+"dur": 1.68
+},
+"Bé hãy chọn tiếng hoa nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy chọn tiếng hoa nhé",
+"dur": 1.53
+},
+"Bé hãy ghép tiếng hoa nhé.": {
+"mode": "long",
+"score": 0.833,
+"heard": "bé hãy ghép tiếng hoa nhé",
+"dur": 1.52,
+"target_ok": true
+},
+"Bé hãy chọn tiếng kẹo nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy chọn tiếng kẹo nhé",
+"dur": 1.69
+},
+"Bé hãy ghép tiếng kẹo nhé.": {
+"mode": "long",
+"score": 0.833,
+"heard": "bé hãy khép tiếng kẹo nhé",
+"dur": 1.58
+},
+"Bé hãy chọn tiếng tỏi nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy chọn tiếng tỏi nhé",
+"dur": 1.74
+},
+"Bé hãy ghép tiếng tỏi nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy ghép tiếng tỏi nhé",
+"dur": 1.62
+},
+"Bé hãy chọn tiếng sữa nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy chọn tiếng sữa nhé",
+"dur": 1.61
+},
+"Bé hãy ghép tiếng sữa nhé.": {
+"mode": "long",
+"score": 0.833,
+"heard": "bé hãy khét tiếng sữa nhé",
+"dur": 1.67
+},
+"Bé hãy chọn tiếng lửa nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy chọn tiếng lửa nhé",
+"dur": 1.54
+},
+"Bé hãy ghép tiếng lửa nhé.": {
+"mode": "long",
+"score": 0.833,
+"heard": "bé hãy ghét tiếng lửa nhé",
+"dur": 1.63
+},
+"Bé hãy chọn tiếng mưa nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy chọn tiếng mưa nhé",
+"dur": 1.51
+},
+"Bé hãy ghép tiếng mưa nhé.": {
+"mode": "long",
+"score": 0.833,
+"heard": "bé hãy ghét tiếng mưa nhé",
+"dur": 1.62
+},
+"Bé hãy chọn tiếng cua nhé.": {
+"mode": "long",
+"score": 0.833,
+"heard": "bé hãy chọn tiếng cua nhé",
+"dur": 1.46,
+"target_ok": true
+},
+"Bé hãy ghép tiếng cua nhé.": {
+"mode": "long",
+"score": 0.667,
+"heard": "bé hãy ghét tiếng cùi nhé",
+"dur": 1.57,
+"target_ok": false
+},
+"Bé hãy chọn tiếng rùa nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy chọn tiếng rùa nhé",
+"dur": 1.63
+},
+"Bé hãy ghép tiếng rùa nhé.": {
+"mode": "long",
+"score": 0.833,
+"heard": "bé hãy khét tiếng rùa nhé",
+"dur": 1.61
+},
+"Bé hãy chọn tiếng dừa nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy chọn tiếng dừa nhé",
+"dur": 1.66
+},
+"Bé hãy ghép tiếng dừa nhé.": {
+"mode": "long",
+"score": 0.833,
+"heard": "bé hãy khét tiếng dừa nhé",
+"dur": 1.64
+},
+"Bé hãy chọn tiếng cáo nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy chọn tiếng cáo nhé",
+"dur": 1.53
+},
+"Bé hãy ghép tiếng cáo nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy ghép tiếng cáo nhé",
+"dur": 1.68
+},
+"Bé hãy chọn tiếng tàu nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy chọn tiếng tàu nhé",
+"dur": 1.6
+},
+"Bé hãy ghép tiếng tàu nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy ghép tiếng tàu nhé",
+"dur": 1.78
+},
+"Bé hãy chọn tiếng rau nhé.": {
+"mode": "long",
+"score": 0.833,
+"heard": "bé hãy chọn tiếng sau nhé",
+"dur": 1.61,
+"target_ok": false
+},
+"Bé hãy ghép tiếng rau nhé.": {
+"mode": "long",
+"score": 0.667,
+"heard": "bé hãy ghét tiếng sau nhé",
+"dur": 1.73,
+"target_ok": false
+},
+"Bé hãy chọn tiếng cam nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy chọn tiếng cam nhé",
+"dur": 1.64
+},
+"Bé hãy ghép tiếng cam nhé.": {
+"mode": "long",
+"score": 0.667,
+"heard": "bé hãy ghét tiếng cam nhé",
+"dur": 1.58,
+"target_ok": true
+},
+"Bé hãy chọn tiếng tôm nhé.": {
+"mode": "long",
+"score": 0.833,
+"heard": "bé hãy chọn tiếng tùng nhé",
+"dur": 1.49,
+"target_ok": false
+},
+"Bé hãy ghép tiếng tôm nhé.": {
+"mode": "long",
+"score": 0.667,
+"heard": "bé hãy khét tiếng tùng nhé",
+"dur": 1.62,
+"target_ok": false
+},
+"Bé hãy chọn tiếng nấm nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy chọn tiếng nấm nhé",
+"dur": 1.56
+},
+"Bé hãy ghép tiếng nấm nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy ghép tiếng nấm nhé",
+"dur": 1.6
+},
+"Bé hãy chọn tiếng gấu nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy chọn tiếng gấu nhé",
+"dur": 1.62
+},
+"Bé hãy ghép tiếng gấu nhé.": {
+"mode": "long",
+"score": 0.833,
+"heard": "bé hãy khét tiếng gấu nhé",
+"dur": 1.7
+},
+"Bé hãy chọn tiếng lợn nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy chọn tiếng lợn nhé",
+"dur": 1.68
+},
+"Bé hãy ghép tiếng lợn nhé.": {
+"mode": "long",
+"score": 0.833,
+"heard": "bé hãy khép tiếng lợn nhé",
+"dur": 1.64
+},
+"Bé hãy chọn tiếng đèn nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy chọn tiếng đèn nhé",
+"dur": 1.67
+},
+"Bé hãy ghép tiếng đèn nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy ghép tiếng đèn nhé",
+"dur": 1.71
+},
+"Bé hãy chọn tiếng tay nhé.": {
+"mode": "long",
+"score": 0.833,
+"heard": "bé hãy chọn tiếng nhé",
+"dur": 1.56,
+"target_ok": false
+},
+"Bé hãy ghép tiếng tay nhé.": {
+"mode": "long",
+"score": 0.833,
+"heard": "bé hãy khét tiếng tay nhé",
+"dur": 1.58
+},
+"Bé hãy chọn tiếng túi nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy chọn tiếng túi nhé",
+"dur": 1.58
+},
+"Bé hãy ghép tiếng túi nhé.": {
+"mode": "long",
+"score": 0.833,
+"heard": "bé hãy ghét tiếng túi nhé",
+"dur": 1.61
+},
+"Bé hãy chọn tiếng cây nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy chọn tiếng cây nhé",
+"dur": 1.63
+},
+"Bé hãy ghép tiếng cây nhé.": {
+"mode": "long",
+"score": 0.833,
+"heard": "bé hãy khép tiếng cây nhé",
+"dur": 1.67
+},
+"Bé hãy chọn tiếng mây nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy chọn tiếng mây nhé",
+"dur": 1.52
+},
+"Bé hãy ghép tiếng mây nhé.": {
+"mode": "long",
+"score": 0.833,
+"heard": "bé hãy khét tiếng mây nhé",
+"dur": 1.57
+},
+"Bé hãy chọn tiếng cơm nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy chọn tiếng cơm nhé",
+"dur": 1.56
+},
+"Bé hãy ghép tiếng cơm nhé.": {
+"mode": "long",
+"score": 0.667,
+"heard": "bé hãy khép tiếng cơm nhé",
+"dur": 1.53,
+"target_ok": true
+},
+"Bé hãy chọn tiếng kem nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy chọn tiếng kem nhé",
+"dur": 1.61
+},
+"Bé hãy ghép tiếng kem nhé.": {
+"mode": "long",
+"score": 0.833,
+"heard": "bé hãy ghép tiếng ken nhé",
+"dur": 1.76,
+"target_ok": false
+},
+"Số nào lớn nhất?": {
+"mode": "long",
+"score": 1.0,
+"heard": "số nào lớn nhất",
+"dur": 0.97
+},
+"Số nào bé nhất?": {
+"mode": "long",
+"score": 1.0,
+"heard": "số nào bé nhất",
+"dur": 0.99
+},
+"Bé hãy tìm hình tròn nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy tìm hình tròn nhé",
+"dur": 1.63
+},
+"Bé hãy tìm hình tròn màu đỏ nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy tìm hình tròn màu đỏ nhé",
+"dur": 2.17
+},
+"Bé hãy tìm hình tròn màu vàng nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy tìm hình tròn màu vàng nhé",
+"dur": 2.07
+},
+"Bé hãy tìm hình tròn màu xanh lá nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy tìm hình tròn màu xanh lá nhé",
+"dur": 2.34
+},
+"Bé hãy tìm hình tròn màu xanh dương nhé.": {
+"mode": "long",
+"score": 0.889,
+"heard": "bé hãy tìm hình tròn màu xanh sưng nhé",
+"dur": 2.31
+},
+"Bé hãy tìm hình tròn màu cam nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy tìm hình tròn màu cam nhé",
+"dur": 2.17
+},
+"Bé hãy tìm hình tròn màu tím nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy tìm hình tròn màu tím nhé",
+"dur": 2.1
+},
+"Bé hãy tìm hình tròn màu hồng nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy tìm hình tròn màu hồng nhé",
+"dur": 2.15
+},
+"Bé hãy tìm hình tròn màu nâu nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy tìm hình tròn màu nâu nhé",
+"dur": 2.0
+},
+"Bé hãy tìm hình tròn màu đen nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy tìm hình tròn màu đen nhé",
+"dur": 2.2
+},
+"Bé hãy tìm hình vuông nhé.": {
+"mode": "long",
+"score": 0.833,
+"heard": "bé hãy tìm hình vùng nhé",
+"dur": 1.6
+},
+"Bé hãy tìm hình vuông màu đỏ nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy tìm hình vuông màu đỏ nhé",
+"dur": 2.1
+},
+"Bé hãy tìm hình vuông màu vàng nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy tìm hình vuông màu vàng nhé",
+"dur": 2.03
+},
+"Bé hãy tìm hình vuông màu xanh lá nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy tìm hình vuông màu xanh lá nhé",
+"dur": 2.28
+},
+"Bé hãy tìm hình vuông màu xanh dương nhé.": {
+"mode": "long",
+"score": 0.889,
+"heard": "bé hãy tìm hình vum màu xanh dương nhé",
+"dur": 2.3
+},
+"Bé hãy tìm hình vuông màu cam nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy tìm hình vuông màu cam nhé",
+"dur": 2.06
+},
+"Bé hãy tìm hình vuông màu tím nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy tìm hình vuông màu tím nhé",
+"dur": 2.01
+},
+"Bé hãy tìm hình vuông màu hồng nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy tìm hình vuông màu hồng nhé",
+"dur": 2.09
+},
+"Bé hãy tìm hình vuông màu nâu nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy tìm hình vuông màu nâu nhé",
+"dur": 2.16
+},
+"Bé hãy tìm hình vuông màu đen nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy tìm hình vuông màu đen nhé",
+"dur": 2.1
+},
+"Bé hãy tìm hình tam giác nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy tìm hình tam giác nhé",
+"dur": 1.9
+},
+"Bé hãy tìm hình tam giác màu đỏ nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy tìm hình tam giác màu đỏ nhé",
+"dur": 2.21
+},
+"Bé hãy tìm hình tam giác màu vàng nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy tìm hình tam giác màu vàng nhé",
+"dur": 2.29
+},
+"Bé hãy tìm hình tam giác màu xanh lá nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy tìm hình tam giác màu xanh lá nhé",
+"dur": 2.51
+},
+"Bé hãy tìm hình tam giác màu xanh dương nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy tìm hình tam giác màu xanh dương nhé",
+"dur": 2.7
+},
+"Bé hãy tìm hình tam giác màu cam nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy tìm hình tam giác màu cam nhé",
+"dur": 2.36
+},
+"Bé hãy tìm hình tam giác màu tím nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy tìm hình tam giác màu tím nhé",
+"dur": 2.28
+},
+"Bé hãy tìm hình tam giác màu hồng nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy tìm hình tam giác màu hồng nhé",
+"dur": 2.26
+},
+"Bé hãy tìm hình tam giác màu nâu nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy tìm hình tam giác màu nâu nhé",
+"dur": 2.26
+},
+"Bé hãy tìm hình tam giác màu đen nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy tìm hình tam giác màu đen nhé",
+"dur": 2.3
+},
+"Bé hãy tìm hình chữ nhật nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy tìm hình chữ nhật nhé",
+"dur": 1.69
+},
+"Bé hãy tìm hình chữ nhật màu đỏ nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy tìm hình chữ nhật màu đỏ nhé",
+"dur": 2.18
+},
+"Bé hãy tìm hình chữ nhật màu vàng nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy tìm hình chữ nhật màu vàng nhé",
+"dur": 2.3
+},
+"Bé hãy tìm hình chữ nhật màu xanh lá nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy tìm hình chữ nhật màu xanh lá nhé",
+"dur": 2.45
+},
+"Bé hãy tìm hình chữ nhật màu xanh dương nhé.": {
+"mode": "long",
+"score": 0.9,
+"heard": "bé hãy tìm hình chữ nhật màu xanh sưng nhé",
+"dur": 2.56
+},
+"Bé hãy tìm hình chữ nhật màu cam nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy tìm hình chữ nhật màu cam nhé",
+"dur": 2.19
+},
+"Bé hãy tìm hình chữ nhật màu tím nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy tìm hình chữ nhật màu tím nhé",
+"dur": 2.32
+},
+"Bé hãy tìm hình chữ nhật màu hồng nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy tìm hình chữ nhật màu hồng nhé",
+"dur": 2.26
+},
+"Bé hãy tìm hình chữ nhật màu nâu nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy tìm hình chữ nhật màu nâu nhé",
+"dur": 2.3
+},
+"Bé hãy tìm hình chữ nhật màu đen nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy tìm hình chữ nhật màu đen nhé",
+"dur": 2.25
+},
+"Bé tô nốt chỗ màu cam nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé tô nốt chỗ màu cam nhé",
+"dur": 1.62
+},
+"Chào bé! Mình học tiếp nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "chào bé mình học tiếp nhé",
+"dur": 1.59
+},
+"Ai học hôm nay? Bé chạm vào tên mình nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "ai học hôm nay bé chạm vào tên mình nhé",
+"dur": 2.31
+},
+"Bây giờ bé đánh vần theo cô nhé. Bé bấm nút micrô rồi đọc.": {
+"mode": "long",
+"score": 0.929,
+"heard": "bây giờ bé đánh vần theo cô nhé bé bấm nút câu rồi đọc",
+"dur": 3.32
+},
+"Cô nghe rồi! Bé nghe lại giọng mình nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "cô nghe rồi bé nghe lại giọng mình nhé",
+"dur": 2.02
+},
+"Tuyệt vời! Bé đã đánh bại Quái vật Tẩy và giải cứu Công chúa Chữ! Công chúa cảm ơn bé rất nhiều.": {
+"mode": "long",
+"score": 1.0,
+"heard": "tuyệt vời bé đã đánh bại quái vật tẩy và giải cứu công chúa chữ công chúa cảm ơn bé rất nhiều",
+"dur": 5.19
+},
+"Bé đúng rồi, giỏi quá!": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé đúng rồi giỏi quá",
+"dur": 1.47
+},
+"Bé đã biết đánh vần rồi! Dòng suối vui ca hát.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé đã biết đánh vần rồi dòng suối vui ca hát",
+"dur": 2.49
+},
+"Tiếng bà có dấu gì?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tiếng bà có dấu gì",
+"dur": 1.2
+},
+"Tiếng bố có dấu gì?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tiếng bố có dấu gì",
+"dur": 1.18
+},
+"Tiếng mẹ có dấu gì?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tiếng mẹ có dấu gì",
+"dur": 1.24
+},
+"Tiếng bé có dấu gì?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tiếng bé có dấu gì",
+"dur": 1.2
+},
+"Tiếng cá có dấu gì?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tiếng cá có dấu gì",
+"dur": 1.27
+},
+"Tiếng gà có dấu gì?": {
+"mode": "long",
+"score": 0.8,
+"heard": "tiếng kha có dấu gì",
+"dur": 1.27,
+"target_ok": false
+},
+"Tiếng bò có dấu gì?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tiếng bò có dấu gì",
+"dur": 1.27
+},
+"Tiếng dê có dấu gì?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tiếng dê có dấu gì",
+"dur": 1.21
+},
+"Tiếng hổ có dấu gì?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tiếng hổ có dấu gì",
+"dur": 1.25
+},
+"Tiếng lá có dấu gì?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tiếng lá có dấu gì",
+"dur": 1.2
+},
+"Tiếng xe có dấu gì?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tiếng xe có dấu gì",
+"dur": 1.21
+},
+"Tiếng lê có dấu gì?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tiếng lê có dấu gì",
+"dur": 1.13
+},
+"Tiếng mũ có dấu gì?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tiếng mũ có dấu gì",
+"dur": 1.22
+},
+"Tiếng dù có dấu gì?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tiếng dù có dấu gì",
+"dur": 1.3
+},
+"Tiếng cờ có dấu gì?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tiếng cờ có dấu gì",
+"dur": 1.28
+},
+"Tiếng nơ có dấu gì?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tiếng nơ có dấu gì",
+"dur": 1.13
+},
+"Tiếng rổ có dấu gì?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tiếng rổ có dấu gì",
+"dur": 1.32
+},
+"Tiếng đá có dấu gì?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tiếng đá có dấu gì",
+"dur": 1.17
+},
+"Tiếng vẽ có dấu gì?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tiếng vẽ có dấu gì",
+"dur": 1.28
+},
+"Tiếng mèo có dấu gì?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tiếng mèo có dấu gì",
+"dur": 1.23
+},
+"Tiếng voi có dấu gì?": {
+"mode": "long",
+"score": 0.8,
+"heard": "tiếng phơi có dấu gì",
+"dur": 1.25,
+"target_ok": false
+},
+"Tiếng sao có dấu gì?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tiếng sao có dấu gì",
+"dur": 1.24
+},
+"Tiếng táo có dấu gì?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tiếng táo có dấu gì",
+"dur": 1.2
+},
+"Tiếng hoa có dấu gì?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tiếng hoa có dấu gì",
+"dur": 1.24
+},
+"Tiếng kẹo có dấu gì?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tiếng kẹo có dấu gì",
+"dur": 1.24
+},
+"Tiếng tỏi có dấu gì?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tiếng tỏi có dấu gì",
+"dur": 1.28
+},
+"Tiếng sữa có dấu gì?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tiếng sữa có dấu gì",
+"dur": 1.27
+},
+"Tiếng lửa có dấu gì?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tiếng lửa có dấu gì",
+"dur": 1.19
+},
+"Tiếng mưa có dấu gì?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tiếng mưa có dấu gì",
+"dur": 1.13
+},
+"Tiếng cua có dấu gì?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tiếng cua có dấu gì",
+"dur": 1.19
+},
+"Tiếng rùa có dấu gì?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tiếng rùa có dấu gì",
+"dur": 1.3
+},
+"Tiếng dừa có dấu gì?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tiếng dừa có dấu gì",
+"dur": 1.29
+},
+"Tiếng cáo có dấu gì?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tiếng cáo có dấu gì",
+"dur": 1.24
+},
+"Tiếng tàu có dấu gì?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tiếng tàu có dấu gì",
+"dur": 1.23
+},
+"Tiếng rau có dấu gì?": {
+"mode": "long",
+"score": 0.8,
+"heard": "tiếng sau có dấu gì",
+"dur": 1.26,
+"target_ok": false
+},
+"ai": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc ai nhé",
+"v": 2,
+"dur": 0.33
+},
+"tai": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc tài",
+"v": 2,
+"dur": 0.38
+},
+"cái tai": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc cái tài",
+"v": 2,
+"dur": 0.58
+},
+"Bé hãy chọn tiếng tai nhé.": {
+"mode": "long",
+"score": 0.833,
+"heard": "bé hãy chọn tiếng tài nhé",
+"dur": 1.58,
+"target_ok": false
+},
+"Bé hãy ghép tiếng tai nhé.": {
+"mode": "long",
+"score": 0.667,
+"heard": "bé hãy khét tiếng tài nhé",
+"dur": 1.64,
+"target_ok": false
+},
+"Tiếng tai có dấu gì?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tiếng tai có dấu gì",
+"dur": 1.16
+},
+"mui": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc mùi",
+"v": 2,
+"dur": 0.42
+},
+"mũi": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc mũi",
+"v": 2,
+"dur": 0.5
+},
+"cái mũi": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc cái mũi",
+"v": 2,
+"dur": 0.6
+},
+"Bé hãy chọn tiếng mũi nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy chọn tiếng mũi nhé",
+"dur": 1.56
+},
+"Bé hãy ghép tiếng mũi nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy ghép tiếng mũi nhé",
+"dur": 1.59
+},
+"Tiếng mũi có dấu gì?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tiếng mũi có dấu gì",
+"dur": 1.19
+},
+"đua": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc bú",
+"v": 2,
+"dur": 0.45
+},
+"đũa": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc đũa nhé",
+"v": 2,
+"dur": 0.32
+},
+"đôi đũa": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc đồi đũi",
+"v": 2,
+"dur": 0.63
+},
+"Bé hãy chọn tiếng đũa nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy chọn tiếng đũa nhé",
+"dur": 1.52
+},
+"Bé hãy ghép tiếng đũa nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy ghép tiếng đũa nhé",
+"dur": 1.48
+},
+"Tiếng đũa có dấu gì?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tiếng đũa có dấu gì",
+"dur": 1.26
+},
+"Tiếng cam có dấu gì?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tiếng cam có dấu gì",
+"dur": 1.22
+},
+"Tiếng tôm có dấu gì?": {
+"mode": "long",
+"score": 0.8,
+"heard": "tiếng tùng có dấu gì",
+"dur": 1.25,
+"target_ok": false
+},
+"Tiếng nấm có dấu gì?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tiếng nấm có dấu gì",
+"dur": 1.21
+},
+"Tiếng gấu có dấu gì?": {
+"mode": "long",
+"score": 0.8,
+"heard": "tiếng khấu có dấu gì",
+"dur": 1.23,
+"target_ok": false
+},
+"Tiếng lợn có dấu gì?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tiếng lợn có dấu gì",
+"dur": 1.18
+},
+"Tiếng đèn có dấu gì?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tiếng đèn có dấu gì",
+"dur": 1.29
+},
+"Tiếng tay có dấu gì?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tiếng tay có dấu gì",
+"dur": 1.13
+},
+"Tiếng túi có dấu gì?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tiếng túi có dấu gì",
+"dur": 1.22
+},
+"Tiếng cây có dấu gì?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tiếng cây có dấu gì",
+"dur": 1.21
+},
+"Tiếng mây có dấu gì?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tiếng mây có dấu gì",
+"dur": 1.11
+},
+"Tiếng cơm có dấu gì?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tiếng cơm có dấu gì",
+"dur": 1.28
+},
+"Tiếng kem có dấu gì?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tiếng kem có dấu gì",
+"dur": 1.24
+},
+"ong": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc ong nhé",
+"v": 2,
+"dur": 0.28
+},
+"ngờ": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc ngợ",
+"v": 2,
+"dur": 0.45
+},
+"bong": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc bằng",
+"v": 2,
+"dur": 0.41
+},
+"bóng": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc bóng",
+"v": 2,
+"dur": 0.46
+},
+"quả bóng": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc quả bóng",
+"v": 2,
+"dur": 0.64
+},
+"Bé hãy chọn tiếng bóng nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy chọn tiếng bóng nhé",
+"dur": 1.63
+},
+"Bé hãy ghép tiếng bóng nhé.": {
+"mode": "long",
+"score": 0.833,
+"heard": "bé hãy khét tiếng bóng nhé",
+"dur": 1.54
+},
+"Tiếng bóng có dấu gì?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tiếng bóng có dấu gì",
+"dur": 1.24
+},
+"ach": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc ai",
+"v": 2,
+"dur": 0.34
+},
+"chờ": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc chờ",
+"v": 2,
+"dur": 0.49
+},
+"sach": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc xem",
+"v": 2,
+"dur": 0.39
+},
+"sách": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc sách",
+"v": 2,
+"dur": 0.41
+},
+"quyển sách": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc quyển sách",
+"v": 2,
+"dur": 0.51
+},
+"Bé hãy chọn tiếng sách nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy chọn tiếng sách nhé",
+"dur": 1.6
+},
+"Bé hãy ghép tiếng sách nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy ghép tiếng sách nhé",
+"dur": 1.62
+},
+"Tiếng sách có dấu gì?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tiếng sách có dấu gì",
+"dur": 1.24
+},
+"anh": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc anh nhé",
+"v": 2,
+"dur": 0.42
+},
+"nhờ": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc nhờ",
+"v": 2,
+"dur": 0.46
+},
+"banh": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc banh nhé",
+"v": 2,
+"dur": 0.37
+},
+"bánh": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc bánh",
+"v": 2,
+"dur": 0.46
+},
+"cái bánh": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc cái bánh",
+"v": 2,
+"dur": 0.58
+},
+"Bé hãy chọn tiếng bánh nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy chọn tiếng bánh nhé",
+"dur": 1.65
+},
+"Bé hãy ghép tiếng bánh nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy ghép tiếng bánh nhé",
+"dur": 1.57
+},
+"Tiếng bánh có dấu gì?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tiếng bánh có dấu gì",
+"dur": 1.18
+},
+"ăt": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc cả",
+"v": 2,
+"dur": 0.31
+},
+"măt": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc mặt",
+"v": 2,
+"dur": 0.36
+},
+"mắt": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc mắt nhé",
+"v": 2,
+"dur": 0.33
+},
+"đôi mắt": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc đôi mắt nhé",
+"v": 2,
+"dur": 0.5
+},
+"Bé hãy chọn tiếng mắt nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy chọn tiếng mắt nhé",
+"dur": 1.54
+},
+"Bé hãy ghép tiếng mắt nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy ghép tiếng mắt nhé",
+"dur": 1.57
+},
+"Tiếng mắt có dấu gì?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tiếng mắt có dấu gì",
+"dur": 1.14
+},
+"ut": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc à",
+"v": 2,
+"dur": 0.37
+},
+"but": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc bật",
+"v": 2,
+"dur": 0.37
+},
+"bút": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc bút",
+"v": 2,
+"dur": 0.38
+},
+"cái bút": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc cái bút",
+"v": 2,
+"dur": 0.38
+},
+"Bé hãy chọn tiếng bút nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy chọn tiếng bút nhé",
+"dur": 1.55
+},
+"Bé hãy ghép tiếng bút nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy ghép tiếng bút nhé",
+"dur": 1.62
+},
+"Tiếng bút có dấu gì?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tiếng bút có dấu gì",
+"dur": 1.18
+},
+"ôc": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc của",
+"v": 2,
+"dur": 0.35
+},
+"côc": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc cùng",
+"v": 2,
+"dur": 0.33
+},
+"cốc": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc không",
+"v": 2,
+"dur": 0.33
+},
+"cái cốc": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cùng đọc cái cốc nhé",
+"v": 2,
+"dur": 0.27
+},
+"Bé hãy chọn tiếng cốc nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy chọn tiếng cốc nhé",
+"dur": 1.59
+},
+"Bé hãy ghép tiếng cốc nhé.": {
+"mode": "long",
+"score": 0.833,
+"heard": "bé hãy khét tiếng cốc nhé",
+"dur": 1.54
+},
+"Tiếng cốc có dấu gì?": {
+"mode": "long",
+"score": 0.8,
+"heard": "tiếng cúp có dấu gì",
+"dur": 1.22,
+"target_ok": false
+},
+"it": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc nghề",
+"v": 2,
+"dur": 0.34
+},
+"vit": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc về",
+"v": 2,
+"dur": 0.37
+},
+"vịt": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc việt",
+"v": 2,
+"dur": 0.4
+},
+"con vịt": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc con vịt nhé",
+"v": 2,
+"dur": 0.28
+},
+"Bé hãy chọn tiếng vịt nhé.": {
+"mode": "long",
+"score": 0.833,
+"heard": "bé hãy chọn tiếng việt nhé",
+"dur": 1.63,
+"target_ok": false
+},
+"Bé hãy ghép tiếng vịt nhé.": {
+"mode": "long",
+"score": 0.833,
+"heard": "bé hãy ghét tiếng vịt nhé",
+"dur": 1.64
+},
+"Tiếng vịt có dấu gì?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tiếng vịt có dấu gì",
+"dur": 1.28
+},
+"oc": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc à",
+"v": 2,
+"dur": 0.36
+},
+"soc": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc sao",
+"v": 2,
+"dur": 0.4
+},
+"sóc": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc xong",
+"v": 2,
+"dur": 0.34
+},
+"con sóc": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc có sáu",
+"v": 2,
+"dur": 0.58
+},
+"Bé hãy chọn tiếng sóc nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy chọn tiếng sóc nhé",
+"dur": 1.62
+},
+"Bé hãy ghép tiếng sóc nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy ghép tiếng sóc nhé",
+"dur": 1.62
+},
+"Tiếng sóc có dấu gì?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tiếng sóc có dấu gì",
+"dur": 1.23
+},
+"cho": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc cho nhé",
+"v": 2,
+"dur": 0.29
+},
+"chó": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc chó",
+"v": 2,
+"dur": 0.51
+},
+"con chó": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cụ đọc con chó",
+"v": 2,
+"dur": 0.67
+},
+"Bé hãy chọn tiếng chó nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy chọn tiếng chó nhé",
+"dur": 1.57
+},
+"Bé hãy ghép tiếng chó nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy ghép tiếng chó nhé",
+"dur": 1.66
+},
+"Tiếng chó có dấu gì?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tiếng chó có dấu gì",
+"dur": 1.21
+},
+"nha": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc nha nhé",
+"v": 2,
+"dur": 0.34
+},
+"nhà": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc nhà",
+"v": 2,
+"dur": 0.46
+},
+"ngôi nhà": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc ngôi nhà",
+"v": 2,
+"dur": 0.66
+},
+"Bé hãy chọn tiếng nhà nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy chọn tiếng nhà nhé",
+"dur": 1.55
+},
+"Bé hãy ghép tiếng nhà nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy ghép tiếng nhà nhé",
+"dur": 1.73
+},
+"Tiếng nhà có dấu gì?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tiếng nhà có dấu gì",
+"dur": 1.27
+},
+"nho": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc nào",
+"v": 2,
+"dur": 0.46
+},
+"chùm nho": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc trùm nho",
+"v": 2,
+"dur": 0.64
+},
+"Bé hãy chọn tiếng nho nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy chọn tiếng nho nhé",
+"dur": 1.52
+},
+"Bé hãy ghép tiếng nho nhé.": {
+"mode": "long",
+"score": 0.833,
+"heard": "bé hãy khét tiếng nho nhé",
+"dur": 1.57
+},
+"Tiếng nho có dấu gì?": {
+"mode": "long",
+"score": 0.8,
+"heard": "tiếng nho có dấu gì",
+"dur": 1.1,
+"target_ok": true
+},
+"thờ": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc thơ",
+"v": 2,
+"dur": 0.45
+},
+"tho": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc thói",
+"v": 2,
+"dur": 0.39
+},
+"thỏ": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc thỏ nhé",
+"v": 2,
+"dur": 0.3
+},
+"con thỏ": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cụ đọc con thỏ",
+"v": 2,
+"dur": 0.4
+},
+"Bé hãy chọn tiếng thỏ nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy chọn tiếng thỏ nhé",
+"dur": 1.64
+},
+"Bé hãy ghép tiếng thỏ nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy ghép tiếng thỏ nhé",
+"dur": 1.66
+},
+"Tiếng thỏ có dấu gì?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tiếng thỏ có dấu gì",
+"dur": 1.32
+},
+"phờ": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc vờ",
+"v": 2,
+"dur": 0.39
+},
+"phơ": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc phờ",
+"v": 2,
+"dur": 0.39
+},
+"phở": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc phở nhé",
+"v": 2,
+"dur": 0.29
+},
+"bát phở": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cuộc đọc bát phở",
+"v": 2,
+"dur": 0.4
+},
+"Bé hãy chọn tiếng phở nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy chọn tiếng phở nhé",
+"dur": 1.64
+},
+"Bé hãy ghép tiếng phở nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy ghép tiếng phở nhé",
+"dur": 1.73
+},
+"Tiếng phở có dấu gì?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tiếng phở có dấu gì",
+"dur": 1.35
+},
+"khờ": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc khờ nhé",
+"v": 2,
+"dur": 0.32
+},
+"khi": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc khi nhé",
+"v": 2,
+"dur": 0.3
+},
+"khỉ": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc kỉ",
+"v": 2,
+"dur": 0.38
+},
+"Bé hãy chọn tiếng khỉ nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy chọn tiếng khỉ nhé",
+"dur": 1.59
+},
+"Bé hãy ghép tiếng khỉ nhé.": {
+"mode": "long",
+"score": 0.833,
+"heard": "bé hãy khép tiếng khỉ nhé",
+"dur": 1.69
+},
+"Tiếng khỉ có dấu gì?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tiếng khỉ có dấu gì",
+"dur": 1.2
+},
+"ghê": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc ghê",
+"v": 2,
+"dur": 0.43
+},
+"ghế": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc ghế nhé",
+"v": 2,
+"dur": 0.36
+},
+"cái ghế": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc cái ghế nhé",
+"v": 2,
+"dur": 0.43
+},
+"Bé hãy chọn tiếng ghế nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy chọn tiếng ghế nhé",
+"dur": 1.65
+},
+"Bé hãy ghép tiếng ghế nhé.": {
+"mode": "long",
+"score": 0.833,
+"heard": "bé hãy ghét tiếng ghế nhé",
+"dur": 1.73
+},
+"Tiếng ghế có dấu gì?": {
+"mode": "long",
+"score": 0.8,
+"heard": "tiếng khế có dấu gì",
+"dur": 1.31,
+"target_ok": false
+},
+"nghe": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc nghe",
+"v": 2,
+"dur": 0.44
+},
+"nghé": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc nghé nhé",
+"v": 2,
+"dur": 0.36
+},
+"con nghé": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc con nghé nhé",
+"v": 2,
+"dur": 0.34
+},
+"Bé hãy chọn tiếng nghé nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy chọn tiếng nghé nhé",
+"dur": 1.54
+},
+"Bé hãy ghép tiếng nghé nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy ghép tiếng nghé nhé",
+"dur": 1.62
+},
+"Tiếng nghé có dấu gì?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tiếng nghé có dấu gì",
+"dur": 1.22
+},
+"ngô": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc ngô",
+"v": 2,
+"dur": 0.42
+},
+"bắp ngô": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc bác hồ",
+"v": 2,
+"dur": 0.58
+},
+"Bé hãy chọn tiếng ngô nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy chọn tiếng ngô nhé",
+"dur": 1.44
+},
+"Bé hãy ghép tiếng ngô nhé.": {
+"mode": "long",
+"score": 0.667,
+"heard": "bé hãy ghét tiếng mồ nhé",
+"dur": 1.53,
+"target_ok": false
+},
+"Tiếng ngô có dấu gì?": {
+"mode": "long",
+"score": 0.8,
+"heard": "tiếng có dấu gì",
+"dur": 1.09,
+"target_ok": false
+},
+"qua": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc qua nhé",
+"v": 2,
+"dur": 0.27
+},
+"quà": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc quà",
+"v": 2,
+"dur": 0.41
+},
+"Bé hãy chọn tiếng quà nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy chọn tiếng quà nhé",
+"dur": 1.57
+},
+"Bé hãy ghép tiếng quà nhé.": {
+"mode": "long",
+"score": 0.833,
+"heard": "bé hãy ghét tiếng quà nhé",
+"dur": 1.59
+},
+"Tiếng quà có dấu gì?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tiếng quà có dấu gì",
+"dur": 1.24
+},
+"di": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc gì",
+"v": 2,
+"dur": 0.35
+},
+"giay": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc này",
+"v": 2,
+"dur": 0.39
+},
+"giày": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc giày",
+"v": 2,
+"dur": 0.36
+},
+"đôi giày": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc đôi giày",
+"v": 2,
+"dur": 0.43
+},
+"Bé hãy chọn tiếng giày nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy chọn tiếng giày nhé",
+"dur": 1.71
+},
+"Bé hãy ghép tiếng giày nhé.": {
+"mode": "long",
+"score": 0.833,
+"heard": "bé hãy khét tiếng giày nhé",
+"dur": 1.73
+},
+"Tiếng giày có dấu gì?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tiếng giày có dấu gì",
+"dur": 1.18
+},
+"thư": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc thư nhé",
+"v": 2,
+"dur": 0.3
+},
+"lá thư": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc lá thư",
+"v": 2,
+"dur": 0.65
+},
+"Bé hãy chọn tiếng thư nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy chọn tiếng thư nhé",
+"dur": 1.63
+},
+"Bé hãy ghép tiếng thư nhé.": {
+"mode": "long",
+"score": 0.833,
+"heard": "bé hãy khét tiếng thư nhé",
+"dur": 1.57
+},
+"Tiếng thư có dấu gì?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tiếng thư có dấu gì",
+"dur": 1.07
+},
+"chanh": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc tránh",
+"v": 2,
+"dur": 0.44
+},
+"quả chanh": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc quả chánh",
+"v": 2,
+"dur": 0.6
+},
+"Bé hãy chọn tiếng chanh nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy chọn tiếng chanh nhé",
+"dur": 1.49
+},
+"Bé hãy ghép tiếng chanh nhé.": {
+"mode": "long",
+"score": 0.833,
+"heard": "bé hãy khép tiếng chanh nhé",
+"dur": 1.63
+},
+"Tiếng chanh có dấu gì?": {
+"mode": "long",
+"score": 0.8,
+"heard": "tiếng có dấu gì",
+"dur": 1.21,
+"target_ok": false
+},
+"trờ": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc chờ",
+"v": 2,
+"dur": 0.51
+},
+"ông": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc gồm",
+"v": 2,
+"dur": 0.35
+},
+"trông": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc trông nhé",
+"v": 2,
+"dur": 0.34
+},
+"trống": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc trống nhé",
+"v": 2,
+"dur": 0.32
+},
+"cái trống": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc cái trống",
+"v": 2,
+"dur": 0.46
+},
+"Bé hãy chọn tiếng trống nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy chọn tiếng trống nhé",
+"dur": 1.48
+},
+"Bé hãy ghép tiếng trống nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy ghép tiếng trống nhé",
+"dur": 1.61
+},
+"Tiếng trống có dấu gì?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tiếng trống có dấu gì",
+"dur": 1.2
+},
+"Tiếng mèo có vần gì?": {
+"mode": "long",
+"score": 0.8,
+"heard": "tiếng mèo có phần gì",
+"dur": 1.28
+},
+"Tiếng voi có vần gì?": {
+"mode": "long",
+"score": 0.8,
+"heard": "tiếng voi có phần gì",
+"dur": 1.3
+},
+"Tiếng sao có vần gì?": {
+"mode": "long",
+"score": 0.8,
+"heard": "tiếng sao có phần gì",
+"dur": 1.35
+},
+"Tiếng táo có vần gì?": {
+"mode": "long",
+"score": 0.8,
+"heard": "tiếng táo có phần gì",
+"dur": 1.27
+},
+"Tiếng hoa có vần gì?": {
+"mode": "long",
+"score": 0.8,
+"heard": "tiếng hoa có phần gì",
+"dur": 1.32
+},
+"Tiếng kẹo có vần gì?": {
+"mode": "long",
+"score": 0.8,
+"heard": "tiếng kẹo có phần gì",
+"dur": 1.29
+},
+"Tiếng tỏi có vần gì?": {
+"mode": "long",
+"score": 0.8,
+"heard": "tiếng tỏi có phần gì",
+"dur": 1.25
+},
+"Tiếng sữa có vần gì?": {
+"mode": "long",
+"score": 0.8,
+"heard": "tiếng sữa có phần gì",
+"dur": 1.22
+},
+"Tiếng lửa có vần gì?": {
+"mode": "long",
+"score": 0.8,
+"heard": "tiếng lửa có phần gì",
+"dur": 1.23
+},
+"Tiếng mưa có vần gì?": {
+"mode": "long",
+"score": 0.8,
+"heard": "tiếng mưa có phần gì",
+"dur": 1.11
+},
+"Tiếng cua có vần gì?": {
+"mode": "long",
+"score": 0.8,
+"heard": "tiếng cua có phần gì",
+"dur": 1.26
+},
+"Tiếng rùa có vần gì?": {
+"mode": "long",
+"score": 0.8,
+"heard": "tiếng rùa có phần gì",
+"dur": 1.23
+},
+"Tiếng dừa có vần gì?": {
+"mode": "long",
+"score": 0.8,
+"heard": "tiếng dừa có phần gì",
+"dur": 1.26
+},
+"Tiếng cáo có vần gì?": {
+"mode": "long",
+"score": 0.8,
+"heard": "tiếng cáo có phần gì",
+"dur": 1.32
+},
+"Tiếng tàu có vần gì?": {
+"mode": "long",
+"score": 0.8,
+"heard": "tiếng tàu có phần gì",
+"dur": 1.27
+},
+"Tiếng rau có vần gì?": {
+"mode": "long",
+"score": 0.6,
+"heard": "tiếng sau có phần gì",
+"dur": 1.19,
+"target_ok": false
+},
+"Tiếng tai có vần gì?": {
+"mode": "long",
+"score": 0.8,
+"heard": "tiếng tai có phần gì",
+"dur": 1.24
+},
+"Tiếng mũi có vần gì?": {
+"mode": "long",
+"score": 0.8,
+"heard": "tiếng mũi có phần gì",
+"dur": 1.2
+},
+"Tiếng đũa có vần gì?": {
+"mode": "long",
+"score": 0.8,
+"heard": "tiếng đũa có phần gì",
+"dur": 1.2
+},
+"Tiếng cam có vần gì?": {
+"mode": "long",
+"score": 0.8,
+"heard": "tiếng cam có phần gì",
+"dur": 1.28
+},
+"Tiếng tôm có vần gì?": {
+"mode": "long",
+"score": 0.6,
+"heard": "tím tôm có phần gì",
+"dur": 1.3,
+"target_ok": true
+},
+"Tiếng nấm có vần gì?": {
+"mode": "long",
+"score": 0.8,
+"heard": "tiếng nấm có phần gì",
+"dur": 1.29
+},
+"Tiếng gấu có vần gì?": {
+"mode": "long",
+"score": 0.6,
+"heard": "tiếng gấu có phần gì",
+"dur": 1.18,
+"target_ok": true
+},
+"Tiếng lợn có vần gì?": {
+"mode": "long",
+"score": 0.8,
+"heard": "tiếng lợn có phần gì",
+"dur": 1.3
+},
+"Tiếng đèn có vần gì?": {
+"mode": "long",
+"score": 0.8,
+"heard": "tiếng đèn có phần gì",
+"dur": 1.26
+},
+"Tiếng tay có vần gì?": {
+"mode": "long",
+"score": 0.8,
+"heard": "tiếng tay có phần gì",
+"dur": 1.17
+},
+"Tiếng túi có vần gì?": {
+"mode": "long",
+"score": 0.8,
+"heard": "tiếng túi có phần gì",
+"dur": 1.34
+},
+"Tiếng cây có vần gì?": {
+"mode": "long",
+"score": 0.8,
+"heard": "tiếng cây có phần gì",
+"dur": 1.28
+},
+"Tiếng mây có vần gì?": {
+"mode": "long",
+"score": 0.8,
+"heard": "tiếng mây có phân gì",
+"dur": 1.17
+},
+"Tiếng cơm có vần gì?": {
+"mode": "long",
+"score": 0.8,
+"heard": "tiếng cơm có phần gì",
+"dur": 1.27
+},
+"Tiếng kem có vần gì?": {
+"mode": "long",
+"score": 0.8,
+"heard": "tiếng kem có phần gì",
+"dur": 1.35
+},
+"Tiếng bóng có vần gì?": {
+"mode": "long",
+"score": 0.8,
+"heard": "tiếng bóng có phần gì",
+"dur": 1.3
+},
+"Tiếng sách có vần gì?": {
+"mode": "long",
+"score": 0.8,
+"heard": "tiếng sách có phần gì",
+"dur": 1.21
+},
+"Tiếng bánh có vần gì?": {
+"mode": "long",
+"score": 0.8,
+"heard": "tiếng bánh có phần gì",
+"dur": 1.21
+},
+"Tiếng mắt có vần gì?": {
+"mode": "long",
+"score": 0.8,
+"heard": "tiếng mắt có phần gì",
+"dur": 1.12
+},
+"Tiếng bút có vần gì?": {
+"mode": "long",
+"score": 0.8,
+"heard": "tiếng bút có phần gì",
+"dur": 1.21
+},
+"Tiếng cốc có vần gì?": {
+"mode": "long",
+"score": 0.8,
+"heard": "tiếng cốc có phần gì",
+"dur": 1.19
+},
+"Tiếng vịt có vần gì?": {
+"mode": "long",
+"score": 0.8,
+"heard": "tiếng vịt có phần gì",
+"dur": 1.28
+},
+"Tiếng sóc có vần gì?": {
+"mode": "long",
+"score": 0.8,
+"heard": "tiếng sóc có phần gì",
+"dur": 1.2
+},
+"Bé hãy tìm chữ ghi âm chờ nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy tìm chữ ghi âm chờ nhé",
+"dur": 1.94
+},
+"Bé hãy tìm chữ gờ kép nhé.": {
+"mode": "long",
+"score": 0.857,
+"heard": "bé hãy tìm chữ khơ kép nhé",
+"dur": 1.88,
+"target_ok": false
+},
+"Bé hãy tìm chữ ghi âm di nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy tìm chữ ghi âm di nhé",
+"dur": 1.97
+},
+"Bé hãy tìm chữ ghi âm khờ nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy tìm chữ ghi âm khờ nhé",
+"dur": 1.98
+},
+"Bé hãy tìm chữ ngờ đơn nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy tìm chữ ngờ đơn nhé",
+"dur": 1.87
+},
+"Bé hãy tìm chữ ngờ kép nhé.": {
+"mode": "long",
+"score": 0.714,
+"heard": "bé hãy tìm chữ ng nhé",
+"dur": 1.87,
+"target_ok": false
+},
+"Bé hãy tìm chữ ghi âm nhờ nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy tìm chữ ghi âm nhờ nhé",
+"dur": 2.0
+},
+"Bé hãy tìm chữ ghi âm phờ nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy tìm chữ ghi âm phờ nhé",
+"dur": 2.0
+},
+"Bé hãy tìm chữ ghi âm thờ nhé.": {
+"mode": "long",
+"score": 0.875,
+"heard": "bé hãy tìm chữ ghi âm nhé",
+"dur": 2.05,
+"target_ok": false
+},
+"Bé hãy tìm chữ ghi âm trờ nhé.": {
+"mode": "long",
+"score": 0.875,
+"heard": "bé hãy tìm chữ ghi âm chờ nhé",
+"dur": 2.05,
+"target_ok": false
+},
+"con kiến": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc con kiến nhé",
+"v": 2,
+"dur": 0.52
+},
+"cái gương": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc cái gương nhé",
+"v": 2,
+"dur": 0.58
+},
+"cái ghim": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc cái tím",
+"v": 2,
+"dur": 0.65
+},
+"con ngựa": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đặt con ngựa",
+"v": 2,
+"dur": 0.46
+},
+"lắng nghe": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc lắng nghe nhé",
+"v": 2,
+"dur": 0.53
+},
+"Bé có quả táo.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé có quả táo",
+"dur": 1.02
+},
+"Mẹ mua cá.": {
+"mode": "long",
+"score": 0.667,
+"heard": "mẹ mùa cá",
+"dur": 0.9
+},
+"Bố đi xe ô tô.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bố đi xe ô tô",
+"dur": 1.03
+},
+"Bà có con mèo.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bà có con mèo",
+"dur": 1.05
+},
+"Bé đội mũ.": {
+"mode": "long",
+"score": 0.667,
+"heard": "té đội mũ",
+"dur": 0.73
+},
+"Trời mưa to.": {
+"mode": "long",
+"score": 1.0,
+"heard": "trời mưa to",
+"dur": 0.79
+},
+"Con bò ăn cỏ.": {
+"mode": "long",
+"score": 0.75,
+"heard": "con vo ăn cỏ",
+"dur": 0.93
+},
+"Bé ăn kem.": {
+"mode": "long",
+"score": 0.667,
+"heard": "bé ăn kèm",
+"dur": 0.79
+},
+"Con khỉ trèo cây.": {
+"mode": "long",
+"score": 0.75,
+"heard": "con khỉ chèo cây",
+"dur": 1.11
+},
+"Con ong bay.": {
+"mode": "long",
+"score": 0.667,
+"heard": "con ong váy",
+"dur": 0.7
+},
+"Bé đọc sách.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé đọc sách",
+"dur": 0.82
+},
+"Mẹ nấu cơm.": {
+"mode": "long",
+"score": 1.0,
+"heard": "mẹ nấu cơm",
+"dur": 0.9
+},
+"Bé chơi bóng.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé chơi bóng",
+"dur": 0.9
+},
+"Ông trăng tròn.": {
+"mode": "long",
+"score": 1.0,
+"heard": "ông trăng tròn",
+"dur": 0.8
+},
+"Số liền sau của không là số nào?": {
+"mode": "long",
+"score": 1.0,
+"heard": "số liền sau của không là số nào",
+"dur": 1.94
+},
+"Số liền sau của một là số nào?": {
+"mode": "long",
+"score": 1.0,
+"heard": "số liền sau của một là số nào",
+"dur": 1.86
+},
+"Số liền trước của một là số nào?": {
+"mode": "long",
+"score": 1.0,
+"heard": "số liền trước của một là số nào",
+"dur": 1.87
+},
+"Số liền sau của hai là số nào?": {
+"mode": "long",
+"score": 1.0,
+"heard": "số liền sau của hai là số nào",
+"dur": 1.82
+},
+"Số liền trước của hai là số nào?": {
+"mode": "long",
+"score": 1.0,
+"heard": "số liền trước của hai là số nào",
+"dur": 1.86
+},
+"Số liền sau của ba là số nào?": {
+"mode": "long",
+"score": 0.875,
+"heard": "số liền sau của bà là số nào",
+"dur": 1.79,
+"target_ok": false
+},
+"Số liền trước của ba là số nào?": {
+"mode": "long",
+"score": 0.875,
+"heard": "số liền trước của bà là số nào",
+"dur": 1.84,
+"target_ok": false
+},
+"Số liền sau của bốn là số nào?": {
+"mode": "long",
+"score": 1.0,
+"heard": "số liền sau của bốn là số nào",
+"dur": 1.8
+},
+"Số liền trước của bốn là số nào?": {
+"mode": "long",
+"score": 1.0,
+"heard": "số liền trước của bốn là số nào",
+"dur": 1.87
+},
+"Số liền sau của năm là số nào?": {
+"mode": "long",
+"score": 1.0,
+"heard": "số liền sau của năm là số nào",
+"dur": 1.95
+},
+"Số liền trước của năm là số nào?": {
+"mode": "long",
+"score": 1.0,
+"heard": "số liền trước của năm là số nào",
+"dur": 1.88
+},
+"Số liền sau của sáu là số nào?": {
+"mode": "long",
+"score": 1.0,
+"heard": "số liền sau của sáu là số nào",
+"dur": 1.98
+},
+"Số liền trước của sáu là số nào?": {
+"mode": "long",
+"score": 1.0,
+"heard": "số liền trước của sáu là số nào",
+"dur": 1.92
+},
+"Số liền sau của bảy là số nào?": {
+"mode": "long",
+"score": 1.0,
+"heard": "số liền sau của bảy là số nào",
+"dur": 1.88
+},
+"Số liền trước của bảy là số nào?": {
+"mode": "long",
+"score": 1.0,
+"heard": "số liền trước của bảy là số nào",
+"dur": 1.82
+},
+"Số liền sau của tám là số nào?": {
+"mode": "long",
+"score": 1.0,
+"heard": "số liền sau của tám là số nào",
+"dur": 1.93
+},
+"Số liền trước của tám là số nào?": {
+"mode": "long",
+"score": 1.0,
+"heard": "số liền trước của tám là số nào",
+"dur": 1.93
+},
+"Số liền sau của chín là số nào?": {
+"mode": "long",
+"score": 1.0,
+"heard": "số liền sau của chín là số nào",
+"dur": 2.01
+},
+"Số liền trước của chín là số nào?": {
+"mode": "long",
+"score": 1.0,
+"heard": "số liền trước của chín là số nào",
+"dur": 1.89
+},
+"Số liền trước của mười là số nào?": {
+"mode": "long",
+"score": 1.0,
+"heard": "số liền trước của mười là số nào",
+"dur": 1.77
+},
+"hai gồm một và mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "hai gồm một và mấy",
+"dur": 1.24
+},
+"ba gồm một và mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "ba gồm một và mấy",
+"dur": 1.27
+},
+"ba gồm hai và mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "ba gồm hai và mấy",
+"dur": 1.26
+},
+"bốn gồm một và mấy?": {
+"mode": "long",
+"score": 0.8,
+"heard": "bốn câu một và mấy",
+"dur": 1.27
+},
+"bốn gồm hai và mấy?": {
+"mode": "long",
+"score": 0.8,
+"heard": "bốn hai và mấy",
+"dur": 1.38
+},
+"bốn gồm ba và mấy?": {
+"mode": "long",
+"score": 0.8,
+"heard": "bốn câu ba và mấy",
+"dur": 1.26
+},
+"năm gồm một và mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "năm gồm một và mấy",
+"dur": 1.24
+},
+"năm gồm hai và mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "năm gồm hai và mấy",
+"dur": 1.36
+},
+"năm gồm ba và mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "năm gồm ba và mấy",
+"dur": 1.32
+},
+"năm gồm bốn và mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "năm gồm bốn và mấy",
+"dur": 1.34
+},
+"sáu gồm một và mấy?": {
+"mode": "long",
+"score": 0.8,
+"heard": "sáu hồn một và mấy",
+"dur": 1.24
+},
+"sáu gồm hai và mấy?": {
+"mode": "long",
+"score": 0.8,
+"heard": "sáu hai và mấy",
+"dur": 1.24
+},
+"sáu gồm ba và mấy?": {
+"mode": "long",
+"score": 0.8,
+"heard": "sáu hồn ba pha mấy",
+"dur": 1.19,
+"target_ok": true
+},
+"sáu gồm bốn và mấy?": {
+"mode": "long",
+"score": 0.8,
+"heard": "sáu bốn và mấy",
+"dur": 1.42
+},
+"sáu gồm năm và mấy?": {
+"mode": "long",
+"score": 0.6,
+"heard": "sáu hồn năm pha mấy",
+"dur": 1.39
+},
+"bảy gồm một và mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "bảy gồm một và mấy",
+"dur": 1.21
+},
+"bảy gồm hai và mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "bảy gồm hai và mấy",
+"dur": 1.31
+},
+"bảy gồm ba và mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "bảy gồm ba và mấy",
+"dur": 1.24
+},
+"bảy gồm bốn và mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "bảy gồm bốn và mấy",
+"dur": 1.27
+},
+"bảy gồm năm và mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "bảy gồm năm và mấy",
+"dur": 1.39
+},
+"bảy gồm sáu và mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "bảy gồm sáu và mấy",
+"dur": 1.4
+},
+"tám gồm một và mấy?": {
+"mode": "long",
+"score": 0.8,
+"heard": "tám câu một và mấy",
+"dur": 1.21
+},
+"tám gồm hai và mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tám gồm hai và mấy",
+"dur": 1.27
+},
+"tám gồm ba và mấy?": {
+"mode": "long",
+"score": 0.6,
+"heard": "tám khuông ba và mấy",
+"dur": 1.22,
+"target_ok": true
+},
+"tám gồm bốn và mấy?": {
+"mode": "long",
+"score": 0.8,
+"heard": "tám khuông bốn và mấy",
+"dur": 1.32
+},
+"tám gồm năm và mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tám gồm năm và mấy",
+"dur": 1.32
+},
+"tám gồm sáu và mấy?": {
+"mode": "long",
+"score": 0.8,
+"heard": "tám sáu và mấy",
+"dur": 1.38
+},
+"tám gồm bảy và mấy?": {
+"mode": "long",
+"score": 0.8,
+"heard": "tám bảy và mấy",
+"dur": 1.4
+},
+"chín gồm một và mấy?": {
+"mode": "long",
+"score": 0.8,
+"heard": "chín câu một và mấy",
+"dur": 1.26
+},
+"chín gồm hai và mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "chín gồm hai và mấy",
+"dur": 1.24
+},
+"chín gồm ba và mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "chín gồm ba và mấy",
+"dur": 1.3
+},
+"chín gồm bốn và mấy?": {
+"mode": "long",
+"score": 0.6,
+"heard": "chín bốn và mấy",
+"dur": 1.28,
+"target_ok": true
+},
+"chín gồm năm và mấy?": {
+"mode": "long",
+"score": 0.8,
+"heard": "chín năm và mấy",
+"dur": 1.33
+},
+"chín gồm sáu và mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "chín gồm sáu và mấy",
+"dur": 1.54
+},
+"chín gồm bảy và mấy?": {
+"mode": "long",
+"score": 0.8,
+"heard": "chín bảy và mấy",
+"dur": 1.4
+},
+"chín gồm tám và mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "chín gồm tám và mấy",
+"dur": 1.33
+},
+"mười gồm một và mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "mười gồm một và mấy",
+"dur": 1.27
+},
+"mười gồm hai và mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "mười gồm hai và mấy",
+"dur": 1.33
+},
+"mười gồm ba và mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "mười gồm ba và mấy",
+"dur": 1.4
+},
+"mười gồm bốn và mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "mười gồm bốn và mấy",
+"dur": 1.44
+},
+"mười gồm năm và mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "mười gồm năm và mấy",
+"dur": 1.41
+},
+"mười gồm sáu và mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "mười gồm sáu và mấy",
+"dur": 1.45
+},
+"mười gồm bảy và mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "mười gồm bảy và mấy",
+"dur": 1.43
+},
+"mười gồm tám và mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "mười gồm tám và mấy",
+"dur": 1.38
+},
+"mười gồm chín và mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "mười gồm chín và mấy",
+"dur": 1.51
+},
+"một cộng không bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "một cộng không bằng mấy",
+"dur": 1.33
+},
+"không cộng một bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "không cộng một bằng mấy",
+"dur": 1.18
+},
+"một trừ không bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "một trừ không bằng mấy",
+"dur": 1.22
+},
+"một trừ một bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "một trừ một bằng mấy",
+"dur": 1.15
+},
+"hai cộng không bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "hai cộng không bằng mấy",
+"dur": 1.35
+},
+"không cộng hai bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "không cộng hai bằng mấy",
+"dur": 1.22
+},
+"hai trừ không bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "hai trừ không bằng mấy",
+"dur": 1.24
+},
+"ba cộng không bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "ba cộng không bằng mấy",
+"dur": 1.17
+},
+"không cộng ba bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "không cộng ba bằng mấy",
+"dur": 1.24
+},
+"ba trừ không bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "ba trừ không bằng mấy",
+"dur": 1.31
+},
+"bốn cộng không bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "bốn cộng không bằng mấy",
+"dur": 1.27
+},
+"không cộng bốn bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "không cộng bốn bằng mấy",
+"dur": 1.28
+},
+"bốn trừ không bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "bốn trừ không bằng mấy",
+"dur": 1.28
+},
+"năm cộng không bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "năm cộng không bằng mấy",
+"dur": 1.33
+},
+"không cộng năm bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "không cộng năm bằng mấy",
+"dur": 1.21
+},
+"năm trừ không bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "năm trừ không bằng mấy",
+"dur": 1.31
+},
+"sáu cộng không bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "sáu cộng không bằng mấy",
+"dur": 1.29
+},
+"không cộng sáu bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "không cộng sáu bằng mấy",
+"dur": 1.27
+},
+"sáu trừ không bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "sáu trừ không bằng mấy",
+"dur": 1.33
+},
+"bảy cộng không bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "bảy cộng không bằng mấy",
+"dur": 1.31
+},
+"không cộng bảy bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "không cộng bảy bằng mấy",
+"dur": 1.19
+},
+"bảy trừ không bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "bảy trừ không bằng mấy",
+"dur": 1.32
+},
+"tám cộng không bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tám cộng không bằng mấy",
+"dur": 1.27
+},
+"không cộng tám bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "không cộng tám bằng mấy",
+"dur": 1.25
+},
+"tám trừ không bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tám trừ không bằng mấy",
+"dur": 1.28
+},
+"chín cộng không bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "chín cộng không bằng mấy",
+"dur": 1.32
+},
+"không cộng chín bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "không cộng chín bằng mấy",
+"dur": 1.26
+},
+"chín trừ không bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "chín trừ không bằng mấy",
+"dur": 1.41
+},
+"Bé hãy tìm khối lập phương nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy tìm khối lập phương nhé",
+"dur": 1.7
+},
+"Bé hãy tìm khối hộp chữ nhật nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé hãy tìm khối hộp chữ nhật nhé",
+"dur": 2.08
+},
+"Bé chọn chữ đúng để điền vào chỗ trống nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé chọn chữ đúng để điền vào chỗ trống nhé",
+"dur": 2.44
+},
+"Bé đọc câu, rồi chọn tranh đúng nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé đọc câu rồi chọn tranh đúng nhé",
+"dur": 2.19
+},
+"Bé chọn dấu lớn hơn, dấu bé hơn hay dấu bằng nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé chọn dấu lớn hơn dấu bé hơn hay dấu bằng nhé",
+"dur": 3.24
+},
+"Bé chọn phép tính đúng với tranh nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé chọn phép tính đúng với tranh nhé",
+"dur": 1.96
+},
+"Bút chì nào dài hơn?": {
+"mode": "long",
+"score": 1.0,
+"heard": "bút chì nào dài hơn",
+"dur": 1.31
+},
+"Bút chì nào ngắn hơn?": {
+"mode": "long",
+"score": 1.0,
+"heard": "bút chì nào ngắn hơn",
+"dur": 1.38
+},
+"Cây nào cao hơn?": {
+"mode": "long",
+"score": 1.0,
+"heard": "cây nào cao hơn",
+"dur": 1.06
+},
+"Cây nào thấp hơn?": {
+"mode": "long",
+"score": 1.0,
+"heard": "cây nào thấp hơn",
+"dur": 0.97
+},
+"Đồng hồ chỉ mấy giờ?": {
+"mode": "long",
+"score": 1.0,
+"heard": "đồng hồ chỉ mấy giờ",
+"dur": 1.23
+},
+"Chữ ghép là hai, ba chữ cái ghép lại để ghi một âm.": {
+"mode": "long",
+"score": 0.846,
+"heard": "chữ khét là hai ba chữ cái khép lại để ghi một âm",
+"dur": 3.05
+},
+"Bé chạm vào số để đếm cùng cô nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé chạm vào số để đếm cùng cô nhé",
+"dur": 2.27
+},
+"Núi Phép Tính cao lắm. Bé làm phép cộng, phép trừ, tách số và xem đồng hồ để leo lên đỉnh nhé!": {
+"mode": "long",
+"score": 1.0,
+"heard": "núi phép tính cao lắm bé làm phép cộng phép trừ tách số và xem đồng hồ để leo lên đỉnh nhé",
+"dur": 5.32
+},
+"Bé vẽ con voi.": {
+"mode": "long",
+"score": 0.75,
+"heard": "bé vẽ con vòi",
+"dur": 1.07
+},
+"Mẹ bế em bé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "mẹ bế em bé",
+"dur": 1.0
+},
+"Bố đọc báo.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bố đọc báo",
+"dur": 0.87
+},
+"Gà trống gáy ò ó o.": {
+"mode": "long",
+"score": 0.5,
+"heard": "cà trống khái ò o",
+"dur": 1.23
+},
+"chôi": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc rồi",
+"v": 2,
+"dur": 0.49
+},
+"ôi": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc ủi",
+"v": 2,
+"dur": 0.36
+},
+"chổi": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc chổi nhé",
+"v": 2,
+"dur": 0.32
+},
+"cái chổi": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc cái chổi",
+"v": 2,
+"dur": 0.43
+},
+"bơi": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc bảy",
+"v": 2,
+"dur": 0.37
+},
+"ơi": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc ờ",
+"v": 2,
+"dur": 0.38
+},
+"bơi lội": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc bơi lội nhé",
+"v": 2,
+"dur": 0.3
+},
+"lêu": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc lưu",
+"v": 2,
+"dur": 0.44
+},
+"êu": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc thêm",
+"v": 2,
+"dur": 0.46
+},
+"lều": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc lều",
+"v": 2,
+"dur": 0.47
+},
+"cái lều": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc cái lều",
+"v": 2,
+"dur": 0.45
+},
+"riu": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc giường",
+"v": 2,
+"dur": 0.45
+},
+"iu": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc ừ",
+"v": 2,
+"dur": 0.42
+},
+"rìu": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc rìu nhé",
+"v": 2,
+"dur": 0.28
+},
+"cái rìu": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc cái rìu",
+"v": 2,
+"dur": 0.42
+},
+"cưu": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc từ",
+"v": 2,
+"dur": 0.47
+},
+"ưu": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc ưu nhé",
+"v": 2,
+"dur": 0.3
+},
+"cừu": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc cừu",
+"v": 2,
+"dur": 0.43
+},
+"con cừu": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc cou",
+"v": 2,
+"dur": 0.59
+},
+"tăm": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc tăm nhé",
+"v": 2,
+"dur": 0.27
+},
+"ăm": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc tám",
+"v": 2,
+"dur": 0.39
+},
+"tắm": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc tám",
+"v": 2,
+"dur": 0.44
+},
+"bồn tắm": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc bồn tắm",
+"v": 2,
+"dur": 0.71
+},
+"đêm": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc đêm",
+"v": 2,
+"dur": 0.46
+},
+"êm": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc án",
+"v": 2,
+"dur": 0.41
+},
+"ban đêm": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc ban đêm nhé",
+"v": 2,
+"dur": 0.56
+},
+"chim": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc chim nhé",
+"v": 2,
+"dur": 0.35
+},
+"im": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc ý",
+"v": 2,
+"dur": 0.47
+},
+"con chim": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc con chim",
+"v": 2,
+"dur": 0.5
+},
+"chum": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc trùm",
+"v": 2,
+"dur": 0.45
+},
+"um": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc um nhé",
+"v": 2,
+"dur": 0.33
+},
+"chùm": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc chùm",
+"v": 2,
+"dur": 0.42
+},
+"đan": {
+"mode": "short",
+"ok": false,
+"heard": "",
+"v": 2,
+"dur": 0.44
+},
+"an": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc án",
+"v": 2,
+"dur": 0.44
+},
+"đàn": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc đàn",
+"v": 2,
+"dur": 0.43
+},
+"cây đàn": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc cây đàn",
+"v": 2,
+"dur": 0.52
+},
+"khăn": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc cắn",
+"v": 2,
+"dur": 0.41
+},
+"ăn": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc ăn nhé",
+"v": 2,
+"dur": 0.3
+},
+"cái khăn": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc cái khăn",
+"v": 2,
+"dur": 0.58
+},
+"chân": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc chân nhé",
+"v": 2,
+"dur": 0.32
+},
+"ân": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc ấn",
+"v": 2,
+"dur": 0.45
+},
+"bàn chân": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc bàn chân nhé",
+"v": 2,
+"dur": 0.61
+},
+"nên": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc đến",
+"v": 2,
+"dur": 0.44
+},
+"ên": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc tên",
+"v": 2,
+"dur": 0.42
+},
+"nến": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc nến",
+"v": 2,
+"dur": 0.46
+},
+"cây nến": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc cây nến nhé",
+"v": 2,
+"dur": 0.29
+},
+"pin": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc thì",
+"v": 2,
+"dur": 0.46
+},
+"in": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc in nhé",
+"v": 2,
+"dur": 0.33
+},
+"non": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc nón",
+"v": 2,
+"dur": 0.52
+},
+"on": {
+"mode": "short",
+"ok": false,
+"heard": "",
+"v": 2,
+"dur": 0.4
+},
+"nón": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô mặc nón",
+"v": 2,
+"dur": 0.49
+},
+"cái nón": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc cái nón",
+"v": 2,
+"dur": 0.53
+},
+"giun": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc xuống",
+"v": 2,
+"dur": 0.38
+},
+"un": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc ốm",
+"v": 2,
+"dur": 0.37
+},
+"con giun": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc con dung",
+"v": 2,
+"dur": 0.59
+},
+"thang": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc tháng",
+"v": 2,
+"dur": 0.41
+},
+"ang": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc à",
+"v": 2,
+"dur": 0.44
+},
+"cái thang": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc cái thang",
+"v": 2,
+"dur": 0.61
+},
+"trăng": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc chán",
+"v": 2,
+"dur": 0.46
+},
+"ăng": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc thắng",
+"v": 2,
+"dur": 0.39
+},
+"ông trăng": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc cũng trắng",
+"v": 2,
+"dur": 0.55
+},
+"thung": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc thung nhé",
+"v": 2,
+"dur": 0.32
+},
+"ung": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc cũng",
+"v": 2,
+"dur": 0.37
+},
+"thùng": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc thùng nhé",
+"v": 2,
+"dur": 0.36
+},
+"cái thùng": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc cái thùng",
+"v": 2,
+"dur": 0.67
+},
+"trưng": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc chứng",
+"v": 2,
+"dur": 0.38
+},
+"ưng": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc ứng",
+"v": 2,
+"dur": 0.35
+},
+"trứng": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc chứng",
+"v": 2,
+"dur": 0.45
+},
+"quả trứng": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc quả trứng",
+"v": 2,
+"dur": 0.41
+},
+"kinh": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc kinh nhé",
+"v": 2,
+"dur": 0.3
+},
+"inh": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc ý",
+"v": 2,
+"dur": 0.43
+},
+"kính": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc kính",
+"v": 2,
+"dur": 0.39
+},
+"cái kính": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc cái kính",
+"v": 2,
+"dur": 0.65
+},
+"nhac": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc ngành hàng",
+"v": 2,
+"dur": 0.4
+},
+"ac": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc cái gì",
+"v": 2,
+"dur": 0.53
+},
+"nhạc": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc nhạc",
+"v": 2,
+"dur": 0.44
+},
+"âm nhạc": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc âm nhạc",
+"v": 2,
+"dur": 0.54
+},
+"cuc": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc còn",
+"v": 2,
+"dur": 0.32
+},
+"uc": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc à",
+"v": 2,
+"dur": 0.33
+},
+"cúc": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc quốc",
+"v": 2,
+"dur": 0.33
+},
+"hoa cúc": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc hoa cúc",
+"v": 2,
+"dur": 0.35
+},
+"mưc": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc mực",
+"v": 2,
+"dur": 0.36
+},
+"ưc": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc ở",
+"v": 2,
+"dur": 0.31
+},
+"mực": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc mực nhé",
+"v": 2,
+"dur": 0.3
+},
+"con mực": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc con mực nhé",
+"v": 2,
+"dur": 0.45
+},
+"êch": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc về",
+"v": 2,
+"dur": 0.41
+},
+"ếch": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc ít",
+"v": 2,
+"dur": 0.38
+},
+"lich": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc lý",
+"v": 2,
+"dur": 0.47
+},
+"ich": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc hình",
+"v": 2,
+"dur": 0.3
+},
+"lịch": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc lịch nhé",
+"v": 2,
+"dur": 0.37
+},
+"tờ lịch": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc tờ lịch nhé",
+"v": 2,
+"dur": 0.43
+},
+"hat": {
+"mode": "short",
+"ok": false,
+"heard": "",
+"v": 2,
+"dur": 0.35
+},
+"at": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc này",
+"v": 2,
+"dur": 0.35
+},
+"hát": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc hát",
+"v": 2,
+"dur": 0.43
+},
+"ca hát": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc ca hát",
+"v": 2,
+"dur": 0.5
+},
+"mât": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc mặt",
+"v": 2,
+"dur": 0.34
+},
+"ât": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc à",
+"v": 2,
+"dur": 0.33
+},
+"mật": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc mật nhé",
+"v": 2,
+"dur": 0.3
+},
+"mật ong": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc mật ong",
+"v": 2,
+"dur": 0.43
+},
+"vet": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc vè",
+"v": 2,
+"dur": 0.42
+},
+"et": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc ke",
+"v": 2,
+"dur": 0.35
+},
+"vẹt": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc vẹt nhé",
+"v": 2,
+"dur": 0.27
+},
+"con vẹt": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc con vẹt",
+"v": 2,
+"dur": 0.37
+},
+"rôt": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc giờ",
+"v": 2,
+"dur": 0.35
+},
+"ôt": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc của",
+"v": 2,
+"dur": 0.34
+},
+"rốt": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc rốt",
+"v": 2,
+"dur": 0.35
+},
+"cà rốt": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc cà rốt",
+"v": 2,
+"dur": 0.35
+},
+"ơt": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc ở",
+"v": 2,
+"dur": 0.33
+},
+"ớt": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc ớt",
+"v": 2,
+"dur": 0.36
+},
+"thap": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc phạt",
+"v": 2,
+"dur": 0.34
+},
+"ap": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc à",
+"v": 2,
+"dur": 0.37
+},
+"tháp": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc tháp nhé",
+"v": 2,
+"dur": 0.32
+},
+"cái tháp": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc cái tháp",
+"v": 2,
+"dur": 0.6
+},
+"băp": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc bàn",
+"v": 2,
+"dur": 0.37
+},
+"ăp": {
+"mode": "short",
+"ok": false,
+"heard": "",
+"v": 2,
+"dur": 0.33
+},
+"bắp": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc bác",
+"v": 2,
+"dur": 0.41
+},
+"mâp": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc mật",
+"v": 2,
+"dur": 0.36
+},
+"âp": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc ờ",
+"v": 2,
+"dur": 0.35
+},
+"mập": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc mặt",
+"v": 2,
+"dur": 0.38
+},
+"cá mập": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc cá mập nhé",
+"v": 2,
+"dur": 0.29
+},
+"dep": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc đẹp",
+"v": 2,
+"dur": 0.36
+},
+"ep": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc kẹp",
+"v": 2,
+"dur": 0.38
+},
+"dép": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc dép",
+"v": 2,
+"dur": 0.39
+},
+"đôi dép": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc đôi dép",
+"v": 2,
+"dur": 0.36
+},
+"bêp": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc đề",
+"v": 2,
+"dur": 0.42
+},
+"êp": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc e",
+"v": 2,
+"dur": 0.39
+},
+"bếp": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc bếp",
+"v": 2,
+"dur": 0.43
+},
+"nhà bếp": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc nhà bếp",
+"v": 2,
+"dur": 0.58
+},
+"cop": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc à",
+"v": 2,
+"dur": 0.36
+},
+"op": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc vào",
+"v": 2,
+"dur": 0.39
+},
+"cọp": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc à",
+"v": 2,
+"dur": 0.36
+},
+"con cọp": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc con cọp nhé",
+"v": 2,
+"dur": 0.3
+},
+"hôp": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc hộp",
+"v": 2,
+"dur": 0.37
+},
+"ôp": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc gồm",
+"v": 2,
+"dur": 0.34
+},
+"hộp": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc hộp",
+"v": 2,
+"dur": 0.39
+},
+"cái hộp": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc cái hộp",
+"v": 2,
+"dur": 0.55
+},
+"lơp": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc đơn",
+"v": 2,
+"dur": 0.42
+},
+"ơp": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc cơm",
+"v": 2,
+"dur": 0.38
+},
+"lớp": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc lớp",
+"v": 2,
+"dur": 0.46
+},
+"lớp học": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc lớp học",
+"v": 2,
+"dur": 0.53
+},
+"ma": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc mạng",
+"v": 2,
+"dur": 0.38
+},
+"mà": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc mà",
+"v": 2,
+"dur": 0.45
+},
+"má": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc má",
+"v": 2,
+"dur": 0.49
+},
+"mả": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc mả nhé",
+"v": 2,
+"dur": 0.32
+},
+"mã": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc mã nhé",
+"v": 2,
+"dur": 0.33
+},
+"mạ": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc mạng",
+"v": 2,
+"dur": 0.41
+},
+"thanh ngang": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc thanh ngang nhé",
+"v": 2,
+"dur": 0.42
+},
+"dấu huyền": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc dấu huyền nhé",
+"v": 2,
+"dur": 0.62
+},
+"dấu sắc": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc dấu sắc nhé",
+"v": 2,
+"dur": 0.46
+},
+"dấu hỏi": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc dấu hỏi",
+"v": 2,
+"dur": 0.6
+},
+"dấu ngã": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc dấu",
+"v": 2,
+"dur": 0.63
+},
+"dấu nặng": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc dấu nặng nhé",
+"v": 2,
+"dur": 0.52
+},
+"một cộng một bằng hai.": {
+"mode": "long",
+"score": 1.0,
+"heard": "một cộng một bằng hai",
+"dur": 1.24
+},
+"hai trừ một bằng một.": {
+"mode": "long",
+"score": 1.0,
+"heard": "hai trừ một bằng một",
+"dur": 1.09
+},
+"một cộng hai bằng ba.": {
+"mode": "long",
+"score": 1.0,
+"heard": "một cộng hai bằng ba",
+"dur": 1.12
+},
+"ba trừ một bằng hai.": {
+"mode": "long",
+"score": 1.0,
+"heard": "ba trừ một bằng hai",
+"dur": 1.13
+},
+"hai cộng một bằng ba.": {
+"mode": "long",
+"score": 1.0,
+"heard": "hai cộng một bằng ba",
+"dur": 1.17
+},
+"ba trừ hai bằng một.": {
+"mode": "long",
+"score": 1.0,
+"heard": "ba trừ hai bằng một",
+"dur": 1.07
+},
+"một cộng ba bằng bốn.": {
+"mode": "long",
+"score": 1.0,
+"heard": "một cộng ba bằng bốn",
+"dur": 1.26
+},
+"bốn trừ một bằng ba.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bốn trừ một bằng ba",
+"dur": 1.2
+},
+"hai cộng hai bằng bốn.": {
+"mode": "long",
+"score": 1.0,
+"heard": "hai cộng hai bằng bốn",
+"dur": 1.26
+},
+"bốn trừ hai bằng hai.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bốn trừ hai bằng hai",
+"dur": 1.19
+},
+"ba cộng một bằng bốn.": {
+"mode": "long",
+"score": 1.0,
+"heard": "ba cộng một bằng bốn",
+"dur": 1.24
+},
+"bốn trừ ba bằng một.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bốn trừ ba bằng một",
+"dur": 1.02
+},
+"một cộng bốn bằng năm.": {
+"mode": "long",
+"score": 1.0,
+"heard": "một cộng bốn bằng năm",
+"dur": 1.22
+},
+"năm trừ một bằng bốn.": {
+"mode": "long",
+"score": 1.0,
+"heard": "năm trừ một bằng bốn",
+"dur": 1.22
+},
+"hai cộng ba bằng năm.": {
+"mode": "long",
+"score": 1.0,
+"heard": "hai cộng ba bằng năm",
+"dur": 1.23
+},
+"năm trừ hai bằng ba.": {
+"mode": "long",
+"score": 1.0,
+"heard": "năm trừ hai bằng ba",
+"dur": 1.15
+},
+"ba cộng hai bằng năm.": {
+"mode": "long",
+"score": 1.0,
+"heard": "ba cộng hai bằng năm",
+"dur": 1.19
+},
+"năm trừ ba bằng hai.": {
+"mode": "long",
+"score": 1.0,
+"heard": "năm trừ ba bằng hai",
+"dur": 1.2
+},
+"bốn cộng một bằng năm.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bốn cộng một bằng năm",
+"dur": 1.23
+},
+"năm trừ bốn bằng một.": {
+"mode": "long",
+"score": 1.0,
+"heard": "năm trừ bốn bằng một",
+"dur": 1.13
+},
+"một cộng năm bằng sáu.": {
+"mode": "long",
+"score": 1.0,
+"heard": "một cộng năm bằng sáu",
+"dur": 1.31
+},
+"sáu trừ một bằng năm.": {
+"mode": "long",
+"score": 1.0,
+"heard": "sáu trừ một bằng năm",
+"dur": 1.29
+},
+"hai cộng bốn bằng sáu.": {
+"mode": "long",
+"score": 1.0,
+"heard": "hai cộng bốn bằng sáu",
+"dur": 1.38
+},
+"sáu trừ hai bằng bốn.": {
+"mode": "long",
+"score": 1.0,
+"heard": "sáu trừ hai bằng bốn",
+"dur": 1.32
+},
+"ba cộng ba bằng sáu.": {
+"mode": "long",
+"score": 1.0,
+"heard": "ba cộng ba bằng sáu",
+"dur": 1.31
+},
+"sáu trừ ba bằng ba.": {
+"mode": "long",
+"score": 1.0,
+"heard": "sáu trừ ba bằng ba",
+"dur": 1.23
+},
+"bốn cộng hai bằng sáu.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bốn cộng hai bằng sáu",
+"dur": 1.41
+},
+"sáu trừ bốn bằng hai.": {
+"mode": "long",
+"score": 1.0,
+"heard": "sáu trừ bốn bằng hai",
+"dur": 1.36
+},
+"năm cộng một bằng sáu.": {
+"mode": "long",
+"score": 1.0,
+"heard": "năm cộng một bằng sáu",
+"dur": 1.39
+},
+"sáu trừ năm bằng một.": {
+"mode": "long",
+"score": 1.0,
+"heard": "sáu trừ năm bằng một",
+"dur": 1.14
+},
+"một cộng sáu bằng bảy.": {
+"mode": "long",
+"score": 1.0,
+"heard": "một cộng sáu bằng bảy",
+"dur": 1.25
+},
+"bảy trừ một bằng sáu.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bảy trừ một bằng sáu",
+"dur": 1.35
+},
+"hai cộng năm bằng bảy.": {
+"mode": "long",
+"score": 1.0,
+"heard": "hai cộng năm bằng bảy",
+"dur": 1.23
+},
+"bảy trừ hai bằng năm.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bảy trừ hai bằng năm",
+"dur": 1.17
+},
+"ba cộng bốn bằng bảy.": {
+"mode": "long",
+"score": 1.0,
+"heard": "ba cộng bốn bằng bảy",
+"dur": 1.29
+},
+"bảy trừ ba bằng bốn.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bảy trừ ba bằng bốn",
+"dur": 1.2
+},
+"bốn cộng ba bằng bảy.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bốn cộng ba bằng bảy",
+"dur": 1.2
+},
+"bảy trừ bốn bằng ba.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bảy trừ bốn bằng ba",
+"dur": 1.26
+},
+"năm cộng hai bằng bảy.": {
+"mode": "long",
+"score": 1.0,
+"heard": "năm cộng hai bằng bảy",
+"dur": 1.23
+},
+"bảy trừ năm bằng hai.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bảy trừ năm bằng hai",
+"dur": 1.28
+},
+"sáu cộng một bằng bảy.": {
+"mode": "long",
+"score": 1.0,
+"heard": "sáu cộng một bằng bảy",
+"dur": 1.32
+},
+"bảy trừ sáu bằng một.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bảy trừ sáu bằng một",
+"dur": 1.26
+},
+"một cộng bảy bằng tám.": {
+"mode": "long",
+"score": 1.0,
+"heard": "một cộng bảy bằng tám",
+"dur": 1.31
+},
+"tám trừ một bằng bảy.": {
+"mode": "long",
+"score": 1.0,
+"heard": "tám trừ một bằng bảy",
+"dur": 1.18
+},
+"hai cộng sáu bằng tám.": {
+"mode": "long",
+"score": 1.0,
+"heard": "hai cộng sáu bằng tám",
+"dur": 1.39
+},
+"tám trừ hai bằng sáu.": {
+"mode": "long",
+"score": 1.0,
+"heard": "tám trừ hai bằng sáu",
+"dur": 1.43
+},
+"ba cộng năm bằng tám.": {
+"mode": "long",
+"score": 1.0,
+"heard": "ba cộng năm bằng tám",
+"dur": 1.32
+},
+"tám trừ ba bằng năm.": {
+"mode": "long",
+"score": 1.0,
+"heard": "tám trừ ba bằng năm",
+"dur": 1.14
+},
+"bốn cộng bốn bằng tám.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bốn cộng bốn bằng tám",
+"dur": 1.31
+},
+"tám trừ bốn bằng bốn.": {
+"mode": "long",
+"score": 1.0,
+"heard": "tám trừ bốn bằng bốn",
+"dur": 1.31
+},
+"năm cộng ba bằng tám.": {
+"mode": "long",
+"score": 1.0,
+"heard": "năm cộng ba bằng tám",
+"dur": 1.32
+},
+"tám trừ năm bằng ba.": {
+"mode": "long",
+"score": 1.0,
+"heard": "tám trừ năm bằng ba",
+"dur": 1.25
+},
+"sáu cộng hai bằng tám.": {
+"mode": "long",
+"score": 1.0,
+"heard": "sáu cộng hai bằng tám",
+"dur": 1.4
+},
+"tám trừ sáu bằng hai.": {
+"mode": "long",
+"score": 1.0,
+"heard": "tám trừ sáu bằng hai",
+"dur": 1.34
+},
+"bảy cộng một bằng tám.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bảy cộng một bằng tám",
+"dur": 1.28
+},
+"tám trừ bảy bằng một.": {
+"mode": "long",
+"score": 1.0,
+"heard": "tám trừ bảy bằng một",
+"dur": 1.16
+},
+"một cộng tám bằng chín.": {
+"mode": "long",
+"score": 1.0,
+"heard": "một cộng tám bằng chín",
+"dur": 1.28
+},
+"chín trừ một bằng tám.": {
+"mode": "long",
+"score": 1.0,
+"heard": "chín trừ một bằng tám",
+"dur": 1.25
+},
+"hai cộng bảy bằng chín.": {
+"mode": "long",
+"score": 1.0,
+"heard": "hai cộng bảy bằng chín",
+"dur": 1.38
+},
+"chín trừ hai bằng bảy.": {
+"mode": "long",
+"score": 0.8,
+"heard": "chín trừ hai bằng bảy",
+"dur": 1.11,
+"target_ok": true
+},
+"ba cộng sáu bằng chín.": {
+"mode": "long",
+"score": 1.0,
+"heard": "ba cộng sáu bằng chín",
+"dur": 1.37
+},
+"chín trừ ba bằng sáu.": {
+"mode": "long",
+"score": 1.0,
+"heard": "chín trừ ba bằng sáu",
+"dur": 1.34
+},
+"bốn cộng năm bằng chín.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bốn cộng năm bằng chín",
+"dur": 1.37
+},
+"chín trừ bốn bằng năm.": {
+"mode": "long",
+"score": 1.0,
+"heard": "chín trừ bốn bằng năm",
+"dur": 1.31
+},
+"năm cộng bốn bằng chín.": {
+"mode": "long",
+"score": 1.0,
+"heard": "năm cộng bốn bằng chín",
+"dur": 1.37
+},
+"chín trừ năm bằng bốn.": {
+"mode": "long",
+"score": 1.0,
+"heard": "chín trừ năm bằng bốn",
+"dur": 1.28
+},
+"sáu cộng ba bằng chín.": {
+"mode": "long",
+"score": 1.0,
+"heard": "sáu cộng ba bằng chín",
+"dur": 1.3
+},
+"chín trừ sáu bằng ba.": {
+"mode": "long",
+"score": 1.0,
+"heard": "chín trừ sáu bằng ba",
+"dur": 1.21
+},
+"bảy cộng hai bằng chín.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bảy cộng hai bằng chín",
+"dur": 1.38
+},
+"chín trừ bảy bằng hai.": {
+"mode": "long",
+"score": 1.0,
+"heard": "chín trừ bảy bằng hai",
+"dur": 1.22
+},
+"tám cộng một bằng chín.": {
+"mode": "long",
+"score": 1.0,
+"heard": "tám cộng một bằng chín",
+"dur": 1.27
+},
+"chín trừ tám bằng một.": {
+"mode": "long",
+"score": 1.0,
+"heard": "chín trừ tám bằng một",
+"dur": 1.18
+},
+"một cộng chín bằng mười.": {
+"mode": "long",
+"score": 1.0,
+"heard": "một cộng chín bằng mười",
+"dur": 1.22
+},
+"mười trừ một bằng chín.": {
+"mode": "long",
+"score": 1.0,
+"heard": "mười trừ một bằng chín",
+"dur": 1.37
+},
+"hai cộng tám bằng mười.": {
+"mode": "long",
+"score": 1.0,
+"heard": "hai cộng tám bằng mười",
+"dur": 1.24
+},
+"mười trừ hai bằng tám.": {
+"mode": "long",
+"score": 1.0,
+"heard": "mười trừ hai bằng tám",
+"dur": 1.37
+},
+"ba cộng bảy bằng mười.": {
+"mode": "long",
+"score": 1.0,
+"heard": "ba cộng bảy bằng mười",
+"dur": 1.27
+},
+"mười trừ ba bằng bảy.": {
+"mode": "long",
+"score": 1.0,
+"heard": "mười trừ ba bằng bảy",
+"dur": 1.22
+},
+"bốn cộng sáu bằng mười.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bốn cộng sáu bằng mười",
+"dur": 1.37
+},
+"mười trừ bốn bằng sáu.": {
+"mode": "long",
+"score": 1.0,
+"heard": "mười trừ bốn bằng sáu",
+"dur": 1.57
+},
+"năm cộng năm bằng mười.": {
+"mode": "long",
+"score": 1.0,
+"heard": "năm cộng năm bằng mười",
+"dur": 1.32
+},
+"mười trừ năm bằng năm.": {
+"mode": "long",
+"score": 1.0,
+"heard": "mười trừ năm bằng năm",
+"dur": 1.23
+},
+"sáu cộng bốn bằng mười.": {
+"mode": "long",
+"score": 1.0,
+"heard": "sáu cộng bốn bằng mười",
+"dur": 1.37
+},
+"mười trừ sáu bằng bốn.": {
+"mode": "long",
+"score": 1.0,
+"heard": "mười trừ sáu bằng bốn",
+"dur": 1.5
+},
+"bảy cộng ba bằng mười.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bảy cộng ba bằng mười",
+"dur": 1.25
+},
+"mười trừ bảy bằng ba.": {
+"mode": "long",
+"score": 1.0,
+"heard": "mười trừ bảy bằng ba",
+"dur": 1.29
+},
+"tám cộng hai bằng mười.": {
+"mode": "long",
+"score": 1.0,
+"heard": "tám cộng hai bằng mười",
+"dur": 1.25
+},
+"mười trừ tám bằng hai.": {
+"mode": "long",
+"score": 1.0,
+"heard": "mười trừ tám bằng hai",
+"dur": 1.32
+},
+"chín cộng một bằng mười.": {
+"mode": "long",
+"score": 1.0,
+"heard": "chín cộng một bằng mười",
+"dur": 1.24
+},
+"mười trừ chín bằng một.": {
+"mode": "long",
+"score": 1.0,
+"heard": "mười trừ chín bằng một",
+"dur": 1.27
+},
+"năm lớn hơn ba.": {
+"mode": "long",
+"score": 1.0,
+"heard": "năm lớn hơn ba",
+"dur": 1.06
+},
+"hai bé hơn sáu.": {
+"mode": "long",
+"score": 1.0,
+"heard": "hai bé hơn sáu",
+"dur": 1.16
+},
+"bốn bằng bốn.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bốn bằng bốn",
+"dur": 0.8
+},
+"chín lớn hơn bảy.": {
+"mode": "long",
+"score": 1.0,
+"heard": "chín lớn hơn bảy",
+"dur": 0.98
+},
+"một bé hơn tám.": {
+"mode": "long",
+"score": 1.0,
+"heard": "một bé hơn tám",
+"dur": 1.09
+},
+"mười bằng mười.": {
+"mode": "long",
+"score": 1.0,
+"heard": "mười bằng mười",
+"dur": 0.9
+},
+"hình tròn": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc hình tròn",
+"v": 2,
+"dur": 0.47
+},
+"hình vuông": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc hình vuông",
+"v": 2,
+"dur": 0.4
+},
+"hình tam giác": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc hình tam giác",
+"v": 2,
+"dur": 0.78
+},
+"hình chữ nhật": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc hình chữ nhật",
+"v": 2,
+"dur": 0.73
+},
+"khối lập phương": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc khối lập phương",
+"v": 2,
+"dur": 0.83
+},
+"khối hộp chữ nhật": {
+"mode": "long",
+"score": 1.0,
+"heard": "khối hộp chữ nhật",
+"dur": 0.88
+},
+"một giờ": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc một giờ",
+"v": 2,
+"dur": 0.68
+},
+"hai giờ": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc hai giờ",
+"v": 2,
+"dur": 0.67
+},
+"ba giờ": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc ba giờ",
+"v": 2,
+"dur": 0.7
+},
+"bốn giờ": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc bốn giờ",
+"v": 2,
+"dur": 0.68
+},
+"năm giờ": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc năm giờ",
+"v": 2,
+"dur": 0.73
+},
+"sáu giờ": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc sáu giờ",
+"v": 2,
+"dur": 0.63
+},
+"bảy giờ": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc bảy giờ",
+"v": 2,
+"dur": 0.66
+},
+"tám giờ": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc tám giờ",
+"v": 2,
+"dur": 0.65
+},
+"chín giờ": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc chín giờ",
+"v": 2,
+"dur": 0.68
+},
+"mười giờ": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc mười giờ",
+"v": 2,
+"dur": 0.66
+},
+"mười một giờ": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc mười một giờ",
+"v": 2,
+"dur": 0.79
+},
+"mười hai giờ": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc mười hai giờ",
+"v": 2,
+"dur": 0.84
+},
+"Bé chọn một trang trong sổ bí kíp nhé.": {
+"mode": "long",
+"score": 0.889,
+"heard": "bé chọn một trang trong sổ bí kích nhé",
+"dur": 2.23
+},
+"Bé chạm vào một vần để nghe cô đánh vần nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé chạm vào một vần để nghe cô đánh vần nhé",
+"dur": 2.42
+},
+"Bé chạm vào từng tiếng để nghe sáu thanh nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé chạm vào từng tiếng để nghe sáu thanh nhé",
+"dur": 2.45
+},
+"Bé tự đọc câu, rồi chạm vào để nghe cô đọc nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé tự đọc câu rồi chạm vào để nghe cô đọc nhé",
+"dur": 3.18
+},
+"Bé chạm vào phép tính để nghe cô đọc nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé chạm vào phép tính để nghe cô đọc nhé",
+"dur": 2.3
+},
+"Bé chạm vào hình để nghe tên hình nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé chạm vào hình để nghe tên hình nhé",
+"dur": 2.33
+},
+"Kim dài chỉ số mười hai, kim ngắn chỉ số mấy thì là mấy giờ.": {
+"mode": "long",
+"score": 0.867,
+"heard": "kinh dài chỉ số mười hai kinh ngắn chỉ số mấy thì là mấy giờ",
+"dur": 3.62
+},
+"Đầu nhọn của dấu luôn chỉ vào số bé hơn.": {
+"mode": "long",
+"score": 1.0,
+"heard": "đầu nhọn của dấu luôn chỉ vào số bé hơn",
+"dur": 2.46
+}
+}

@@ -1,0 +1,8 @@
+tools/tts/models/
+tools/tts/*.log
+tests/out/
+__pycache__/
+*.zip
+.DS_Store
+tools/tts/vits-piper-*/
+tools/tts/sherpa-onnx-*/
