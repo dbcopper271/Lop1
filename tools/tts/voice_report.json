@@ -9,9 +9,9 @@
 "á": {
 "mode": "short",
 "ok": true,
-"heard": "(tách từ lá, sắc)",
-"v": 8,
-"dur": 0.34
+"heard": "(trích từ lá, heard)",
+"v": 11,
+"dur": 0.43
 },
 "ăn cơm": {
 "mode": "short",
@@ -23,10 +23,9 @@
 "ớ": {
 "mode": "short",
 "ok": true,
-"heard": "(nguyên âm tự nhiên + giãn nhẹ)",
-"v": 7,
-"dur": 0.64,
-"ms": 409
+"heard": "(trích từ mớ, pos)",
+"v": 11,
+"dur": 0.4
 },
 "cái ấm": {
 "mode": "short",
@@ -38,9 +37,9 @@
 "bờ": {
 "mode": "short",
 "ok": true,
-"heard": "bây giờ cô đọc bờ nhé",
-"v": 2,
-"dur": 0.36
+"heard": "bây giờ cô bờ cho anh né (heard)",
+"v": 11,
+"dur": 0.45
 },
 "con bò": {
 "mode": "short",
@@ -51,10 +50,10 @@
 },
 "cờ": {
 "mode": "short",
-"ok": true,
-"heard": "bây giờ cô đọc cờ",
-"v": 2,
-"dur": 0.4
+"ok": "carrier",
+"heard": "bây giờ cô cho anh nghe (dip)",
+"v": 11,
+"dur": 0.33
 },
 "con cá": {
 "mode": "short",
@@ -73,9 +72,9 @@
 "đờ": {
 "mode": "short",
 "ok": true,
-"heard": "bây giờ cô đọc đờ",
-"v": 2,
-"dur": 0.45
+"heard": "cô đọc to đờ cho em nghe (heard)",
+"v": 11,
+"dur": 0.4
 },
 "bóng đèn": {
 "mode": "short",
@@ -101,9 +100,9 @@
 "hờ": {
 "mode": "short",
 "ok": true,
-"heard": "bây giờ cô đọc hờ",
-"v": 2,
-"dur": 0.46
+"heard": "bây giờ cô hờ cho em nghe (heard)",
+"v": 11,
+"dur": 0.48
 },
 "bông hoa": {
 "mode": "short",
@@ -122,9 +121,9 @@
 "ca": {
 "mode": "short",
 "ok": true,
-"heard": "bây giờ cô đọc ca",
-"v": 2,
-"dur": 0.38
+"heard": "bây giờ cô ca cho em nghe (heard)",
+"v": 11,
+"dur": 0.52
 },
 "que kem": {
 "mode": "short",
@@ -136,9 +135,9 @@
 "lờ": {
 "mode": "short",
 "ok": true,
-"heard": "bây giờ cô đọc lờ",
-"v": 2,
-"dur": 0.44
+"heard": "bây giờ cô lờ cho anh nghe (heard)",
+"v": 11,
+"dur": 0.48
 },
 "chiếc lá": {
 "mode": "short",
@@ -150,9 +149,9 @@
 "mờ": {
 "mode": "short",
 "ok": true,
-"heard": "bây giờ cô đọc mờ",
-"v": 2,
-"dur": 0.47
+"heard": "em nghe cô mờ cho vui nhé (heard)",
+"v": 11,
+"dur": 0.42
 },
 "con mèo": {
 "mode": "short",
@@ -164,9 +163,9 @@
 "nờ": {
 "mode": "short",
 "ok": true,
-"heard": "bây giờ cô đọc nờ",
-"v": 2,
-"dur": 0.48
+"heard": "bây giờ cô nờ cho em nghe (heard)",
+"v": 11,
+"dur": 0.38
 },
 "quả ớt": {
 "mode": "short",
@@ -199,9 +198,9 @@
 "tờ": {
 "mode": "short",
 "ok": true,
-"heard": "bây giờ cô đọc tờ nhé",
-"v": 2,
-"dur": 0.33
+"heard": "bây giờ cô tờ cho em nghe (heard)",
+"v": 11,
+"dur": 0.36
 },
 "quả táo": {
 "mode": "short",
@@ -220,9 +219,9 @@
 "vờ": {
 "mode": "short",
 "ok": true,
-"heard": "bây giờ cô đọc vờ",
-"v": 2,
-"dur": 0.46
+"heard": "bây giờ cô vờ cho em nghe (heard)",
+"v": 11,
+"dur": 0.32
 },
 "xe ô tô": {
 "mode": "short",
@@ -241,58 +240,58 @@
 "một": {
 "mode": "short",
 "ok": true,
-"heard": "bây giờ cô đọc một",
-"v": 2,
+"heard": "bây giờ cô một cho anh nè (heard)",
+"v": 11,
 "dur": 0.4
 },
 "hai": {
 "mode": "short",
 "ok": true,
-"heard": "bây giờ cô đọc hai nhé",
-"v": 2,
-"dur": 0.28
+"heard": "bây giờ cô hai cho ăn nè (heard)",
+"v": 11,
+"dur": 0.46
 },
 "bốn": {
 "mode": "short",
 "ok": true,
-"heard": "bây giờ cô đọc bốn",
-"v": 2,
-"dur": 0.48
+"heard": "em nghe cô bốn cho vui nhé (heard)",
+"v": 11,
+"dur": 0.5
 },
 "năm": {
 "mode": "short",
 "ok": true,
-"heard": "bây giờ cô bọc năm",
-"v": 2,
-"dur": 0.45
+"heard": "em nghe cô năm cho vui nhé (heard)",
+"v": 11,
+"dur": 0.34
 },
 "sáu": {
 "mode": "short",
 "ok": true,
-"heard": "bây giờ cô đọc sáu",
-"v": 2,
-"dur": 0.47
+"heard": "bây giờ cô sáu cho em nghe (heard)",
+"v": 11,
+"dur": 0.36
 },
 "tám": {
 "mode": "short",
 "ok": true,
-"heard": "bây giờ cô đọc tám",
-"v": 2,
-"dur": 0.46
+"heard": "bây giờ cô tám cho em nghe (heard)",
+"v": 11,
+"dur": 0.36
 },
 "chín": {
 "mode": "short",
 "ok": true,
-"heard": "bây giờ cô đọc chín",
-"v": 2,
-"dur": 0.47
+"heard": "bây giờ cô chín cho em nghe (heard)",
+"v": 11,
+"dur": 0.35
 },
 "mười": {
 "mode": "short",
 "ok": true,
-"heard": "bây giờ cô đọc mười nhé",
-"v": 2,
-"dur": 0.32
+"heard": "bây giờ cô mười cho em nghe (heard)",
+"v": 11,
+"dur": 0.48
 },
 "bà": {
 "mode": "short",
@@ -1252,10 +1251,10 @@
 },
 "rổ": {
 "mode": "short",
-"ok": "carrier",
-"heard": "bây giờ cô đọc rồi",
-"v": 2,
-"dur": 0.41
+"ok": true,
+"heard": "bây giờ cô rổ cho em nghe (heard)",
+"v": 11,
+"dur": 0.32
 },
 "đá": {
 "mode": "short",
@@ -1288,16 +1287,16 @@
 "sao": {
 "mode": "short",
 "ok": true,
-"heard": "bây giờ cô đọc sao",
-"v": 2,
-"dur": 0.43
+"heard": "bây giờ cô sao cho em nghe (heard)",
+"v": 11,
+"dur": 0.32
 },
 "tao": {
 "mode": "short",
-"ok": true,
-"heard": "bây giờ cô đọc tao nhé",
-"v": 2,
-"dur": 0.34
+"ok": "carrier",
+"heard": "cô đọc to táo cho em nghe (pos)",
+"v": 11,
+"dur": 0.35
 },
 "táo": {
 "mode": "short",
@@ -1449,9 +1448,9 @@
 "âu": {
 "mode": "short",
 "ok": true,
-"heard": "bây giờ cô đọc âu nhé",
-"v": 2,
-"dur": 0.3
+"heard": "(trích từ sâu, heard)",
+"v": 11,
+"dur": 0.28
 },
 "con gấu": {
 "mode": "short",
@@ -1533,16 +1532,20 @@
 "em": {
 "mode": "short",
 "ok": true,
-"heard": "bây giờ cô đọc em nhé",
-"v": 2,
-"dur": 0.3
+"heard": "(trích từ tem, pos)",
+"v": 11,
+"dur": 0.42,
+"f0": {
+"drop": 0.0,
+"rng": 1.9
+}
 },
 "kem": {
 "mode": "short",
-"ok": true,
-"heard": "bây giờ cô đọc kem nhé",
-"v": 2,
-"dur": 0.34
+"ok": "carrier",
+"heard": "bây giờ cô khen cho em nghe (pos)",
+"v": 11,
+"dur": 0.53
 },
 "huyền": {
 "mode": "short",
@@ -1917,32 +1920,30 @@
 "a": {
 "mode": "short",
 "ok": true,
-"heard": "(tách từ ma, phẳng)",
-"v": 8,
-"dur": 0.25
+"heard": "(trích từ ma, heard)",
+"v": 11,
+"dur": 0.41
 },
 "dờ": {
 "mode": "short",
 "ok": "carrier",
-"heard": "bây giờ cô đọc giờ",
-"v": 2,
-"dur": 0.48
+"heard": "bây giờ cô giờ cho em nghe (pos)",
+"v": 11,
+"dur": 0.32
 },
 "e": {
 "mode": "short",
 "ok": true,
-"heard": "(nguyên âm tự nhiên + giãn nhẹ)",
-"v": 7,
-"dur": 0.57,
-"ms": 369
+"heard": "(trích từ me, pos)",
+"v": 11,
+"dur": 0.42
 },
 "ê": {
 "mode": "short",
 "ok": true,
-"heard": "(nguyên âm tự nhiên + giãn nhẹ)",
-"v": 7,
-"dur": 0.59,
-"ms": 394
+"heard": "(trích từ lê, pos)",
+"v": 11,
+"dur": 0.22
 },
 "con ếch": {
 "mode": "short",
@@ -1953,27 +1954,24 @@
 },
 "gờ": {
 "mode": "short",
-"ok": true,
-"heard": "bây giờ cô đọc gờ nhé",
-"v": 2,
-"dur": 0.38
+"ok": "carrier",
+"heard": "bây giờ cô gợi cho em nghe (pos)",
+"v": 11,
+"dur": 0.34
 },
 "i": {
 "mode": "short",
 "ok": true,
-"heard": "bây giờ cô đọc y tá nhé",
-"v": 4,
-"src": "Bây giờ cô đọc y tá nhé.",
-"dur": 0.18,
-"stretched": 0.5
+"heard": "(trích từ bi, pos)",
+"v": 11,
+"dur": 0.38
 },
 "o": {
 "mode": "short",
 "ok": true,
-"heard": "(nguyên âm tự nhiên + giãn nhẹ)",
-"v": 7,
-"dur": 0.64,
-"ms": 404
+"heard": "(trích từ co, pos)",
+"v": 11,
+"dur": 0.23
 },
 "con ong": {
 "mode": "short",
@@ -1985,10 +1983,9 @@
 "ô": {
 "mode": "short",
 "ok": true,
-"heard": "(nguyên âm tự nhiên + giãn nhẹ)",
-"v": 7,
-"dur": 0.59,
-"ms": 409
+"heard": "(trích từ tô, heard)",
+"v": 11,
+"dur": 0.28
 },
 "cái ô": {
 "mode": "short",
@@ -2000,17 +1997,16 @@
 "ơ": {
 "mode": "short",
 "ok": true,
-"heard": "(nguyên âm tự nhiên + giãn nhẹ)",
-"v": 7,
-"dur": 0.59,
-"ms": 379
+"heard": "(trích từ tơ, pos)",
+"v": 11,
+"dur": 0.26
 },
 "pờ": {
 "mode": "short",
 "ok": "carrier",
-"heard": "bây giờ cô đọc tờ",
-"v": 2,
-"dur": 0.44
+"heard": "cô đọc to cờ cho em nghe (pos)",
+"v": 11,
+"dur": 0.34
 },
 "cục pin": {
 "mode": "short",
@@ -2022,31 +2018,30 @@
 "quờ": {
 "mode": "short",
 "ok": "carrier",
-"heard": "bây giờ cô đọc ờ",
-"v": 2,
-"dur": 0.37
+"heard": "bây giờ cô cho em nghe (dip)",
+"v": 11,
+"dur": 0.35
 },
 "rờ": {
 "mode": "short",
 "ok": "carrier",
-"heard": "bây giờ cô đọc giờ",
-"v": 2,
-"dur": 0.42
+"heard": "bây giờ cô giờ cho em nghe (pos)",
+"v": 11,
+"dur": 0.53
 },
 "sờ": {
 "mode": "short",
-"ok": "carrier",
-"heard": "bây giờ cô đọc giờ",
-"v": 2,
-"dur": 0.4
+"ok": true,
+"heard": "bây giờ cô sờ cho anh nghe (heard)",
+"v": 11,
+"dur": 0.53
 },
 "u": {
 "mode": "short",
 "ok": true,
-"heard": "(nguyên âm tự nhiên + giãn nhẹ)",
-"v": 7,
-"dur": 0.41,
-"ms": 234
+"heard": "(trích từ thu, heard)",
+"v": 11,
+"dur": 0.25
 },
 "đôi ủng": {
 "mode": "short",
@@ -2058,10 +2053,9 @@
 "ư": {
 "mode": "short",
 "ok": true,
-"heard": "(nguyên âm tự nhiên + giãn nhẹ)",
-"v": 7,
-"dur": 0.59,
-"ms": 379
+"heard": "(trích từ sư, heard)",
+"v": 11,
+"dur": 0.27
 },
 "con voi": {
 "mode": "short",
@@ -2073,44 +2067,44 @@
 "xờ": {
 "mode": "short",
 "ok": "carrier",
-"heard": "bây giờ cô đọc giờ",
-"v": 2,
-"dur": 0.43
+"heard": "bây giờ cô sờ cho em nghe (pos)",
+"v": 11,
+"dur": 0.36
 },
 "i dài": {
 "mode": "short",
 "ok": "carrier",
-"heard": "bây giờ cô đọc y dài",
-"v": 2,
-"dur": 0.54
+"heard": "em nghe cô ý dài cho vui nhé (pos)",
+"v": 11,
+"dur": 0.72
 },
 "không": {
 "mode": "short",
 "ok": true,
-"heard": "bây giờ cô đọc không nhé",
-"v": 2,
-"dur": 0.32
+"heard": "bé ơi không ơi (heard)",
+"v": 11,
+"dur": 0.26
 },
 "ba": {
 "mode": "short",
-"ok": "carrier",
-"heard": "bây giờ cô đọc bàn",
-"v": 2,
-"dur": 0.42
+"ok": true,
+"heard": "bây giờ cô ba cho anh nghe (heard)",
+"v": 11,
+"dur": 0.38
 },
 "bảy": {
 "mode": "short",
 "ok": true,
-"heard": "bây giờ cô đọc bảy nhé",
-"v": 2,
-"dur": 0.3
+"heard": "bây giờ cô bảy cho em nghe (heard)",
+"v": 11,
+"dur": 0.42
 },
 "bô": {
 "mode": "short",
 "ok": "carrier",
-"heard": "bây giờ cô đọc bố",
-"v": 2,
-"dur": 0.39
+"heard": "bây giờ cô bố cho em nghe (pos)",
+"v": 11,
+"dur": 0.4
 },
 "bố ơi": {
 "mode": "short",
@@ -2122,79 +2116,87 @@
 "me": {
 "mode": "short",
 "ok": "carrier",
-"heard": "bây giờ cô đọc nè",
-"v": 2,
-"dur": 0.43
+"heard": "em nghe cô mẹ cho vui nhé (pos)",
+"v": 11,
+"dur": 0.36
 },
 "be": {
 "mode": "short",
 "ok": "carrier",
-"heard": "bây giờ cô đọc bè",
-"v": 2,
-"dur": 0.41
+"heard": "em nghe cô bé cho vui nhé (pos)",
+"v": 11,
+"dur": 0.32
 },
 "ga": {
 "mode": "short",
 "ok": "carrier",
-"heard": "bây giờ cô đọc à",
-"v": 2,
-"dur": 0.38
+"heard": "bây giờ cô khai cho em nghe (pos)",
+"v": 11,
+"dur": 0.35
 },
 "gà": {
 "mode": "short",
-"ok": "carrier",
-"heard": "bây giờ cô đọc à",
-"v": 2,
-"dur": 0.45
+"ok": true,
+"heard": "em ơi gà ơi (heard)",
+"v": 11,
+"dur": 0.28
 },
 "bo": {
 "mode": "short",
-"ok": true,
-"heard": "bây giờ cô đọc bo nhé",
-"v": 2,
-"dur": 0.38
+"ok": "carrier",
+"heard": "em ơi bà ơi (pos)",
+"v": 11,
+"dur": 0.25
 },
 "bò": {
 "mode": "short",
 "ok": true,
-"heard": "bây giờ cô đọc bò nhé",
-"v": 2,
-"dur": 0.35
+"heard": "em nghe cô bò cho củi nhé (heard)",
+"v": 11,
+"dur": 0.49
 },
 "dê": {
 "mode": "short",
 "ok": "carrier",
-"heard": "bây giờ cô đọc gì",
-"v": 2,
-"dur": 0.43
+"heard": "bây giờ cô dạy cho em nghe (pos)",
+"v": 11,
+"dur": 0.31,
+"f0": {
+"drop": -1.4,
+"rng": 2.5
+}
 },
 "hô": {
 "mode": "short",
-"ok": "carrier",
-"heard": "bây giờ cô đọc hồ",
-"v": 2,
-"dur": 0.42
+"ok": true,
+"heard": "bây giờ cô hô cho em nghe (heard)",
+"v": 11,
+"dur": 0.24
 },
 "la": {
 "mode": "short",
 "ok": "carrier",
-"heard": "bây giờ cô đọc lại",
-"v": 2,
-"dur": 0.43
+"heard": "em ơi là ơi (pos)",
+"v": 11,
+"dur": 0.28,
+"f0": {
+"drop": -2.0,
+"rng": 3.2
+}
 },
 "mu": {
 "mode": "short",
 "ok": "carrier",
-"heard": "bây giờ cô đọc mồ",
-"v": 2,
-"dur": 0.38
+"heard": "bây giờ cô mua cho em nè (pos)",
+"v": 11,
+"dur": 0.41
 },
 "du": {
 "mode": "short",
 "ok": "carrier",
-"heard": "bây giờ cô đọc giùm",
-"v": 2,
-"dur": 0.37
+"heard": "bây giờ cô ru cho em nè (pos)",
+"v": 11,
+"dur": 0.45
 },
 "dù": {
 "mode": "short",
@@ -2206,9 +2208,13 @@
 "cơ": {
 "mode": "short",
 "ok": "carrier",
-"heard": "bây giờ cô đọc cờ",
-"v": 2,
-"dur": 0.39
+"heard": "bây giờ cô cho em nghe (dip)",
+"v": 11,
+"dur": 0.46,
+"f0": {
+"drop": -0.4,
+"rng": 4.1
+}
 },
 "cái nơ": {
 "mode": "short",
@@ -2219,10 +2225,14 @@
 },
 "rô": {
 "mode": "short",
-"ok": "carrier",
-"heard": "bây giờ cô đọc rồi",
-"v": 2,
-"dur": 0.4
+"ok": true,
+"heard": "bây giờ cô rô cho em nghe (heard)",
+"v": 11,
+"dur": 0.33,
+"f0": {
+"drop": -1.8,
+"rng": 2.7
+}
 },
 "cái rổ": {
 "mode": "short",
@@ -2233,17 +2243,21 @@
 },
 "đa": {
 "mode": "short",
-"ok": false,
-"heard": "",
-"v": 2,
-"dur": 0.44
+"ok": "carrier",
+"heard": "em ơi đà ơi (pos)",
+"v": 11,
+"dur": 0.24
 },
 "ve": {
 "mode": "short",
 "ok": "carrier",
-"heard": "bây giờ cô đọc vé",
-"v": 2,
-"dur": 0.43
+"heard": "bây giờ cô phải cho em nghe (pos)",
+"v": 11,
+"dur": 0.28,
+"f0": {
+"drop": -2.0,
+"rng": 2.5
+}
 },
 "vẽ": {
 "mode": "short",
@@ -2254,60 +2268,67 @@
 },
 "eo": {
 "mode": "short",
-"ok": "carrier",
-"heard": "bây giờ cô đọc cái áo",
-"v": 2,
-"dur": 0.48
+"ok": true,
+"heard": "(trích từ meo, pos)",
+"v": 11,
+"dur": 0.4
 },
 "meo": {
 "mode": "short",
 "ok": "carrier",
-"heard": "bây giờ cô đọc nào",
-"v": 2,
-"dur": 0.45
+"heard": "em nghe cô mèo cho vui nhé (pos)",
+"v": 11,
+"dur": 0.42
 },
 "oi": {
 "mode": "short",
-"ok": "carrier",
-"heard": "bây giờ cô đọc rồi",
-"v": 2,
-"dur": 0.45
+"ok": true,
+"heard": "(trích từ coi, heard)",
+"v": 11,
+"dur": 0.24
 },
 "voi": {
 "mode": "short",
 "ok": "carrier",
-"heard": "bây giờ cô đọc vào",
-"v": 2,
-"dur": 0.44
+"heard": "bây giờ cô vào cho em nghe (pos)",
+"v": 11,
+"dur": 0.3,
+"f0": {
+"drop": -1.3,
+"rng": 1.6
+}
 },
 "ao": {
 "mode": "short",
 "ok": true,
-"heard": "bây giờ cô đọc ao nhé",
-"v": 2,
-"dur": 0.27
+"heard": "(trích từ cao, heard)",
+"v": 11,
+"dur": 0.33
 },
 "oa": {
 "mode": "short",
-"ok": "carrier",
-"heard": "bây giờ cô đọc quá",
-"v": 2,
-"dur": 0.41
+"ok": true,
+"heard": "(trích từ hoa, pos)",
+"v": 11,
+"dur": 0.42
 },
 "hoa": {
 "mode": "short",
 "ok": true,
-"heard": "(giữa câu) hoa",
-"v": 6,
-"dur": 0.48,
-"ms": 304
+"heard": "bây giờ cô hoa cho em nghe (heard)",
+"v": 11,
+"dur": 0.47
 },
 "keo": {
 "mode": "short",
 "ok": "carrier",
-"heard": "bây giờ cô đọc à",
-"v": 2,
-"dur": 0.44
+"heard": "bây giờ cô kẹo cho em nè (pos)",
+"v": 11,
+"dur": 0.37,
+"f0": {
+"drop": -1.6,
+"rng": 5.3
+}
 },
 "kẹo": {
 "mode": "short",
@@ -2319,9 +2340,13 @@
 "toi": {
 "mode": "short",
 "ok": "carrier",
-"heard": "bây giờ cô đọc tòi",
-"v": 2,
-"dur": 0.45
+"heard": "em ơi ơi (dip)",
+"v": 11,
+"dur": 0.24,
+"f0": {
+"drop": -1.6,
+"rng": 2.0
+}
 },
 "tỏi": {
 "mode": "short",
@@ -2333,9 +2358,9 @@
 "ưa": {
 "mode": "short",
 "ok": true,
-"heard": "bây giờ cô đọc ưa nhé",
-"v": 2,
-"dur": 0.39
+"heard": "(trích từ mưa, pos)",
+"v": 11,
+"dur": 0.42
 },
 "sưa": {
 "mode": "short",
@@ -2361,16 +2386,24 @@
 "ua": {
 "mode": "short",
 "ok": true,
-"heard": "bây giờ cô đọc ua",
-"v": 2,
-"dur": 0.41
+"heard": "(trích từ vua, pos)",
+"v": 11,
+"dur": 0.42,
+"f0": {
+"drop": -0.2,
+"rng": 4.3
+}
 },
 "rua": {
 "mode": "short",
 "ok": "carrier",
-"heard": "bây giờ cô đọc dù",
-"v": 2,
-"dur": 0.43
+"heard": "bây giờ cô ru cho em nghe (pos)",
+"v": 11,
+"dur": 0.31,
+"f0": {
+"drop": -1.8,
+"rng": 2.6
+}
 },
 "dừa": {
 "mode": "short",
@@ -2388,52 +2421,60 @@
 },
 "cáo": {
 "mode": "short",
-"ok": false,
-"heard": "",
-"v": 2,
-"dur": 0.45
+"ok": true,
+"heard": "bây giờ cô cáo cho em nghe (heard)",
+"v": 11,
+"dur": 0.33
 },
 "au": {
 "mode": "short",
-"ok": "carrier",
-"heard": "bây giờ cô đọc à",
-"v": 2,
-"dur": 0.46
+"ok": true,
+"heard": "(trích từ cau, dip)",
+"v": 11,
+"dur": 0.34
 },
 "tau": {
 "mode": "short",
 "ok": "carrier",
-"heard": "bây giờ cô đọc tàu",
-"v": 2,
-"dur": 0.38
+"heard": "bây giờ cô tao cho em nghe (pos)",
+"v": 11,
+"dur": 0.36
 },
 "rau": {
 "mode": "short",
-"ok": false,
-"heard": "",
-"v": 2,
-"dur": 0.45
+"ok": "carrier",
+"heard": "bây giờ cô giao cho em nè (pos)",
+"v": 11,
+"dur": 0.36
 },
 "am": {
 "mode": "short",
 "ok": true,
-"heard": "bây giờ cô đọc am nhé",
-"v": 2,
-"dur": 0.28
+"heard": "(trích từ tam, dip)",
+"v": 11,
+"dur": 0.27
 },
 "ôm": {
 "mode": "short",
-"ok": "carrier",
-"heard": "bây giờ cô đọc gồm",
-"v": 2,
-"dur": 0.44
+"ok": true,
+"heard": "(trích từ chôm, pos)",
+"v": 11,
+"dur": 0.2,
+"f0": {
+"drop": -2.0,
+"rng": 2.4
+}
 },
 "tôm": {
 "mode": "short",
 "ok": "carrier",
-"heard": "bây giờ cô đọc tóm",
-"v": 2,
-"dur": 0.42
+"heard": "bây giờ cô tung cho em nghe (pos)",
+"v": 11,
+"dur": 0.28,
+"f0": {
+"drop": -1.7,
+"rng": 2.8
+}
 },
 "con tôm": {
 "mode": "short",
@@ -2445,9 +2486,9 @@
 "âm": {
 "mode": "short",
 "ok": true,
-"heard": "bây giờ cô đọc âm nhé",
-"v": 2,
-"dur": 0.33
+"heard": "(trích từ mâm, heard)",
+"v": 11,
+"dur": 0.41
 },
 "nâm": {
 "mode": "short",
@@ -2472,10 +2513,10 @@
 },
 "ơn": {
 "mode": "short",
-"ok": "carrier",
-"heard": "bây giờ cô đọc ớn",
-"v": 2,
-"dur": 0.45
+"ok": true,
+"heard": "(trích từ cơn, pos)",
+"v": 11,
+"dur": 0.33
 },
 "lơn": {
 "mode": "short",
@@ -2493,10 +2534,10 @@
 },
 "en": {
 "mode": "short",
-"ok": "carrier",
-"heard": "bây giờ cô đọc tén",
-"v": 2,
-"dur": 0.45
+"ok": true,
+"heard": "(trích từ khen, heard)",
+"v": 11,
+"dur": 0.24
 },
 "đen": {
 "mode": "short",
@@ -2507,17 +2548,17 @@
 },
 "ay": {
 "mode": "short",
-"ok": "carrier",
-"heard": "bây giờ cô đọc này",
-"v": 2,
-"dur": 0.34
+"ok": true,
+"heard": "(trích từ bay, pos)",
+"v": 11,
+"dur": 0.38
 },
 "ui": {
 "mode": "short",
-"ok": "carrier",
-"heard": "bây giờ cô đọc qui",
-"v": 2,
-"dur": 0.39
+"ok": true,
+"heard": "(trích từ túi, heard)",
+"v": 11,
+"dur": 0.41
 },
 "tui": {
 "mode": "short",
@@ -2528,10 +2569,10 @@
 },
 "ây": {
 "mode": "short",
-"ok": "carrier",
-"heard": "bây giờ cô đọc ơi",
-"v": 2,
-"dur": 0.43
+"ok": true,
+"heard": "(trích từ mây, pos)",
+"v": 11,
+"dur": 0.24
 },
 "mây": {
 "mode": "short",
@@ -2543,9 +2584,13 @@
 "ơm": {
 "mode": "short",
 "ok": true,
-"heard": "bây giờ cô đọc ơm",
-"v": 2,
-"dur": 0.46
+"heard": "(trích từ cơm, pos)",
+"v": 11,
+"dur": 0.3,
+"f0": {
+"drop": 0.0,
+"rng": 1.9
+}
 },
 "bát cơm": {
 "mode": "short",
@@ -2564,9 +2609,9 @@
 "i ngắn": {
 "mode": "short",
 "ok": "carrier",
-"heard": "bây giờ cô đọc ý ngắn",
-"v": 2,
-"dur": 0.58
+"heard": "bây giờ cô ý ngắn cho em nghe (pos)",
+"v": 11,
+"dur": 0.61
 },
 "Tiếng nơ bắt đầu bằng chữ nào?": {
 "mode": "long",
@@ -3918,16 +3963,16 @@
 "ai": {
 "mode": "short",
 "ok": true,
-"heard": "bây giờ cô đọc ai nhé",
-"v": 2,
-"dur": 0.33
+"heard": "(trích từ mai, heard)",
+"v": 11,
+"dur": 0.42
 },
 "tai": {
 "mode": "short",
-"ok": "carrier",
-"heard": "bây giờ cô đọc tài",
-"v": 2,
-"dur": 0.38
+"ok": true,
+"heard": "cô đọc to tai cho em nghe (heard)",
+"v": 11,
+"dur": 0.32
 },
 "cái tai": {
 "mode": "short",
@@ -4111,17 +4156,16 @@
 "ong": {
 "mode": "short",
 "ok": true,
-"heard": "bây giờ cô đọc ong nhé",
-"v": 2,
+"heard": "(trích từ bong, pos)",
+"v": 11,
 "dur": 0.28
 },
 "ngờ": {
 "mode": "short",
-"ok": true,
-"heard": "(giữa câu) ngờ",
-"v": 6,
-"dur": 0.56,
-"ms": 379
+"ok": "carrier",
+"heard": "bây giờ cô ngồi cho em nghe (pos)",
+"v": 11,
+"dur": 0.46
 },
 "bong": {
 "mode": "short",
@@ -4164,17 +4208,17 @@
 },
 "ach": {
 "mode": "short",
-"ok": "carrier",
-"heard": "bây giờ cô đọc ai",
-"v": 2,
-"dur": 0.34
+"ok": true,
+"heard": "(trích từ sách, pos)",
+"v": 11,
+"dur": 0.45
 },
 "chờ": {
 "mode": "short",
 "ok": true,
-"heard": "bây giờ cô đọc chờ",
-"v": 2,
-"dur": 0.49
+"heard": "bây giờ cô chờ cho anh nghe (heard)",
+"v": 11,
+"dur": 0.36
 },
 "sach": {
 "mode": "short",
@@ -4218,16 +4262,16 @@
 "anh": {
 "mode": "short",
 "ok": true,
-"heard": "bây giờ cô đọc anh nhé",
-"v": 2,
-"dur": 0.42
+"heard": "(trích từ chanh, pos)",
+"v": 11,
+"dur": 0.3
 },
 "nhờ": {
 "mode": "short",
 "ok": true,
-"heard": "bây giờ cô đọc nhờ",
-"v": 2,
-"dur": 0.46
+"heard": "bây giờ cô nhờ cho em nè (heard)",
+"v": 11,
+"dur": 0.48
 },
 "banh": {
 "mode": "short",
@@ -4270,10 +4314,10 @@
 },
 "ăt": {
 "mode": "short",
-"ok": "carrier",
-"heard": "bây giờ cô đọc cả",
-"v": 2,
-"dur": 0.31
+"ok": true,
+"heard": "(trích từ bắt, heard)",
+"v": 11,
+"dur": 0.38
 },
 "măt": {
 "mode": "short",
@@ -4316,10 +4360,10 @@
 },
 "ut": {
 "mode": "short",
-"ok": "carrier",
-"heard": "bây giờ cô đọc à",
-"v": 2,
-"dur": 0.37
+"ok": true,
+"heard": "(trích từ bút, heard)",
+"v": 11,
+"dur": 0.31
 },
 "but": {
 "mode": "short",
@@ -4362,10 +4406,10 @@
 },
 "ôc": {
 "mode": "short",
-"ok": "carrier",
-"heard": "bây giờ cô đọc của",
-"v": 2,
-"dur": 0.35
+"ok": true,
+"heard": "(trích từ tốc, pos)",
+"v": 11,
+"dur": 0.33
 },
 "côc": {
 "mode": "short",
@@ -4409,9 +4453,9 @@
 },
 "it": {
 "mode": "short",
-"ok": "carrier",
-"heard": "bây giờ cô đọc nghề",
-"v": 2,
+"ok": true,
+"heard": "(trích từ mít, heard)",
+"v": 11,
 "dur": 0.34
 },
 "vit": {
@@ -4456,10 +4500,10 @@
 },
 "oc": {
 "mode": "short",
-"ok": "carrier",
-"heard": "bây giờ cô đọc à",
-"v": 2,
-"dur": 0.36
+"ok": true,
+"heard": "(trích từ sóc, heard)",
+"v": 11,
+"dur": 0.37
 },
 "soc": {
 "mode": "short",
@@ -4613,10 +4657,10 @@
 },
 "thờ": {
 "mode": "short",
-"ok": "carrier",
-"heard": "bây giờ cô đọc thơ",
-"v": 2,
-"dur": 0.45
+"ok": true,
+"heard": "bây giờ cô thờ cho anh mẹ (heard)",
+"v": 11,
+"dur": 0.38
 },
 "tho": {
 "mode": "short",
@@ -4659,10 +4703,10 @@
 },
 "phờ": {
 "mode": "short",
-"ok": "carrier",
-"heard": "bây giờ cô đọc vờ",
-"v": 2,
-"dur": 0.39
+"ok": true,
+"heard": "bây giờ cô phờ cho em nghe (heard)",
+"v": 11,
+"dur": 0.35
 },
 "phơ": {
 "mode": "short",
@@ -4706,9 +4750,9 @@
 "khờ": {
 "mode": "short",
 "ok": true,
-"heard": "bây giờ cô đọc khờ nhé",
-"v": 2,
-"dur": 0.32
+"heard": "bây giờ cô khờ cho em nghe (heard)",
+"v": 11,
+"dur": 0.53
 },
 "khi": {
 "mode": "short",
@@ -4890,9 +4934,13 @@
 "di": {
 "mode": "short",
 "ok": "carrier",
-"heard": "bây giờ cô đọc gì",
-"v": 2,
-"dur": 0.35
+"heard": "bây giờ cô dịch cho em nghe (pos)",
+"v": 11,
+"dur": 0.34,
+"f0": {
+"drop": -1.8,
+"rng": 2.7
+}
 },
 "giay": {
 "mode": "short",
@@ -5001,16 +5049,16 @@
 "trờ": {
 "mode": "short",
 "ok": "carrier",
-"heard": "bây giờ cô đọc chờ",
-"v": 2,
-"dur": 0.51
+"heard": "bây giờ cô chờ cho em nghe (pos)",
+"v": 11,
+"dur": 0.37
 },
 "ông": {
 "mode": "short",
-"ok": "carrier",
-"heard": "bây giờ cô đọc gồm",
-"v": 2,
-"dur": 0.35
+"ok": true,
+"heard": "(trích từ công, dip)",
+"v": 11,
+"dur": 0.2
 },
 "trông": {
 "mode": "short",
@@ -6151,10 +6199,10 @@
 },
 "ôi": {
 "mode": "short",
-"ok": "carrier",
-"heard": "bây giờ cô đọc ủi",
-"v": 2,
-"dur": 0.36
+"ok": true,
+"heard": "(trích từ đôi, pos)",
+"v": 11,
+"dur": 0.37
 },
 "chổi": {
 "mode": "short",
@@ -6179,10 +6227,10 @@
 },
 "ơi": {
 "mode": "short",
-"ok": "carrier",
-"heard": "bây giờ cô đọc ờ",
-"v": 2,
-"dur": 0.38
+"ok": true,
+"heard": "(trích từ bơi, heard)",
+"v": 11,
+"dur": 0.4
 },
 "bơi lội": {
 "mode": "short",
@@ -6200,10 +6248,10 @@
 },
 "êu": {
 "mode": "short",
-"ok": "carrier",
-"heard": "bây giờ cô đọc thêm",
-"v": 2,
-"dur": 0.46
+"ok": true,
+"heard": "(trích từ kêu, heard)",
+"v": 11,
+"dur": 0.38
 },
 "lều": {
 "mode": "short",
@@ -6228,10 +6276,10 @@
 },
 "iu": {
 "mode": "short",
-"ok": "carrier",
-"heard": "bây giờ cô đọc ừ",
-"v": 2,
-"dur": 0.42
+"ok": true,
+"heard": "(trích từ hiu, pos)",
+"v": 11,
+"dur": 0.26
 },
 "rìu": {
 "mode": "short",
@@ -6257,9 +6305,9 @@
 "ưu": {
 "mode": "short",
 "ok": true,
-"heard": "bây giờ cô đọc ưu nhé",
-"v": 2,
-"dur": 0.3
+"heard": "(trích từ hưu, pos)",
+"v": 11,
+"dur": 0.43
 },
 "cừu": {
 "mode": "short",
@@ -6284,9 +6332,9 @@
 },
 "ăm": {
 "mode": "short",
-"ok": "carrier",
-"heard": "bây giờ cô đọc tám",
-"v": 2,
+"ok": true,
+"heard": "(trích từ tăm, pos)",
+"v": 11,
 "dur": 0.39
 },
 "tắm": {
@@ -6312,10 +6360,10 @@
 },
 "êm": {
 "mode": "short",
-"ok": "carrier",
-"heard": "bây giờ cô đọc án",
-"v": 2,
-"dur": 0.41
+"ok": true,
+"heard": "(trích từ thêm, pos)",
+"v": 11,
+"dur": 0.28
 },
 "ban đêm": {
 "mode": "short",
@@ -6333,10 +6381,10 @@
 },
 "im": {
 "mode": "short",
-"ok": "carrier",
-"heard": "bây giờ cô đọc ý",
-"v": 2,
-"dur": 0.47
+"ok": true,
+"heard": "(trích từ chim, pos)",
+"v": 11,
+"dur": 0.21
 },
 "con chim": {
 "mode": "short",
@@ -6355,9 +6403,9 @@
 "um": {
 "mode": "short",
 "ok": true,
-"heard": "bây giờ cô đọc um nhé",
-"v": 2,
-"dur": 0.33
+"heard": "(trích từ chum, pos)",
+"v": 11,
+"dur": 0.21
 },
 "chùm": {
 "mode": "short",
@@ -6368,17 +6416,17 @@
 },
 "đan": {
 "mode": "short",
-"ok": false,
-"heard": "",
-"v": 2,
-"dur": 0.44
+"ok": "carrier",
+"heard": "cô đọc to đăng cho em nghe (pos)",
+"v": 11,
+"dur": 0.48
 },
 "an": {
 "mode": "short",
-"ok": "carrier",
-"heard": "bây giờ cô đọc án",
-"v": 2,
-"dur": 0.44
+"ok": true,
+"heard": "(trích từ ban, dip)",
+"v": 11,
+"dur": 0.26
 },
 "đàn": {
 "mode": "short",
@@ -6404,9 +6452,9 @@
 "ăn": {
 "mode": "short",
 "ok": true,
-"heard": "bây giờ cô đọc ăn nhé",
-"v": 2,
-"dur": 0.3
+"heard": "(trích từ khăn, heard)",
+"v": 11,
+"dur": 0.28
 },
 "cái khăn": {
 "mode": "short",
@@ -6424,10 +6472,10 @@
 },
 "ân": {
 "mode": "short",
-"ok": "carrier",
-"heard": "bây giờ cô đọc ấn",
-"v": 2,
-"dur": 0.45
+"ok": true,
+"heard": "(trích từ sân, pos)",
+"v": 11,
+"dur": 0.31
 },
 "bàn chân": {
 "mode": "short",
@@ -6445,10 +6493,10 @@
 },
 "ên": {
 "mode": "short",
-"ok": "carrier",
-"heard": "bây giờ cô đọc tên",
-"v": 2,
-"dur": 0.42
+"ok": true,
+"heard": "(trích từ lên, heard)",
+"v": 11,
+"dur": 0.37
 },
 "nến": {
 "mode": "short",
@@ -6474,9 +6522,9 @@
 "in": {
 "mode": "short",
 "ok": true,
-"heard": "bây giờ cô đọc in nhé",
-"v": 2,
-"dur": 0.33
+"heard": "(trích từ xin, heard)",
+"v": 11,
+"dur": 0.31
 },
 "non": {
 "mode": "short",
@@ -6487,10 +6535,10 @@
 },
 "on": {
 "mode": "short",
-"ok": false,
-"heard": "",
-"v": 2,
-"dur": 0.4
+"ok": true,
+"heard": "(trích từ non, pos)",
+"v": 11,
+"dur": 0.3
 },
 "nón": {
 "mode": "short",
@@ -6515,10 +6563,10 @@
 },
 "un": {
 "mode": "short",
-"ok": "carrier",
-"heard": "bây giờ cô đọc ốm",
-"v": 2,
-"dur": 0.37
+"ok": true,
+"heard": "(trích từ run, pos)",
+"v": 11,
+"dur": 0.3
 },
 "con giun": {
 "mode": "short",
@@ -6536,10 +6584,10 @@
 },
 "ang": {
 "mode": "short",
-"ok": "carrier",
-"heard": "bây giờ cô đọc à",
-"v": 2,
-"dur": 0.44
+"ok": true,
+"heard": "(trích từ sang, pos)",
+"v": 11,
+"dur": 0.37
 },
 "cái thang": {
 "mode": "short",
@@ -6557,10 +6605,10 @@
 },
 "ăng": {
 "mode": "short",
-"ok": "carrier",
-"heard": "bây giờ cô đọc thắng",
-"v": 2,
-"dur": 0.39
+"ok": true,
+"heard": "(trích từ măng, pos)",
+"v": 11,
+"dur": 0.43
 },
 "ông trăng": {
 "mode": "short",
@@ -6578,10 +6626,10 @@
 },
 "ung": {
 "mode": "short",
-"ok": "carrier",
-"heard": "bây giờ cô đọc cũng",
-"v": 2,
-"dur": 0.37
+"ok": true,
+"heard": "(trích từ cung, pos)",
+"v": 11,
+"dur": 0.34
 },
 "thùng": {
 "mode": "short",
@@ -6606,10 +6654,10 @@
 },
 "ưng": {
 "mode": "short",
-"ok": "carrier",
-"heard": "bây giờ cô đọc ứng",
-"v": 2,
-"dur": 0.35
+"ok": true,
+"heard": "(trích từ lưng, heard)",
+"v": 11,
+"dur": 0.43
 },
 "trứng": {
 "mode": "short",
@@ -6634,10 +6682,10 @@
 },
 "inh": {
 "mode": "short",
-"ok": "carrier",
-"heard": "bây giờ cô đọc ý",
-"v": 2,
-"dur": 0.43
+"ok": true,
+"heard": "(trích từ xinh, pos)",
+"v": 11,
+"dur": 0.22
 },
 "kính": {
 "mode": "short",
@@ -6662,10 +6710,10 @@
 },
 "ac": {
 "mode": "short",
-"ok": "carrier",
-"heard": "bây giờ cô đọc cái gì",
-"v": 2,
-"dur": 0.53
+"ok": true,
+"heard": "(trích từ bác, heard)",
+"v": 11,
+"dur": 0.22
 },
 "nhạc": {
 "mode": "short",
@@ -6690,10 +6738,10 @@
 },
 "uc": {
 "mode": "short",
-"ok": "carrier",
-"heard": "bây giờ cô đọc à",
-"v": 2,
-"dur": 0.33
+"ok": true,
+"heard": "(trích từ cúc, heard)",
+"v": 11,
+"dur": 0.35
 },
 "cúc": {
 "mode": "short",
@@ -6718,10 +6766,10 @@
 },
 "ưc": {
 "mode": "short",
-"ok": "carrier",
-"heard": "bây giờ cô đọc ở",
-"v": 2,
-"dur": 0.31
+"ok": true,
+"heard": "(trích từ đức, heard)",
+"v": 11,
+"dur": 0.35
 },
 "mực": {
 "mode": "short",
@@ -6739,10 +6787,10 @@
 },
 "êch": {
 "mode": "short",
-"ok": "carrier",
-"heard": "bây giờ cô đọc về",
-"v": 2,
-"dur": 0.41
+"ok": true,
+"heard": "(trích từ ếch, pos)",
+"v": 11,
+"dur": 0.43
 },
 "ếch": {
 "mode": "short",
@@ -6760,10 +6808,10 @@
 },
 "ich": {
 "mode": "short",
-"ok": "carrier",
-"heard": "bây giờ cô đọc hình",
-"v": 2,
-"dur": 0.3
+"ok": true,
+"heard": "(trích từ thích, heard)",
+"v": 11,
+"dur": 0.42
 },
 "lịch": {
 "mode": "short",
@@ -6788,10 +6836,10 @@
 },
 "at": {
 "mode": "short",
-"ok": "carrier",
-"heard": "bây giờ cô đọc này",
-"v": 2,
-"dur": 0.35
+"ok": true,
+"heard": "(trích từ hát, heard)",
+"v": 11,
+"dur": 0.29
 },
 "hát": {
 "mode": "short",
@@ -6816,10 +6864,10 @@
 },
 "ât": {
 "mode": "short",
-"ok": "carrier",
-"heard": "bây giờ cô đọc à",
-"v": 2,
-"dur": 0.33
+"ok": true,
+"heard": "(trích từ tất, pos)",
+"v": 11,
+"dur": 0.31
 },
 "mật": {
 "mode": "short",
@@ -6844,10 +6892,10 @@
 },
 "et": {
 "mode": "short",
-"ok": "carrier",
-"heard": "bây giờ cô đọc ke",
-"v": 2,
-"dur": 0.35
+"ok": true,
+"heard": "(trích từ két, pos)",
+"v": 11,
+"dur": 0.37
 },
 "vẹt": {
 "mode": "short",
@@ -6872,10 +6920,10 @@
 },
 "ôt": {
 "mode": "short",
-"ok": "carrier",
-"heard": "bây giờ cô đọc của",
-"v": 2,
-"dur": 0.34
+"ok": true,
+"heard": "(trích từ cốt, pos)",
+"v": 11,
+"dur": 0.37
 },
 "rốt": {
 "mode": "short",
@@ -6893,10 +6941,10 @@
 },
 "ơt": {
 "mode": "short",
-"ok": "carrier",
-"heard": "bây giờ cô đọc ở",
-"v": 2,
-"dur": 0.33
+"ok": true,
+"heard": "(trích từ ớt, heard)",
+"v": 11,
+"dur": 0.5
 },
 "ớt": {
 "mode": "short",
@@ -6914,10 +6962,10 @@
 },
 "ap": {
 "mode": "short",
-"ok": "carrier",
-"heard": "bây giờ cô đọc à",
-"v": 2,
-"dur": 0.37
+"ok": true,
+"heard": "(trích từ tháp, pos)",
+"v": 11,
+"dur": 0.26
 },
 "tháp": {
 "mode": "short",
@@ -6942,9 +6990,9 @@
 },
 "ăp": {
 "mode": "short",
-"ok": false,
-"heard": "",
-"v": 2,
+"ok": true,
+"heard": "(trích từ bắp, pos)",
+"v": 11,
 "dur": 0.33
 },
 "bắp": {
@@ -6963,10 +7011,10 @@
 },
 "âp": {
 "mode": "short",
-"ok": "carrier",
-"heard": "bây giờ cô đọc ờ",
-"v": 2,
-"dur": 0.35
+"ok": true,
+"heard": "(trích từ gấp, pos)",
+"v": 11,
+"dur": 0.43
 },
 "mập": {
 "mode": "short",
@@ -6991,10 +7039,10 @@
 },
 "ep": {
 "mode": "short",
-"ok": "carrier",
-"heard": "bây giờ cô đọc kẹp",
-"v": 2,
-"dur": 0.38
+"ok": true,
+"heard": "(trích từ dép, pos)",
+"v": 11,
+"dur": 0.28
 },
 "dép": {
 "mode": "short",
@@ -7019,10 +7067,10 @@
 },
 "êp": {
 "mode": "short",
-"ok": "carrier",
-"heard": "bây giờ cô đọc e",
-"v": 2,
-"dur": 0.39
+"ok": true,
+"heard": "(trích từ bếp, heard)",
+"v": 11,
+"dur": 0.27
 },
 "bếp": {
 "mode": "short",
@@ -7047,10 +7095,10 @@
 },
 "op": {
 "mode": "short",
-"ok": "carrier",
-"heard": "bây giờ cô đọc vào",
-"v": 2,
-"dur": 0.39
+"ok": true,
+"heard": "(trích từ cóp, dip)",
+"v": 11,
+"dur": 0.34
 },
 "cọp": {
 "mode": "short",
@@ -7075,10 +7123,10 @@
 },
 "ôp": {
 "mode": "short",
-"ok": "carrier",
-"heard": "bây giờ cô đọc gồm",
-"v": 2,
-"dur": 0.34
+"ok": true,
+"heard": "(trích từ tốp, pos)",
+"v": 11,
+"dur": 0.36
 },
 "hộp": {
 "mode": "short",
@@ -7103,10 +7151,10 @@
 },
 "ơp": {
 "mode": "short",
-"ok": "carrier",
-"heard": "bây giờ cô đọc cơm",
-"v": 2,
-"dur": 0.38
+"ok": true,
+"heard": "(trích từ lớp, heard)",
+"v": 11,
+"dur": 0.28
 },
 "lớp": {
 "mode": "short",
@@ -7973,9 +8021,13 @@
 "cu": {
 "mode": "short",
 "ok": "carrier",
-"heard": "bây giờ cô đọc cùng",
-"v": 2,
-"dur": 0.38
+"heard": "bây giờ cô cũng cho em nghe (pos)",
+"v": 11,
+"dur": 0.29,
+"f0": {
+"drop": -1.7,
+"rng": 1.7
+}
 },
 "cú": {
 "mode": "short",
@@ -7994,9 +8046,9 @@
 "bơ": {
 "mode": "short",
 "ok": "carrier",
-"heard": "bây giờ cô đọc bờ",
-"v": 2,
-"dur": 0.42
+"heard": "bây giờ cô cho em nghe (dip)",
+"v": 11,
+"dur": 0.38
 },
 "quả bơ": {
 "mode": "short",
@@ -8007,10 +8059,10 @@
 },
 "bi": {
 "mode": "short",
-"ok": "carrier",
-"heard": "bây giờ cô đọc bí",
-"v": 2,
-"dur": 0.39
+"ok": true,
+"heard": "cô đọc to bi cho em nghe (heard)",
+"v": 11,
+"dur": 0.33
 },
 "bí": {
 "mode": "short",
@@ -8042,10 +8094,10 @@
 },
 "so": {
 "mode": "short",
-"ok": "carrier",
-"heard": "bây giờ cô đọc giò",
-"v": 2,
-"dur": 0.39
+"ok": true,
+"heard": "bây giờ cô so cho anh nghe (heard)",
+"v": 11,
+"dur": 0.53
 },
 "sò": {
 "mode": "short",
@@ -8064,9 +8116,9 @@
 "xô": {
 "mode": "short",
 "ok": "carrier",
-"heard": "bây giờ cô đọc rồi",
-"v": 2,
-"dur": 0.51
+"heard": "bây giờ cô sho cho em nghe (pos)",
+"v": 11,
+"dur": 0.33
 },
 "cái xô": {
 "mode": "short",
@@ -8078,9 +8130,9 @@
 "co": {
 "mode": "short",
 "ok": "carrier",
-"heard": "bây giờ cô đọc có",
-"v": 2,
-"dur": 0.38
+"heard": "em ơi con ơi (pos)",
+"v": 11,
+"dur": 0.31
 },
 "cỏ": {
 "mode": "short",
@@ -8099,9 +8151,9 @@
 "he": {
 "mode": "short",
 "ok": "carrier",
-"heard": "bây giờ cô đọc thẻ",
-"v": 2,
-"dur": 0.41
+"heard": "cô đọc to hay cho anh nghe (pos)",
+"v": 11,
+"dur": 0.42
 },
 "hè": {
 "mode": "short",
@@ -8120,9 +8172,13 @@
 "gô": {
 "mode": "short",
 "ok": "carrier",
-"heard": "bây giờ cô đọc cô",
-"v": 2,
-"dur": 0.4
+"heard": "bây giờ cô khố cho em nghe (pos)",
+"v": 11,
+"dur": 0.46,
+"f0": {
+"drop": -0.9,
+"rng": 4.7
+}
 },
 "gỗ": {
 "mode": "short",
@@ -8141,9 +8197,9 @@
 "vi": {
 "mode": "short",
 "ok": "carrier",
-"heard": "bây giờ cô đọc ví",
-"v": 2,
-"dur": 0.39
+"heard": "em ơi dì ơi (pos)",
+"v": 11,
+"dur": 0.23
 },
 "ví": {
 "mode": "short",
@@ -8575,10 +8631,10 @@
 },
 "hươu": {
 "mode": "short",
-"ok": false,
-"heard": "",
-"v": 2,
-"dur": 0.46
+"ok": "carrier",
+"heard": "bây giờ cô hư cho em nghe (pos)",
+"v": 11,
+"dur": 0.5
 },
 "hành tây": {
 "mode": "short",
@@ -9044,10 +9100,10 @@
 },
 "cún": {
 "mode": "short",
-"ok": false,
-"heard": "",
-"v": 2,
-"dur": 0.48
+"ok": true,
+"heard": "bây giờ cô cún cho em nè (heard)",
+"v": 11,
+"dur": 0.46
 },
 "sáng": {
 "mode": "short",
