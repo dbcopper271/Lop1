@@ -9,10 +9,9 @@
 "á": {
 "mode": "short",
 "ok": true,
-"heard": "(nguyên âm tự nhiên + giãn nhẹ)",
-"v": 7,
-"dur": 0.63,
-"ms": 429
+"heard": "(tách từ lá, sắc)",
+"v": 8,
+"dur": 0.34
 },
 "ăn cơm": {
 "mode": "short",
@@ -1918,10 +1917,9 @@
 "a": {
 "mode": "short",
 "ok": true,
-"heard": "(nguyên âm tự nhiên + giãn nhẹ)",
-"v": 7,
-"dur": 0.48,
-"ms": 284
+"heard": "(tách từ ma, phẳng)",
+"v": 8,
+"dur": 0.25
 },
 "dờ": {
 "mode": "short",
