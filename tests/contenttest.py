@@ -35,7 +35,7 @@ with sync_playwright() as p:
             return t.kind; }} catch (e) {{ return 'ERR ' + e.message; }} }}""")
         if ok.startswith('ERR'): errs.append(f'{name}: {ok}'); continue
         pg.wait_for_timeout(500)
-        shot = f'ct_{name}_{args.strip("[]").replace(", ", "_").replace("window.__", "")}_{VIEW}.png'
+        shot = 'tests/out/' + f'ct_{name}_{args.strip("[]").replace(", ", "_").replace("window.__", "")}_{VIEW}.png'
         pg.screenshot(path=shot); shots.append(shot)
         if ok == 'quiz':
             idx = pg.evaluate("() => window.__cur.choices.findIndex(c => c.correct)")
