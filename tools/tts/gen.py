@@ -5,11 +5,11 @@ OUT = os.path.join(D, '..', '..', 'voice.json'); REP = os.path.join(D, 'voice_re
 m = os.path.join(D, 'vits-piper-vi_VN-vais1000-medium')
 tts = sherpa_onnx.OfflineTts(sherpa_onnx.OfflineTtsConfig(model=sherpa_onnx.OfflineTtsModelConfig(
     vits=sherpa_onnx.OfflineTtsVitsModelConfig(model=os.path.join(m, 'vi_VN-vais1000-medium.onnx'), tokens=os.path.join(m, 'tokens.txt'), data_dir=os.path.join(m, 'espeak-ng-data')),
-    num_threads=4)))
+    num_threads=int(os.environ.get('TTS_THREADS', 4)))))
 SR = tts.sample_rate
 a = os.path.join(D, 'sherpa-onnx-zipformer-vi-int8-2025-04-20')
 asr = sherpa_onnx.OfflineRecognizer.from_transducer(encoder=os.path.join(a, 'encoder-epoch-12-avg-8.int8.onnx'), decoder=os.path.join(a, 'decoder-epoch-12-avg-8.onnx'),
-    joiner=os.path.join(a, 'joiner-epoch-12-avg-8.int8.onnx'), tokens=os.path.join(a, 'tokens.txt'), num_threads=4, decoding_method='greedy_search')
+    joiner=os.path.join(a, 'joiner-epoch-12-avg-8.int8.onnx'), tokens=os.path.join(a, 'tokens.txt'), num_threads=int(os.environ.get('TTS_THREADS', 4)), decoding_method='greedy_search')
 
 def nfc(s): return unicodedata.normalize('NFC', s).strip()
 def clean(s): return re.sub(r'\s+', ' ', re.sub(r'[^\w\s]', ' ', nfc(s).lower())).strip()
