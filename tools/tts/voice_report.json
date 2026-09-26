@@ -9,9 +9,11 @@
 "á": {
 "mode": "short",
 "ok": true,
-"heard": "bây giờ cô đọc á nhé",
-"v": 2,
-"dur": 0.32
+"heard": "cô đọc chữ á nhé",
+"v": 3,
+"dur": 0.23,
+"speed": 0.64,
+"stretched": 0.5
 },
 "ăn cơm": {
 "mode": "short",
@@ -25,7 +27,8 @@
 "ok": true,
 "heard": "bây giờ cô đọc ớ",
 "v": 2,
-"dur": 0.44
+"dur": 0.44,
+"stretched": 0.52
 },
 "cái ấm": {
 "mode": "short",
@@ -1915,10 +1918,12 @@
 },
 "a": {
 "mode": "short",
-"ok": "carrier",
-"heard": "bây giờ cô đọc cái",
-"v": 2,
-"dur": 0.39
+"ok": true,
+"heard": "cô đọc chữ a nhé",
+"v": 3,
+"dur": 0.33,
+"speed": 0.66,
+"stretched": 0.66
 },
 "dờ": {
 "mode": "short",
@@ -1930,16 +1935,19 @@
 "e": {
 "mode": "short",
 "ok": true,
-"heard": "bây giờ cô đọc e",
-"v": 2,
-"dur": 0.41
+"heard": "bây giờ cô đọc âm e nhé",
+"v": 3,
+"dur": 0.25,
+"speed": 0.6,
+"stretched": 0.5
 },
 "ê": {
 "mode": "short",
 "ok": true,
 "heard": "bây giờ cô đọc ê",
 "v": 2,
-"dur": 0.41
+"dur": 0.41,
+"stretched": 0.5
 },
 "con ếch": {
 "mode": "short",
@@ -1957,17 +1965,21 @@
 },
 "i": {
 "mode": "short",
-"ok": "carrier",
-"heard": "bây giờ cô đọc kì",
-"v": 2,
-"dur": 0.35
+"ok": true,
+"heard": "bây giờ cô đọc y tá nhé",
+"v": 4,
+"src": "Bây giờ cô đọc y tá nhé.",
+"dur": 0.18,
+"stretched": 0.5
 },
 "o": {
 "mode": "short",
 "ok": true,
-"heard": "bây giờ cô đọc o nhé",
-"v": 2,
-"dur": 0.28
+"heard": "bây giờ cô đọc âm o nhé",
+"v": 3,
+"dur": 0.23,
+"speed": 0.66,
+"stretched": 0.5
 },
 "con ong": {
 "mode": "short",
@@ -1978,10 +1990,12 @@
 },
 "ô": {
 "mode": "short",
-"ok": "carrier",
-"heard": "bây giờ cô đọc ốm",
-"v": 2,
-"dur": 0.43
+"ok": true,
+"heard": "cô đọc chữ ô nhé",
+"v": 3,
+"dur": 0.24,
+"speed": 0.72,
+"stretched": 0.5
 },
 "cái ô": {
 "mode": "short",
@@ -1995,7 +2009,8 @@
 "ok": "carrier",
 "heard": "bây giờ cô đọc ở",
 "v": 2,
-"dur": 0.44
+"dur": 0.44,
+"stretched": 0.52
 },
 "pờ": {
 "mode": "short",
@@ -2034,10 +2049,12 @@
 },
 "u": {
 "mode": "short",
-"ok": false,
-"heard": "",
-"v": 2,
-"dur": 0.37
+"ok": true,
+"heard": "bây giờ cô đọc âm u nhé",
+"v": 3,
+"dur": 0.32,
+"speed": 0.78,
+"stretched": 0.61
 },
 "đôi ủng": {
 "mode": "short",
@@ -2051,7 +2068,8 @@
 "ok": true,
 "heard": "bây giờ cô đọc ư nhé",
 "v": 2,
-"dur": 0.28
+"dur": 0.28,
+"stretched": 0.5
 },
 "con voi": {
 "mode": "short",
@@ -2903,9 +2921,9 @@
 },
 "Bé hãy ghép tiếng dê nhé.": {
 "mode": "long",
-"score": 0.667,
-"heard": "bé hãy khét tiếng xình nhé",
-"dur": 1.55,
+"score": 0.833,
+"heard": "bé hãy ghép tiếng gì nhé",
+"dur": 1.68,
 "target_ok": false
 },
 "Bé hãy chọn tiếng hổ nhé.": {
@@ -2916,9 +2934,9 @@
 },
 "Bé hãy ghép tiếng hổ nhé.": {
 "mode": "long",
-"score": 0.667,
-"heard": "bé hãy ghét tiếng hổ nhé",
-"dur": 1.58,
+"score": 0.833,
+"heard": "bé hãy ghép tiếng hồ nhé",
+"dur": 1.63,
 "target_ok": true
 },
 "Bé hãy chọn tiếng lá nhé.": {
@@ -3063,9 +3081,9 @@
 },
 "Bé hãy ghép tiếng voi nhé.": {
 "mode": "long",
-"score": 0.667,
-"heard": "bé hãy ghét tiếng voi nhé",
-"dur": 1.52,
+"score": 0.833,
+"heard": "bé hãy ghép tiếng vòi nhé",
+"dur": 1.66,
 "target_ok": true
 },
 "Bé hãy chọn tiếng sao nhé.": {
@@ -3174,9 +3192,9 @@
 },
 "Bé hãy ghép tiếng cua nhé.": {
 "mode": "long",
-"score": 0.667,
-"heard": "bé hãy ghét tiếng cùi nhé",
-"dur": 1.57,
+"score": 0.833,
+"heard": "bé hãy ghép tiếng cùi nhé",
+"dur": 1.62,
 "target_ok": false
 },
 "Bé hãy chọn tiếng rùa nhé.": {
@@ -3236,9 +3254,9 @@
 },
 "Bé hãy ghép tiếng rau nhé.": {
 "mode": "long",
-"score": 0.667,
-"heard": "bé hãy ghét tiếng sau nhé",
-"dur": 1.73,
+"score": 0.833,
+"heard": "bé hãy ghép tiếng nhé",
+"dur": 1.84,
 "target_ok": false
 },
 "Bé hãy chọn tiếng cam nhé.": {
@@ -3249,9 +3267,9 @@
 },
 "Bé hãy ghép tiếng cam nhé.": {
 "mode": "long",
-"score": 0.667,
-"heard": "bé hãy ghét tiếng cam nhé",
-"dur": 1.58,
+"score": 0.833,
+"heard": "bé hãy ghép tiếng cằm nhé",
+"dur": 1.6,
 "target_ok": true
 },
 "Bé hãy chọn tiếng tôm nhé.": {
@@ -3373,9 +3391,9 @@
 },
 "Bé hãy ghép tiếng cơm nhé.": {
 "mode": "long",
-"score": 0.667,
-"heard": "bé hãy khép tiếng cơm nhé",
-"dur": 1.53,
+"score": 0.833,
+"heard": "bé hãy ghét tiếng cơm nhé",
+"dur": 1.62,
 "target_ok": true
 },
 "Bé hãy chọn tiếng kem nhé.": {
@@ -3934,9 +3952,9 @@
 },
 "Bé hãy ghép tiếng tai nhé.": {
 "mode": "long",
-"score": 0.667,
-"heard": "bé hãy khét tiếng tài nhé",
-"dur": 1.64,
+"score": 0.833,
+"heard": "bé hãy ghép tiếng tài nhé",
+"dur": 1.58,
 "target_ok": false
 },
 "Tiếng tai có dấu gì?": {
@@ -5309,9 +5327,9 @@
 },
 "Bé hãy tìm chữ ngờ kép nhé.": {
 "mode": "long",
-"score": 0.714,
-"heard": "bé hãy tìm chữ ng nhé",
-"dur": 1.87,
+"score": 0.857,
+"heard": "bé hãy tìm chữ kép nhé",
+"dur": 1.85,
 "target_ok": false
 },
 "Bé hãy tìm chữ ghi âm nhờ nhé.": {
@@ -5401,9 +5419,9 @@
 },
 "Bé đội mũ.": {
 "mode": "long",
-"score": 0.667,
-"heard": "té đội mũ",
-"dur": 0.73
+"score": 1.0,
+"heard": "bé đội mũ",
+"dur": 0.76
 },
 "Trời mưa to.": {
 "mode": "long",
@@ -7943,5 +7961,3634 @@
 "score": 1.0,
 "heard": "đầu nhọn của dấu luôn chỉ vào số bé hơn",
 "dur": 2.46
+},
+"dế": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc giấy",
+"v": 2,
+"dur": 0.47
+},
+"con dế": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cụ đọc con dế",
+"v": 2,
+"dur": 0.46
+},
+"cu": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc cùng",
+"v": 2,
+"dur": 0.38
+},
+"cú": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc cú",
+"v": 2,
+"dur": 0.42
+},
+"con cú": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc con cú",
+"v": 2,
+"dur": 0.46
+},
+"bơ": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc bờ",
+"v": 2,
+"dur": 0.42
+},
+"quả bơ": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc quả bờ",
+"v": 2,
+"dur": 0.58
+},
+"bi": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc bí",
+"v": 2,
+"dur": 0.39
+},
+"bí": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc bí",
+"v": 2,
+"dur": 0.46
+},
+"quả bí": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc quả bí",
+"v": 2,
+"dur": 0.58
+},
+"cà": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc cà",
+"v": 2,
+"dur": 0.45
+},
+"quả cà": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc quả cà",
+"v": 2,
+"dur": 0.6
+},
+"so": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc giò",
+"v": 2,
+"dur": 0.39
+},
+"sò": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc sò nhé",
+"v": 2,
+"dur": 0.31
+},
+"con sò": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc con sò",
+"v": 2,
+"dur": 0.39
+},
+"xô": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc rồi",
+"v": 2,
+"dur": 0.51
+},
+"cái xô": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc cái sô",
+"v": 2,
+"dur": 0.59
+},
+"co": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc có",
+"v": 2,
+"dur": 0.38
+},
+"cỏ": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc cỏ nhé",
+"v": 2,
+"dur": 0.28
+},
+"bãi cỏ": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cuộc đọc bãi cỏ",
+"v": 2,
+"dur": 0.63
+},
+"he": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc thẻ",
+"v": 2,
+"dur": 0.41
+},
+"hè": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc hè",
+"v": 2,
+"dur": 0.41
+},
+"mùa hè": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc mùa hè",
+"v": 2,
+"dur": 0.68
+},
+"gô": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc cô",
+"v": 2,
+"dur": 0.4
+},
+"gỗ": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc gỗ",
+"v": 2,
+"dur": 0.41
+},
+"khúc gỗ": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc khúc gỗ nhé",
+"v": 2,
+"dur": 0.44
+},
+"vi": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc ví",
+"v": 2,
+"dur": 0.39
+},
+"ví": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc ví",
+"v": 2,
+"dur": 0.46
+},
+"cái ví": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc cái ví nhé",
+"v": 2,
+"dur": 0.44
+},
+"đôi": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc đời",
+"v": 2,
+"dur": 0.46
+},
+"đồi": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc đồi nhé",
+"v": 2,
+"dur": 0.35
+},
+"ngọn đồi": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc ngọn đồi",
+"v": 2,
+"dur": 0.5
+},
+"lua": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc lúa",
+"v": 2,
+"dur": 0.44
+},
+"lúa": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc lúa",
+"v": 2,
+"dur": 0.53
+},
+"cây lúa": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc cây lúa",
+"v": 2,
+"dur": 0.55
+},
+"dứa": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc dưới",
+"v": 2,
+"dur": 0.45
+},
+"quả dứa": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc quả dứa",
+"v": 2,
+"dur": 0.48
+},
+"kéo": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc kéo",
+"v": 2,
+"dur": 0.48
+},
+"cái kéo": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc cái kéo",
+"v": 2,
+"dur": 0.62
+},
+"bao": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc bao nhé",
+"v": 2,
+"dur": 0.35
+},
+"bão": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc báo",
+"v": 2,
+"dur": 0.49
+},
+"cơn bão": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc cơn bão nhé",
+"v": 2,
+"dur": 0.44
+},
+"căp": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc cam",
+"v": 2,
+"dur": 0.36
+},
+"cặp": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc càng",
+"v": 2,
+"dur": 0.34
+},
+"cặp sách": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc cặp sách nhé",
+"v": 2,
+"dur": 0.44
+},
+"răn": {
+"mode": "short",
+"ok": false,
+"heard": "",
+"v": 2,
+"dur": 0.4
+},
+"rắn": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc sắn",
+"v": 2,
+"dur": 0.51
+},
+"con rắn": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cục đọc con rắn",
+"v": 2,
+"dur": 0.71
+},
+"khoa": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc khoa nhé",
+"v": 2,
+"dur": 0.34
+},
+"khóa": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc khóa",
+"v": 2,
+"dur": 0.5
+},
+"ổ khóa": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc ổ khóa",
+"v": 2,
+"dur": 0.66
+},
+"nhên": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc đến",
+"v": 2,
+"dur": 0.44
+},
+"nhện": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc gì",
+"v": 2,
+"dur": 0.41
+},
+"con nhện": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc con nhện",
+"v": 2,
+"dur": 0.36
+},
+"nhim": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc nhìn",
+"v": 2,
+"dur": 0.5
+},
+"nhím": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc nhím",
+"v": 2,
+"dur": 0.45
+},
+"con nhím": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc con nhím nhé",
+"v": 2,
+"dur": 0.41
+},
+"phim": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc phim nhé",
+"v": 2,
+"dur": 0.31
+},
+"xem phim": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc xem phim nhé",
+"v": 2,
+"dur": 0.55
+},
+"thit": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc về",
+"v": 2,
+"dur": 0.37
+},
+"thịt": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc thịt nhé",
+"v": 2,
+"dur": 0.28
+},
+"miếng thịt": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc miếng thịt nhé",
+"v": 2,
+"dur": 0.56
+},
+"tre": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc chè",
+"v": 2,
+"dur": 0.43
+},
+"cây tre": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc cây tre",
+"v": 2,
+"dur": 0.55
+},
+"tra": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc trà",
+"v": 2,
+"dur": 0.44
+},
+"trà": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc trà",
+"v": 2,
+"dur": 0.47
+},
+"chén trà": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc chén trà",
+"v": 2,
+"dur": 0.72
+},
+"ghim": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc kín",
+"v": 2,
+"dur": 0.43
+},
+"gio": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc giò",
+"v": 2,
+"dur": 0.41
+},
+"gió": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc gió",
+"v": 2,
+"dur": 0.48
+},
+"cơn gió": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc cơn gió",
+"v": 2,
+"dur": 0.71
+},
+"ngưa": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc ngựa",
+"v": 2,
+"dur": 0.39
+},
+"ngựa": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc ngựa",
+"v": 2,
+"dur": 0.39
+},
+"ngu": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc ngùm",
+"v": 2,
+"dur": 0.39
+},
+"ngủ": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc ngủ nhé",
+"v": 2,
+"dur": 0.36
+},
+"bé ngủ": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc bé ngủ",
+"v": 2,
+"dur": 0.63
+},
+"quân": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc quân nhé",
+"v": 2,
+"dur": 0.29
+},
+"quần": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc quần",
+"v": 2,
+"dur": 0.38
+},
+"cái quần": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc cái quần",
+"v": 2,
+"dur": 0.56
+},
+"áo": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc áo",
+"v": 2,
+"dur": 0.46
+},
+"ấm": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc ấm",
+"v": 2,
+"dur": 0.46
+},
+"dưa hấu": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc dưa hấu",
+"v": 2,
+"dur": 0.46
+},
+"dâu tây": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc dâu tây nhé",
+"v": 2,
+"dur": 0.59
+},
+"đồng hồ": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc đồng hồ",
+"v": 2,
+"dur": 0.67
+},
+"đĩa": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc đĩa nhé",
+"v": 2,
+"dur": 0.37
+},
+"gương": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc hướng",
+"v": 2,
+"dur": 0.44
+},
+"găng tay": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc găng tay",
+"v": 2,
+"dur": 0.6
+},
+"gạch": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc kẹp",
+"v": 2,
+"dur": 0.33
+},
+"hươu": {
+"mode": "short",
+"ok": false,
+"heard": "",
+"v": 2,
+"dur": 0.46
+},
+"hành tây": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc hành tây",
+"v": 2,
+"dur": 0.65
+},
+"hạt dẻ": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc hạt dẻ",
+"v": 2,
+"dur": 0.41
+},
+"kiến": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc kiến",
+"v": 2,
+"dur": 0.44
+},
+"kẹp": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc kẹp",
+"v": 2,
+"dur": 0.35
+},
+"nồi": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc nồi nhé",
+"v": 2,
+"dur": 0.38
+},
+"nước": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cũng đọc nước",
+"v": 2,
+"dur": 0.43
+},
+"ô tô": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc ô tô",
+"v": 2,
+"dur": 0.57
+},
+"pi-a-nô": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc thi",
+"v": 2,
+"dur": 0.56
+},
+"quả chuối": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc quả chuối",
+"v": 2,
+"dur": 0.49
+},
+"rồng": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc giầm",
+"v": 2,
+"dur": 0.42
+},
+"sư tử": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc sư tử",
+"v": 2,
+"dur": 0.51
+},
+"tim": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc tím",
+"v": 2,
+"dur": 0.44
+},
+"ủng": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc ủng nhé",
+"v": 2,
+"dur": 0.35
+},
+"vở": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cùng đọc vở",
+"v": 2,
+"dur": 0.38
+},
+"váy": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc váy",
+"v": 2,
+"dur": 0.43
+},
+"xoài": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc xoài",
+"v": 2,
+"dur": 0.43
+},
+"xương": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc xương nhé",
+"v": 2,
+"dur": 0.36
+},
+"xe đạp": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cuộc đọc xe đạp",
+"v": 2,
+"dur": 0.49
+},
+"xà phòng": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc xà phòng",
+"v": 2,
+"dur": 0.62
+},
+"y tá": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc y tá",
+"v": 2,
+"dur": 0.62
+},
+"máy bay": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc máy bay",
+"v": 2,
+"dur": 0.57
+},
+"chuối": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc chuối",
+"v": 2,
+"dur": 0.43
+},
+"chìa khóa": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc chìa khóa",
+"v": 2,
+"dur": 0.53
+},
+"ghẹ": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc ghẹ",
+"v": 2,
+"dur": 0.39
+},
+"ghi-ta": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc kì tám",
+"v": 2,
+"dur": 0.53
+},
+"giường": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc giường",
+"v": 2,
+"dur": 0.44
+},
+"giỏ": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc giỏ nhé",
+"v": 2,
+"dur": 0.31
+},
+"giấy": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc giấy",
+"v": 2,
+"dur": 0.44
+},
+"khoai lang": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc khoai lang",
+"v": 2,
+"dur": 0.61
+},
+"khủng long": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc khủng long nhé",
+"v": 2,
+"dur": 0.58
+},
+"khói": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc khói",
+"v": 2,
+"dur": 0.42
+},
+"ngón tay": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc ngón tay",
+"v": 2,
+"dur": 0.47
+},
+"nghệ sĩ": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc nghệ sĩ",
+"v": 2,
+"dur": 0.69
+},
+"suy nghĩ": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc suy nghĩ",
+"v": 2,
+"dur": 0.51
+},
+"nhẫn": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc nhẫn nhé",
+"v": 2,
+"dur": 0.32
+},
+"nhảy": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc nhảy nhé",
+"v": 2,
+"dur": 0.4
+},
+"pháo hoa": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc pháo hoa nhé",
+"v": 2,
+"dur": 0.68
+},
+"cà phê": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc cà phê",
+"v": 2,
+"dur": 0.6
+},
+"phi hành gia": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc phi hành gia",
+"v": 2,
+"dur": 0.75
+},
+"thuyền": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc thuyền",
+"v": 2,
+"dur": 0.38
+},
+"thìa": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc thiền",
+"v": 2,
+"dur": 0.43
+},
+"trâu": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc châu",
+"v": 2,
+"dur": 0.44
+},
+"chai": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc chai nhé",
+"v": 2,
+"dur": 0.32
+},
+"bài hát": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc bài hát",
+"v": 2,
+"dur": 0.56
+},
+"nói": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc nói",
+"v": 2,
+"dur": 0.48
+},
+"đồ chơi": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc đồ chơi",
+"v": 2,
+"dur": 0.72
+},
+"bầu trời": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc bầu trời",
+"v": 2,
+"dur": 0.66
+},
+"núi": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc núi nhé",
+"v": 2,
+"dur": 0.33
+},
+"củi": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cùng đọc củi nhé",
+"v": 2,
+"dur": 0.27
+},
+"màu": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc màu",
+"v": 2,
+"dur": 0.45
+},
+"cầu": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc cầu",
+"v": 2,
+"dur": 0.41
+},
+"leo núi": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc leo núi nhé",
+"v": 2,
+"dur": 0.58
+},
+"bưu điện": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cục đọc bưu điện",
+"v": 2,
+"dur": 0.57
+},
+"vua": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc vua",
+"v": 2,
+"dur": 0.41
+},
+"họa sĩ": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc họa sĩ",
+"v": 2,
+"dur": 0.68
+},
+"loa": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc loa",
+"v": 2,
+"dur": 0.45
+},
+"nam châm": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc năm chấm",
+"v": 2,
+"dur": 0.65
+},
+"cắm trại": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc cắm trại",
+"v": 2,
+"dur": 0.58
+},
+"sấm sét": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc sấm sét",
+"v": 2,
+"dur": 0.36
+},
+"xem": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc xem",
+"v": 2,
+"dur": 0.41
+},
+"nệm": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc nệm nhé",
+"v": 2,
+"dur": 0.32
+},
+"kim": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc kín",
+"v": 2,
+"dur": 0.45
+},
+"bạn": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc bạn nhé",
+"v": 2,
+"dur": 0.34
+},
+"cân": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc cân nhé",
+"v": 2,
+"dur": 0.29
+},
+"kèn": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc kèn",
+"v": 2,
+"dur": 0.39
+},
+"len": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc lén",
+"v": 2,
+"dur": 0.44
+},
+"cún": {
+"mode": "short",
+"ok": false,
+"heard": "",
+"v": 2,
+"dur": 0.48
+},
+"sáng": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc sáng",
+"v": 2,
+"dur": 0.48
+},
+"răng": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc sáng",
+"v": 2,
+"dur": 0.45
+},
+"nắng": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô mặc nắng",
+"v": 2,
+"dur": 0.5
+},
+"sông": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc sống",
+"v": 2,
+"dur": 0.38
+},
+"công": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc cùng",
+"v": 2,
+"dur": 0.37
+},
+"tranh": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc tranh nhé",
+"v": 2,
+"dur": 0.34
+},
+"bình": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc bình",
+"v": 2,
+"dur": 0.4
+},
+"bác sĩ": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc bác sĩ",
+"v": 2,
+"dur": 0.74
+},
+"học": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc học nhé",
+"v": 2,
+"dur": 0.32
+},
+"ốc": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc uống",
+"v": 2,
+"dur": 0.39
+},
+"xúc xắc": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc xuất sắc",
+"v": 2,
+"dur": 0.61
+},
+"thức dậy": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc thức dậy",
+"v": 2,
+"dur": 0.5
+},
+"bát": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc bát nhé",
+"v": 2,
+"dur": 0.32
+},
+"cát": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc cát",
+"v": 2,
+"dur": 0.37
+},
+"cắt": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc cách",
+"v": 2,
+"dur": 0.33
+},
+"trái đất": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc trái đất",
+"v": 2,
+"dur": 0.57
+},
+"vợt": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc vợt nhé",
+"v": 2,
+"dur": 0.33
+},
+"xếp hình": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc xếp hình nhé",
+"v": 2,
+"dur": 0.51
+},
+"hươu cao cổ": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc khu cao cổ",
+"v": 2,
+"dur": 0.84
+},
+"ngựa vằn": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cuộc đọc ngựa vằn",
+"v": 2,
+"dur": 0.4
+},
+"lạc đà": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc lạc đà nhé",
+"v": 2,
+"dur": 0.55
+},
+"cá heo": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc cá heo",
+"v": 2,
+"dur": 0.55
+},
+"cá voi": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc cá voi nhé",
+"v": 2,
+"dur": 0.32
+},
+"cá sấu": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc cá sấu",
+"v": 2,
+"dur": 0.44
+},
+"cú mèo": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc cú mèo",
+"v": 2,
+"dur": 0.45
+},
+"gà con": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc gà con nhé",
+"v": 2,
+"dur": 0.53
+},
+"chim cánh cụt": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc chim cánh cụt",
+"v": 2,
+"dur": 0.57
+},
+"bướm": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc bướm",
+"v": 2,
+"dur": 0.42
+},
+"ốc sên": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc ốc sen",
+"v": 2,
+"dur": 0.62
+},
+"chuột": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc chuột",
+"v": 2,
+"dur": 0.36
+},
+"đào": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc đào nhé",
+"v": 2,
+"dur": 0.33
+},
+"anh đào": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc anh đào",
+"v": 2,
+"dur": 0.57
+},
+"cà chua": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc cà chua",
+"v": 2,
+"dur": 0.49
+},
+"cà tím": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc cả tiếng",
+"v": 2,
+"dur": 0.64
+},
+"dưa chuột": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc dưa chuột",
+"v": 2,
+"dur": 0.39
+},
+"súp lơ xanh": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc sánh",
+"v": 2,
+"dur": 0.38
+},
+"khoai tây": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc khoai tây",
+"v": 2,
+"dur": 0.62
+},
+"bí ngô": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc bí ngô",
+"v": 2,
+"dur": 0.57
+},
+"rau cải": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc rau cải",
+"v": 2,
+"dur": 0.6
+},
+"lạc": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc lạc nhé",
+"v": 2,
+"dur": 0.35
+},
+"bánh mì": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô bọc bánh mì",
+"v": 2,
+"dur": 0.61
+},
+"bánh ngọt": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc bánh ngọt",
+"v": 2,
+"dur": 0.54
+},
+"bánh quy": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc bánh quy",
+"v": 2,
+"dur": 0.63
+},
+"gà rán": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc gà rán",
+"v": 2,
+"dur": 0.43
+},
+"canh": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc canh nhé",
+"v": 2,
+"dur": 0.3
+},
+"nước cam": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc nước cam",
+"v": 2,
+"dur": 0.6
+},
+"bỏng ngô": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc bằng nô",
+"v": 2,
+"dur": 0.6
+},
+"chảo": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc chảo nhé",
+"v": 2,
+"dur": 0.29
+},
+"bàn chải đánh răng": {
+"mode": "long",
+"score": 1.0,
+"heard": "bàn chải đánh răng",
+"dur": 1.04
+},
+"điện thoại": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc điện thoại",
+"v": 2,
+"dur": 0.56
+},
+"máy tính": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc máy tính",
+"v": 2,
+"dur": 0.64
+},
+"ti vi": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc tv",
+"v": 2,
+"dur": 0.59
+},
+"gấu bông": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc gấu bông nhé",
+"v": 2,
+"dur": 0.47
+},
+"diều": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc diều",
+"v": 2,
+"dur": 0.41
+},
+"tất": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc tất",
+"v": 2,
+"dur": 0.33
+},
+"chị": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc chị nhé",
+"v": 2,
+"dur": 0.3
+},
+"cô giáo": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc cô giáo",
+"v": 2,
+"dur": 0.63
+},
+"chú công an": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc chú công an",
+"v": 2,
+"dur": 0.79
+},
+"chú bộ đội": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc chú bộ đội",
+"v": 2,
+"dur": 0.74
+},
+"bác nông dân": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc bác nông dân",
+"v": 2,
+"dur": 0.82
+},
+"đầu bếp": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc đầu bếp",
+"v": 2,
+"dur": 0.62
+},
+"lính cứu hỏa": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc lính cứu hỏa",
+"v": 2,
+"dur": 0.95
+},
+"xe máy": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc xe máy",
+"v": 2,
+"dur": 0.62
+},
+"xe buýt": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc xe buýt",
+"v": 2,
+"dur": 0.55
+},
+"xe tải": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc xe tải",
+"v": 2,
+"dur": 0.56
+},
+"xe cứu thương": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc xe cứu thương",
+"v": 2,
+"dur": 0.85
+},
+"xe cứu hỏa": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc xe cứu hỏa",
+"v": 2,
+"dur": 0.82
+},
+"xe cảnh sát": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc xe cảnh sát",
+"v": 2,
+"dur": 0.81
+},
+"tàu hỏa": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc tàu hỏa",
+"v": 2,
+"dur": 0.61
+},
+"tàu thủy": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc tàu thủy",
+"v": 2,
+"dur": 0.62
+},
+"trực thăng": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc trực thăng",
+"v": 2,
+"dur": 0.62
+},
+"tên lửa": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô bọc tên lửa",
+"v": 2,
+"dur": 0.56
+},
+"mặt trời": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc mặt trời",
+"v": 2,
+"dur": 0.64
+},
+"mặt trăng": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc mặt trăng",
+"v": 2,
+"dur": 0.64
+},
+"cầu vồng": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc cầu vồng",
+"v": 2,
+"dur": 0.43
+},
+"tuyết": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc tuyết",
+"v": 2,
+"dur": 0.39
+},
+"biển": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc biển",
+"v": 2,
+"dur": 0.41
+},
+"miệng": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc miệng nhé",
+"v": 2,
+"dur": 0.33
+},
+"lưỡi": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc lưỡi",
+"v": 2,
+"dur": 0.42
+},
+"cánh tay": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc cánh tay",
+"v": 2,
+"dur": 0.55
+},
+"đỏ": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc đỏ nhé",
+"v": 2,
+"dur": 0.31
+},
+"vàng": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc vàng",
+"v": 2,
+"dur": 0.43
+},
+"xanh lá cây": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc xanh lá cây",
+"v": 2,
+"dur": 0.87
+},
+"xanh da trời": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc xanh da trời nhé",
+"v": 2,
+"dur": 0.78
+},
+"tím": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc tím",
+"v": 2,
+"dur": 0.42
+},
+"hồng": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc hồng",
+"v": 2,
+"dur": 0.43
+},
+"nâu": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc nâu nhé",
+"v": 2,
+"dur": 0.35
+},
+"trắng": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc trắng",
+"v": 2,
+"dur": 0.49
+},
+"xám": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc xám",
+"v": 2,
+"dur": 0.48
+},
+"Nhà bé có bố, mẹ và bé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "nhà bé có bố mẹ và bé",
+"dur": 2.09
+},
+"Bố đi làm.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bố đi làm",
+"dur": 0.67
+},
+"Bé ngoan, bé học bài.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé ngoan bé học bài",
+"dur": 1.43
+},
+"Nhà bà có con mèo mướp.": {
+"mode": "long",
+"score": 0.833,
+"heard": "nhà bà có con mèo mướt",
+"dur": 1.42
+},
+"Mèo có bộ lông mềm.": {
+"mode": "long",
+"score": 1.0,
+"heard": "mèo có bộ lông mềm",
+"dur": 1.21
+},
+"Mèo bắt chuột rất giỏi.": {
+"mode": "long",
+"score": 1.0,
+"heard": "mèo bắt chuột rất giỏi",
+"dur": 1.24
+},
+"Bé rất yêu mèo.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé rất yêu mèo",
+"dur": 1.07
+},
+"Ông trồng rau trong vườn.": {
+"mode": "long",
+"score": 1.0,
+"heard": "ông trồng rau trong vườn",
+"dur": 1.27
+},
+"Rau cải xanh mơn mởn.": {
+"mode": "long",
+"score": 0.6,
+"heard": "rau cải xanh mân",
+"dur": 1.29
+},
+"Bé giúp ông tưới rau.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé giúp ông tưới rau",
+"dur": 1.31
+},
+"Mùa hè trời nắng to.": {
+"mode": "long",
+"score": 1.0,
+"heard": "mùa hè trời nắng to",
+"dur": 1.37
+},
+"Bé đi tắm biển với bố mẹ.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé đi tắm biển với bố mẹ",
+"dur": 1.46
+},
+"Bé xây lâu đài cát.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé xây lâu đài cát",
+"dur": 1.22
+},
+"Sáng sớm, chú gà trống gáy ò ó o.": {
+"mode": "long",
+"score": 0.778,
+"heard": "sáng sớm chú gà trống gáy o",
+"dur": 2.23
+},
+"Cả nhà thức dậy.": {
+"mode": "long",
+"score": 1.0,
+"heard": "cả nhà thức dậy",
+"dur": 0.92
+},
+"Bé đánh răng, rửa mặt.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé đánh răng rửa mặt",
+"dur": 1.33
+},
+"Bé đeo cặp đi học.": {
+"mode": "long",
+"score": 0.8,
+"heard": "bé theo cặp đi học",
+"dur": 1.01
+},
+"Cô giáo dạy bé đọc và viết.": {
+"mode": "long",
+"score": 1.0,
+"heard": "cô giáo dạy bé đọc và viết",
+"dur": 1.55
+},
+"Bé chơi với các bạn.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé chơi với các bạn",
+"dur": 1.13
+},
+"Bố mua cho bé quả bóng đỏ.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bố mua cho bé quả bóng đỏ",
+"dur": 1.71
+},
+"Bé và bạn đá bóng ở sân.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé và bạn đá bóng ở sân",
+"dur": 1.73
+},
+"Bé vui lắm.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé vui lắm",
+"dur": 0.9
+},
+"Đêm rằm, ông trăng tròn.": {
+"mode": "long",
+"score": 0.6,
+"heard": "đèn rằm ôm trăng tròn",
+"dur": 1.54
+},
+"Trăng sáng khắp sân.": {
+"mode": "long",
+"score": 0.75,
+"heard": "trong sáng khắp sân",
+"dur": 1.09
+},
+"Bé ngồi ngắm trăng với bà.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé ngồi ngắm trăng với bà",
+"dur": 1.54
+},
+"mười một": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc mười một",
+"v": 2,
+"dur": 0.57
+},
+"mười hai": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc mười hai nhé",
+"v": 2,
+"dur": 0.43
+},
+"mười ba": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc mười ba",
+"v": 2,
+"dur": 0.57
+},
+"mười bốn": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc mười bốn",
+"v": 2,
+"dur": 0.51
+},
+"mười lăm": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc mười lăm",
+"v": 2,
+"dur": 0.45
+},
+"mười sáu": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc mười sáu",
+"v": 2,
+"dur": 0.52
+},
+"mười bảy": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc mười bảy",
+"v": 2,
+"dur": 0.55
+},
+"mười tám": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc mười tám",
+"v": 2,
+"dur": 0.48
+},
+"mười chín": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc mười chín",
+"v": 2,
+"dur": 0.49
+},
+"hai mươi": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc hai mươi",
+"v": 2,
+"dur": 0.6
+},
+"hai mươi mốt": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc hai mươi mốt",
+"v": 2,
+"dur": 0.56
+},
+"hai mươi hai": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc hai mươi hai nhé",
+"v": 2,
+"dur": 0.82
+},
+"hai mươi ba": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc hai mươi ba",
+"v": 2,
+"dur": 0.79
+},
+"hai mươi bốn": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc hai mươi bốn",
+"v": 2,
+"dur": 0.89
+},
+"hai mươi lăm": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc hai mươi lăm nhé",
+"v": 2,
+"dur": 0.34
+},
+"hai mươi sáu": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc hai mươi sáu",
+"v": 2,
+"dur": 0.9
+},
+"hai mươi bảy": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc hai mươi bảy",
+"v": 2,
+"dur": 0.79
+},
+"hai mươi tám": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc hai mươi tám",
+"v": 2,
+"dur": 0.9
+},
+"hai mươi chín": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc hai mươi chín nhé",
+"v": 2,
+"dur": 0.75
+},
+"ba mươi": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc ba mươi",
+"v": 2,
+"dur": 0.61
+},
+"ba mươi mốt": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc ba mươi mốt",
+"v": 2,
+"dur": 0.39
+},
+"ba mươi hai": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc ba mươi hài",
+"v": 2,
+"dur": 0.8
+},
+"ba mươi ba": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc ba mươi ba",
+"v": 2,
+"dur": 0.74
+},
+"ba mươi bốn": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc ba mươi bốn",
+"v": 2,
+"dur": 0.82
+},
+"ba mươi lăm": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc ba mươi lăm",
+"v": 2,
+"dur": 0.45
+},
+"ba mươi sáu": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc ba mươi sáu",
+"v": 2,
+"dur": 0.94
+},
+"ba mươi bảy": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc ba mươi bảy nhé",
+"v": 2,
+"dur": 0.7
+},
+"ba mươi tám": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc ba mươi tám",
+"v": 2,
+"dur": 0.88
+},
+"ba mươi chín": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc ba mươi chín",
+"v": 2,
+"dur": 0.92
+},
+"bốn mươi": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc bốn mươi",
+"v": 2,
+"dur": 0.59
+},
+"bốn mươi mốt": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc bốn mươi mốt",
+"v": 2,
+"dur": 0.55
+},
+"bốn mươi hai": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc bốn mươi hai",
+"v": 2,
+"dur": 0.81
+},
+"bốn mươi ba": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc bốn mươi ba",
+"v": 2,
+"dur": 0.79
+},
+"bốn mươi bốn": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc bốn mươi bốn",
+"v": 2,
+"dur": 0.87
+},
+"bốn mươi lăm": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc bốn mươi lăm nhé",
+"v": 2,
+"dur": 0.39
+},
+"bốn mươi sáu": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc bốn mươi sáu",
+"v": 2,
+"dur": 1.0
+},
+"bốn mươi bảy": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc bốn mươi bảy nhé",
+"v": 2,
+"dur": 0.72
+},
+"bốn mươi tám": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc bốn mươi tám",
+"v": 2,
+"dur": 0.87
+},
+"bốn mươi chín": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc bốn mươi chín",
+"v": 2,
+"dur": 0.93
+},
+"năm mươi": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc năm mươi",
+"v": 2,
+"dur": 0.59
+},
+"năm mươi mốt": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc năm mươi mốt",
+"v": 2,
+"dur": 0.38
+},
+"năm mươi hai": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc năm mươi hai nhé",
+"v": 2,
+"dur": 0.74
+},
+"năm mươi ba": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc năm mười bài",
+"v": 2,
+"dur": 0.75
+},
+"năm mươi bốn": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc năm mươi bốn",
+"v": 2,
+"dur": 0.83
+},
+"năm mươi lăm": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc năm mười lăm",
+"v": 2,
+"dur": 0.9
+},
+"năm mươi sáu": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc năm mươi sáu nhé",
+"v": 2,
+"dur": 0.83
+},
+"năm mươi bảy": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc năm mười bảy",
+"v": 2,
+"dur": 0.79
+},
+"năm mươi tám": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc năm mười tám",
+"v": 2,
+"dur": 0.89
+},
+"năm mươi chín": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc năm mười chín",
+"v": 2,
+"dur": 0.88
+},
+"sáu mươi": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc sáu mười",
+"v": 2,
+"dur": 0.56
+},
+"sáu mươi mốt": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc sáu mươi mốt",
+"v": 2,
+"dur": 0.52
+},
+"sáu mươi hai": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc sáu mươi hai nhé",
+"v": 2,
+"dur": 0.68
+},
+"sáu mươi ba": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc sáu mươi bài",
+"v": 2,
+"dur": 0.73
+},
+"sáu mươi bốn": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc sáu mươi bốn",
+"v": 2,
+"dur": 0.87
+},
+"sáu mươi lăm": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc sáu mươi lăm nhé",
+"v": 2,
+"dur": 0.35
+},
+"sáu mươi sáu": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc sáu mươi sáu",
+"v": 2,
+"dur": 0.91
+},
+"sáu mươi bảy": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc sáu mươi bài",
+"v": 2,
+"dur": 0.78
+},
+"sáu mươi tám": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc sáu mươi tám",
+"v": 2,
+"dur": 0.91
+},
+"sáu mươi chín": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc sáu mươi chín",
+"v": 2,
+"dur": 0.85
+},
+"bảy mươi": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc bảy mươi",
+"v": 2,
+"dur": 0.6
+},
+"bảy mươi mốt": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc bảy mươi mốt",
+"v": 2,
+"dur": 0.52
+},
+"bảy mươi hai": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc bảy mươi hai nhé",
+"v": 2,
+"dur": 0.72
+},
+"bảy mươi ba": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc bảy mườ",
+"v": 2,
+"dur": 0.79
+},
+"bảy mươi bốn": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc bảy mươi bốn nhé",
+"v": 2,
+"dur": 0.79
+},
+"bảy mươi lăm": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc bảy mươi lăm nhé",
+"v": 2,
+"dur": 0.33
+},
+"bảy mươi sáu": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc bảy mươi sáu",
+"v": 2,
+"dur": 0.95
+},
+"bảy mươi bảy": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc bảy mươi bảy nhé",
+"v": 2,
+"dur": 0.81
+},
+"bảy mươi tám": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc bảy mươi tám",
+"v": 2,
+"dur": 0.87
+},
+"bảy mươi chín": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc bảy mươi chín",
+"v": 2,
+"dur": 0.95
+},
+"tám mươi": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc tám mười",
+"v": 2,
+"dur": 0.58
+},
+"tám mươi mốt": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc tám mươi mốt",
+"v": 2,
+"dur": 0.52
+},
+"tám mươi hai": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc tám mươi hai",
+"v": 2,
+"dur": 0.77
+},
+"tám mươi ba": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc tám mươi bài",
+"v": 2,
+"dur": 0.77
+},
+"tám mươi bốn": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc tám mươi bốn",
+"v": 2,
+"dur": 0.8
+},
+"tám mươi lăm": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc tám mươi lăm",
+"v": 2,
+"dur": 0.48
+},
+"tám mươi sáu": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc tám mươi sáu",
+"v": 2,
+"dur": 0.92
+},
+"tám mươi bảy": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc tám mươi bảy",
+"v": 2,
+"dur": 0.78
+},
+"tám mươi tám": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc tám mươi tám",
+"v": 2,
+"dur": 0.84
+},
+"tám mươi chín": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc tám mươi chín nhé",
+"v": 2,
+"dur": 0.77
+},
+"chín mươi": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc chín mươi",
+"v": 2,
+"dur": 0.66
+},
+"chín mươi mốt": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc chín mươi mốt",
+"v": 2,
+"dur": 0.54
+},
+"chín mươi hai": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc chín mươi hai",
+"v": 2,
+"dur": 0.84
+},
+"chín mươi ba": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc chín mươi ba",
+"v": 2,
+"dur": 0.8
+},
+"chín mươi bốn": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc chín mươi bốn",
+"v": 2,
+"dur": 0.9
+},
+"chín mươi lăm": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc chín mươi lăm",
+"v": 2,
+"dur": 0.42
+},
+"chín mươi sáu": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc chín mươi sáu",
+"v": 2,
+"dur": 0.98
+},
+"chín mươi bảy": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc chín mươi bảy",
+"v": 2,
+"dur": 0.81
+},
+"chín mươi tám": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc chín mươi tám",
+"v": 2,
+"dur": 0.84
+},
+"chín mươi chín": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc chín mươi chín",
+"v": 2,
+"dur": 0.87
+},
+"một trăm": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc một trăm",
+"v": 2,
+"dur": 0.65
+},
+"cộng": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc cộng nhé",
+"v": 2,
+"dur": 0.24
+},
+"trừ": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc trừ nhé",
+"v": 2,
+"dur": 0.33
+},
+"bằng": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc bằng nhé",
+"v": 2,
+"dur": 0.37
+},
+"bằng mấy?": {
+"mode": "long",
+"score": 1.0,
+"heard": "bằng mấy",
+"dur": 0.59
+},
+"gờ kép": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc cờ cát",
+"v": 2,
+"dur": 0.6
+},
+"ngờ đơn": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc ngợi đến",
+"v": 2,
+"dur": 0.62
+},
+"ngờ kép": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc ng",
+"v": 2,
+"dur": 0.65
+},
+"Mẹ mua rau.": {
+"mode": "long",
+"score": 1.0,
+"heard": "mẹ mua rau",
+"dur": 0.93
+},
+"Bố câu cá.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bố câu cá",
+"dur": 0.88
+},
+"Chú chó sủa gâu gâu.": {
+"mode": "long",
+"score": 1.0,
+"heard": "chú chó sủa gâu gâu",
+"dur": 1.44
+},
+"Con vịt bơi dưới ao.": {
+"mode": "long",
+"score": 1.0,
+"heard": "con vịt bơi dưới ao",
+"dur": 1.28
+},
+"Cô giáo dạy học.": {
+"mode": "long",
+"score": 1.0,
+"heard": "cô giáo dạy học",
+"dur": 0.95
+},
+"Trời nắng to.": {
+"mode": "long",
+"score": 1.0,
+"heard": "trời nắng to",
+"dur": 0.84
+},
+"Bé thả diều.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé thả diều",
+"dur": 0.88
+},
+"Con thỏ ăn cà rốt.": {
+"mode": "long",
+"score": 0.8,
+"heard": "con thỏ ăn ca rốt",
+"dur": 1.16
+},
+"Bé uống sữa.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé uống sữa",
+"dur": 0.98
+},
+"Bé đi xe đạp.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé đi xe đạp",
+"dur": 0.84
+},
+"Máy bay bay trên trời.": {
+"mode": "long",
+"score": 1.0,
+"heard": "máy bay bay trên trời",
+"dur": 1.25
+},
+"Gà mái đẻ trứng.": {
+"mode": "long",
+"score": 1.0,
+"heard": "gà mái đẻ trứng",
+"dur": 1.06
+},
+"Bà kể chuyện cho bé nghe.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bà kể chuyện cho bé nghe",
+"dur": 1.44
+},
+"Bé rửa tay bằng xà phòng.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé rửa tay bằng xà phòng",
+"dur": 1.5
+},
+"Quả táo màu đỏ.": {
+"mode": "long",
+"score": 1.0,
+"heard": "quả táo màu đỏ",
+"dur": 0.93
+},
+"Lá cây màu xanh.": {
+"mode": "long",
+"score": 1.0,
+"heard": "lá cây màu xanh",
+"dur": 1.1,
+"tail": 1
+},
+"Con voi có cái vòi dài.": {
+"mode": "long",
+"score": 1.0,
+"heard": "con voi có cái vòi dài",
+"dur": 1.75
+},
+"Hươu cao cổ có cổ dài.": {
+"mode": "long",
+"score": 0.833,
+"heard": "khu cao cổ có cổ dài",
+"dur": 1.51
+},
+"Bé chơi xếp hình.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé chơi xếp hình",
+"dur": 0.98
+},
+"Tàu hỏa chạy trên đường ray.": {
+"mode": "long",
+"score": 0.833,
+"heard": "tàu hỏa chạy trên đường dày",
+"dur": 1.56
+},
+"Chị hái hoa.": {
+"mode": "long",
+"score": 0.667,
+"heard": "chị hái hòa",
+"dur": 0.88
+},
+"Em bé đang ngủ.": {
+"mode": "long",
+"score": 1.0,
+"heard": "em bé đang ngủ",
+"dur": 1.0
+},
+"Bé nghe cô đọc, rồi tìm chữ đúng nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé nghe cô đọc rồi tìm chữ đúng nhé",
+"dur": 2.14
+},
+"Bé nghe cô đọc, rồi chọn tiếng đúng nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé nghe cô đọc rồi chọn tiếng đúng nhé",
+"dur": 2.19
+},
+"Bé hãy ghép tiếng cô đọc nhé.": {
+"mode": "long",
+"score": 0.857,
+"heard": "bé hãy khét tiếng cô đọc nhé",
+"dur": 1.67
+},
+"Tiếng này có dấu gì?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tiếng này có dấu gì",
+"dur": 1.23
+},
+"Tiếng này có vần gì?": {
+"mode": "long",
+"score": 0.8,
+"heard": "tiếng này có phần gì",
+"dur": 1.23
+},
+"Có bao nhiêu que tính?": {
+"mode": "long",
+"score": 1.0,
+"heard": "có bao nhiêu que tính",
+"dur": 1.2
+},
+"Bé nghe cô đọc, rồi tìm số đúng nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé nghe cô đọc rồi tìm số đúng nhé",
+"dur": 2.23
+},
+"Bé chạm vào hình để nghe cô đọc nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé chạm vào hình để nghe cô đọc nhé",
+"dur": 2.23
+},
+"Bé chọn một bài, rồi đọc cùng cô nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé chọn một bài rồi đọc cùng cô nhé",
+"dur": 2.19
+},
+"Bé chạm vào một số để nghe cô đọc nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé chạm vào một số để nghe cô đọc nhé",
+"dur": 2.16
+},
+"Cộng, trừ đơn vị với đơn vị, chục với chục nhé.": {
+"mode": "long",
+"score": 0.818,
+"heard": "cộng trừ đơn vị với đơn vị chụp với chụp nhé",
+"dur": 2.46
+},
+"Trước e, ê, i, viết chữ ca. Trước các âm còn lại, viết chữ cờ.": {
+"mode": "long",
+"score": 0.867,
+"heard": "trước e viết chữ ca trước các âm còn lại viết chữ cờ",
+"dur": 3.41
+},
+"Trước e, ê, i, viết gờ kép. Trước các âm còn lại, viết gờ đơn.": {
+"mode": "long",
+"score": 0.733,
+"heard": "trước hè ê viết cờ kép trước các âm còn lại viết cờ đơn",
+"dur": 3.45
+},
+"Trước e, ê, i, viết ngờ kép. Trước các âm còn lại, viết ngờ đơn.": {
+"mode": "long",
+"score": 0.733,
+"heard": "trước e viết kép trước các âm còn lại viết ngờ đớn",
+"dur": 3.51
+},
+"Dung dăng dung dẻ": {
+"mode": "long",
+"score": 0.5,
+"heard": "dung dẻ",
+"dur": 1.16
+},
+"Dắt trẻ đi chơi": {
+"mode": "long",
+"score": 1.0,
+"heard": "dắt trẻ đi chơi",
+"dur": 0.97
+},
+"Đến ngõ nhà trời": {
+"mode": "long",
+"score": 1.0,
+"heard": "đến ngõ nhà trời",
+"dur": 1.19
+},
+"Lạy cậu, lạy mợ": {
+"mode": "long",
+"score": 0.5,
+"heard": "lại cậu gại mợ",
+"dur": 1.16
+},
+"Cho cháu về quê": {
+"mode": "long",
+"score": 1.0,
+"heard": "cho cháu về quê",
+"dur": 0.98
+},
+"Cho dê đi học": {
+"mode": "long",
+"score": 1.0,
+"heard": "cho dê đi học",
+"dur": 0.84
+},
+"Cho cóc ở nhà": {
+"mode": "long",
+"score": 0.75,
+"heard": "cho cốc ở nhà",
+"dur": 0.91
+},
+"Cho gà bới bếp": {
+"mode": "long",
+"score": 0.75,
+"heard": "cho gà bới tết",
+"dur": 0.97
+},
+"Ngồi xệp xuống đây.": {
+"mode": "long",
+"score": 0.75,
+"heard": "ngồi sập xuống đây",
+"dur": 1.05
+},
+"Nu na nu nống": {
+"mode": "long",
+"score": 0.75,
+"heard": "nu na nu đống",
+"dur": 0.86
+},
+"Cái bống nằm trong": {
+"mode": "long",
+"score": 0.75,
+"heard": "cái bóng nằm trong",
+"dur": 0.97
+},
+"Con ong nằm ngoài": {
+"mode": "long",
+"score": 1.0,
+"heard": "con ong nằm ngoài",
+"dur": 0.92
+},
+"Củ khoai chấm mật": {
+"mode": "long",
+"score": 1.0,
+"heard": "củ khoai chấm mật",
+"dur": 0.97
+},
+"Phật ngồi phật khóc": {
+"mode": "long",
+"score": 1.0,
+"heard": "phật ngồi phật khóc",
+"dur": 0.85
+},
+"Con cóc nhảy ra": {
+"mode": "long",
+"score": 1.0,
+"heard": "con cóc nhảy ra",
+"dur": 0.95
+},
+"Con gà ú ụ": {
+"mode": "long",
+"score": 0.5,
+"heard": "con cá ú",
+"dur": 0.84
+},
+"Nhà mụ thổi xôi": {
+"mode": "long",
+"score": 0.75,
+"heard": "nhà mụ thổi sôi",
+"dur": 1.21
+},
+"Nhà tôi nấu chè": {
+"mode": "long",
+"score": 1.0,
+"heard": "nhà tôi nấu chè",
+"dur": 1.05
+},
+"Tay xòe chân rụt.": {
+"mode": "long",
+"score": 0.5,
+"heard": "tay xẻ chân ruột",
+"dur": 0.95
+},
+"Chi chi chành chành": {
+"mode": "long",
+"score": 0.75,
+"heard": "chi chành chành",
+"dur": 0.88
+},
+"Cái đanh thổi lửa": {
+"mode": "long",
+"score": 1.0,
+"heard": "cái đanh thổi lửa",
+"dur": 0.93
+},
+"Con ngựa chết trương": {
+"mode": "long",
+"score": 1.0,
+"heard": "con ngựa chết trương",
+"dur": 0.99
+},
+"Ba vương ngũ đế": {
+"mode": "long",
+"score": 0.75,
+"heard": "bà vương ngũ đế",
+"dur": 0.99
+},
+"Chấp chế đi tìm": {
+"mode": "long",
+"score": 0.75,
+"heard": "chớp chế đi tìm",
+"dur": 0.9
+},
+"Ù à ù ập": {
+"mode": "long",
+"score": 0.25,
+"heard": "ù",
+"dur": 0.84
+},
+"Đóng sập cửa vào.": {
+"mode": "long",
+"score": 1.0,
+"heard": "đóng sập cửa vào",
+"dur": 1.13
+},
+"Con gà cục tác lá chanh,": {
+"mode": "long",
+"score": 1.0,
+"heard": "con gà cục tác lá chanh",
+"dur": 1.48
+},
+"Con lợn ủn ỉn mua hành cho tôi.": {
+"mode": "long",
+"score": 0.875,
+"heard": "con lợn ủn ìn mua hành cho tôi",
+"dur": 1.75
+},
+"Con chó khóc đứng khóc ngồi,": {
+"mode": "long",
+"score": 0.833,
+"heard": "con chó khóc đứng khóc mùi",
+"dur": 1.46
+},
+"Mẹ ơi đi chợ mua tôi đồng riềng.": {
+"mode": "long",
+"score": 0.75,
+"heard": "mẹ ơi đi chợ mua tô đồng diềm",
+"dur": 1.82
+},
+"Tập tầm vông": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc tầm vồng",
+"v": 2,
+"dur": 0.73
+},
+"Tay không tay có": {
+"mode": "long",
+"score": 1.0,
+"heard": "tay không tay có",
+"dur": 0.91
+},
+"Tập tầm vó": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô học tập tầm vó nhé",
+"v": 2,
+"dur": 0.54
+},
+"Tay có tay không": {
+"mode": "long",
+"score": 1.0,
+"heard": "tay có tay không",
+"dur": 0.81
+},
+"Tay nào có, tay nào không?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tay nào có tay nào không",
+"dur": 1.55
+},
+"Tay nào không, tay nào có?": {
+"mode": "long",
+"score": 1.0,
+"heard": "tay nào không tay nào có",
+"dur": 1.61
+},
+"Kéo cưa lừa xẻ": {
+"mode": "long",
+"score": 1.0,
+"heard": "kéo cưa lừa xẻ",
+"dur": 1.01
+},
+"Ông thợ nào khỏe": {
+"mode": "long",
+"score": 1.0,
+"heard": "ông thợ nào khỏe",
+"dur": 0.95
+},
+"Về ăn cơm vua": {
+"mode": "long",
+"score": 0.75,
+"heard": "về ăn cơm phu",
+"dur": 0.97
+},
+"Ông thợ nào thua": {
+"mode": "long",
+"score": 1.0,
+"heard": "ông thợ nào thua",
+"dur": 0.96
+},
+"Về bú tí mẹ.": {
+"mode": "long",
+"score": 0.75,
+"heard": "về bú mẹ",
+"dur": 0.96
+},
+"Con kiến mà leo cành đa,": {
+"mode": "long",
+"score": 0.833,
+"heard": "con kiến mà leo cành đá",
+"dur": 1.32
+},
+"Leo phải cành cụt, leo ra leo vào.": {
+"mode": "long",
+"score": 0.75,
+"heard": "léo phải cành cụt léo ra leo vào",
+"dur": 2.15
+},
+"Con kiến mà leo cành đào,": {
+"mode": "long",
+"score": 1.0,
+"heard": "con kiến mà leo cành đào",
+"dur": 1.39
+},
+"Leo phải cành cụt, leo vào leo ra.": {
+"mode": "long",
+"score": 0.75,
+"heard": "léo phải cành cụt leo vào leo",
+"dur": 2.03
+},
+"Bà còng đi chợ trời mưa,": {
+"mode": "long",
+"score": 1.0,
+"heard": "bà còng đi chợ trời mưa",
+"dur": 1.53
+},
+"Cái tôm cái tép đi đưa bà còng.": {
+"mode": "long",
+"score": 0.75,
+"heard": "cái tung cái tép đi đưa bà con",
+"dur": 1.8
+},
+"Đưa bà qua quãng đường đông,": {
+"mode": "long",
+"score": 1.0,
+"heard": "đưa bà qua quãng đường đông",
+"dur": 1.47
+},
+"Đưa bà vào tận ngõ trong nhà bà.": {
+"mode": "long",
+"score": 1.0,
+"heard": "đưa bà vào tận ngõ trong nhà bà",
+"dur": 1.79
+},
+"Tiền bà trong túi rơi ra,": {
+"mode": "long",
+"score": 1.0,
+"heard": "tiền bà trong túi rơi ra",
+"dur": 1.43
+},
+"Tép tôm nhặt được trả bà mua rau.": {
+"mode": "long",
+"score": 0.75,
+"heard": "tép tung nhặt được trả ba mua rau",
+"dur": 1.8
+},
+"Con mèo ở trên bàn.": {
+"mode": "long",
+"score": 1.0,
+"heard": "con mèo ở trên bàn",
+"dur": 1.21
+},
+"Con chó ở dưới gầm bàn.": {
+"mode": "long",
+"score": 1.0,
+"heard": "con chó ở dưới gầm bàn",
+"dur": 1.45
+},
+"Quả bóng ở bên trái.": {
+"mode": "long",
+"score": 1.0,
+"heard": "quả bóng ở bên trái",
+"dur": 1.28
+},
+"Con diều ở bên phải.": {
+"mode": "long",
+"score": 1.0,
+"heard": "con diều ở bên phải",
+"dur": 1.22
+},
+"Hai bạn đi về phía lá cờ.": {
+"mode": "long",
+"score": 1.0,
+"heard": "hai bạn đi về phía lá cờ",
+"dur": 1.61
+},
+"Bạn gấu đi trước.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bạn gấu đi trước",
+"dur": 0.97
+},
+"Bạn thỏ đi sau.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bạn thỏ đi sau",
+"dur": 1.02
+},
+"Quả cam ở giữa quả táo và quả chuối.": {
+"mode": "long",
+"score": 1.0,
+"heard": "quả cam ở giữa quả táo và quả chuối",
+"dur": 2.3
+},
+"Nét thẳng đứng": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc nét thẳng đứng",
+"v": 2,
+"dur": 0.89
+},
+"Nét thẳng đứng, có trong chữ p và số một.": {
+"mode": "long",
+"score": 0.9,
+"heard": "nét thẳng đứng có trong chữ thề và số một",
+"dur": 2.34
+},
+"Nét thẳng ngang": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc nét thẳng ngang",
+"v": 2,
+"dur": 0.84
+},
+"Nét thẳng ngang, có trong chữ t và chữ đờ.": {
+"mode": "long",
+"score": 0.8,
+"heard": "nét thẳng ngáng có trong chữ thê và chữ đờ",
+"dur": 2.4
+},
+"Nét thẳng xiên": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc nét thẳng xiên nhé",
+"v": 2,
+"dur": 0.35
+},
+"Nét thẳng xiên, có trong số bốn và số bảy.": {
+"mode": "long",
+"score": 1.0,
+"heard": "nét thẳng xiên có trong số bốn và số bảy",
+"dur": 2.6
+},
+"Nét hất": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc ngất hết",
+"v": 2,
+"dur": 0.54
+},
+"Nét hất, có trong chữ i và chữ u.": {
+"mode": "long",
+"score": 0.778,
+"heard": "nét có trong chữ y và chữ u",
+"dur": 1.77
+},
+"Nét móc xuôi": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc nét mốc",
+"v": 2,
+"dur": 0.96
+},
+"Nét móc xuôi, có trong chữ mờ và chữ nờ.": {
+"mode": "long",
+"score": 0.6,
+"heard": "nét xuồi có trong chữ m và chữ n",
+"dur": 2.51
+},
+"Nét móc ngược": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc nét mắt người",
+"v": 2,
+"dur": 0.78
+},
+"Nét móc ngược, có trong chữ i và chữ u.": {
+"mode": "long",
+"score": 0.8,
+"heard": "nét mắc ngược có trong chữ y và chữ u",
+"dur": 2.15
+},
+"Nét móc hai đầu": {
+"mode": "long",
+"score": 0.75,
+"heard": "nét hai đầu",
+"dur": 1.0
+},
+"Nét móc hai đầu, có trong chữ nờ và chữ hờ.": {
+"mode": "long",
+"score": 0.818,
+"heard": "nét hai đầu có trong chữ n và chữ hờ",
+"dur": 2.72
+},
+"Nét cong hở phải": {
+"mode": "long",
+"score": 0.75,
+"heard": "nét cong phải",
+"dur": 1.02
+},
+"Nét cong hở phải, như chữ cờ.": {
+"mode": "long",
+"score": 1.0,
+"heard": "nét cong hở phải như chữ cờ",
+"dur": 1.9
+},
+"Nét cong hở trái": {
+"mode": "long",
+"score": 0.75,
+"heard": "nét cong hở",
+"dur": 1.14
+},
+"Nét cong hở trái, có trong chữ xờ.": {
+"mode": "long",
+"score": 0.75,
+"heard": "nét cong hở có trong chữ sờ của",
+"dur": 2.2
+},
+"Nét cong kín": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc nét cong kín nhé",
+"v": 2,
+"dur": 0.49
+},
+"Nét cong kín, như chữ o.": {
+"mode": "long",
+"score": 1.0,
+"heard": "nét cong kín như chữ o",
+"dur": 1.53
+},
+"Nét khuyết xuôi": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc nét khuyết",
+"v": 2,
+"dur": 0.86
+},
+"Nét khuyết xuôi, có trong chữ lờ và chữ hờ.": {
+"mode": "long",
+"score": 0.8,
+"heard": "nét khuyết có trong chữ l và chữ hờ",
+"dur": 2.48
+},
+"Nét khuyết ngược": {
+"mode": "short",
+"ok": true,
+"heard": "bây giờ cô đọc nét khuyết ngược nhé",
+"v": 2,
+"dur": 0.76
+},
+"Nét khuyết ngược, có trong chữ gờ và chữ i dài.": {
+"mode": "long",
+"score": 0.727,
+"heard": "nét khuyết có trong chữ kh và chữ y dài",
+"dur": 2.58
+},
+"Nét thắt": {
+"mode": "short",
+"ok": "carrier",
+"heard": "bây giờ cô đọc nét",
+"v": 2,
+"dur": 0.6
+},
+"Nét thắt, có trong chữ bờ và chữ vờ.": {
+"mode": "long",
+"score": 0.889,
+"heard": "nét có trong chữ bờ và chữ vờ",
+"dur": 2.11
+},
+"hai gồm một và một.": {
+"mode": "long",
+"score": 1.0,
+"heard": "hai gồm một và một",
+"dur": 1.1
+},
+"ba gồm một và hai.": {
+"mode": "long",
+"score": 1.0,
+"heard": "ba gồm một và hai",
+"dur": 1.16
+},
+"ba gồm hai và một.": {
+"mode": "long",
+"score": 1.0,
+"heard": "ba gồm hai và một",
+"dur": 1.12
+},
+"bốn gồm một và ba.": {
+"mode": "long",
+"score": 0.8,
+"heard": "bốn câu một và ba",
+"dur": 1.16
+},
+"bốn gồm hai và hai.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bốn gồm hai và hai",
+"dur": 1.16
+},
+"bốn gồm ba và một.": {
+"mode": "long",
+"score": 0.8,
+"heard": "bốn câu ba và một",
+"dur": 1.13
+},
+"năm gồm một và bốn.": {
+"mode": "long",
+"score": 1.0,
+"heard": "năm gồm một và bốn",
+"dur": 1.25
+},
+"năm gồm hai và ba.": {
+"mode": "long",
+"score": 1.0,
+"heard": "năm gồm hai và ba",
+"dur": 1.29
+},
+"năm gồm ba và hai.": {
+"mode": "long",
+"score": 1.0,
+"heard": "năm gồm ba và hai",
+"dur": 1.23
+},
+"năm gồm bốn và một.": {
+"mode": "long",
+"score": 1.0,
+"heard": "năm gồm bốn và một",
+"dur": 1.21
+},
+"sáu gồm một và năm.": {
+"mode": "long",
+"score": 0.8,
+"heard": "sáu khung một và năm",
+"dur": 1.3
+},
+"sáu gồm hai và bốn.": {
+"mode": "long",
+"score": 1.0,
+"heard": "sáu gồm hai và bốn",
+"dur": 1.3
+},
+"sáu gồm ba và ba.": {
+"mode": "long",
+"score": 0.8,
+"heard": "sáu khung ba và ba",
+"dur": 1.22
+},
+"sáu gồm bốn và hai.": {
+"mode": "long",
+"score": 1.0,
+"heard": "sáu gồm bốn và hai",
+"dur": 1.34
+},
+"sáu gồm năm và một.": {
+"mode": "long",
+"score": 1.0,
+"heard": "sáu gồm năm và một",
+"dur": 1.32
+},
+"bảy gồm một và sáu.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bảy gồm một và sáu",
+"dur": 1.38
+},
+"bảy gồm hai và năm.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bảy gồm hai và năm",
+"dur": 1.15
+},
+"bảy gồm ba và bốn.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bảy gồm ba và bốn",
+"dur": 1.2
+},
+"bảy gồm bốn và ba.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bảy gồm bốn và ba",
+"dur": 1.18
+},
+"bảy gồm năm và hai.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bảy gồm năm và hai",
+"dur": 1.19
+},
+"bảy gồm sáu và một.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bảy gồm sáu và một",
+"dur": 1.29
+},
+"tám gồm một và bảy.": {
+"mode": "long",
+"score": 0.8,
+"heard": "tám cùng một và bảy",
+"dur": 1.11
+},
+"tám gồm hai và sáu.": {
+"mode": "long",
+"score": 1.0,
+"heard": "tám gồm hai và sáu",
+"dur": 1.31
+},
+"tám gồm ba và năm.": {
+"mode": "long",
+"score": 1.0,
+"heard": "tám gồm ba và năm",
+"dur": 1.29
+},
+"tám gồm bốn và bốn.": {
+"mode": "long",
+"score": 0.8,
+"heard": "tám khung bốn và bốn",
+"dur": 1.36
+},
+"tám gồm năm và ba.": {
+"mode": "long",
+"score": 0.8,
+"heard": "tám khuôn năm và ba",
+"dur": 1.2
+},
+"tám gồm sáu và hai.": {
+"mode": "long",
+"score": 1.0,
+"heard": "tám gồm sáu và hai",
+"dur": 1.41
+},
+"tám gồm bảy và một.": {
+"mode": "long",
+"score": 1.0,
+"heard": "tám gồm bảy và một",
+"dur": 1.25
+},
+"chín gồm một và tám.": {
+"mode": "long",
+"score": 0.8,
+"heard": "chín một và tám",
+"dur": 1.31
+},
+"chín gồm hai và bảy.": {
+"mode": "long",
+"score": 0.8,
+"heard": "chín hai và bảy",
+"dur": 1.27
+},
+"chín gồm ba và sáu.": {
+"mode": "long",
+"score": 1.0,
+"heard": "chín gồm ba và sáu",
+"dur": 1.48
+},
+"chín gồm bốn và năm.": {
+"mode": "long",
+"score": 0.8,
+"heard": "chín bốn và năm",
+"dur": 1.3
+},
+"chín gồm năm và bốn.": {
+"mode": "long",
+"score": 1.0,
+"heard": "chín gồm năm và bốn",
+"dur": 1.4
+},
+"chín gồm sáu và ba.": {
+"mode": "long",
+"score": 0.8,
+"heard": "chín cuồng sáu và ba",
+"dur": 1.43
+},
+"chín gồm bảy và hai.": {
+"mode": "long",
+"score": 0.8,
+"heard": "chín cuồng bảy và hai",
+"dur": 1.26
+},
+"chín gồm tám và một.": {
+"mode": "long",
+"score": 0.8,
+"heard": "chín tám và một",
+"dur": 1.33
+},
+"mười gồm một và chín.": {
+"mode": "long",
+"score": 1.0,
+"heard": "mười gồm một và chín",
+"dur": 1.32
+},
+"mười gồm hai và tám.": {
+"mode": "long",
+"score": 1.0,
+"heard": "mười gồm hai và tám",
+"dur": 1.42
+},
+"mười gồm ba và bảy.": {
+"mode": "long",
+"score": 1.0,
+"heard": "mười gồm ba và bảy",
+"dur": 1.2
+},
+"mười gồm bốn và sáu.": {
+"mode": "long",
+"score": 1.0,
+"heard": "mười gồm bốn và sáu",
+"dur": 1.55
+},
+"mười gồm năm và năm.": {
+"mode": "long",
+"score": 1.0,
+"heard": "mười gồm năm và năm",
+"dur": 1.32
+},
+"mười gồm sáu và bốn.": {
+"mode": "long",
+"score": 1.0,
+"heard": "mười gồm sáu và bốn",
+"dur": 1.48
+},
+"mười gồm bảy và ba.": {
+"mode": "long",
+"score": 1.0,
+"heard": "mười gồm bảy và ba",
+"dur": 1.25
+},
+"mười gồm tám và hai.": {
+"mode": "long",
+"score": 1.0,
+"heard": "mười gồm tám và hai",
+"dur": 1.31
+},
+"mười gồm chín và một.": {
+"mode": "long",
+"score": 1.0,
+"heard": "mười gồm chín và một",
+"dur": 1.31
+},
+"Con vật nào ở trên bàn?": {
+"mode": "long",
+"score": 1.0,
+"heard": "con vật nào ở trên bàn",
+"dur": 1.42
+},
+"Con vật nào ở dưới gầm bàn?": {
+"mode": "long",
+"score": 1.0,
+"heard": "con vật nào ở dưới gầm bàn",
+"dur": 1.7
+},
+"Quả nào ở giữa?": {
+"mode": "long",
+"score": 1.0,
+"heard": "quả nào ở giữa",
+"dur": 1.07
+},
+"Quả nào ở bên trái?": {
+"mode": "long",
+"score": 1.0,
+"heard": "quả nào ở bên trái",
+"dur": 1.23
+},
+"Quả nào ở bên phải?": {
+"mode": "long",
+"score": 1.0,
+"heard": "quả nào ở bên phải",
+"dur": 1.27
+},
+"Bé chọn một bài đồng dao, rồi đọc cùng cô nhé.": {
+"mode": "long",
+"score": 0.909,
+"heard": "bé chọn một bài đồng dạo rồi đọc cùng cô nhé",
+"dur": 2.71
+},
+"Bé chạm vào tranh để nghe, rồi chơi điền chữ nhé.": {
+"mode": "long",
+"score": 0.909,
+"heard": "bé chạm vào tranh để nghẹ rồi chơi điền chữ nhé",
+"dur": 2.7
+},
+"Bé chạm vào từng câu để nghe cô đọc nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé chạm vào từng câu để nghe cô đọc nhé",
+"dur": 2.46
+},
+"Các số từ mười một đến hai mươi gồm một chục và mấy đơn vị.": {
+"mode": "long",
+"score": 0.933,
+"heard": "các số từ mười một đến hai mươi gồm một trục và mấy đơn vị",
+"dur": 3.29
+},
+"Bé chọn một nét, rồi tô theo nét chấm nhé. Chấm xanh là chỗ đặt bút.": {
+"mode": "long",
+"score": 0.938,
+"heard": "bé chọn một nét rồi tô theo nét chấm nhé xanh là chỗ đặt bút",
+"dur": 3.78
+},
+"Bé tô nét này nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé tô nét này nhé",
+"dur": 1.28
+},
+"Bé chọn một câu, rồi bấm số để điền vào chỗ trống nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé chọn một câu rồi bấm số để điền vào chỗ trống nhé",
+"dur": 3.28
+},
+"Bé tính, rồi bấm số để điền kết quả nhé.": {
+"mode": "long",
+"score": 1.0,
+"heard": "bé tính rồi bấm số để điền kết quả nhé",
+"dur": 2.64
 }
 }

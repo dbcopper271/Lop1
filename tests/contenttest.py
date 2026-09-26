@@ -8,7 +8,7 @@ errs, shots = [], []
 TYPES = [
   ('findDigraph', '[]'), ('toneQuiz', '[window.__W1]'), ('vanQuiz', '[window.__W2]'), ('ruleQuiz', '[]'), ('readSentence', '[]'),
   ('compareSign', '[10]'), ('neighbor', '[10]'), ('bond', '[10]'), ('picEq', '[10]'), ('measure', '[]'), ('clock', '[]'), ('solid', '[]'),
-  ('addsub', '[10, true]'), ('spell', '[4]'), ('spell', '[3]'), ('traceWord', '[]'), ('traceLetter', '[window.__DG]')]
+  ('addsub', '[10, true]'), ('sticks', '[]'), ('position', '[]'), ('position', '[]'), ('findNum', '[]'), ('addsub100', '[]'), ('compareSign', '[99, 10]'), ('missing', '[100]'), ('findLetter', '[B.L]'), ('spell', '[4]'), ('spell', '[3]'), ('traceWord', '[]'), ('traceLetter', '[window.__DG]')]
 VIEW = sys.argv[1] if len(sys.argv) > 1 else '390x844'
 w, h = map(int, VIEW.split('x'))
 with sync_playwright() as p:

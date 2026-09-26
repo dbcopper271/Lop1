@@ -7,20 +7,26 @@ Chạy trên trình duyệt của máy tính, iPad, điện thoại Android và 
 ## Nội dung
 
 **Tiếng Việt**
-- 29 chữ cái (12 nguyên âm, 17 phụ âm) và 11 chữ ghép (ch, gh, gi, kh, ng, ngh, nh, ph, qu, th, tr), mỗi chữ có tranh, từ mẫu và ghi chú phát âm.
+- 29 chữ cái (12 nguyên âm, 17 phụ âm) với 172 từ minh họa có tranh, và 11 chữ ghép (ch, gh, gi, kh, ng, ngh, nh, ph, qu, th, tr) với 58 từ; mỗi chữ có ghi chú phát âm.
 - 6 thanh (ma – mà – má – mả – mã – mạ), nhận biết dấu thanh bằng tai.
-- 67 vần theo nhóm (vần kết thúc bằng i/y/o/u, m, n, ng/nh, c/ch, t, p), mỗi vần có tiếng mẫu và cách đánh vần.
-- Đánh vần 72 tiếng theo 4 mức: tiếng dễ, có vần, vần có âm cuối, âm đầu là chữ ghép. Cách đánh vần theo sách lớp 1: *bờ – a – ba – huyền – bà*; c đọc là “cờ”, k đọc là “ca” (có tùy chọn đọc “cờ” cho trường dạy Công nghệ giáo dục).
-- Quy tắc chính tả c/k, g/gh, ng/ngh; tìm vần của tiếng; đọc câu ngắn rồi chọn tranh.
+- 67 vần theo nhóm (vần kết thúc bằng i/y/o/u, m, n, ng/nh, c/ch, t, p), mỗi vần có cách đánh vần và các tiếng, từ có vần đó.
+- Đánh vần 132 tiếng theo 4 mức: tiếng dễ, có vần, vần có âm cuối, âm đầu là chữ ghép.
+- Từ ngữ theo 10 chủ đề (con vật, quả và rau, đồ ăn, đồ dùng, quần áo, gia đình, xe cộ, thiên nhiên, cơ thể, màu sắc): gần 200 từ có tranh.
+- 40 câu ngắn đọc rồi chọn tranh và 8 bài đọc ngắn, nghe cô đọc từng câu. Cách đánh vần theo sách lớp 1: *bờ – a – ba – huyền – bà*; c đọc là “cờ”, k đọc là “ca” (có tùy chọn đọc “cờ” cho trường dạy Công nghệ giáo dục).
+- Quy tắc chính tả c/k, g/gh, ng/ngh và các cặp dễ lẫn d/r/gi, s/x, ch/tr (có trò điền chữ); tìm vần của tiếng.
+- 8 bài đồng dao dân gian (Dung dăng dung dẻ, Nu na nu nống, Chi chi chành chành, Tập tầm vông…), bấm từng dòng để nghe.
 
-**Toán (trong phạm vi 10)**
-- Đếm, đọc số 0–10; so sánh nhiều – ít; so sánh số và điền dấu >, <, =; số liền trước, liền sau; tìm số còn thiếu.
+**Toán**
+- Số 11–20 (một chục và mấy đơn vị, đếm xuôi, đếm ngược); số đến 100: đọc số (mười lăm, hai mươi mốt, hai mươi lăm…), chục và đơn vị với que tính, bảng 1–100, đếm theo chục; cộng, trừ không nhớ trong phạm vi 100.
+- Bảng cộng, bảng trừ, tách – gộp số, cộng trừ đến 100: bé tự bấm số để điền kết quả (có nút hiện đáp án cho cha mẹ).
+- Vị trí: trên – dưới, trái – phải, trước – sau, ở giữa.
+- Trong phạm vi 10: đếm, đọc số 0–10; so sánh nhiều – ít; so sánh số và điền dấu >, <, =; số liền trước, liền sau; tìm số còn thiếu.
 - Tách số (“5 gồm 2 và mấy?”); phép cộng, trừ (cả với số 0); chọn phép tính đúng với tranh; bảng cộng, bảng trừ.
 - Hình tròn, vuông, tam giác, chữ nhật; khối lập phương, khối hộp chữ nhật; dài – ngắn, cao – thấp; xem giờ đúng.
 
-**Viết**: tô chữ cái, chữ ghép, số và tiếng trên nền ô li; phải tô đủ cả nét (dấu, râu ơ/ư, mũ â/ê/ô, gạch đ) mới qua.
+**Viết**: 13 nét cơ bản (thẳng, hất, móc, cong, khuyết, thắt) có chấm đặt bút; tô chữ cái, chữ ghép, số, tiếng và từng nét trên nền ô li; phải tô đủ cả nét (dấu, râu ơ/ư, mũ â/ê/ô, gạch đ) mới qua.
 
-**Cho cha mẹ**: nhiều bé trên một máy, lịch sử từng buổi học, thống kê đúng/sai theo từng chữ và dạng bài, thu giọng bé đánh vần để nghe lại, mã PIN cho Góc cha mẹ, thu giọng người thật thay cho âm nào giọng máy đọc chưa chuẩn.
+**Cho cha mẹ**: nhiều bé trên một máy, lịch sử từng buổi học, thống kê đúng/sai theo từng chữ và dạng bài, thu giọng bé đánh vần để nghe lại, mã PIN cho Góc cha mẹ, thu giọng người thật thay cho âm nào giọng máy đọc chưa chuẩn (có chế độ thu lần lượt 29 chữ cái, khoảng 3 phút).
 
 ## Chạy trên máy tính
 
@@ -42,6 +48,8 @@ Micrô và chế độ cài đặt cần địa chỉ **https**. Cách đơn gi�
    - Android (Chrome): menu ⋮ → **Cài đặt ứng dụng**.
 
 Lưu ý iPhone: tắt chế độ Im lặng và tăng âm lượng để nghe cô đọc.
+
+Hoặc triển khai lên **Vercel**: Import repo này, Framework Preset *Other*, không cần lệnh build (các file đã dựng sẵn ở thư mục gốc). Mỗi lần đẩy code lên `main`, Vercel tự cập nhật; máy đã cài app nhận bản mới ở lần mở kế tiếp.
 
 ## Đồng bộ bằng Supabase (không bắt buộc)
 
@@ -75,7 +83,7 @@ Cách gộp khi hai máy cùng học: màn đã qua lấy hợp của hai máy (
 
 Sửa app: sửa `src/app.html` → `python3 tools/build.py` → mở lại trang.
 
-Kiểm thử: `python3 -m http.server 8686` ở thư mục gốc, rồi ở cửa sổ khác chạy `python3 tests/contenttest.py`, `tests/booktest.py`, `tests/cloudtest.py` (đồng bộ dùng Supabase giả lập), `tests/tracetest.py`, `tests/vptest.py` (chụp màn hình nhiều cỡ máy vào `tests/out/`). Cần `pip install playwright` và `playwright install chromium`.
+Kiểm thử: `python3 -m http.server 8686` ở thư mục gốc, rồi ở cửa sổ khác chạy `python3 tests/contenttest.py`, `tests/booktest.py`, `tests/cloudtest.py` (đồng bộ dùng Supabase giả lập), `tests/tracetest.py`, `tests/stroketest.py`, `tests/drilltest.py`, `tests/vptest.py` (chụp màn hình nhiều cỡ máy vào `tests/out/`). Cần `pip install playwright` và `playwright install chromium`.
 
 ## Về độ chính xác của nội dung
 

@@ -6,9 +6,9 @@ URL = os.environ.get('BVL1_URL', 'http://127.0.0.1:8686/index.html')
 os.makedirs('tests/out', exist_ok=True)
 VPS = [(390, 844, 'phone'), (820, 1180, 'ipad'), (1366, 768, 'laptop')]
 if len(sys.argv) > 1: VPS = [v for v in VPS if v[2] in sys.argv[1].split(',')]
-SECS = ['chu', 'ghep', 'thanh', 'van', 'danhvan', 'cau', 'so', 'cong', 'tru', 'sosanh', 'hinh', 'gio', 'to']
+SECS = ['chu', 'ghep', 'thanh', 'van', 'chinhta', 'danhvan', 'tungu', 'cau', 'baidoc', 'dongdao', 'so', 'so20', 'so100', 'tachso', 'cong', 'tru', 'tinh100', 'sosanh', 'hinh', 'vitri', 'gio', 'net', 'to']
 TAP = {'chu': '.lk[data-k="12"]', 'ghep': '.lk[data-k="5"]', 'thanh': '.tex[data-k="3"]', 'van': '.vchip[data-v="ông"]', 'danhvan': '.lvseg [data-v="4"]',
-       'cau': '.scard[data-k="2"]', 'so': '.lk[data-k="6"]', 'cong': '.cchip[data-a="4"][data-b="3"]', 'tru': '.cchip[data-a="9"][data-b="4"]',
+       'cau': '.scard[data-k="2"]', 'chinhta': '.rqch .choice', 'dongdao': '.pcard2[data-k="1"]', 'so20': '.n2[data-n="17"]', 'tachso': '.cchip[data-i="7"]', 'vitri': '.psent .pl', 'net': '.scard2[data-k="5"]', 'tungu': '.gw[data-w="hươu cao cổ"]', 'baidoc': '.pcard2[data-k="2"]', 'so100': '.n1[data-n="47"]', 'tinh100': '.cchip[data-i="12"]', 'so': '.lk[data-k="6"]', 'cong': '.cchip[data-i="5"]', 'tru': '.cchip[data-i="10"]',
        'sosanh': '.cmprow[data-k="1"]', 'hinh': '.shcard[data-k="4"]', 'gio': '.cnext', 'to': '.tseg [data-k="ghep"]'}
 issues = []
 with sync_playwright() as p:

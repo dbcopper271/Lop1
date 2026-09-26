@@ -304,6 +304,133 @@ main{flex:1;min-height:0;overflow-y:auto;overscroll-behavior:contain;padding-blo
 @media (max-width:420px){.lvseg button{padding-inline:9px}}
 .bl,.br{display:flex;flex-direction:column;gap:14px;min-width:0}
 @media (min-width:900px){.bview.two{max-width:1180px;display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1.08fr);gap:26px;align-items:start}.bview.two .bl{position:sticky;top:0}}
+.gsec{display:flex;flex-direction:column;gap:8px}
+.gtitle{margin:0;font-family:var(--display);font-weight:800;font-size:16px;color:var(--muted)}
+.gal{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(104px,30%),1fr));gap:8px}
+.gw{border:none;border-radius:14px;background:var(--card);padding:8px 4px 6px;display:flex;flex-direction:column;align-items:center;gap:2px;box-shadow:inset 0 0 0 2px var(--li-bold),0 3px 0 var(--li-bold);min-width:0}
+.gw .emo{font-size:30px;line-height:1.15}
+.gw b{font-family:var(--letter);font-weight:700;font-size:18px;line-height:1.2;color:var(--ink);text-align:center;overflow-wrap:anywhere}
+.gw mark{background:#FFE9A8;color:var(--do);border-radius:5px;padding:0 1px}
+.gw.pulse{animation:pop .35s}
+.gw .sw{width:36px;height:36px;border-radius:50%;box-shadow:inset 0 0 0 2px rgba(0,0,0,.15);margin:2px 0}
+.vex{display:block}
+.tjump{display:flex;flex-wrap:wrap;gap:8px;position:sticky;top:0;z-index:2;background:linear-gradient(var(--paper) 85%,rgba(252,252,255,0));padding:2px 0 10px}
+.tj{font-size:16px;padding:8px 10px}
+.tsec{display:flex;flex-direction:column;gap:8px;scroll-margin-top:110px}
+.tsec h3{margin:6px 0 0;font-family:var(--display);font-weight:800;font-size:19px;color:var(--tim)}
+.tsec h3 small{font-size:14px;color:var(--muted);font-weight:700}
+.plist2{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(200px,100%),1fr));gap:10px}
+.reader{display:flex;flex-direction:column;gap:12px}
+.rtitle{margin:0;font-family:var(--display);font-weight:800;font-size:24px;color:var(--tim)}
+.rtext{font-family:var(--letter);font-weight:700;font-size:clamp(24px,3.6vh,32px);line-height:1.6;color:var(--ink)}
+.rs{cursor:pointer;border-radius:8px;padding:0 3px;transition:background .2s}
+.rs.hl{background:#FFE9A8}
+.n100{display:flex;flex-direction:column;gap:10px}
+.n100top{display:flex;align-items:center;gap:14px}
+.n100top b{display:block;font-family:var(--letter);font-weight:700;font-size:26px;color:var(--ink)}
+.n100top small{display:block;font-size:15px;color:var(--muted)}
+.n100 .nbig{padding:4px 6px 0;min-width:1.6em}
+.nst{min-height:80px;display:flex;align-items:center}
+.sticks{display:flex;flex-wrap:wrap;align-items:flex-end;gap:4px}
+.sticks .bdl{height:64px;width:auto}
+.sticks .stk{height:64px;width:auto}
+.sticks .sgap{width:8px}
+.stage .sticks{justify-content:center;max-width:min(100%,460px)}
+.cuehint{margin:0;font-size:14px;color:var(--muted);text-align:center}
+.g100{display:grid;grid-template-columns:repeat(10,minmax(0,1fr));gap:4px}
+.n1{border:none;border-radius:8px;background:var(--card);color:var(--tim);font-family:var(--display);font-weight:800;font-size:clamp(13px,3.4vw,19px);aspect-ratio:1;padding:2px 0 0;box-shadow:inset 0 0 0 2px var(--li-bold)}
+.n1:nth-child(10n){background:#F3F0FF}
+.n1.on{background:var(--tim-2);color:#fff;box-shadow:inset 0 0 0 2px var(--tim)}
+.c100 .expr,.ctop .expr{font-size:clamp(30px,min(7vh,9vw),60px);gap:6px;flex-wrap:wrap}
+.vcol{display:inline-grid;gap:2px;font-family:var(--display);font-weight:800;font-size:28px;color:var(--tim);font-variant-numeric:tabular-nums}
+.vrow2{display:grid;grid-template-columns:28px 44px 44px;align-items:center;text-align:center}
+.vrow2 i{font-style:normal;color:var(--do)}
+.vrow2.head{font-size:12px;color:var(--muted);font-family:var(--letter)}
+.vrow2.head span:first-child{grid-column:2}
+.vrow2.res{border-top:3px solid var(--tim);color:var(--la)}
+.art-emo{font-family:var(--emoji);font-size:40px;line-height:1}
+.rlbig{display:flex;justify-content:center;align-items:baseline;gap:10px;font-family:var(--letter);font-weight:700;color:var(--tim)}
+.rlbig .lup{font-size:56px}.rlbig .llo{font-size:72px}
+.rquiz{display:flex;flex-direction:column;gap:8px;align-items:center}
+.rqrow{display:flex;align-items:center;justify-content:center;gap:14px}
+.rqrow .emo{font-size:56px}
+.rqch{display:flex;gap:12px;justify-content:center}
+.choice.sm{min-height:64px;min-width:96px;--fs-ch:40px}
+.rcard{display:flex;flex-direction:column;gap:8px}
+.rhead{display:flex;align-items:center;justify-content:space-between;gap:8px}
+.rhead h3{margin:0;font-family:var(--display);font-weight:800;font-size:22px;color:var(--tim)}
+.iconbtn.sm{width:40px;height:40px}
+.rtxt{margin:0;font-size:16px;line-height:1.45;color:var(--ink)}
+.rcols{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(220px,100%),1fr));gap:12px}
+.rcol{display:flex;flex-direction:column;gap:6px}
+.rlet{font-family:var(--letter);font-size:30px;color:var(--do);line-height:1}
+.bview.wide>.card+.card{margin-top:0}
+.poem .ptext{display:flex;flex-direction:column;align-items:flex-start;gap:4px}
+.pl{border:none;background:transparent;text-align:left;font-family:var(--letter);font-weight:700;font-size:clamp(22px,3.4vh,30px);line-height:1.35;color:var(--ink);border-radius:10px;padding:2px 6px;display:inline-flex;align-items:center;gap:8px}
+.pl.hl{background:#FFE9A8}
+.pl svg{width:20px;height:20px;flex:none;color:var(--tim)}
+.nsel{display:grid;grid-template-columns:repeat(auto-fill,minmax(48px,1fr));gap:6px}
+.nsel .n1{aspect-ratio:auto;padding:10px 0 7px;font-size:20px}
+.bgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(170px,46%),1fr));gap:10px}
+.bcard{display:flex;flex-direction:column;align-items:center;gap:6px}
+.bcard small{font-family:var(--display);font-weight:700;font-size:15px;color:var(--muted)}
+.bond.sm{width:120px}
+.bond.sm span{min-width:38px;font-size:20px}
+.bdots{display:flex;flex-wrap:wrap;justify-content:center;gap:3px;max-width:150px}
+.bdots i{width:14px;height:14px;border-radius:50%}
+.bdots i.r{background:#E53935}.bdots i.b{background:#1E88E5}
+.posgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(300px,100%),1fr));gap:14px}
+.pcard3{display:flex;flex-direction:column;gap:8px}
+.pcard3 h3{margin:0;font-family:var(--display);font-weight:800;font-size:21px;color:var(--tim)}
+.psent{display:flex;flex-direction:column;gap:4px}
+.psent .pl{font-size:19px}
+.psent .pl.pulse{animation:pop .35s}
+.posc{position:relative;width:220px;height:180px;margin:0 auto}
+.posc::after{content:"";position:absolute;left:0;right:0;bottom:6px;height:3px;background:#C9C0EF;border-radius:2px}
+.ptable i{position:absolute;left:20px;right:20px;top:80px;height:12px;background:#A1887F;border:2px solid #2B2350;border-radius:4px}
+.ptable b{position:absolute;top:92px;width:12px;height:82px;background:#A1887F;border:2px solid #2B2350}
+.ptable b:nth-of-type(1){left:34px}.ptable b:nth-of-type(2){right:34px}
+.posc .pt,.posc .pu{position:absolute;left:50%;transform:translateX(-50%);font-family:var(--emoji);line-height:1}
+.posc .pt{top:22px;font-size:54px}.posc .pu{bottom:10px;font-size:50px}
+.posr{display:flex;justify-content:center;align-items:center;gap:18px;font-family:var(--emoji);font-size:clamp(46px,8vh,64px);line-height:1;padding:10px 0}
+.posr .arr{font-family:var(--display);font-size:34px;color:var(--muted)}
+.tframes{display:flex;flex-wrap:wrap;gap:10px}
+.tf{display:grid;grid-template-columns:repeat(5,26px);gap:4px;padding:6px;background:#F3F0FF;border-radius:10px;box-shadow:inset 0 0 0 2px var(--li-bold)}
+.tf i{width:26px;height:26px;border-radius:50%;background:#fff;box-shadow:inset 0 0 0 2px var(--li-bold)}
+.tf i.on{background:#FB8C00;box-shadow:inset 0 0 0 2px #C66A00}
+.slist{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(150px,46%),1fr));gap:10px}
+.scard2{display:flex;flex-direction:column;align-items:center;gap:4px;text-align:center}
+.scard2 .smini{width:64px;height:auto}
+.scard2 b{font-family:var(--display);font-size:16px;color:var(--tim);line-height:1.15}
+.scard2 small{font-size:13px;color:var(--muted)}
+.scard2.on{box-shadow:inset 0 0 0 3px var(--tim-2),0 5px 0 var(--tim-2);background:#F3F0FF}
+.sdesc h3{margin:0;font-family:var(--display);font-weight:800;font-size:24px;color:var(--tim)}
+.sdesc p{margin:4px 0 0;color:var(--muted)}
+.strace{display:flex;flex-direction:column}
+.tcur.sm{font-size:18px!important;font-family:var(--display)}
+.drill{display:flex;flex-direction:column;align-items:center;gap:10px}
+.ctop.drill{position:static}
+.drill .ov-row{width:min(100%,440px)}
+.dq{display:flex;flex-direction:column;align-items:center;gap:8px}
+.dpad{width:100%;display:flex;justify-content:center}
+.npad{display:grid;grid-template-columns:repeat(3,minmax(0,76px));gap:8px;justify-content:center}
+.npad.sm{grid-template-columns:repeat(6,minmax(0,64px))}
+@media (min-width:700px){.npad.sm{grid-template-columns:repeat(11,minmax(0,58px))}}
+.nk{border:none;border-radius:14px;background:var(--card);color:var(--tim);font-family:var(--display);font-weight:800;font-size:28px;line-height:1;padding:12px 0 8px;box-shadow:inset 0 0 0 2px var(--li-bold),0 4px 0 var(--li-bold)}
+.nk:active{transform:translateY(3px);box-shadow:inset 0 0 0 2px var(--li-bold),0 1px 0 var(--li-bold)}
+.nk.go{background:var(--la);color:#fff;font-size:20px;box-shadow:0 4px 0 #14774D}
+.nk.no,.nval.no{animation:shake .4s}
+.nval{grid-column:1/-1;min-height:52px;border-radius:14px;background:#FFF8E1;box-shadow:inset 0 0 0 2px #F3D27E;font-family:var(--display);font-weight:800;font-size:36px;color:var(--tim);display:grid;place-items:center;padding-top:6px}
+.dbar{display:flex;justify-content:space-between;align-items:center;gap:10px;flex-wrap:wrap;font-size:15px;color:var(--muted)}
+.dprog{font-family:var(--display);font-weight:700;color:var(--la)}
+.tgl{display:inline-flex;align-items:center;gap:6px;cursor:pointer}
+.tgl input{width:20px;height:20px;accent-color:var(--tim-2)}
+.cchip.did{background:#E7F7EF;color:#14774D;box-shadow:inset 0 0 0 2px #8FD3B2,0 3px 0 #8FD3B2}
+.cchip.did.on,.cchip.on{background:var(--tim-2);color:#fff;box-shadow:inset 0 0 0 2px var(--tim),0 3px 0 var(--tim)}
+.vrow2 .rq{color:var(--muted)} .vrow2 .rq.ok{color:var(--la)}
+.bdots.big{max-width:220px}.bdots.big i{width:20px;height:20px}
+.bdots i.g{background:#C9C0EF}
+.cmpprac{display:flex;flex-direction:column;align-items:center;gap:10px}
 .bhome{max-width:1180px;margin:0 auto;display:flex;flex-direction:column;gap:18px}
 .bhome h2{margin:0 0 10px;font-family:var(--display);font-weight:800;font-size:22px;color:var(--tim)}
 .bcards{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(150px,44%),1fr));gap:12px}
@@ -1233,6 +1360,13 @@ const CONFUSE = [['d', 'r', 'gi'], ['s', 'x'], ['i', 'y'], ['c', 'k', 'q', 'qu']
 const confusable = (a, b) => CONFUSE.some(g => g.includes(a) && g.includes(b));
 const NUMW = ['không', 'một', 'hai', 'ba', 'bốn', 'năm', 'sáu', 'bảy', 'tám', 'chín', 'mười'];
 const DIGITS = ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9'];
+// Đọc số đến 100: 15 → mười lăm, 21 → hai mươi mốt, 25 → hai mươi lăm (24 cũng đọc là hai mươi tư)
+const numWord = n => { if (n <= 10) return NUMW[n]; if (n === 100) return 'một trăm'; const t = Math.floor(n / 10), u = n % 10, tens = t === 1 ? 'mười' : NUMW[t] + ' mươi'; return u ? tens + ' ' + (u === 1 ? (t === 1 ? 'một' : 'mốt') : u === 5 ? 'lăm' : NUMW[u]) : tens; };
+const revNum = n => n % 10 ? (n % 10) * 10 + Math.floor(n / 10) : n;
+// Que tính: mỗi bó 1 chục, que lẻ là đơn vị
+const BUNDLE = '<svg viewBox="0 0 34 70" class="bdl" aria-hidden="true">' + Array.from({ length: 10 }, (_, i) => `<rect x="${2 + i * 3}" y="3" width="2.4" height="64" rx="1.2" fill="#F2B544" stroke="#B7791F" stroke-width=".6"/>`).join('') + '<rect x="1" y="30" width="32" height="7" rx="2" fill="#E23D3D"/></svg>';
+const STICK = '<svg viewBox="0 0 8 70" class="stk" aria-hidden="true"><rect x="2" y="3" width="4" height="64" rx="2" fill="#F2B544" stroke="#B7791F" stroke-width=".8"/></svg>';
+const sticksHTML = n => `<div class="sticks">${BUNDLE.repeat(Math.floor(n / 10))}${n % 10 ? `<span class="sgap"></span>${STICK.repeat(n % 10)}` : ''}</div>`;
 const OBJ = [['🍎', 'quả táo'], ['🐟', 'con cá'], ['🌸', 'bông hoa'], ['⭐', 'ngôi sao'], ['🐤', 'chú gà con'], ['🎈', 'quả bóng bay'], ['🍓', 'quả dâu'], ['🚗', 'chiếc xe'], ['🐞', 'con bọ rùa'], ['🍌', 'quả chuối'], ['🦋', 'con bướm'], ['🐢', 'con rùa']];
 const FRUIT = ['🍎', '🍊', '🍓', '🍌', '🍇', '🥭', '🍐', '🍉'];
 const SH = [
@@ -1265,7 +1399,13 @@ const WORDS1 = [
   { w: 'mũ', d: 'm', v: 'u', t: 'nga', e: '🧢', say: 'cái mũ' }, { w: 'dù', d: 'd', v: 'u', t: 'huyen', e: '☂️', say: 'cái dù' },
   { w: 'cờ', d: 'c', v: 'ơ', t: 'huyen', e: '🚩', say: 'lá cờ' }, { w: 'nơ', d: 'n', v: 'ơ', t: 'ngang', e: '🎀', say: 'cái nơ' },
   { w: 'rổ', d: 'r', v: 'ô', t: 'hoi', e: '🧺', say: 'cái rổ' }, { w: 'đá', d: 'đ', v: 'a', t: 'sac', e: '🧊', say: 'cục đá' },
-  { w: 'vẽ', d: 'v', v: 'e', t: 'nga', e: '🎨', say: 'vẽ tranh' }
+  { w: 'vẽ', d: 'v', v: 'e', t: 'nga', e: '🎨', say: 'vẽ tranh' },
+  { w: 'dế', d: 'd', v: 'ê', t: 'sac', e: '🦗', say: 'con dế', n: 1 }, { w: 'cú', d: 'c', v: 'u', t: 'sac', e: '🦉', say: 'con cú', n: 1 },
+  { w: 'bơ', d: 'b', v: 'ơ', t: 'ngang', e: '🥑', say: 'quả bơ', n: 1 }, { w: 'bí', d: 'b', v: 'i', t: 'sac', e: '🎃', say: 'quả bí', n: 1 },
+  { w: 'cà', d: 'c', v: 'a', t: 'huyen', e: '🍆', say: 'quả cà', n: 1 }, { w: 'sò', d: 's', v: 'o', t: 'huyen', e: '🐚', say: 'con sò', n: 1 },
+  { w: 'xô', d: 'x', v: 'ô', t: 'ngang', e: '🪣', say: 'cái xô', n: 1 }, { w: 'cỏ', d: 'c', v: 'o', t: 'hoi', e: '🌿', say: 'bãi cỏ', n: 1 },
+  { w: 'hè', d: 'h', v: 'e', t: 'huyen', e: '☀️', say: 'mùa hè', n: 1 }, { w: 'gỗ', d: 'g', v: 'ô', t: 'nga', e: '🪵', say: 'khúc gỗ', n: 1 },
+  { w: 'ví', d: 'v', v: 'i', t: 'sac', e: '👛', say: 'cái ví', n: 1 }
 ];
 const WORDS2 = [
   { w: 'mèo', d: 'm', v: 'eo', t: 'huyen', e: '🐱', say: 'con mèo' }, { w: 'voi', d: 'v', v: 'oi', t: 'ngang', e: '🐘', say: 'con voi' },
@@ -1277,7 +1417,12 @@ const WORDS2 = [
   { w: 'dừa', d: 'd', v: 'ưa', t: 'huyen', e: '🥥', say: 'quả dừa' }, { w: 'cáo', d: 'c', v: 'ao', t: 'sac', e: '🦊', say: 'con cáo' },
   { w: 'tàu', d: 't', v: 'au', t: 'huyen', e: '🚢', say: 'con tàu' }, { w: 'rau', d: 'r', v: 'au', t: 'ngang', e: '🥬', say: 'rau xanh' },
   { w: 'tai', d: 't', v: 'ai', t: 'ngang', e: '👂', say: 'cái tai' }, { w: 'mũi', d: 'm', v: 'ui', t: 'nga', e: '👃', say: 'cái mũi' },
-  { w: 'đũa', d: 'đ', v: 'ua', t: 'nga', e: '🥢', say: 'đôi đũa' }
+  { w: 'đũa', d: 'đ', v: 'ua', t: 'nga', e: '🥢', say: 'đôi đũa' },
+  { w: 'rìu', d: 'r', v: 'iu', t: 'huyen', e: '🪓', say: 'cái rìu', n: 1 }, { w: 'cừu', d: 'c', v: 'ưu', t: 'huyen', e: '🐑', say: 'con cừu', n: 1 },
+  { w: 'lều', d: 'l', v: 'êu', t: 'huyen', e: '⛺', say: 'cái lều', n: 1 }, { w: 'bơi', d: 'b', v: 'ơi', t: 'ngang', e: '🏊', say: 'bơi lội', n: 1 },
+  { w: 'đồi', d: 'đ', v: 'ôi', t: 'huyen', e: '⛰️', say: 'ngọn đồi', n: 1 }, { w: 'lúa', d: 'l', v: 'ua', t: 'sac', e: '🌾', say: 'cây lúa', n: 1 },
+  { w: 'dứa', d: 'd', v: 'ưa', t: 'sac', e: '🍍', say: 'quả dứa', n: 1 }, { w: 'kéo', d: 'k', v: 'eo', t: 'sac', e: '✂️', say: 'cái kéo', n: 1 },
+  { w: 'bão', d: 'b', v: 'ao', t: 'nga', e: '🌀', say: 'cơn bão', n: 1 }
 ];
 const WORDS3 = [
   { w: 'cam', d: 'c', v: 'am', t: 'ngang', e: '🍊', say: 'quả cam' }, { w: 'tôm', d: 't', v: 'ôm', t: 'ngang', e: '🦐', say: 'con tôm' },
@@ -1289,7 +1434,17 @@ const WORDS3 = [
   { w: 'bóng', d: 'b', v: 'ong', t: 'sac', e: '⚽', say: 'quả bóng' }, { w: 'sách', d: 's', v: 'ach', t: 'sac', e: '📖', say: 'quyển sách' },
   { w: 'bánh', d: 'b', v: 'anh', t: 'sac', e: '🍰', say: 'cái bánh' }, { w: 'mắt', d: 'm', v: 'ăt', t: 'sac', e: '👀', say: 'đôi mắt' },
   { w: 'bút', d: 'b', v: 'ut', t: 'sac', e: '✏️', say: 'cái bút' }, { w: 'cốc', d: 'c', v: 'ôc', t: 'sac', e: '🥤', say: 'cái cốc' },
-  { w: 'vịt', d: 'v', v: 'it', t: 'nang', e: '🦆', say: 'con vịt' }, { w: 'sóc', d: 's', v: 'oc', t: 'sac', e: '🐿️', say: 'con sóc' }
+  { w: 'vịt', d: 'v', v: 'it', t: 'nang', e: '🦆', say: 'con vịt' }, { w: 'sóc', d: 's', v: 'oc', t: 'sac', e: '🐿️', say: 'con sóc' },
+  { w: 'tắm', d: 't', v: 'ăm', t: 'sac', e: '🛁', say: 'bồn tắm', n: 1 }, { w: 'đêm', d: 'đ', v: 'êm', t: 'ngang', e: '🌃', say: 'ban đêm', n: 1 },
+  { w: 'đàn', d: 'đ', v: 'an', t: 'huyen', e: '🎸', say: 'cây đàn', n: 1 }, { w: 'nến', d: 'n', v: 'ên', t: 'sac', e: '🕯️', say: 'cây nến', n: 1 },
+  { w: 'nón', d: 'n', v: 'on', t: 'sac', e: '👒', say: 'cái nón', n: 1 }, { w: 'kính', d: 'k', v: 'inh', t: 'sac', e: '👓', say: 'cái kính', n: 1 },
+  { w: 'cúc', d: 'c', v: 'uc', t: 'sac', e: '🌼', say: 'hoa cúc', n: 1 }, { w: 'mực', d: 'm', v: 'ưc', t: 'nang', e: '🦑', say: 'con mực', n: 1 },
+  { w: 'lịch', d: 'l', v: 'ich', t: 'nang', e: '📅', say: 'tờ lịch', n: 1 }, { w: 'hát', d: 'h', v: 'at', t: 'sac', e: '🎤', say: 'ca hát', n: 1 },
+  { w: 'mật', d: 'm', v: 'ât', t: 'nang', e: '🍯', say: 'mật ong', n: 1 }, { w: 'vẹt', d: 'v', v: 'et', t: 'nang', e: '🦜', say: 'con vẹt', n: 1 },
+  { w: 'rốt', d: 'r', v: 'ôt', t: 'sac', e: '🥕', say: 'cà rốt', n: 1 }, { w: 'mập', d: 'm', v: 'âp', t: 'nang', e: '🦈', say: 'cá mập', n: 1 },
+  { w: 'dép', d: 'd', v: 'ep', t: 'sac', e: '🩴', say: 'đôi dép', n: 1 }, { w: 'bếp', d: 'b', v: 'êp', t: 'sac', e: '🍳', say: 'nhà bếp', n: 1 },
+  { w: 'hộp', d: 'h', v: 'ôp', t: 'nang', e: '📦', say: 'cái hộp', n: 1 }, { w: 'lớp', d: 'l', v: 'ơp', t: 'sac', e: '🏫', say: 'lớp học', n: 1 },
+  { w: 'cặp', d: 'c', v: 'ăp', t: 'nang', e: '🎒', say: 'cặp sách', n: 1 }, { w: 'rắn', d: 'r', v: 'ăn', t: 'sac', e: '🐍', say: 'con rắn', n: 1 }
 ];
 // Tiếng có âm đầu là chữ ghép
 const WORDS4 = [
@@ -1299,7 +1454,17 @@ const WORDS4 = [
   { w: 'ghế', d: 'gh', v: 'ê', t: 'sac', e: '🪑', say: 'cái ghế' }, { w: 'nghé', d: 'ngh', v: 'e', t: 'sac', e: '🐃', say: 'con nghé' },
   { w: 'ngô', d: 'ng', v: 'ô', t: 'ngang', e: '🌽', say: 'bắp ngô' }, { w: 'quà', d: 'qu', v: 'a', t: 'huyen', e: '🎁', say: 'hộp quà' },
   { w: 'giày', d: 'gi', v: 'ay', t: 'huyen', e: '👟', say: 'đôi giày' }, { w: 'thư', d: 'th', v: 'ư', t: 'ngang', e: '✉️', say: 'lá thư' },
-  { w: 'chanh', d: 'ch', v: 'anh', t: 'ngang', e: '🍋', say: 'quả chanh' }, { w: 'trống', d: 'tr', v: 'ông', t: 'sac', e: '🥁', say: 'cái trống' }
+  { w: 'chanh', d: 'ch', v: 'anh', t: 'ngang', e: '🍋', say: 'quả chanh' }, { w: 'trống', d: 'tr', v: 'ông', t: 'sac', e: '🥁', say: 'cái trống' },
+  { w: 'chim', d: 'ch', v: 'im', t: 'ngang', e: '🐦', say: 'con chim', n: 1 }, { w: 'chổi', d: 'ch', v: 'ôi', t: 'hoi', e: '🧹', say: 'cái chổi', n: 1 },
+  { w: 'chân', d: 'ch', v: 'ân', t: 'ngang', e: '🦶', say: 'bàn chân', n: 1 }, { w: 'khăn', d: 'kh', v: 'ăn', t: 'ngang', e: '🧣', say: 'cái khăn', n: 1 },
+  { w: 'khóa', d: 'kh', v: 'oa', t: 'sac', e: '🔒', say: 'ổ khóa', n: 1 }, { w: 'nhện', d: 'nh', v: 'ên', t: 'nang', e: '🕷️', say: 'con nhện', n: 1 },
+  { w: 'nhím', d: 'nh', v: 'im', t: 'sac', e: '🦔', say: 'con nhím', n: 1 }, { w: 'phim', d: 'ph', v: 'im', t: 'ngang', e: '🎬', say: 'xem phim', n: 1 },
+  { w: 'thịt', d: 'th', v: 'it', t: 'nang', e: '🍖', say: 'miếng thịt', n: 1 }, { w: 'thang', d: 'th', v: 'ang', t: 'ngang', e: '🪜', say: 'cái thang', n: 1 },
+  { w: 'trăng', d: 'tr', v: 'ăng', t: 'ngang', e: '🌙', say: 'ông trăng', n: 1 }, { w: 'trứng', d: 'tr', v: 'ưng', t: 'sac', e: '🥚', say: 'quả trứng', n: 1 },
+  { w: 'tre', d: 'tr', v: 'e', t: 'ngang', e: '🎋', say: 'cây tre', n: 1 }, { w: 'trà', d: 'tr', v: 'a', t: 'huyen', e: '🍵', say: 'chén trà', n: 1 },
+  { w: 'ghim', d: 'gh', v: 'im', t: 'ngang', e: '📌', say: 'cái ghim', n: 1 }, { w: 'giun', d: 'gi', v: 'un', t: 'ngang', e: '🪱', say: 'con giun', n: 1 },
+  { w: 'gió', d: 'gi', v: 'o', t: 'sac', e: '🌬️', say: 'cơn gió', n: 1 }, { w: 'ngựa', d: 'ng', v: 'ưa', t: 'nang', e: '🐴', say: 'con ngựa', n: 1 },
+  { w: 'ngủ', d: 'ng', v: 'u', t: 'hoi', e: '😴', say: 'bé ngủ', n: 1 }, { w: 'quần', d: 'qu', v: 'ân', t: 'huyen', e: '👖', say: 'cái quần', n: 1 }
 ];
 const WORDSET = { 1: WORDS1, 2: WORDS2, 3: WORDS3, 4: WORDS4 };
 const ALLW = WORDS1.concat(WORDS2, WORDS3, WORDS4);
@@ -1323,7 +1488,18 @@ const SENT = [
   { s: 'Bé đọc sách.', a: '📖', o: ['⚽', '🎨'] }, { s: 'Mẹ nấu cơm.', a: '🍚', o: ['🍜', '🍞'] },
   { s: 'Bé chơi bóng.', a: '⚽', o: ['🪁', '🧸'] }, { s: 'Ông trăng tròn.', a: '🌕', o: ['⭐', '☀️'] },
   { s: 'Bé vẽ con voi.', a: '🐘', o: ['🦒', '🐪'] }, { s: 'Mẹ bế em bé.', a: '👶', o: ['🧸', '🐶'] },
-  { s: 'Bố đọc báo.', a: '📰', o: ['📺', '📻'] }, { s: 'Gà trống gáy ò ó o.', a: '🐓', o: ['🦆', '🐄'] }
+  { s: 'Bố đọc báo.', a: '📰', o: ['📺', '📻'] }, { s: 'Gà trống gáy ò ó o.', a: '🐓', o: ['🦆', '🐄'] },
+  { s: 'Mẹ mua rau.', a: '🥬', o: ['🍗', '🍞'] }, { s: 'Bố câu cá.', a: '🎣', o: ['⚽', '🎸'] },
+  { s: 'Chú chó sủa gâu gâu.', a: '🐕', o: ['🐱', '🐮'] }, { s: 'Con vịt bơi dưới ao.', a: '🦆', o: ['🐔', '🐷'] },
+  { s: 'Cô giáo dạy học.', a: '🧑‍🏫', o: ['🧑‍🍳', '🧑‍🚒'] }, { s: 'Trời nắng to.', a: '☀️', o: ['🌧️', '❄️'] },
+  { s: 'Bé thả diều.', a: '🪁', o: ['⚽', '🎈'] }, { s: 'Con thỏ ăn cà rốt.', a: '🐰', o: ['🐶', '🐸'] },
+  { s: 'Bé uống sữa.', a: '🥛', o: ['🍵', '🍉'] }, { s: 'Bé đi xe đạp.', a: '🚲', o: ['🚗', '⛵'] },
+  { s: 'Máy bay bay trên trời.', a: '✈️', o: ['🚢', '🚂'] }, { s: 'Gà mái đẻ trứng.', a: '🥚', o: ['🍎', '🍞'] },
+  { s: 'Bà kể chuyện cho bé nghe.', a: '👵', o: ['👮', '👷'] }, { s: 'Bé rửa tay bằng xà phòng.', a: '🧼', o: ['🍴', '🎨'] },
+  { s: 'Quả táo màu đỏ.', a: '🍎', o: ['🍌', '🍐'] }, { s: 'Lá cây màu xanh.', a: '🍃', o: ['🍂', '🌸'] },
+  { s: 'Con voi có cái vòi dài.', a: '🐘', o: ['🦒', '🐴'] }, { s: 'Hươu cao cổ có cổ dài.', a: '🦒', o: ['🐘', '🐢'] },
+  { s: 'Bé chơi xếp hình.', a: '🧩', o: ['🎻', '⚽'] }, { s: 'Tàu hỏa chạy trên đường ray.', a: '🚂', o: ['🚢', '✈️'] },
+  { s: 'Chị hái hoa.', a: '🌸', o: ['🍄', '🥕'] }, { s: 'Em bé đang ngủ.', a: '😴', o: ['🏃', '🍽️'] }
 ];
 const CONS = ['b', 'c', 'd', 'đ', 'g', 'h', 'k', 'l', 'm', 'n', 'r', 's', 't', 'v', 'x'];
 // Âm đầu khi đánh vần. Theo Quyết định 16/2006/QĐ-BGDĐT: c đọc là cờ, k đọc là ca.
@@ -1368,7 +1544,15 @@ const PH = {
   longer: 'Bút chì nào dài hơn?', shorter: 'Bút chì nào ngắn hơn?', taller: 'Cây nào cao hơn?', lower: 'Cây nào thấp hơn?',
   clock: 'Đồng hồ chỉ mấy giờ?', solid: n => `Bé hãy tìm ${n} nhé.`,
   digHint: 'Chữ ghép là hai, ba chữ cái ghép lại để ghi một âm.',
-  bookHint: 'Bé chọn một trang trong sổ bí kíp nhé.', vanHint: 'Bé chạm vào một vần để nghe cô đánh vần nhé.', toneHint: 'Bé chạm vào từng tiếng để nghe sáu thanh nhé.',
+  bookHint: 'Bé chọn một trang trong sổ bí kíp nhé.',
+  findLetterG: 'Bé nghe cô đọc, rồi tìm chữ đúng nhé.',
+  posTop: 'Con vật nào ở trên bàn?', posUnder: 'Con vật nào ở dưới gầm bàn?', posMid: 'Quả nào ở giữa?', posLeft: 'Quả nào ở bên trái?', posRight: 'Quả nào ở bên phải?',
+  bondEq: (a, b) => `${NUMW[a]} gồm ${NUMW[b]} và ${NUMW[a - b]}.`, poemHint: 'Bé chọn một bài đồng dao, rồi đọc cùng cô nhé.', ruleHint: 'Bé chạm vào tranh để nghe, rồi chơi điền chữ nhé.',
+  posHint: 'Bé chạm vào từng câu để nghe cô đọc nhé.', so20Hint: 'Các số từ mười một đến hai mươi gồm một chục và mấy đơn vị.', strokeHint: 'Bé chọn một nét, rồi tô theo nét chấm nhé. Chấm xanh là chỗ đặt bút.',
+  bondHint: 'Bé chọn một câu, rồi bấm số để điền vào chỗ trống nhé.', drillHint: 'Bé tính, rồi bấm số để điền kết quả nhé.', traceStroke: 'Bé tô nét này nhé.', readWordG: 'Bé nghe cô đọc, rồi chọn tiếng đúng nhé.', spellQG: 'Bé hãy ghép tiếng cô đọc nhé.',
+  toneQG: 'Tiếng này có dấu gì?', vanQG: 'Tiếng này có vần gì?', sticks: 'Có bao nhiêu que tính?', findNum: 'Bé nghe cô đọc, rồi tìm số đúng nhé.',
+  topicHint: 'Bé chạm vào hình để nghe cô đọc nhé.', readHint: 'Bé chọn một bài, rồi đọc cùng cô nhé.', num100Hint: 'Bé chạm vào một số để nghe cô đọc nhé.',
+  calc100Hint: 'Cộng, trừ đơn vị với đơn vị, chục với chục nhé.', recLetters: 'Cha mẹ đọc to, rõ âm của chữ này.', vanHint: 'Bé chạm vào một vần để nghe cô đánh vần nhé.', toneHint: 'Bé chạm vào từng tiếng để nghe sáu thanh nhé.',
   sentHint: 'Bé tự đọc câu, rồi chạm vào để nghe cô đọc nhé.', calcHint: 'Bé chạm vào phép tính để nghe cô đọc nhé.', shapeHint: 'Bé chạm vào hình để nghe tên hình nhé.',
   clockHint: 'Kim dài chỉ số mười hai, kim ngắn chỉ số mấy thì là mấy giờ.', cmpHint: 'Đầu nhọn của dấu luôn chỉ vào số bé hơn.',
   addEq: (a, b) => `${NUMW[a]} cộng ${NUMW[b]} bằng ${NUMW[a + b]}.`, subEq: (a, b) => `${NUMW[a]} trừ ${NUMW[b]} bằng ${NUMW[a - b]}.`,
@@ -1586,7 +1770,8 @@ function solidSVG(k, c) {
   return `<svg viewBox="0 0 100 100" class="shp" aria-hidden="true"><g stroke="#2B2350" stroke-width="2.5" stroke-linejoin="round"><path d="M${x0} ${y0 - h} l${d * .7} ${-d * .5} h${w} l${-d * .7} ${d * .5} Z" fill="${c}" opacity=".75"/><path d="M${x0 + w} ${y0} v${-h} l${d * .7} ${-d * .5} v${h} Z" fill="${c}" opacity=".55"/><rect x="${x0}" y="${y0 - h}" width="${w}" height="${h}" fill="${c}"/></g></svg>`;
 }
 const T = {
-  findLetter(pool) { pool = pool.filter(l => l.c !== 'q'); const L = rand(pool); return { kind: 'quiz', cat: 'read', key: 'n' + L.c, it: { k: 'L:' + L.c, l: 'Nhận biết chữ ' + L.c, c: 'read' }, prompt: 'Nghe và tìm chữ đúng', say: [PH.findLetter(L)], stage: `<button class="bigspeak" aria-label="Nghe lại">${IC.speaker}</button>`, mount: v => { v.querySelector('.bigspeak').onclick = () => replay([PH.findLetter(L)]); }, choices: letterChoices(L, pool.length >= 6 ? pool : LETTERS.filter(l => l.c !== 'q')) }; },
+  findLetter(pool) { pool = pool.filter(l => l.c !== 'q'); const L = rand(pool), cue = [{ t: L.c === 'i' || L.c === 'y' ? 'i' : L.s, gap: 450 }, L.say];   // i ngắn / i dài đọc cùng một âm i; hai chữ này không bao giờ cùng xuất hiện trong một câu hỏi
+    return { kind: 'quiz', cat: 'read', key: 'n' + L.c, it: { k: 'L:' + L.c, l: 'Nhận biết chữ ' + L.c, c: 'read' }, prompt: 'Nghe và tìm chữ đúng', say: [{ t: PH.findLetterG, gap: 350 }].concat(cue), stage: `<button class="bigspeak" aria-label="Nghe lại">${IC.speaker}</button><p class="cuehint">Chạm loa để nghe lại âm và tiếng mẫu</p>`, mount: v => { v.querySelector('.bigspeak').onclick = () => replay(cue); }, choices: letterChoices(L, pool.length >= 6 ? pool : LETTERS.filter(l => l.c !== 'q')) }; },
   caseMatch(pool) {
     const L = rand(pool), up = Math.random() < .6;
     const shown = up ? L.c : L.c.toUpperCase();
@@ -1597,8 +1782,8 @@ const T = {
   firstLetter() { const L = rand(LETTERS.filter(l => l.st)), syl = L.w.split(' ')[0], chars = [...syl.normalize('NFC')];
     return { kind: 'quiz', cat: 'read', key: 'h' + L.c, it: { k: 'F:' + L.c, l: 'Chữ đầu của tiếng ' + syl, c: 'read' }, prompt: 'Tiếng này bắt đầu bằng chữ nào?', say: [L.say, PH.firstQ(syl)], stage: `<div class="picq"><span class="emo">${L.e}</span><span class="blankword"><span class="blank"></span>${chars.slice(1).join('')}</span></div>`,
       solved: v => { const b = v.querySelector('.blank'); if (b) b.outerHTML = `<mark>${chars[0]}</mark>`; }, choices: letterChoices(L) }; },
-  readWord(pool) { const W = rand(pool), others = shuffle(pool.filter(x => x.w !== W.w && !soundsAlike(x, W))).slice(0, 2);
-    return { kind: 'quiz', cat: 'read', key: 'r' + W.w, it: { k: 'R:' + W.w, l: 'Đọc tiếng ' + W.w, c: 'read' }, prompt: 'Nghe và chọn tiếng đúng', say: [PH.readWord(W.w)], stage: `<div class="picq"><span class="emo">${W.e}</span></div>`, choices: shuffle([W, ...others]).map(x => ({ html: `<span class="wd">${x.w}</span>`, aria: x.w, correct: x === W })) }; },
+  readWord(pool) { const W = rand(pool), others = shuffle(pool.filter(x => x.w !== W.w && !soundsAlike(x, W) && x.e !== W.e)).slice(0, 2);
+    return { kind: 'quiz', cat: 'read', key: 'r' + W.w, it: { k: 'R:' + W.w, l: 'Đọc tiếng ' + W.w, c: 'read' }, prompt: 'Nghe và chọn tiếng đúng', say: W.n ? [{ t: PH.readWordG, gap: 350 }, W.w] : [PH.readWord(W.w)], stage: `<div class="picq"><span class="emo">${W.e}</span></div>`, choices: shuffle([W, ...others]).map(x => ({ html: `<span class="wd">${x.w}</span>`, aria: x.w, correct: x === W })) }; },
   spell(level) { const W = rand(WORDSET[level]); return { kind: 'spell', cat: 'read', key: 'p' + W.w, it: { k: 'S:' + W.w, l: 'Ghép tiếng ' + W.w, c: 'read' }, W, level }; },
   count(max) { const cells = max <= 5 ? 5 : 10, n = ri(1, max), [e, name] = rand(OBJ); let c = 0;
     return { kind: 'quiz', cat: 'math', key: 'c' + n + e, it: { k: 'M:count', l: 'Đếm số', c: 'math' }, prompt: `Có bao nhiêu ${name}?`, say: n >= 6 ? [PH.count(name), PH.countHint] : [PH.count(name)],
@@ -1625,21 +1810,47 @@ const T = {
     return { kind: 'quiz', cat: 'math', key: 'q' + ns.join('') + big, it: { k: 'M:cmpnum', l: 'So sánh số', c: 'math' }, prompt: q, say: [q], choices: ns.map(x => ({ html: `<span class="num">${x}</span>`, aria: String(x), correct: x === ans })) }; },
   missing(max) { const st = ri(0, Math.max(0, max - 3)), hole = ri(1, 3), seq = [st, st + 1, st + 2, st + 3], ans = seq[hole];
     return { kind: 'quiz', cat: 'math', key: 's' + st + hole, it: { k: 'M:missing', l: 'Tìm số còn thiếu', c: 'math' }, prompt: 'Số nào còn thiếu?', say: [PH.missing], stage: `<div class="seq">${seq.map((x, i) => i === hole ? '<span class="hole">?</span>' : `<span>${x}</span>`).join('')}</div>`,
-      solved: v => { const h = v.querySelector('.hole'); h.textContent = ans; h.classList.add('done'); }, choices: numChoices(ans, 0, 10).map(x => ({ html: `<span class="num">${x}</span>`, aria: String(x), correct: x === ans })) }; },
+      solved: v => { const h = v.querySelector('.hole'); h.textContent = ans; h.classList.add('done'); }, choices: numChoices(ans, 0, Math.max(10, max)).map(x => ({ html: `<span class="num">${x}</span>`, aria: String(x), correct: x === ans })) }; },
+  position() { const k = ri(0, 2);
+    if (k === 0) { const [a, b] = shuffle(['🐱', '🐶', '🐰', '🐻', '🐤', '🐼']).slice(0, 2), up = Math.random() < .5, q = up ? PH.posTop : PH.posUnder;
+      return { kind: 'quiz', cat: 'math', key: 'p' + a + b + up, it: { k: 'M:pos', l: 'Vị trí: trên, dưới, trái, phải, ở giữa', c: 'math' }, prompt: q, say: [q], stage: tableHTML(a, b), choices: shuffle([a, b]).map(x => ({ html: `<span class="emo cpic">${x}</span>`, aria: x, correct: x === (up ? a : b) })) }; }
+    const fr = shuffle(['🍎', '🍊', '🍌', '🍐', '🍇', '🍓', '🥭', '🍉']);
+    if (k === 1) { const r = fr.slice(0, 3); return { kind: 'quiz', cat: 'math', key: 'p' + r.join(''), it: { k: 'M:pos', l: 'Vị trí: trên, dưới, trái, phải, ở giữa', c: 'math' }, prompt: PH.posMid, say: [PH.posMid], stage: rowHTML(r), choices: shuffle([...r]).map(x => ({ html: `<span class="emo cpic">${x}</span>`, aria: x, correct: x === r[1] })) }; }
+    const r = fr.slice(0, 2), left = Math.random() < .5, q = left ? PH.posLeft : PH.posRight;
+    return { kind: 'quiz', cat: 'math', key: 'p' + r.join('') + left, it: { k: 'M:pos', l: 'Vị trí: trên, dưới, trái, phải, ở giữa', c: 'math' }, prompt: q, say: [q], stage: rowHTML(r) + '<p class="cuehint">Trái, phải tính theo tay của bé khi nhìn vào tranh</p>', choices: shuffle([...r]).map(x => ({ html: `<span class="emo cpic">${x}</span>`, aria: x, correct: x === (left ? r[0] : r[1]) })) }; },
+  sticks() { const n = ri(11, 99), s = new Set([n]); [revNum(n), n + 10, n - 10, n + 1, n - 1].forEach(x => { if (s.size < 3 && x >= 10 && x <= 99 && x !== n) s.add(x); });
+    return { kind: 'quiz', cat: 'math', key: 'k' + n, it: { k: 'M:tens', l: 'Chục và đơn vị', c: 'math' }, prompt: PH.sticks, say: [PH.sticks], stage: sticksHTML(n) + `<p class="cuehint">Mỗi bó là 1 chục que tính</p>`,
+      solved: v => { const c = v.querySelector('.cuehint'); if (c) c.textContent = `${Math.floor(n / 10)} chục và ${n % 10} đơn vị là ${n}`; }, choices: shuffle([...s]).map(x => ({ html: `<span class="num">${x}</span>`, aria: String(x), correct: x === n })) }; },
+  findNum() { let n = ri(11, 99); while (n % 11 === 0) n = ri(11, 99); const s = new Set([n, revNum(n)]); [n + 10, n - 10, n + 1].forEach(x => { if (s.size < 3 && x >= 10 && x <= 99) s.add(x); });
+    return { kind: 'quiz', cat: 'math', key: 'u' + n, it: { k: 'M:read100', l: 'Đọc số đến 100', c: 'math' }, prompt: 'Nghe và tìm số đúng', say: [{ t: PH.findNum, gap: 350 }, numWord(n)],
+      stage: `<button class="bigspeak" aria-label="Nghe lại">${IC.speaker}</button>`, mount: v => { v.querySelector('.bigspeak').onclick = () => replay([numWord(n)]); },
+      choices: shuffle([...s]).map(x => ({ html: `<span class="num">${x}</span>`, aria: String(x), correct: x === n })) }; },
+  addsub100() { const k = ri(0, 4); let a, b, plus;
+    if (k === 0) { plus = true; a = ri(1, 8) * 10; b = ri(1, 9 - a / 10) * 10; }
+    else if (k === 1) { plus = false; a = ri(2, 9) * 10; b = ri(1, a / 10 - 1) * 10; }
+    else if (k === 2) { plus = true; const u = ri(0, 8); a = ri(1, 9) * 10 + u; b = ri(1, 9 - u); }
+    else if (k === 3) { plus = false; const u = ri(1, 9); a = ri(1, 9) * 10 + u; b = ri(1, u); }
+    else { plus = Math.random() < .5; const t1 = ri(2, 8), u1 = ri(1, 8); if (plus) { a = t1 * 10 + u1; b = ri(1, 9 - t1) * 10 + ri(0, 9 - u1); } else { a = t1 * 10 + u1; b = ri(1, t1 - 1) * 10 + ri(0, u1); } }
+    const ans = plus ? a + b : a - b, sym = plus ? '+' : '−';
+    return { kind: 'quiz', cat: 'math', key: 'w' + a + sym + b, it: { k: plus ? 'M:add100' : 'M:sub100', l: plus ? 'Cộng trong phạm vi 100' : 'Trừ trong phạm vi 100', c: 'math' }, prompt: `${a} ${sym} ${b} bằng mấy?`,
+      say: [{ t: numWord(a), gap: 80 }, { t: plus ? 'cộng' : 'trừ', gap: 80 }, { t: numWord(b), gap: 80 }, 'bằng mấy?'],
+      stage: `<div class="expr" aria-hidden="true"><span>${a}</span><span class="op">${sym}</span><span>${b}</span><span class="op">=</span><span class="ans">?</span></div><p class="cuehint">Tính đơn vị với đơn vị, chục với chục</p>`,
+      solved: v => { const x = v.querySelector('.ans'); x.textContent = ans; x.classList.add('done'); },
+      choices: [...new Set([ans, ans + 10 <= 100 ? ans + 10 : ans - 20, ans - 1 >= 0 ? ans - 1 : ans + 2, ans + 1])].slice(0, 3).sort(() => Math.random() - .5).map(x => ({ html: `<span class="num">${x}</span>`, aria: String(x), correct: x === ans })) }; },
   shape() { const r = Math.random();
     if (r < .4) { const t = rand(SH), cols = shuffle([...COL]); return { kind: 'quiz', cat: 'math', key: 'h' + t.k, it: { k: 'M:shape', l: 'Hình và màu', c: 'math' }, prompt: PH.shape(t), say: [PH.shape(t)], choices: shuffle([...SH]).map((s, i) => ({ html: shapeSVG(s, cols[i].h), aria: s.n, correct: s === t })) }; }
     if (r < .8) { const cs = shuffle([...COL]).slice(0, 4), t = cs[0], s = rand(SH); return { kind: 'quiz', cat: 'math', key: 'o' + t.n, it: { k: 'M:shape', l: 'Hình và màu', c: 'math' }, prompt: PH.color(t), say: [PH.color(t)], choices: shuffle(cs).map(c => ({ html: shapeSVG(s, c.h), aria: 'Màu ' + c.n, correct: c === t })) }; }
     const [s1, s2, s3] = shuffle([...SH]), [c1, c2, c3] = shuffle([...COL]);
     return { kind: 'quiz', cat: 'math', key: 'x' + s1.k + c1.n, it: { k: 'M:shape', l: 'Hình và màu', c: 'math' }, prompt: PH.shapeColor(s1, c1), say: [PH.shapeColor(s1, c1)], choices: shuffle([[s1, c1, 1], [s1, c2, 0], [s2, c1, 0], [s3, c3, 0]]).map(([s, c, ok]) => ({ html: shapeSVG(s, c.h), aria: `${s.n} màu ${c.n}`, correct: !!ok })) }; },
   findDigraph() { const D = rand(DIGRAPHS), others = shuffle(DIGRAPHS.filter(x => x !== D && !confusable(x.c, D.c))).slice(0, 3);
-    return { kind: 'quiz', cat: 'read', key: 'g' + D.c, it: { k: 'G:' + D.c, l: 'Nhận biết chữ ghép ' + D.c, c: 'read' }, prompt: 'Nghe và tìm chữ ghép đúng', say: [PH.findDig(D)], stage: `<button class="bigspeak" aria-label="Nghe lại">${IC.speaker}</button>`, mount: v => { v.querySelector('.bigspeak').onclick = () => replay([PH.findDig(D)]); },
+    return { kind: 'quiz', cat: 'read', key: 'g' + D.c, it: { k: 'G:' + D.c, l: 'Nhận biết chữ ghép ' + D.c, c: 'read' }, prompt: 'Nghe và tìm chữ ghép đúng', say: [{ t: PH.findLetterG, gap: 350 }, { t: D.n || D.s, gap: 450 }, D.say], stage: `<button class="bigspeak" aria-label="Nghe lại">${IC.speaker}</button><p class="cuehint">Chạm loa để nghe lại âm và tiếng mẫu</p>`, mount: v => { v.querySelector('.bigspeak').onclick = () => replay([{ t: D.n || D.s, gap: 450 }, D.say]); },
       choices: shuffle([D, ...others]).map(x => ({ html: `<span class="ch">${x.c}</span>`, aria: 'Chữ ' + x.c, correct: x === D })) }; },
   toneQuiz(pool) { const W = rand(pool), opts = shuffle([W.t, ...shuffle(Object.keys(TONES).filter(x => x !== W.t)).slice(0, 2)]);
-    return { kind: 'quiz', cat: 'read', key: 'z' + W.w, it: { k: 'D:' + W.w, l: 'Dấu thanh của tiếng ' + W.w, c: 'read' }, prompt: 'Nghe và chọn dấu thanh', say: [W.say, PH.toneQ(W.w)],
+    return { kind: 'quiz', cat: 'read', key: 'z' + W.w, it: { k: 'D:' + W.w, l: 'Dấu thanh của tiếng ' + W.w, c: 'read' }, prompt: 'Nghe và chọn dấu thanh', say: W.n ? [{ t: W.w, gap: 350 }, PH.toneQG] : [W.say, PH.toneQ(W.w)],
       stage: `<div class="picq"><span class="emo">${W.e}</span><span class="blankword tw"><span class="blank"></span></span></div>`, solved: v => { const b = v.querySelector('.tw'); if (b) b.innerHTML = `<mark>${W.w}</mark>`; },
       choices: opts.map(x => ({ html: `<span class="tone">${toneSVG(x)}<small>${TONES[x].label}</small></span>`, aria: 'dấu ' + TONES[x].label, correct: x === W.t })) }; },
   vanQuiz(pool) { const W = rand(pool), vans = [...new Set(pool.map(w => w.v))].filter(v => v !== W.v), opts = shuffle([W.v, ...shuffle(vans).slice(0, 2)]);
-    return { kind: 'quiz', cat: 'read', key: 'v' + W.w, it: { k: 'V:' + W.w, l: 'Vần của tiếng ' + W.w, c: 'read' }, prompt: 'Nghe và chọn vần đúng', say: [W.say, PH.vanQ(W.w)],
+    return { kind: 'quiz', cat: 'read', key: 'v' + W.w, it: { k: 'V:' + W.w, l: 'Vần của tiếng ' + W.w, c: 'read' }, prompt: 'Nghe và chọn vần đúng', say: W.n ? [{ t: W.w, gap: 350 }, PH.vanQG] : [W.say, PH.vanQ(W.w)],
       stage: `<div class="picq"><span class="emo">${W.e}</span><span class="blankword tw"><span class="blank"></span></span></div>`, solved: v => { const b = v.querySelector('.tw'); if (b) b.innerHTML = markVan(W); },
       choices: opts.map(x => ({ html: `<span class="ch">${x}</span>`, aria: 'vần ' + x, correct: x === W.v })) }; },
   ruleQuiz() { const R = rand(RULEW), rest = [...R.w.normalize('NFC')].slice(R.a.length).join('');
@@ -1651,8 +1862,8 @@ const T = {
     return { kind: 'quiz', cat: 'read', key: 'e' + X.s, it: { k: 'C:' + X.s, l: 'Đọc câu “' + X.s + '”', c: 'read' }, prompt: 'Bé đọc câu rồi chọn tranh đúng', say: [PH.sentQ],
       stage: `<p class="sent">${X.s}</p><button class="linkbtn sread">${IC.speaker}<span>Nghe cô đọc</span></button>`, mount: v => { v.querySelector('.sread').onclick = () => replay([X.s]); },
       choices: shuffle([X.a, ...X.o]).map(x => ({ html: `<span class="emo cpic">${x}</span>`, aria: 'Tranh', correct: x === X.a })) }; },
-  compareSign(max) { const a = ri(0, max), b = Math.random() < .25 ? a : ri(0, max), ans = a > b ? '>' : a < b ? '<' : '=', e = rand(FRUIT);
-    const dots = k => `<span class="minitray sm">${k ? Array.from({ length: k }, () => e).join('') : ''}</span>`, lab = x => x === '>' ? 'lớn hơn' : x === '<' ? 'bé hơn' : 'bằng';
+  compareSign(max, min = 0) { const a = ri(min, max), b = Math.random() < .25 ? a : Math.random() < .5 && max > 10 ? revNum(a) : ri(min, max), ans = a > b ? '>' : a < b ? '<' : '=', e = rand(FRUIT);
+    const dots = k => max > 10 ? '' : `<span class="minitray sm">${k ? Array.from({ length: k }, () => e).join('') : ''}</span>`, lab = x => x === '>' ? 'lớn hơn' : x === '<' ? 'bé hơn' : 'bằng';
     return { kind: 'quiz', cat: 'math', key: 'y' + a + '-' + b, it: { k: 'M:sign', l: 'Điền dấu >, <, =', c: 'math' }, prompt: 'Chọn dấu >, < hoặc =', say: [PH.signQ],
       stage: `<div class="cmpq"><div><span class="n">${a}</span>${dots(a)}</div><span class="ans">?</span><div><span class="n">${b}</span>${dots(b)}</div></div>`,
       solved: v => { const x = v.querySelector('.cmpq .ans'); x.textContent = ans; x.classList.add('done'); },
@@ -1697,11 +1908,11 @@ const soundsAlike = (a, b) => a.v === b.v && a.t === b.t && (a.d === b.d || conf
 const EASY_TRACE = VOWELS.concat(LETTERS.filter(l => 'bcdđhlmntvx'.includes(l.c)));
 const W12 = WORDS1.concat(WORDS2), W23 = WORDS2.concat(WORDS3);
 const POOLS = {
-  1: { read: [() => T.findLetter(VOWELS), () => T.caseMatch(VOWELS)], math: [i => T.count(Math.min(5, 3 + Math.floor(i / 3))), () => T.shape(), () => T.measure()], write: [() => T.traceLetter(VOWELS)] },
-  2: { read: [() => T.findLetter(CONSO), () => T.firstLetter(), () => T.caseMatch(LETTERS)], math: [i => T.count(Math.min(10, 5 + i)), i => T.compare(Math.min(10, 4 + i)), () => T.shape(), () => T.measure()], write: [() => T.traceLetter(CONSO.filter(l => 'bcdđhlmntvx'.includes(l.c))), () => T.traceNumber()] },
+  1: { read: [() => T.findLetter(VOWELS), () => T.caseMatch(VOWELS)], math: [i => T.count(Math.min(5, 3 + Math.floor(i / 3))), () => T.shape(), () => T.measure(), () => T.position()], write: [() => T.traceLetter(VOWELS)] },
+  2: { read: [() => T.findLetter(CONSO), () => T.firstLetter(), () => T.caseMatch(LETTERS)], math: [i => T.count(Math.min(10, 5 + i)), i => T.compare(Math.min(10, 4 + i)), () => T.shape(), () => T.measure(), () => T.position()], write: [() => T.traceLetter(CONSO.filter(l => 'bcdđhlmntvx'.includes(l.c))), () => T.traceNumber()] },
   3: { read: [() => T.spell(1), () => T.readWord(WORDS1), () => T.firstLetter(), () => T.toneQuiz(WORDS1)], math: [() => T.addsub(5), i => T.missing(Math.min(10, 5 + i)), () => T.count(10), i => T.compareSign(Math.min(10, 5 + i)), () => T.neighbor(10)], write: [() => T.traceNumber()] },
   4: { read: [() => T.spell(2), () => T.readWord(W12), () => T.vanQuiz(WORDS2), () => T.toneQuiz(W12), () => T.findDigraph()], math: [() => T.addsub(10), () => T.compareNum(10), () => T.bond(10), () => T.picEq(10), () => T.clock(), () => T.compareSign(10)], write: [() => T.traceLetter(EASY_TRACE)] },
-  5: { read: [() => T.spell(3), () => T.spell(4), () => T.readWord(ALLW), () => T.vanQuiz(W23), () => T.ruleQuiz(), () => T.readSentence()], math: [() => T.addsub(10, true), () => T.bond(10), () => T.picEq(10), () => T.compareSign(10), () => T.neighbor(10), () => T.solid(), () => T.clock(), () => T.missing(10)], write: [() => T.traceLetter(LETTERS), () => T.traceLetter(DIGRAPHS), () => T.traceNumber(), () => T.traceWord()] }
+  5: { read: [() => T.spell(3), () => T.spell(4), () => T.readWord(ALLW), () => T.vanQuiz(W23), () => T.ruleQuiz(), () => T.readSentence()], math: [() => T.addsub(10, true), () => T.bond(10), () => T.picEq(10), () => T.neighbor(10), () => T.solid(), () => T.clock(), () => T.sticks(), () => T.findNum(), () => T.compareSign(99, 10), () => T.missing(100), () => T.addsub100()], write: [() => T.traceLetter(LETTERS), () => T.traceLetter(DIGRAPHS), () => T.traceNumber(), () => T.traceWord()] }
 };
 function planLevel(L) {
   const z = zoneOf(L), i = idxOf(L), P = POOLS[z];
@@ -1784,9 +1995,10 @@ function runSpell(box, t, api) {
     if (busy) return; busy = true; drawRow(true);
     playSpell(rowHost, outEl, W, level >= 2, () => { busy = false; if (!box.isConnected) return; drawRow(false); outEl.innerHTML = outHTML; say(PH.nowYou, PH.steps[step]); });
   };
-  box.querySelector('.speak').onclick = () => replay([PH.spellQ(W.w)]);
+  const ask = W.n ? [{ t: PH.spellQG, gap: 300 }, W.w] : [PH.spellQ(W.w)];
+  box.querySelector('.speak').onclick = () => replay(ask);
   drawRow(false); drawChoices();
-  say((api.pre || []).concat([PH.spellQ(W.w), PH.steps[0]]));
+  say((api.pre || []).concat(ask, [PH.steps[0]]));
 }
 function runTrace(box, t, api) {
   box.innerHTML = `<div class="game">${promptHTML(t, /\d/.test(t.ch) ? 'Tô số theo nét chấm' : t.word ? 'Tô tiếng theo nét chấm' : 'Tô chữ in theo nét chấm')}<div class="tbox"></div></div>`;
@@ -1800,9 +2012,11 @@ function traceBoard(box, opts) {
   const tok = navTok, K = 3, free = !!opts.free;
   let kind = 'chu', idx = 0, strokes = [], cur = null, solved = false;
   let W = 0, H = 0, dpr = 1, fontPx = 0, gx = 0, baseY = 0, li = 10, strokeW = 14, lowW = 0, lowH = 0, guide = null, allow = null, cells = [];
-  const items = () => opts.items ? opts.items : (kind === 'chu' ? LETTERS.map(l => l.c) : kind === 'ghep' ? DIGRAPHS.map(l => l.c) : DIGITS);
+  const items = () => opts.items ? opts.items : (kind === 'chu' ? LETTERS.map(l => l.c) : kind === 'ghep' ? DIGRAPHS.map(l => l.c) : kind === 'net' ? STROKES : DIGITS);
+  const isStroke = c => typeof c === 'object';
+  let sc = 1, ox = 0, oy = 0, path = null;
   box.insertAdjacentHTML('beforeend', `<div class="tview">
-    ${free ? `<div class="ttop"><div class="seg tseg"><button data-k="chu" class="on">Chữ</button><button data-k="ghep">Ghép</button><button data-k="so">Số</button></div><div class="tnav"><button class="iconbtn tprev" aria-label="Chữ trước">${IC.left}</button><span class="tcur"></span><button class="iconbtn tnext" aria-label="Chữ sau">${IC.right}</button></div></div>` : ''}
+    ${free ? `<div class="ttop"><div class="seg tseg"><button data-k="chu" class="on">Chữ</button><button data-k="ghep">Ghép</button><button data-k="so">Số</button><button data-k="net">Nét</button></div><div class="tnav"><button class="iconbtn tprev" aria-label="Chữ trước">${IC.left}</button><span class="tcur"></span><button class="iconbtn tnext" aria-label="Chữ sau">${IC.right}</button></div></div>` : ''}
     <div class="twrap"><canvas aria-label="Khung tập tô"></canvas></div>
     <div class="tact"><button class="btn tsay">${IC.speaker}<span>Nghe</span></button><button class="btn tclr">${IC.eraser}<span>Xóa</span></button><button class="btn primary tdone">${IC.check}<span>Xong</span></button></div></div>`);
   const tv = box.querySelector('.tview'), q = s => tv.querySelector(s);
@@ -1811,13 +2025,13 @@ function traceBoard(box, opts) {
   const [gc, gctx] = mk(), [uc, uctx] = mk();
   const ch = () => items()[idx % items().length];
   const font = px => `700 ${px}px Andika, "Baloo 2", system-ui, sans-serif`;
-  const sayText = () => { const c = ch(), L = LETTERS.find(l => l.c === c) || DIGRAPHS.find(l => l.c === c); return [PH.traceIntro, L ? L.s : NUMW[+c]]; };
+  const sayText = () => { const c = ch(); if (isStroke(c)) return [PH.traceStroke, c.n]; const L = LETTERS.find(l => l.c === c) || DIGRAPHS.find(l => l.c === c); return [PH.traceIntro, L ? L.s : NUMW[+c]]; };
   function sayItem(tap) { const t = opts.say && !free ? opts.say : sayText(); if (tap) replay(t); else say((opts.pre && !free && idx === 0 ? opts.pre : []).concat(t)); }
   function load() {
     solved = false; strokes = [];
-    if (free) q('.tcur').textContent = ch();
+    if (free) { const c = ch(); q('.tcur').textContent = isStroke(c) ? c.s : c; q('.tcur').classList.toggle('sm', isStroke(c)); }
     wrap.querySelector('.stamp')?.remove();
-    const p = (document.fonts && document.fonts.load) ? document.fonts.load(font(100), ch()).catch(() => {}) : Promise.resolve();
+    const p = isStroke(ch()) ? Promise.resolve() : (document.fonts && document.fonts.load) ? document.fonts.load(font(100), ch()).catch(() => {}) : Promise.resolve();
     p.then(() => { if (tok === navTok && tv.isConnected) requestAnimationFrame(layout); });
   }
   function layout() {
@@ -1833,6 +2047,33 @@ function traceBoard(box, opts) {
   function buildGuide() {
     const c = ch(), m = gctx;
     m.setTransform(1, 0, 0, 1, 0, 0);
+    if (isStroke(c)) {
+      // Nét cơ bản: 1 ô li = 20 đơn vị; đặt đường kẻ đậm dưới (y = 120) ở khoảng 60% chiều cao khung
+      path = new Path2D(c.d);
+      // Phóng nét cho vừa khung: tính khung bao từ các tọa độ trong đường vẽ
+      const nums = (c.d.match(/-?[\d.]+/g) || []).map(Number), xs = nums.filter((_, i) => i % 2 === 0), ys = nums.filter((_, i) => i % 2 === 1);
+      const x0 = Math.min(...xs), x1 = Math.max(...xs), y0 = Math.min(...ys), y1 = Math.max(...ys);
+      li = Math.min(H * .72 / Math.max(1, (y1 - y0) / 20), W * .62 / Math.max(1, (x1 - x0) / 20), H / 5.5); sc = li / 20;
+      ox = W / 2 - (x0 + x1) / 2 * sc; oy = H / 2 - (y0 + y1) / 2 * sc; baseY = oy + 120 * sc;
+      strokeW = Math.max(14, Math.min(li * .7, 46)); fontPx = 0;
+      lowW = Math.ceil(W / K); lowH = Math.ceil(H / K);
+      gc.width = lowW; gc.height = lowH; uc.width = lowW; uc.height = lowH;
+      m.setTransform(sc / K, 0, 0, sc / K, ox / K, oy / K); m.lineCap = 'round'; m.lineJoin = 'round'; m.strokeStyle = '#000';
+      m.lineWidth = strokeW / sc; m.stroke(path);
+      let d = m.getImageData(0, 0, lowW, lowH).data; guide = new Uint8Array(lowW * lowH);
+      for (let i = 0; i < guide.length; i++) guide[i] = d[i * 4 + 3] > 110 ? 1 : 0;
+      m.setTransform(1, 0, 0, 1, 0, 0); m.clearRect(0, 0, lowW, lowH); m.setTransform(sc / K, 0, 0, sc / K, ox / K, oy / K);
+      m.lineWidth = strokeW * 2.2 / sc; m.stroke(path);
+      d = m.getImageData(0, 0, lowW, lowH).data; allow = new Uint8Array(lowW * lowH);
+      for (let i = 0; i < allow.length; i++) allow[i] = d[i * 4 + 3] > 40 ? 1 : 0;
+      const cs = Math.max(3, Math.round(strokeW * 1.1 / K)); cells = [];
+      for (let cy = 0; cy * cs < lowH; cy++) for (let cx = 0; cx * cs < lowW; cx++) {
+        const ids = [];
+        for (let y = cy * cs; y < Math.min(lowH, (cy + 1) * cs); y++) for (let x = cx * cs; x < Math.min(lowW, (cx + 1) * cs); x++) { const i = y * lowW + x; if (guide[i]) ids.push(i); }
+        if (ids.length >= Math.max(3, cs * cs * .12)) cells.push(ids);
+      }
+      return;
+    }
     let fs = 200; m.font = font(fs); let t = m.measureText(c);
     const gh = (t.actualBoundingBoxAscent || fs * .7) + (t.actualBoundingBoxDescent || 0), gw = (t.actualBoundingBoxLeft || 0) + (t.actualBoundingBoxRight || t.width);
     fs = fs * Math.min((H * .74) / gh, (W * .6) / gw);
@@ -1869,8 +2110,15 @@ function traceBoard(box, opts) {
     const S4 = li * 4; ctx.strokeStyle = '#C9C0EF';
     for (let j = Math.floor(-(W / 2) / S4); W / 2 + j * S4 <= W; j++) { const x = Math.round(W / 2 + j * S4) + .5; ctx.beginPath(); ctx.moveTo(x, 0); ctx.lineTo(x, H); ctx.stroke(); }
     ctx.strokeStyle = '#F09A9A'; ctx.lineWidth = 2; ctx.beginPath(); ctx.moveTo(18, 0); ctx.lineTo(18, H); ctx.stroke();
-    ctx.font = font(fontPx); ctx.textBaseline = 'alphabetic'; ctx.fillStyle = '#EEE9FC'; ctx.fillText(ch(), gx, baseY);
-    ctx.setLineDash([7, 7]); ctx.lineWidth = 2.5; ctx.strokeStyle = '#9A8BE0'; ctx.strokeText(ch(), gx, baseY); ctx.setLineDash([]);
+    if (isStroke(ch()) && path) {
+      ctx.save(); ctx.setTransform(dpr * sc, 0, 0, dpr * sc, dpr * ox, dpr * oy); ctx.lineCap = 'round'; ctx.lineJoin = 'round';
+      ctx.strokeStyle = '#EEE9FC'; ctx.lineWidth = strokeW / sc; ctx.stroke(path);
+      ctx.setLineDash([7 / sc, 7 / sc]); ctx.lineWidth = 2.5 / sc; ctx.strokeStyle = '#9A8BE0'; ctx.stroke(path); ctx.setLineDash([]);
+      const [x0, y0] = strokeStart(ch().d); ctx.fillStyle = '#1E9E68'; ctx.beginPath(); ctx.arc(x0, y0, 7 / sc, 0, Math.PI * 2); ctx.fill(); ctx.restore();
+    } else {
+      ctx.font = font(fontPx); ctx.textBaseline = 'alphabetic'; ctx.fillStyle = '#EEE9FC'; ctx.fillText(ch(), gx, baseY);
+      ctx.setLineDash([7, 7]); ctx.lineWidth = 2.5; ctx.strokeStyle = '#9A8BE0'; ctx.strokeText(ch(), gx, baseY); ctx.setLineDash([]);
+    }
     strokes.forEach(s => paint(ctx, s));
   }
   const pt = e => { const r = cv.getBoundingClientRect(); return { x: e.clientX - r.left, y: e.clientY - r.top }; };
@@ -2206,7 +2454,148 @@ const VANS = [
     { v: 'êp', w: 'bếp', d: 'b', t: 'sac', e: '🍳', say: 'nhà bếp' }, { v: 'op', w: 'cọp', d: 'c', t: 'nang', e: '🐅', say: 'con cọp' },
     { v: 'ôp', w: 'hộp', d: 'h', t: 'nang', e: '📦', say: 'cái hộp' }, { v: 'ơp', w: 'lớp', d: 'l', t: 'sac', e: '🏫', say: 'lớp học' }] }
 ];
+/* ---------- Kho từ ngữ bổ sung cho Sổ bí kíp ---------- */
+// Mỗi chữ cái: các từ có chữ đó (chữ được tô màu trong từ)
+const LW = {
+  a: [['áo', '👕'], ['bà', '👵'], ['cá', '🐟'], ['gà', '🐔'], ['lá', '🍃'], ['hoa', '🌸']],
+  ă: [['khăn', '🧣'], ['mắt', '👀'], ['tắm', '🛁'], ['trăng', '🌙'], ['cặp sách', '🎒'], ['bắp ngô', '🌽']],
+  â: [['ấm', '🫖'], ['nấm', '🍄'], ['gấu', '🐻'], ['mây', '☁️'], ['cây', '🌳'], ['chân', '🦶']],
+  b: [['bò', '🐄'], ['bà', '👵'], ['bé', '👶'], ['bóng', '⚽'], ['bút', '✏️'], ['bánh', '🍰']],
+  c: [['cá', '🐟'], ['cua', '🦀'], ['cam', '🍊'], ['cờ', '🚩'], ['cốc', '🥤'], ['cây', '🌳']],
+  d: [['dê', '🐐'], ['dừa', '🥥'], ['dù', '☂️'], ['dép', '🩴'], ['dưa hấu', '🍉'], ['dâu tây', '🍓']],
+  đ: [['đèn', '💡'], ['đá', '🧊'], ['đũa', '🥢'], ['đàn', '🎸'], ['đồng hồ', '⏰'], ['đĩa', '🍽️']],
+  e: [['em bé', '👶'], ['xe', '🚗'], ['kem', '🍦'], ['mèo', '🐱'], ['vẹt', '🦜'], ['kẹo', '🍬']],
+  ê: [['ếch', '🐸'], ['lê', '🍐'], ['dê', '🐐'], ['ghế', '🪑'], ['bếp', '🍳'], ['nến', '🕯️']],
+  g: [['gà', '🐔'], ['gấu', '🐻'], ['gương', '🪞'], ['gỗ', '🪵'], ['găng tay', '🧤'], ['gạch', '🧱']],
+  h: [['hoa', '🌸'], ['hổ', '🐯'], ['hộp', '📦'], ['hươu', '🦌'], ['hành tây', '🧅'], ['hạt dẻ', '🌰']],
+  i: [['khỉ', '🐒'], ['chim', '🐦'], ['vịt', '🦆'], ['kính', '👓'], ['pin', '🔋'], ['lịch', '📅']],
+  k: [['kem', '🍦'], ['kẹo', '🍬'], ['kéo', '✂️'], ['kiến', '🐜'], ['kính', '👓'], ['kẹp', '📎']],
+  l: [['lá', '🍃'], ['lê', '🍐'], ['lợn', '🐷'], ['lửa', '🔥'], ['lều', '⛺'], ['lúa', '🌾']],
+  m: [['mèo', '🐱'], ['mẹ', '👩'], ['mũ', '🧢'], ['mưa', '🌧️'], ['mực', '🦑'], ['mật ong', '🍯']],
+  n: [['nơ', '🎀'], ['nấm', '🍄'], ['nón', '👒'], ['nến', '🕯️'], ['nồi', '🍲'], ['nước', '💧']],
+  o: [['ong', '🐝'], ['voi', '🐘'], ['chó', '🐕'], ['bò', '🐄'], ['sóc', '🐿️'], ['nho', '🍇']],
+  ô: [['ô', '☂️'], ['ô tô', '🚗'], ['tôm', '🦐'], ['hổ', '🐯'], ['cốc', '🥤'], ['trống', '🥁']],
+  ơ: [['ớt', '🌶️'], ['cơm', '🍚'], ['cờ', '🚩'], ['nơ', '🎀'], ['phở', '🍜'], ['bơ', '🥑']],
+  p: [['pin', '🔋'], ['pi-a-nô', '🎹'], ['hộp', '📦'], ['dép', '🩴'], ['bếp', '🍳'], ['tháp', '🗼']],
+  q: [['quà', '🎁'], ['quần', '👖'], ['quả chuối', '🍌'], ['quả dứa', '🍍']],
+  r: [['rùa', '🐢'], ['rổ', '🧺'], ['rau', '🥬'], ['rắn', '🐍'], ['rìu', '🪓'], ['rồng', '🐉']],
+  s: [['sao', '⭐'], ['sữa', '🥛'], ['sách', '📖'], ['sóc', '🐿️'], ['sư tử', '🦁'], ['sò', '🐚']],
+  t: [['táo', '🍎'], ['tàu', '🚢'], ['tay', '✋'], ['tôm', '🦐'], ['tai', '👂'], ['tim', '❤️']],
+  u: [['ủng', '👢'], ['cua', '🦀'], ['mũ', '🧢'], ['dù', '☂️'], ['rùa', '🐢'], ['bút', '✏️']],
+  ư: [['sư tử', '🦁'], ['dừa', '🥥'], ['sữa', '🥛'], ['mưa', '🌧️'], ['cừu', '🐑'], ['trứng', '🥚']],
+  v: [['voi', '🐘'], ['vịt', '🦆'], ['vẹt', '🦜'], ['ví', '👛'], ['vở', '📓'], ['váy', '👗']],
+  x: [['xe', '🚗'], ['xoài', '🥭'], ['xương', '🦴'], ['xe đạp', '🚲'], ['xà phòng', '🧼'], ['xô', '🪣']],
+  y: [['y tá', '🧑‍⚕️'], ['máy bay', '✈️'], ['tay', '✋'], ['cây', '🌳'], ['váy', '👗'], ['mây', '☁️']]
+};
+// Mỗi chữ ghép: các từ có chữ ghép đó
+const DW = {
+  ch: [['chó', '🐕'], ['chim', '🐦'], ['chuối', '🍌'], ['chổi', '🧹'], ['chìa khóa', '🔑'], ['chanh', '🍋']],
+  gh: [['ghế', '🪑'], ['ghim', '📌'], ['ghẹ', '🦀'], ['ghi-ta', '🎸']],
+  gi: [['giày', '👟'], ['giường', '🛏️'], ['giỏ', '🧺'], ['giun', '🪱'], ['gió', '🌬️'], ['giấy', '📄']],
+  kh: [['khỉ', '🐒'], ['khăn', '🧣'], ['khóa', '🔒'], ['khoai lang', '🍠'], ['khủng long', '🦕'], ['khói', '💨']],
+  ng: [['ngô', '🌽'], ['ngựa', '🐴'], ['ngón tay', '☝️'], ['ngôi sao', '⭐'], ['ngủ', '😴']],
+  ngh: [['nghé', '🐃'], ['nghe', '👂'], ['nghệ sĩ', '🧑‍🎨'], ['suy nghĩ', '🤔']],
+  nh: [['nhà', '🏠'], ['nho', '🍇'], ['nhện', '🕷️'], ['nhím', '🦔'], ['nhẫn', '💍'], ['nhảy', '🤸']],
+  ph: [['phở', '🍜'], ['pháo hoa', '🎆'], ['phim', '🎬'], ['cà phê', '☕'], ['phi hành gia', '🧑‍🚀']],
+  qu: [['quà', '🎁'], ['quần', '👖'], ['quả dứa', '🍍'], ['quả chuối', '🍌']],
+  th: [['thỏ', '🐰'], ['thư', '✉️'], ['thuyền', '⛵'], ['thang', '🪜'], ['thìa', '🥄'], ['thịt', '🍖']],
+  tr: [['trống', '🥁'], ['trứng', '🥚'], ['trăng', '🌙'], ['trâu', '🐃'], ['tre', '🎋'], ['trà', '🍵']]
+};
+// Mỗi vần: thêm tiếng, từ có vần đó
+const VAN_EX = {
+  ai: [['chai', '🍾'], ['hai', '2️⃣'], ['bài hát', '🎶']], ay: [['máy bay', '✈️'], ['váy', '👗'], ['nhảy', '🤸']], ây: [['cây', '🌳'], ['giấy', '📄']],
+  oi: [['khói', '💨'], ['nói', '🗣️']], ôi: [['đồi', '⛰️'], ['nồi', '🍲']], ơi: [['đồ chơi', '🧸'], ['bầu trời', '🌤️']],
+  ui: [['núi', '🏔️'], ['mũi', '👃'], ['củi', '🪵']], ao: [['táo', '🍎'], ['cáo', '🦊'], ['bão', '🌀']], au: [['rau', '🥬'], ['màu', '🎨']],
+  âu: [['trâu', '🐃'], ['dâu tây', '🍓'], ['cầu', '🌉']], eo: [['kẹo', '🍬'], ['kéo', '✂️'], ['leo núi', '🧗']], ưu: [['bưu điện', '🏤']],
+  ua: [['rùa', '🐢'], ['vua', '🤴'], ['đũa', '🥢']], ưa: [['dừa', '🥥'], ['sữa', '🥛'], ['ngựa', '🐴'], ['dưa hấu', '🍉']],
+  oa: [['khóa', '🔒'], ['họa sĩ', '🧑‍🎨'], ['loa', '🔊']], am: [['tám', '8️⃣'], ['nam châm', '🧲']], ăm: [['năm', '5️⃣'], ['cắm trại', '🏕️']],
+  âm: [['ấm', '🫖'], ['sấm sét', '⛈️']], em: [['xem', '📺']], êm: [['nệm', '🛏️']], im: [['kim', '🪡'], ['tim', '❤️'], ['nhím', '🦔']],
+  ôm: [['ôm', '🤗']], an: [['bạn', '🧑‍🤝‍🧑']], ăn: [['rắn', '🐍'], ['ăn', '🍽️']], ân: [['quần', '👖'], ['cân', '⚖️']],
+  en: [['kèn', '🎺'], ['len', '🧶']], ên: [['nhện', '🕷️']], un: [['cún', '🐶']], ang: [['sáng', '🌅']], ăng: [['răng', '🦷'], ['nắng', '☀️']],
+  ong: [['ong', '🐝']], ông: [['sông', '🏞️'], ['ông', '👴'], ['công', '🦚']], anh: [['bánh', '🍰'], ['tranh', '🖼️']], inh: [['bình', '🏺']],
+  ac: [['bác sĩ', '🧑‍⚕️']], oc: [['học', '📚']], ôc: [['ốc', '🐌']], uc: [['xúc xắc', '🎲']], ưc: [['thức dậy', '⏰']], ach: [['gạch', '🧱']],
+  at: [['bát', '🥣'], ['cát', '🏖️']], ăt: [['cắt', '✂️']], ât: [['trái đất', '🌍']], et: [['sấm sét', '⚡']], it: [['thịt', '🍖']],
+  ôt: [['một', '1️⃣']], ơt: [['vợt', '🏸']], ap: [['xe đạp', '🚲']], ăp: [['cặp', '🎒']], ep: [['kẹp', '📎']], êp: [['xếp hình', '🧩']]
+};
+// Từ ngữ theo chủ đề
+const TOPICS = [
+  { t: 'Con vật', e: '🐾', w: [['gà', '🐔'], ['vịt', '🦆'], ['chó', '🐕'], ['mèo', '🐱'], ['lợn', '🐷'], ['bò', '🐄'], ['trâu', '🐃'], ['dê', '🐐'], ['ngựa', '🐴'], ['thỏ', '🐰'], ['cừu', '🐑'], ['voi', '🐘'], ['hổ', '🐯'], ['sư tử', '🦁'], ['khỉ', '🐒'], ['gấu', '🐻'], ['hươu', '🦌'], ['hươu cao cổ', '🦒'], ['ngựa vằn', '🦓'], ['lạc đà', '🐪'], ['cá', '🐟'], ['cá heo', '🐬'], ['cá voi', '🐳'], ['tôm', '🦐'], ['cua', '🦀'], ['rùa', '🐢'], ['ếch', '🐸'], ['rắn', '🐍'], ['cá sấu', '🐊'], ['chim', '🐦'], ['vẹt', '🦜'], ['cú mèo', '🦉'], ['gà con', '🐤'], ['chim cánh cụt', '🐧'], ['ong', '🐝'], ['bướm', '🦋'], ['kiến', '🐜'], ['nhện', '🕷️'], ['ốc sên', '🐌'], ['sóc', '🐿️'], ['nhím', '🦔'], ['chuột', '🐭']] },
+  { t: 'Quả và rau', e: '🍎', w: [['táo', '🍎'], ['cam', '🍊'], ['chuối', '🍌'], ['nho', '🍇'], ['dưa hấu', '🍉'], ['dứa', '🍍'], ['xoài', '🥭'], ['lê', '🍐'], ['đào', '🍑'], ['dâu tây', '🍓'], ['anh đào', '🍒'], ['chanh', '🍋'], ['dừa', '🥥'], ['bơ', '🥑'], ['cà chua', '🍅'], ['cà tím', '🍆'], ['cà rốt', '🥕'], ['ngô', '🌽'], ['ớt', '🌶️'], ['dưa chuột', '🥒'], ['súp lơ xanh', '🥦'], ['nấm', '🍄'], ['khoai tây', '🥔'], ['khoai lang', '🍠'], ['hành tây', '🧅'], ['tỏi', '🧄'], ['bí ngô', '🎃'], ['rau cải', '🥬'], ['lạc', '🥜']] },
+  { t: 'Đồ ăn, thức uống', e: '🍚', w: [['cơm', '🍚'], ['bánh mì', '🥖'], ['phở', '🍜'], ['trứng', '🥚'], ['sữa', '🥛'], ['kem', '🍦'], ['kẹo', '🍬'], ['bánh ngọt', '🍰'], ['bánh quy', '🍪'], ['thịt', '🍖'], ['gà rán', '🍗'], ['canh', '🍲'], ['nước cam', '🧃'], ['mật ong', '🍯'], ['bỏng ngô', '🍿'], ['nước', '💧']] },
+  { t: 'Đồ dùng', e: '🧸', w: [['ghế', '🪑'], ['giường', '🛏️'], ['cốc', '🥤'], ['bát', '🥣'], ['đĩa', '🍽️'], ['đũa', '🥢'], ['thìa', '🥄'], ['ấm', '🫖'], ['chảo', '🍳'], ['đèn', '💡'], ['đồng hồ', '⏰'], ['kéo', '✂️'], ['bút', '✏️'], ['sách', '📖'], ['vở', '📓'], ['cặp sách', '🎒'], ['ô', '☂️'], ['chìa khóa', '🔑'], ['ổ khóa', '🔒'], ['chổi', '🧹'], ['xô', '🪣'], ['gương', '🪞'], ['xà phòng', '🧼'], ['bàn chải đánh răng', '🪥'], ['điện thoại', '📱'], ['máy tính', '💻'], ['ti vi', '📺'], ['gấu bông', '🧸'], ['quả bóng', '⚽'], ['diều', '🪁']] },
+  { t: 'Quần áo', e: '👕', w: [['áo', '👕'], ['quần', '👖'], ['váy', '👗'], ['mũ', '🧢'], ['nón', '👒'], ['giày', '👟'], ['dép', '🩴'], ['ủng', '👢'], ['tất', '🧦'], ['găng tay', '🧤'], ['khăn', '🧣'], ['kính', '👓'], ['túi', '👜']] },
+  { t: 'Gia đình, mọi người', e: '👨‍👩‍👧', w: [['ông', '👴'], ['bà', '👵'], ['bố', '👨'], ['mẹ', '👩'], ['anh', '👦'], ['chị', '👧'], ['em bé', '👶'], ['cô giáo', '🧑‍🏫'], ['bác sĩ', '🧑‍⚕️'], ['chú công an', '👮'], ['chú bộ đội', '🪖'], ['bác nông dân', '🧑‍🌾'], ['đầu bếp', '🧑‍🍳'], ['lính cứu hỏa', '🧑‍🚒']] },
+  { t: 'Xe cộ', e: '🚗', w: [['xe đạp', '🚲'], ['xe máy', '🏍️'], ['ô tô', '🚗'], ['xe buýt', '🚌'], ['xe tải', '🚚'], ['xe cứu thương', '🚑'], ['xe cứu hỏa', '🚒'], ['xe cảnh sát', '🚓'], ['tàu hỏa', '🚂'], ['tàu thủy', '🚢'], ['thuyền', '⛵'], ['máy bay', '✈️'], ['trực thăng', '🚁'], ['tên lửa', '🚀']] },
+  { t: 'Thiên nhiên', e: '🌈', w: [['mặt trời', '☀️'], ['mặt trăng', '🌙'], ['ngôi sao', '⭐'], ['mây', '☁️'], ['mưa', '🌧️'], ['cầu vồng', '🌈'], ['tuyết', '❄️'], ['sấm sét', '⚡'], ['gió', '🌬️'], ['núi', '🏔️'], ['biển', '🌊'], ['sông', '🏞️'], ['cây', '🌳'], ['hoa', '🌸'], ['lá', '🍃'], ['cỏ', '🌿'], ['lửa', '🔥'], ['đá', '🪨']] },
+  { t: 'Cơ thể', e: '🖐️', w: [['mắt', '👁️'], ['mũi', '👃'], ['tai', '👂'], ['miệng', '👄'], ['răng', '🦷'], ['lưỡi', '👅'], ['bàn tay', '✋'], ['bàn chân', '🦶'], ['ngón tay', '☝️'], ['cánh tay', '💪']] },
+  { t: 'Màu sắc', e: '🎨', c: 1, w: [['đỏ', '#E53935'], ['cam', '#FB8C00'], ['vàng', '#FDD835'], ['xanh lá cây', '#43A047'], ['xanh da trời', '#1E88E5'], ['tím', '#8E24AA'], ['hồng', '#F48FB1'], ['nâu', '#8D6E63'], ['đen', '#263238'], ['trắng', '#FFFFFF'], ['xám', '#9E9E9E']] }
+];
+// Bài đọc ngắn
+const PASSAGES = [
+  { t: 'Nhà bé', e: '🏠', s: ['Nhà bé có bố, mẹ và bé.', 'Bố đi làm.', 'Mẹ nấu cơm.', 'Bé ngoan, bé học bài.'] },
+  { t: 'Con mèo', e: '🐱', s: ['Nhà bà có con mèo mướp.', 'Mèo có bộ lông mềm.', 'Mèo bắt chuột rất giỏi.', 'Bé rất yêu mèo.'] },
+  { t: 'Vườn rau', e: '🥬', s: ['Ông trồng rau trong vườn.', 'Rau cải xanh mơn mởn.', 'Bé giúp ông tưới rau.'] },
+  { t: 'Mùa hè', e: '☀️', s: ['Mùa hè trời nắng to.', 'Bé đi tắm biển với bố mẹ.', 'Bé xây lâu đài cát.'] },
+  { t: 'Chú gà trống', e: '🐓', s: ['Sáng sớm, chú gà trống gáy ò ó o.', 'Cả nhà thức dậy.', 'Bé đánh răng, rửa mặt.'] },
+  { t: 'Đi học', e: '🎒', s: ['Bé đeo cặp đi học.', 'Cô giáo dạy bé đọc và viết.', 'Bé chơi với các bạn.'] },
+  { t: 'Quả bóng', e: '⚽', s: ['Bố mua cho bé quả bóng đỏ.', 'Bé và bạn đá bóng ở sân.', 'Bé vui lắm.'] },
+  { t: 'Ông trăng', e: '🌕', s: ['Đêm rằm, ông trăng tròn.', 'Trăng sáng khắp sân.', 'Bé ngồi ngắm trăng với bà.'] }
+];
+
+
+// Quy tắc chính tả và các cặp âm dễ lẫn
+const RULE_PAGE = [
+  { h: 'c hay k?', rule: 'Viết k trước e, ê, i. Viết c trước các âm còn lại.', say: 'Trước e, ê, i, viết chữ ca. Trước các âm còn lại, viết chữ cờ.', g: [['k', [['kem', '🍦'], ['kéo', '✂️'], ['kiến', '🐜'], ['kính', '👓']]], ['c', [['cá', '🐟'], ['cam', '🍊'], ['cúc', '🌼'], ['cốc', '🥤']]]] },
+  { h: 'g hay gh?', rule: 'Viết gh trước e, ê, i. Viết g trước các âm còn lại.', say: 'Trước e, ê, i, viết gờ kép. Trước các âm còn lại, viết gờ đơn.', g: [['gh', [['ghế', '🪑'], ['ghẹ', '🦀'], ['ghi-ta', '🎸'], ['ghim', '📌']]], ['g', [['gà', '🐔'], ['gấu', '🐻'], ['gạch', '🧱'], ['gỗ', '🪵']]]] },
+  { h: 'ng hay ngh?', rule: 'Viết ngh trước e, ê, i. Viết ng trước các âm còn lại.', say: 'Trước e, ê, i, viết ngờ kép. Trước các âm còn lại, viết ngờ đơn.', g: [['ngh', [['nghé', '🐃'], ['nghe', '👂'], ['nghệ sĩ', '🧑‍🎨']]], ['ng', [['ngô', '🌽'], ['ngựa', '🐴'], ['ngón tay', '☝️'], ['ngủ', '😴']]]] },
+  { h: 'd, r hay gi?', rule: 'Ba chữ này dễ đọc lẫn. Cha mẹ đọc mẫu cho bé: d đọc là dờ, r đọc là rờ (rung lưỡi), gi đọc là di.', g: [['d', [['dê', '🐐'], ['dừa', '🥥'], ['dép', '🩴']]], ['r', [['rùa', '🐢'], ['rổ', '🧺'], ['rau', '🥬']]], ['gi', [['giày', '👟'], ['gió', '🌬️'], ['giun', '🪱']]]] },
+  { h: 's hay x?', rule: 's đọc là sờ, uốn lưỡi. x đọc là xờ, không uốn lưỡi. Cha mẹ đọc mẫu để bé nghe rõ.', g: [['s', [['sao', '⭐'], ['sữa', '🥛'], ['sóc', '🐿️']]], ['x', [['xe', '🚗'], ['xoài', '🥭'], ['xô', '🪣']]]] },
+  { h: 'ch hay tr?', rule: 'tr đọc là trờ, uốn lưỡi. ch đọc là chờ, không uốn lưỡi. Cha mẹ đọc mẫu để bé nghe rõ.', g: [['ch', [['chó', '🐕'], ['chim', '🐦'], ['chanh', '🍋']]], ['tr', [['trống', '🥁'], ['trứng', '🥚'], ['trăng', '🌙']]]] }
+];
+// Đồng dao dân gian (có nhiều dị bản, đây là bản thường dùng)
+const POEMS = [
+  { t: 'Dung dăng dung dẻ', e: '👶', l: ['Dung dăng dung dẻ', 'Dắt trẻ đi chơi', 'Đến ngõ nhà trời', 'Lạy cậu, lạy mợ', 'Cho cháu về quê', 'Cho dê đi học', 'Cho cóc ở nhà', 'Cho gà bới bếp', 'Ngồi xệp xuống đây.'] },
+  { t: 'Nu na nu nống', e: '🐝', l: ['Nu na nu nống', 'Cái bống nằm trong', 'Con ong nằm ngoài', 'Củ khoai chấm mật', 'Phật ngồi phật khóc', 'Con cóc nhảy ra', 'Con gà ú ụ', 'Nhà mụ thổi xôi', 'Nhà tôi nấu chè', 'Tay xòe chân rụt.'] },
+  { t: 'Chi chi chành chành', e: '✋', l: ['Chi chi chành chành', 'Cái đanh thổi lửa', 'Con ngựa chết trương', 'Ba vương ngũ đế', 'Chấp chế đi tìm', 'Ù à ù ập', 'Đóng sập cửa vào.'] },
+  { t: 'Con gà cục tác lá chanh', e: '🐔', l: ['Con gà cục tác lá chanh,', 'Con lợn ủn ỉn mua hành cho tôi.', 'Con chó khóc đứng khóc ngồi,', 'Mẹ ơi đi chợ mua tôi đồng riềng.'] },
+  { t: 'Tập tầm vông', e: '🤲', l: ['Tập tầm vông', 'Tay không tay có', 'Tập tầm vó', 'Tay có tay không', 'Tay nào có, tay nào không?', 'Tay nào không, tay nào có?'] },
+  { t: 'Kéo cưa lừa xẻ', e: '🪚', l: ['Kéo cưa lừa xẻ', 'Ông thợ nào khỏe', 'Về ăn cơm vua', 'Ông thợ nào thua', 'Về bú tí mẹ.'] },
+  { t: 'Con kiến mà leo cành đa', e: '🐜', l: ['Con kiến mà leo cành đa,', 'Leo phải cành cụt, leo ra leo vào.', 'Con kiến mà leo cành đào,', 'Leo phải cành cụt, leo vào leo ra.'] },
+  { t: 'Bà còng đi chợ trời mưa', e: '👵', l: ['Bà còng đi chợ trời mưa,', 'Cái tôm cái tép đi đưa bà còng.', 'Đưa bà qua quãng đường đông,', 'Đưa bà vào tận ngõ trong nhà bà.', 'Tiền bà trong túi rơi ra,', 'Tép tôm nhặt được trả bà mua rau.'] }
+];
+// Vị trí và định hướng
+const tableHTML = (top, under) => `<div class="posc"><span class="pt">${top}</span><div class="ptable"><i></i><b></b><b></b></div><span class="pu">${under}</span></div>`;
+const rowHTML = (items, cls) => `<div class="posr ${cls || ''}">${items.map(e => `<span>${e}</span>`).join('')}</div>`;
+const POS = [
+  { t: 'Trên – dưới', art: () => tableHTML('🐱', '🐶'), s: ['Con mèo ở trên bàn.', 'Con chó ở dưới gầm bàn.'] },
+  { t: 'Trái – phải', art: () => rowHTML(['⚽', '🧒', '🪁']), s: ['Quả bóng ở bên trái.', 'Con diều ở bên phải.'], note: 'Trái, phải tính theo tay trái, tay phải của bé khi nhìn vào tranh (không phải của bạn nhỏ trong tranh).' },
+  { t: 'Trước – sau', art: () => rowHTML(['🐰', '🐻', '<b class="arr">➜</b>', '🚩'], 'q'), s: ['Hai bạn đi về phía lá cờ.', 'Bạn gấu đi trước.', 'Bạn thỏ đi sau.'] },
+  { t: 'Ở giữa', art: () => rowHTML(['🍎', '🍊', '🍌']), s: ['Quả cam ở giữa quả táo và quả chuối.'] }
+];
+// Nét cơ bản (đơn vị ô li = 20; đường kẻ đậm dưới ở y = 120, đường trên của chữ thường ở y = 80)
+const STROKES = [
+  { n: 'Nét thẳng đứng', s: 'thẳng đứng', ex: 'p, số 1, số 4', say: 'Nét thẳng đứng, có trong chữ p và số một.', d: 'M60 80 L60 120' },
+  { n: 'Nét thẳng ngang', s: 'thẳng ngang', ex: 't, đ, số 4, số 7', say: 'Nét thẳng ngang, có trong chữ t và chữ đờ.', d: 'M42 100 L78 100' },
+  { n: 'Nét thẳng xiên', s: 'thẳng xiên', ex: 'số 4, số 7', say: 'Nét thẳng xiên, có trong số bốn và số bảy.', d: 'M74 80 L48 120' },
+  { n: 'Nét hất', s: 'hất', ex: 'i, u, ư, p', say: 'Nét hất, có trong chữ i và chữ u.', d: 'M44 118 Q58 106 72 84' },
+  { n: 'Nét móc xuôi', s: 'móc xuôi', ex: 'm, n', say: 'Nét móc xuôi, có trong chữ mờ và chữ nờ.', d: 'M44 90 C48 80 60 78 62 90 L62 120' },
+  { n: 'Nét móc ngược', s: 'móc ngược', ex: 'i, u, t', say: 'Nét móc ngược, có trong chữ i và chữ u.', d: 'M56 80 L56 108 C56 122 70 124 76 112' },
+  { n: 'Nét móc hai đầu', s: 'móc hai đầu', ex: 'm, n, h', say: 'Nét móc hai đầu, có trong chữ nờ và chữ hờ.', d: 'M42 90 C46 80 58 78 60 90 L60 108 C60 122 72 124 78 112' },
+  { n: 'Nét cong hở phải', s: 'cong hở phải', ex: 'c, a, d, x', say: 'Nét cong hở phải, như chữ cờ.', d: 'M76 88 C70 76 48 78 45 98 C42 118 62 126 76 112' },
+  { n: 'Nét cong hở trái', s: 'cong hở trái', ex: 'x', say: 'Nét cong hở trái, có trong chữ xờ.', d: 'M44 88 C50 76 72 78 75 98 C78 118 58 126 44 112' },
+  { n: 'Nét cong kín', s: 'cong kín', ex: 'o, ô, ơ, a', say: 'Nét cong kín, như chữ o.', d: 'M60 80 C80 80 80 120 60 120 C40 120 40 80 60 80' },
+  { n: 'Nét khuyết xuôi', s: 'khuyết xuôi', ex: 'b, h, k, l', say: 'Nét khuyết xuôi, có trong chữ lờ và chữ hờ.', d: 'M46 104 C60 88 74 44 64 26 C56 14 48 26 52 52 L56 120' },
+  { n: 'Nét khuyết ngược', s: 'khuyết ngược', ex: 'g, y', say: 'Nét khuyết ngược, có trong chữ gờ và chữ i dài.', d: 'M62 80 L62 150 C62 176 42 172 46 156 C50 142 64 132 78 124' },
+  { n: 'Nét thắt', s: 'thắt', ex: 'b, r, s, v', say: 'Nét thắt, có trong chữ bờ và chữ vờ.', d: 'M46 88 C58 78 70 82 66 92 C63 99 55 98 59 91 C63 85 72 86 80 88' }
+];
+const strokeStart = d => { const m = d.match(/M\s*([\d.]+)[ ,]([\d.]+)/); return m ? [+m[1], +m[2]] : [60, 80]; };
+const strokeMini = S => { const [x0, y0] = strokeStart(S.d); return `<svg viewBox="20 10 80 170" class="smini" aria-hidden="true">${[20, 40, 60, 80, 100, 120, 140, 160].map(y => `<path d="M20 ${y} H100" stroke="${y === 120 || y === 80 ? '#B9AEEB' : '#E3DDF8'}" stroke-width="${y === 120 ? 1.6 : 1}"/>`).join('')}<path d="${S.d}" fill="none" stroke="#4B2FA8" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/><circle cx="${x0}" cy="${y0}" r="5" fill="#1E9E68"/></svg>`; };
 const VANLIST = VANS.flatMap(g => g.list);
+VANLIST.forEach(x => { x.ex = VAN_EX[x.v] || []; });
+// Tô màu phần chữ (chữ ghép, vần) trong một từ, bỏ qua dấu thanh khi tìm
+const markSub = (w, c) => { const a = [...w.normalize('NFC')], b = a.map(ch => baseCh(ch).toLowerCase()).join(''), i = b.indexOf(c.normalize('NFC')); if (i < 0) return w; const n = [...c.normalize('NFC')].length; return a.slice(0, i).join('') + `<mark>${a.slice(i, i + n).join('')}</mark>` + a.slice(i + n).join(''); };
+const galleryHTML = (items, mark) => `<div class="gal">${items.map(([w, e]) => `<button class="gw" data-w="${esc(w)}"><span class="emo">${e}</span><b>${mark(w)}</b></button>`).join('')}</div>`;
+const bindGallery = box => box.querySelectorAll('.gw').forEach(b => b.onclick = () => { sfx('tap'); say(b.dataset.w); pop(b); });
 const TONE_EX = [{ t: 'ngang', w: 'cua', e: '🦀', say: 'con cua' }, { t: 'huyen', w: 'gà', e: '🐔', say: 'con gà' }, { t: 'sac', w: 'cá', e: '🐟', say: 'con cá' },
   { t: 'hoi', w: 'hổ', e: '🐯', say: 'con hổ' }, { t: 'nga', w: 'mũ', e: '🧢', say: 'cái mũ' }, { t: 'nang', w: 'mẹ', e: '👩', say: 'mẹ ơi' }];
 const TONE_ROW = ['ma', 'mà', 'má', 'mả', 'mã', 'mạ'];
@@ -2224,7 +2613,8 @@ const dotsHTML = (k, e, gone) => Array.from({ length: k }, (_, i) => `<span clas
 function lettersBoard(box, dig) {
   let i = 0; const LIST = dig ? DIGRAPHS : LETTERS;
   box.innerHTML = `<div class="bl"><button class="lmain" aria-label="Chạm để nghe"></button>
-    <div class="lrow"><button class="iconbtn lprev" aria-label="Chữ trước">${IC.left}</button><span class="lcount"></span><button class="iconbtn lnext" aria-label="Chữ sau">${IC.right}</button></div></div>
+    <div class="lrow"><button class="iconbtn lprev" aria-label="Chữ trước">${IC.left}</button><span class="lcount"></span><button class="iconbtn lnext" aria-label="Chữ sau">${IC.right}</button></div>
+    <section class="gsec"><h3 class="gtitle"></h3><div class="ghost-gal"></div></section></div>
     <div class="br"><div class="lgrid">${LIST.map((L, k) => `<button class="lk ${L.v ? 'v' : ''} ${dig ? 'dg' : ''}" data-k="${k}" aria-label="Chữ ${L.c}">${L.c}</button>`).join('')}</div>
     ${dig ? `<p class="note">Chữ ghép là hai, ba chữ cái ghép lại để ghi một âm.</p><div class="rulebox"><b>Quy tắc chính tả</b><p>k, gh, ngh chỉ đứng trước e, ê, i: <i>kem, ghế, nghé</i>.</p><p>c, g, ng đứng trước các âm còn lại: <i>cá, gà, ngô</i>.</p><p>q luôn đi với u thành qu: <i>quà, quả</i>.</p></div>`
       : `<p class="legend"><span><b class="v">a ơ</b> nguyên âm</span><span><b>b m</b> phụ âm</span></p><div class="rulebox"><b>Bảng chữ cái có 29 chữ</b><p>12 nguyên âm: <i>a, ă, â, e, ê, i, o, ô, ơ, u, ư, y</i>.</p><p>17 phụ âm: <i>b, c, d, đ, g, h, k, l, m, n, p, q, r, s, t, v, x</i>.</p></div>`}</div>`;
@@ -2236,6 +2626,9 @@ function lettersBoard(box, dig) {
     lm.innerHTML = `<span class="lpair ${L.v ? 'v' : ''} ${dig ? 'dg' : ''}"><span class="lup">${up}</span><span class="llo">${L.c}</span></span><span class="lpic"><span class="emo">${L.e}</span><span class="lword">${word}</span></span><span class="lhint">${IC.speaker}${read} · chạm để nghe lại</span>${NOTE[L.c] ? `<span class="lnote">${NOTE[L.c]}</span>` : ''}`;
     box.querySelector('.lcount').textContent = `${i + 1} / ${LIST.length}`;
     box.querySelectorAll('.lk').forEach(b => b.classList.toggle('on', +b.dataset.k === i));
+    const words = (dig ? DW : LW)[L.c] || [];
+    box.querySelector('.gtitle').textContent = `Từ có ${dig ? 'chữ ghép' : 'chữ'} ${L.c} (${words.length})`;
+    box.querySelector('.ghost-gal').innerHTML = galleryHTML(words, w => dig ? markSub(w, L.c) : markWord(w, L.c)); bindGallery(box.querySelector('.ghost-gal'));
     if (speak) { sayL(L); pop(lm); }
   }
   lm.onclick = () => sayL(LIST[i]);
@@ -2257,7 +2650,8 @@ function vanBoard(box) {
   let cur = VANLIST[0];
   box.innerHTML = `<div class="bl"><div class="card vcard"><div class="vtop"><span class="vbig"></span><span class="vparts"></span></div>
       <div class="spbox"><span class="emo sp-pic"></span><div class="sp-mid"><div class="rowhost"></div><div class="sp-out">&nbsp;</div></div></div>
-      <div class="ov-row"><button class="btn vsay">${IC.speaker}<span>Nghe vần</span></button><button class="btn primary vword">${IC.speaker}<span>Đánh vần tiếng</span></button></div></div>
+      <div class="ov-row"><button class="btn vsay">${IC.speaker}<span>Nghe vần</span></button><button class="btn primary vword">${IC.speaker}<span>Đánh vần tiếng</span></button></div>
+      <h3 class="gtitle vext"></h3><div class="vex"></div></div>
       <p class="note">Đánh vần vần: đọc từng âm rồi đọc cả vần. Ví dụ: a – nờ – an; ô – ngờ – ông.</p></div>
     <div class="br">${VANS.map(g => `<section class="vgrp"><h3>${g.g}</h3><div class="vchips">${g.list.map(x => `<button class="vchip" data-v="${x.v}">${x.v}</button>`).join('')}</div></section>`).join('')}</div>`;
   const q = x => box.querySelector(x), rowHost = q('.rowhost'), outEl = q('.sp-out'), parts = q('.vparts');
@@ -2268,6 +2662,8 @@ function vanBoard(box) {
     parts.innerHTML = vparts(x.v).map(p => `<span>${p}</span>`).join('<i>–</i>');
     q('.sp-pic').textContent = x.e; rowHost.innerHTML = spRow(x, { d: 1, v: 1, t: 1 }); outEl.innerHTML = `<span class="fin">${x.w}</span>`;
     box.querySelectorAll('.vchip').forEach(b => b.classList.toggle('on', b.dataset.v === x.v));
+    const words = [[x.w, x.e]].concat(x.ex || []);
+    q('.vext').textContent = `Tiếng có vần ${x.v}`; q('.vex').innerHTML = galleryHTML(words, w => markSub(w, x.v)); bindGallery(q('.vex'));
     if (play) { playVan(); pop(q('.vcard')); }
   }
   q('.vsay').onclick = () => { sfx('tap'); playVan(); };
@@ -2326,22 +2722,103 @@ function sentBoard(box) {
   box.querySelectorAll('.scard').forEach(b => b.onclick = () => { sfx('tap'); box.querySelectorAll('.scard').forEach(x => x.classList.toggle('on', x === b)); say(SENT[+b.dataset.k].s); });
   say(PH.sentHint);
 }
-function calcBoard(box, plus) {
-  const groups = [];
-  for (let n = 2; n <= 10; n++) groups.push({ h: plus ? `Cộng bằng ${n}` : `${n} trừ đi`, items: Array.from({ length: n - 1 }, (_, k) => plus ? [k + 1, n - k - 1] : [n, k + 1]) });
-  const e = plus ? '🍎' : '🎈';
-  box.innerHTML = `<div class="card ctop" aria-live="polite"></div>
-    <div class="cgrid">${groups.map(g => `<section class="cgrp"><h3>${g.h}</h3><div class="cchips">${g.items.map(([a, b]) => `<button class="cchip" data-a="${a}" data-b="${b}">${a} ${plus ? '+' : '−'} ${b} = ${plus ? a + b : a - b}</button>`).join('')}</div></section>`).join('')}</div>
-    <p class="note">${plus ? 'Đổi chỗ hai số trong phép cộng thì kết quả không đổi: 2 + 3 = 3 + 2 = 5.' : 'Lấy kết quả cộng với số bị bớt đi thì được số ban đầu: 5 − 2 = 3 vì 3 + 2 = 5.'}</p>`;
-  const top = box.querySelector('.ctop');
-  function show(a, b, speak) {
-    const c = plus ? a + b : a - b;
-    top.innerHTML = `<div class="expr"><span>${a}</span><span class="op">${plus ? '+' : '−'}</span><span>${b}</span><span class="op">=</span><span class="ans done">${c}</span></div><div class="pics">${plus ? `<div class="grp">${dotsHTML(a, e)}</div><span class="plus">+</span><div class="grp">${dotsHTML(b, e)}</div>` : `<div class="grp">${dotsHTML(a, e, b)}</div>`}</div>`;
-    box.querySelectorAll('.cchip').forEach(x => x.classList.toggle('on', +x.dataset.a === a && +x.dataset.b === b));
-    if (speak) { say(plus ? PH.addEq(a, b) : PH.subEq(a, b)); pop(top); }
+// Bàn phím số để bé nhập kết quả. max ≤ 10: các nút 0…max; lớn hơn: bàn phím chữ số và nút Xong
+function numPad(host, max, check) {
+  if (max <= 10) {
+    host.innerHTML = `<div class="npad sm">${Array.from({ length: max + 1 }, (_, k) => `<button class="nk" data-k="${k}">${k}</button>`).join('')}</div>`;
+    host.querySelectorAll('.nk').forEach(b => b.onclick = () => { if (!check(+b.dataset.k)) { b.classList.remove('no'); void b.offsetWidth; b.classList.add('no'); } });
+    return;
   }
-  box.querySelectorAll('.cchip').forEach(x => x.onclick = () => { sfx('tap'); show(+x.dataset.a, +x.dataset.b, true); });
-  show(plus ? 2 : 5, plus ? 3 : 2, false); say(PH.calcHint);
+  let v = '';
+  host.innerHTML = `<div class="npad"><div class="nval" aria-live="polite">&nbsp;</div>${['1', '2', '3', '4', '5', '6', '7', '8', '9', '⌫', '0', '✓'].map(k => `<button class="nk ${k === '✓' ? 'go' : ''}" data-k="${k}" aria-label="${k === '⌫' ? 'Xóa' : k === '✓' ? 'Xong' : k}">${k === '✓' ? 'Xong' : k}</button>`).join('')}</div>`;
+  const out = host.querySelector('.nval'), show = () => { out.textContent = v || ' '; };
+  host.querySelectorAll('.nk').forEach(b => b.onclick = () => {
+    const k = b.dataset.k; sfx('tap');
+    if (k === '⌫') v = v.slice(0, -1);
+    else if (k === '✓') { if (!v) return; if (!check(+v)) { out.classList.remove('no'); void out.offsetWidth; out.classList.add('no'); v = ''; setTimeout(show, 400); } return; }
+    else if (v.length < 3) v = (v === '0' ? '' : v) + k;
+    show();
+  });
+}
+// Bộ luyện chung: danh sách câu, bé chọn một câu rồi tự nhập kết quả
+function drillBoard(box, cfg) {
+  const done = new Set(); let cur = 0, tries = 0, reveal = false;
+  const all = cfg.groups.flatMap((g, gi) => g.items.map(it => Object.assign({ g: gi }, it)));
+  box.innerHTML = `<div class="card ctop drill" aria-live="polite"><div class="dq"></div><div class="dpad"></div>
+      <div class="ov-row"><button class="btn dask">${IC.speaker}<span>Nghe câu hỏi</span></button><button class="btn dskip">Câu khác</button></div></div>
+    <div class="dbar"><span class="dprog"></span><label class="tgl"><input type="checkbox" class="dshow"><span>Hiện đáp án</span></label></div>
+    ${cfg.rule || ''}
+    <div class="cgrid">${cfg.groups.map((g, gi) => `<section class="cgrp" data-g="${gi}"><h3>${g.h}</h3><div class="cchips">${g.items.map(it => `<button class="cchip" data-i="${all.findIndex(x => x.key === it.key)}"></button>`).join('')}</div></section>`).join('')}</div>
+    ${cfg.note ? `<p class="note">${cfg.note}</p>` : ''}`;
+  const q = x => box.querySelector(x), chips = [...box.querySelectorAll('.cchip')];
+  const paint = () => { chips.forEach(c => { const it = all[+c.dataset.i], ok = done.has(it.key); c.textContent = it.text(ok || reveal); c.classList.toggle('did', ok); c.classList.toggle('on', +c.dataset.i === cur); }); q('.dprog').textContent = `Bé làm đúng ${done.size}/${all.length} câu`; };
+  function pick(i, speak) {
+    cur = i; tries = 0; const it = all[i]; let solvedHere = false;
+    q('.dq').innerHTML = it.stage();
+    numPad(q('.dpad'), cfg.max, v => {
+      if (solvedHere) return true;
+      if (v === it.ans) {
+        solvedHere = true;
+        const first = !done.has(it.key); done.add(it.key); sfx('ok');
+        const a = q('.dq .ans'); if (a) { a.textContent = it.ans; a.classList.add('done'); }
+        if (it.solved) it.solved(q('.dq'));
+        paint(); pop(q('.drill'));
+        const g = cfg.groups[it.g], gdone = first && g.items.every(x => done.has(x.key));
+        V.play([].concat(it.said), () => { if (!box.isConnected) return; if (gdone) praise(box.querySelector(`.cgrp[data-g="${it.g}"]`), 'star', 1); setTimeout(() => { if (box.isConnected && cur === i) next(); }, gdone ? 1800 : 700); });
+        return true;
+      }
+      tries++; sfx('no'); say(rand(PH.wrong)); if (tries >= 2 && it.hint) { const h = q('.dq .dhint'); if (h) { h.hidden = false; } }
+      return false;
+    });
+    paint(); if (speak) say([].concat(it.ask));
+  }
+  function next() { for (let k = 1; k <= all.length; k++) { const j = (cur + k) % all.length; if (!done.has(all[j].key)) { pick(j, true); return; } } toast('Bé đã làm đúng hết các câu! Giỏi quá!'); }
+  chips.forEach(c => c.onclick = () => { sfx('tap'); pick(+c.dataset.i, true); });
+  q('.dask').onclick = () => { sfx('tap'); say([].concat(all[cur].ask)); };
+  q('.dskip').onclick = () => { sfx('tap'); next(); };
+  q('.dshow').onchange = e => { reveal = e.target.checked; paint(); };
+  pick(cfg.start || 0, false); say(cfg.hint);
+}
+function calcBoard(box, plus) {
+  const groups = [], e = plus ? '🍎' : '🎈';
+  for (let n = 2; n <= 10; n++) groups.push({ h: plus ? `Cộng bằng ${n}` : `${n} trừ đi`, items: Array.from({ length: n - 1 }, (_, k) => {
+    const a = plus ? k + 1 : n, b = plus ? n - k - 1 : k + 1, c = plus ? a + b : a - b, op = plus ? '+' : '−';
+    return { key: `${a}${op}${b}`, ans: c, text: sh => `${a} ${op} ${b} = ${sh ? c : '?'}`, ask: plus ? PH.add(a, b) : PH.sub(a, b), said: plus ? PH.addEq(a, b) : PH.subEq(a, b),
+      stage: () => `<div class="expr"><span>${a}</span><span class="op">${op}</span><span>${b}</span><span class="op">=</span><span class="ans">?</span></div><div class="pics">${plus ? `<div class="grp">${dotsHTML(a, e)}</div><span class="plus">+</span><div class="grp">${dotsHTML(b, e)}</div>` : `<div class="grp">${dotsHTML(a, e, b)}</div>`}</div><p class="dhint cuehint" hidden>${plus ? 'Bé đếm tất cả số quả nhé.' : 'Bé đếm số bóng còn lại (không bị gạch) nhé.'}</p>`, hint: 1 };
+  }) });
+  drillBoard(box, { groups, max: 10, start: plus ? 3 : 7, hint: PH.drillHint,
+    note: plus ? 'Đổi chỗ hai số trong phép cộng thì kết quả không đổi: 2 + 3 = 3 + 2 = 5.' : 'Lấy kết quả cộng với số bị bớt đi thì được số ban đầu: 5 − 2 = 3 vì 3 + 2 = 5.' });
+}
+const CALC100 = [
+  { h: 'Cộng, trừ số tròn chục', l: [[10, '+', 20], [30, '+', 40], [50, '+', 20], [60, '+', 30], [60, '−', 20], [90, '−', 50], [70, '−', 30], [80, '−', 60]] },
+  { h: 'Cộng không nhớ', l: [[23, '+', 4], [41, '+', 7], [52, '+', 6], [32, '+', 15], [41, '+', 26], [50, '+', 38], [64, '+', 23], [71, '+', 18]] },
+  { h: 'Trừ không nhớ', l: [[47, '−', 5], [29, '−', 6], [58, '−', 4], [68, '−', 23], [59, '−', 36], [85, '−', 40], [97, '−', 52], [76, '−', 34]] }
+];
+function calc100Board(box) {
+  const col = (x, w) => String(x).padStart(w, ' ').split('').map(c => `<span>${c === ' ' ? '' : c}</span>`).join('');
+  const groups = CALC100.map(g => ({ h: g.h, items: g.l.map(([a, o, b]) => {
+    const c = o === '+' ? a + b : a - b, w = o === '+' ? 'cộng' : 'trừ';
+    return { key: `${a}${o}${b}`, ans: c, text: sh => `${a} ${o} ${b} = ${sh ? c : '?'}`,
+      ask: [{ t: numWord(a), gap: 80 }, { t: w, gap: 80 }, { t: numWord(b), gap: 80 }, 'bằng mấy?'], said: [{ t: numWord(a), gap: 80 }, { t: w, gap: 80 }, { t: numWord(b), gap: 80 }, { t: 'bằng', gap: 80 }, numWord(c)],
+      stage: () => `<div class="expr"><span>${a}</span><span class="op">${o}</span><span>${b}</span><span class="op">=</span><span class="ans">?</span></div>
+        <div class="vcol"><div class="vrow2 head"><span>chục</span><span>đơn vị</span></div><div class="vrow2"><i></i>${col(a, 2)}</div><div class="vrow2"><i>${o}</i>${col(b, 2)}</div><div class="vrow2 res"><i></i><span class="rq">?</span><span class="rq">?</span></div></div>
+        <p class="dhint cuehint" hidden>Tính đơn vị trước: ${a % 10} ${o} ${b % 10} = ${o === '+' ? a % 10 + b % 10 : a % 10 - b % 10}. Rồi tính chục: ${Math.floor(a / 10)} ${o} ${Math.floor(b / 10)} = ${o === '+' ? Math.floor(a / 10) + Math.floor(b / 10) : Math.floor(a / 10) - Math.floor(b / 10)}.</p>`,
+      solved: el => { const r = el.querySelectorAll('.rq'), d = String(c).padStart(2, ' '); r.forEach((x, i) => { x.textContent = d[i] === ' ' ? '' : d[i]; x.classList.add('ok'); }); }, hint: 1 };
+  }) }));
+  drillBoard(box, { groups, max: 100, start: 11, hint: PH.calc100Hint,
+    rule: '<div class="rulebox"><b>Cách tính</b><p>Đặt tính thẳng cột: chục thẳng cột chục, đơn vị thẳng cột đơn vị.</p><p>Tính từ phải sang trái: đơn vị với đơn vị, rồi chục với chục.</p></div>' });
+}
+function bondsBoard(box) {
+  const groups = [];
+  for (let n = 2; n <= 10; n++) groups.push({ h: `Số ${n}`, items: Array.from({ length: n - 1 }, (_, i) => {
+    const a = n - 1 - i, b = n - a;
+    return { key: `${n}:${a}`, ans: b, text: sh => `${n} gồm ${a} và ${sh ? b : '?'}`, ask: PH.bond(n, a), said: PH.bondEq(n, a),
+      stage: () => `<div class="bond"><span class="bt">${n}</span><svg viewBox="0 0 100 34" aria-hidden="true"><path d="M50 2 L18 32 M50 2 L82 32"/></svg><div class="bb"><span>${a}</span><span class="hole ans">?</span></div></div>
+        <div class="bdots big">${'<i class="r"></i>'.repeat(a)}${'<i class="g"></i>'.repeat(b)}</div><p class="dhint cuehint" hidden>Có ${n} chấm, ${a} chấm đỏ. Bé đếm số chấm còn lại nhé.</p>`,
+      solved: el => { el.querySelectorAll('.bdots i.g').forEach(x => x.className = 'b'); }, hint: 1 };
+  }) });
+  drillBoard(box, { groups, max: 10, start: 5, hint: PH.bondHint,
+    rule: '<div class="rulebox"><b>Ghi nhớ</b><p>Tách một số thành hai phần, rồi gộp hai phần lại thì được số ban đầu: 5 gồm 2 và 3, nên 2 + 3 = 5 và 5 − 2 = 3.</p></div>' });
 }
 function cmpBoard(box) {
   const sg = (a, b) => a > b ? '&gt;' : a < b ? '&lt;' : '=', word = (a, b) => a > b ? 'lớn hơn' : a < b ? 'bé hơn' : 'bằng';
@@ -2349,7 +2826,21 @@ function cmpBoard(box) {
     <div class="cmpgrid">${CMP_EX.map(([a, b], k) => `<button class="card cmprow" data-k="${k}"><span class="cmpq"><span><span class="n">${a}</span><span class="minitray sm">${dotsHTML(a, '🍓')}</span></span><span class="ans done">${sg(a, b)}</span><span><span class="n">${b}</span><span class="minitray sm">${dotsHTML(b, '🍓')}</span></span></span><small>${a} ${word(a, b)} ${b}</small></button>`).join('')}</div>
     <div class="card numline">${Array.from({ length: 11 }, (_, k) => `<span>${k}</span>`).join('<i>&lt;</i>')}</div>`;
   box.querySelectorAll('.cmprow').forEach(x => x.onclick = () => { const [a, b] = CMP_EX[+x.dataset.k]; sfx('tap'); say(PH.cmpEq(a, b)); pop(x); });
-  say(PH.cmpHint);
+  // Luyện: bé tự chọn dấu
+  const pr = document.createElement('div'); pr.className = 'card cmpprac'; box.prepend(pr);
+  let ok = 0, n = 0;
+  const round = () => {
+    const big = Math.random() < .4, max = big ? 99 : 10, a = ri(big ? 10 : 0, max), b = Math.random() < .2 ? a : ri(big ? 10 : 0, max), ans = a > b ? '>' : a < b ? '<' : '=';
+    const dots = k => big ? '' : `<span class="minitray sm">${dotsHTML(k, '🍓')}</span>`;
+    pr.innerHTML = `<p class="eyebrow">Bé tự điền dấu · đúng ${ok}/${n}</p><div class="cmpq"><span><span class="n">${a}</span>${dots(a)}</span><span class="ans">?</span><span><span class="n">${b}</span>${dots(b)}</span></div>
+      <div class="rqch">${['>', '<', '='].map(x => `<button class="choice sm" data-x="${x}"><span class="sgn"><b>${x}</b><small>${x === '>' ? 'lớn hơn' : x === '<' ? 'bé hơn' : 'bằng'}</small></span></button>`).join('')}</div>`;
+    let first = true;
+    pr.querySelectorAll('.choice').forEach(c => c.onclick = () => {
+      if (c.dataset.x === ans) { c.classList.add('ok'); sfx('ok'); const x = pr.querySelector('.ans'); x.textContent = ans; x.classList.add('done'); n++; if (first) ok++; say(rand(PH.praise)); setTimeout(() => { if (pr.isConnected) round(); }, 1600); }
+      else { first = false; c.classList.add('no', 'tried'); sfx('no'); say(rand(PH.wrong)); }
+    });
+  };
+  round(); say(PH.cmpHint);
 }
 function shapeBoard(box) {
   box.innerHTML = `<div class="shgrid">${SHAPE_B.map((x, k) => `<button class="card shcard" data-k="${k}">${x.art()}<b>${cap(x.n)}</b><span class="emo">${x.ex}</span></button>`).join('')}</div>
@@ -2367,30 +2858,168 @@ function clockBoard(box) {
   box.querySelector('.clkart').onclick = () => say(HOURW(h) + ' giờ');
   show(false); say(PH.clockHint);
 }
+function topicBoard(box) {
+  box.innerHTML = `<div class="tjump">${TOPICS.map((g, k) => `<button class="vchip tj" data-k="${k}">${g.e} ${g.t}</button>`).join('')}</div>
+    ${TOPICS.map((g, k) => `<section class="tsec" id="tp${k}"><h3>${g.e} ${g.t} <small>${g.w.length} từ</small></h3>${g.c
+      ? `<div class="gal">${g.w.map(([w, h]) => `<button class="gw" data-w="${esc(w)}"><span class="sw" style="background:${h}"></span><b>${w}</b></button>`).join('')}</div>`
+      : galleryHTML(g.w, w => w)}</section>`).join('')}`;
+  bindGallery(box);
+  box.querySelectorAll('.tj').forEach(b => b.onclick = () => { sfx('tap'); box.querySelector('#tp' + b.dataset.k).scrollIntoView({ behavior: reduced() ? 'auto' : 'smooth', block: 'start' }); });
+  say(PH.topicHint);
+}
+function readBoard(box) {
+  let cur = 0;
+  box.innerHTML = `<div class="bl"><div class="plist2">${PASSAGES.map((x, k) => `<button class="scard pcard2" data-k="${k}"><span class="emo">${x.e}</span><span class="stx">${x.t}</span></button>`).join('')}</div></div>
+    <div class="br"><div class="card reader"><h3 class="rtitle"></h3><div class="rtext"></div><div class="ov-row"><button class="btn primary rall">${IC.speaker}<span>Nghe cả bài</span></button></div>
+    <p class="note">Bé tự đọc trước, rồi chạm từng câu để nghe cô đọc.</p></div></div>`;
+  const rt = box.querySelector('.rtext');
+  function show(k, speak) {
+    cur = k; const X = PASSAGES[k];
+    box.querySelector('.rtitle').innerHTML = `<span class="emo">${X.e}</span> ${X.t}`;
+    rt.innerHTML = X.s.map((t, i) => `<span class="rs" data-i="${i}">${t}</span>`).join(' ');
+    box.querySelectorAll('.pcard2').forEach(b => b.classList.toggle('on', +b.dataset.k === k));
+    rt.querySelectorAll('.rs').forEach(e => e.onclick = () => { sfx('tap'); hl(+e.dataset.i); say(X.s[+e.dataset.i]); });
+    if (speak) playAll();
+  }
+  const hl = i => rt.querySelectorAll('.rs').forEach((e, j) => e.classList.toggle('hl', j === i));
+  const playAll = () => { const X = PASSAGES[cur]; V.play(X.s.map((t, i) => ({ t, gap: 450, on: () => { if (rt.isConnected) hl(i); } })), () => { if (rt.isConnected) hl(-1); }); };
+  box.querySelectorAll('.pcard2').forEach(b => b.onclick = () => { sfx('tap'); show(+b.dataset.k, false); if (innerWidth < 900) box.querySelector('.reader').scrollIntoView({ behavior: 'smooth', block: 'start' }); });
+  box.querySelector('.rall').onclick = () => { sfx('tap'); playAll(); };
+  show(0, false); say(PH.readHint);
+}
+function num100Board(box) {
+  let n = 25;
+  box.innerHTML = `<div class="bl"><div class="card n100"><div class="n100top"><span class="nbig">${n}</span><div><b class="nread"></b><small class="ncd"></small></div></div><div class="nst"></div>
+      <div class="ov-row"><button class="btn cten">${IC.speaker}<span>Đếm theo chục</span></button><button class="btn primary cnext">${IC.speaker}<span>Đếm tiếp 10 số</span></button></div></div>
+      <div class="rulebox"><b>Ghi nhớ</b><p>10 đơn vị là 1 chục. Số 34 gồm 3 chục và 4 đơn vị.</p><p>Đọc số: 15 là <i>mười lăm</i>, 21 là <i>hai mươi mốt</i>, 25 là <i>hai mươi lăm</i>, 24 là <i>hai mươi bốn</i> (còn đọc là hai mươi tư), 100 là <i>một trăm</i>.</p></div></div>
+    <div class="br"><div class="g100">${Array.from({ length: 100 }, (_, k) => `<button class="n1" data-n="${k + 1}">${k + 1}</button>`).join('')}</div></div>`;
+  const q = x => box.querySelector(x);
+  function show(k, speak) {
+    n = k; q('.nbig').textContent = n; q('.nread').textContent = numWord(n);
+    q('.ncd').textContent = n === 100 ? '10 chục = 1 trăm' : `${Math.floor(n / 10)} chục ${n % 10} đơn vị`;
+    q('.nst').innerHTML = sticksHTML(n);
+    box.querySelectorAll('.n1').forEach(b => b.classList.toggle('on', +b.dataset.n === n));
+    if (speak) { say(numWord(n)); pop(q('.n100')); }
+  }
+  box.querySelectorAll('.n1').forEach(b => b.onclick = () => { sfx('tap'); show(+b.dataset.n, true); });
+  q('.cten').onclick = () => { sfx('tap'); V.play(Array.from({ length: 10 }, (_, k) => ({ t: numWord((k + 1) * 10), gap: 200, on: () => { if (box.isConnected) show((k + 1) * 10, false); } }))); };
+  q('.cnext').onclick = () => { sfx('tap'); const st = n >= 100 ? 1 : n + 1; V.play(Array.from({ length: Math.min(10, 101 - st) }, (_, k) => ({ t: numWord(st + k), gap: 150, on: () => { if (box.isConnected) show(st + k, false); } }))); };
+  show(n, false); say(PH.num100Hint);
+}
+function ruleBoard(box) {
+  const quizItems = RULEW;
+  box.innerHTML = `<div class="card rquiz"><p class="eyebrow">Chơi nhanh: điền chữ đúng</p><div class="rqbody"></div></div>
+    ${RULE_PAGE.map((R, k) => `<section class="card rcard"><div class="rhead"><h3>${R.h}</h3>${R.say ? `<button class="iconbtn sm rsay" data-k="${k}" aria-label="Nghe quy tắc">${IC.speaker}</button>` : ''}</div><p class="rtxt">${R.rule}</p>
+      <div class="rcols">${R.g.map(([c, ws]) => `<div class="rcol"><b class="rlet">${c}</b>${galleryHTML(ws, w => markSub(w, c))}</div>`).join('')}</div></section>`).join('')}`;
+  bindGallery(box);
+  box.querySelectorAll('.rsay').forEach(b => b.onclick = () => { sfx('tap'); say(RULE_PAGE[+b.dataset.k].say); });
+  const body = box.querySelector('.rqbody');
+  let last = null;
+  function next() {
+    let R; do { R = rand(quizItems); } while (R === last); last = R;
+    const rest = [...R.w.normalize('NFC')].slice(R.a.length).join('');
+    body.innerHTML = `<div class="rqrow"><span class="emo">${R.e}</span><span class="blankword"><span class="blank"></span>${rest}</span></div><div class="rqch">${shuffle([...R.p]).map(x => `<button class="choice sm" data-x="${x}"><span class="ch">${x}</span></button>`).join('')}</div><p class="rnote" hidden>${RULE_NOTE[R.p[0]]}</p>`;
+    body.querySelectorAll('.choice').forEach(b => b.onclick = () => {
+      if (b.dataset.x === R.a) { b.classList.add('ok'); sfx('ok'); body.querySelector('.blank').outerHTML = `<mark>${R.a}</mark>`; body.querySelector('.rnote').hidden = false; say(R.say); setTimeout(() => { if (body.isConnected) next(); }, 2600); }
+      else { b.classList.add('no', 'tried'); sfx('no'); }
+    });
+  }
+  next(); say(PH.ruleHint);
+}
+function poemsBoard(box) {
+  let cur = 0;
+  box.innerHTML = `<div class="bl"><div class="plist2">${POEMS.map((x, k) => `<button class="scard pcard2" data-k="${k}"><span class="emo">${x.e}</span><span class="stx">${x.t}</span></button>`).join('')}</div>
+    <p class="note">Đồng dao là bài hát, bài đọc vui của trẻ em ngày xưa, truyền miệng từ đời này sang đời khác nên có nhiều dị bản.</p></div>
+    <div class="br"><div class="card reader poem"><h3 class="rtitle"></h3><div class="ptext"></div><div class="ov-row"><button class="btn primary rall">${IC.speaker}<span>Nghe cả bài</span></button></div></div></div>`;
+  const pt = box.querySelector('.ptext');
+  const hl = i => pt.querySelectorAll('.pl').forEach((e, j) => e.classList.toggle('hl', j === i));
+  const playAll = () => { const X = POEMS[cur]; V.play(X.l.map((t, i) => ({ t, gap: 300, on: () => { if (pt.isConnected) hl(i); } })), () => { if (pt.isConnected) hl(-1); }); };
+  function show(k) {
+    cur = k; const X = POEMS[k];
+    box.querySelector('.rtitle').innerHTML = `<span class="emo">${X.e}</span> ${X.t}`;
+    pt.innerHTML = X.l.map((t, i) => `<button class="pl" data-i="${i}">${t}</button>`).join('');
+    box.querySelectorAll('.pcard2').forEach(b => b.classList.toggle('on', +b.dataset.k === k));
+    pt.querySelectorAll('.pl').forEach(e => e.onclick = () => { sfx('tap'); hl(+e.dataset.i); say(X.l[+e.dataset.i]); });
+  }
+  box.querySelectorAll('.pcard2').forEach(b => b.onclick = () => { sfx('tap'); V.stop(); show(+b.dataset.k); if (innerWidth < 900) box.querySelector('.poem').scrollIntoView({ behavior: 'smooth', block: 'start' }); });
+  box.querySelector('.rall').onclick = () => { sfx('tap'); playAll(); };
+  show(0); say(PH.poemHint);
+}
+function positionsBoard(box) {
+  box.innerHTML = `<div class="posgrid">${POS.map((p, k) => `<section class="card pcard3"><h3>${p.t}</h3>${p.art()}<div class="psent">${p.s.map((t, i) => `<button class="pl" data-k="${k}" data-i="${i}">${IC.speaker}<span>${t}</span></button>`).join('')}</div>${p.note ? `<p class="cuehint">${p.note}</p>` : ''}</section>`).join('')}</div>`;
+  box.querySelectorAll('.psent .pl').forEach(b => b.onclick = () => { sfx('tap'); say(POS[+b.dataset.k].s[+b.dataset.i]); pop(b); });
+  say(PH.posHint);
+}
+function numbers20Board(box) {
+  let n = 14;
+  box.innerHTML = `<div class="bl"><div class="card n100 n20"><div class="n100top"><span class="nbig"></span><div><b class="nread"></b><small class="ncd"></small></div></div><div class="tframes"></div>
+      <div class="ov-row"><button class="btn cup">${IC.speaker}<span>Đếm xuôi 1 → 20</span></button><button class="btn primary cdown">${IC.speaker}<span>Đếm ngược 20 → 1</span></button></div></div></div>
+    <div class="br"><div class="nsel">${Array.from({ length: 10 }, (_, k) => `<button class="n1 n2" data-n="${k + 11}">${k + 11}</button>`).join('')}</div>
+    <div class="rulebox"><b>Ghi nhớ</b><p>10 là 1 chục. Các số từ 11 đến 19 gồm 1 chục và mấy đơn vị: 14 gồm 1 chục và 4 đơn vị. 20 là 2 chục.</p><p>Đọc: 11 mười một, 14 mười bốn, 15 <i>mười lăm</i>, 20 hai mươi.</p></div></div>`;
+  const q = x => box.querySelector(x);
+  const frame = k => `<div class="tf">${Array.from({ length: 10 }, (_, i) => `<i class="${i < k ? 'on' : ''}"></i>`).join('')}</div>`;
+  function show(k, speak) {
+    n = k; q('.nbig').textContent = n; q('.nread').textContent = numWord(n); q('.ncd').textContent = n === 20 ? '2 chục' : `1 chục và ${n - 10} đơn vị`;
+    q('.tframes').innerHTML = frame(Math.min(10, n)) + (n > 10 ? frame(n - 10) : '');
+    box.querySelectorAll('.n2').forEach(b => b.classList.toggle('on', +b.dataset.n === n));
+    if (speak) { say(numWord(n)); pop(q('.n20')); }
+  }
+  const run = seq => V.play(seq.map(k => ({ t: numWord(k), gap: 150, on: () => { if (box.isConnected) { q('.nbig').textContent = k; q('.nread').textContent = numWord(k); q('.tframes').innerHTML = frame(Math.min(10, k)) + (k > 10 ? frame(k - 10) : ''); } } })), () => { if (box.isConnected) show(n, false); });
+  box.querySelectorAll('.n2').forEach(b => b.onclick = () => { sfx('tap'); show(+b.dataset.n, true); });
+  q('.cup').onclick = () => { sfx('tap'); run(Array.from({ length: 20 }, (_, k) => k + 1)); };
+  q('.cdown').onclick = () => { sfx('tap'); run(Array.from({ length: 20 }, (_, k) => 20 - k)); };
+  show(n, false); say(PH.so20Hint);
+}
+function strokesBoard(box) {
+  let cur = 0;
+  box.innerHTML = `<div class="bl"><div class="slist">${STROKES.map((S, k) => `<button class="card scard2" data-k="${k}">${strokeMini(S)}<b>${S.n}</b><small>Có trong: ${S.ex}</small></button>`).join('')}</div>
+    <p class="note">Chấm xanh là chỗ đặt bút. Hình nét là mẫu gần đúng; bé viết theo hướng dẫn của cô giáo trên lớp.</p></div>
+    <div class="br"><div class="card sdesc"><h3 class="stitle"></h3><p class="sex"></p></div><div class="strace"></div></div>`;
+  const q = x => box.querySelector(x);
+  function show(k, speak) {
+    cur = k; const S = STROKES[k];
+    q('.stitle').textContent = S.n; q('.sex').textContent = 'Có trong: ' + S.ex;
+    box.querySelectorAll('.scard2').forEach(b => b.classList.toggle('on', +b.dataset.k === k));
+    const tr = q('.strace'); tr.innerHTML = ''; traceBoard(tr, { items: [S], say: [PH.traceStroke, S.n] });
+    if (speak) say(S.say);
+  }
+  box.querySelectorAll('.scard2').forEach(b => b.onclick = () => { sfx('tap'); show(+b.dataset.k, true); if (innerWidth < 900) q('.sdesc').scrollIntoView({ behavior: 'smooth', block: 'start' }); });
+  show(0, false); say(PH.strokeHint);
+}
 const BOOK = [
   { g: 'Tiếng Việt', items: [
-    { id: 'chu', t: 'Bảng chữ cái', n: '29 chữ cái', art: 'Aa', cls: 't-do', two: 1, f: b => lettersBoard(b, false) },
-    { id: 'ghep', t: 'Chữ ghép', n: `${DIGRAPHS.length} chữ ghép`, art: 'ngh', cls: 't-cam', two: 1, f: b => lettersBoard(b, true) },
+    { id: 'chu', t: 'Bảng chữ cái', n: `29 chữ cái · ${Object.values(LW).reduce((a, x) => a + x.length, 0)} từ`, art: 'Aa', cls: 't-do', two: 1, f: b => lettersBoard(b, false) },
+    { id: 'ghep', t: 'Chữ ghép', n: `${DIGRAPHS.length} chữ ghép · ${Object.values(DW).reduce((a, x) => a + x.length, 0)} từ`, art: 'ngh', cls: 't-cam', two: 1, f: b => lettersBoard(b, true) },
     { id: 'thanh', t: 'Dấu thanh', n: '6 thanh', art: 'à á ả', cls: 't-hong', two: 1, f: tonesBoard },
     { id: 'van', t: 'Vần', n: `${VANLIST.length} vần`, art: 'an', cls: 't-tim', two: 1, f: vanBoard },
+    { id: 'chinhta', t: 'Quy tắc chính tả', n: 'c/k, g/gh, ng/ngh…', art: 'k·gh', cls: 't-do', f: ruleBoard },
     { id: 'danhvan', t: 'Đánh vần', n: `${ALLW.length} tiếng`, art: 'b+a', cls: 't-troi', two: 1, f: spellBook },
-    { id: 'cau', t: 'Đọc câu', n: `${SENT.length} câu`, art: 'Bé…', cls: 't-la', f: sentBoard }] },
+    { id: 'tungu', t: 'Từ ngữ theo chủ đề', n: `${TOPICS.reduce((a, g) => a + g.w.length, 0)} từ`, art: '🐾🍎', cls: 't-cam', f: topicBoard },
+    { id: 'cau', t: 'Đọc câu', n: `${SENT.length} câu`, art: 'Bé…', cls: 't-la', f: sentBoard },
+    { id: 'baidoc', t: 'Bài đọc', n: `${PASSAGES.length} bài`, art: '📖', cls: 't-hong', two: 1, f: readBoard },
+    { id: 'dongdao', t: 'Đồng dao', n: `${POEMS.length} bài`, art: '🎶', cls: 't-tim', two: 1, f: poemsBoard }] },
   { g: 'Toán', items: [
     { id: 'so', t: 'Số 0 – 10', n: 'đọc số, đếm', art: '123', cls: 't-la', two: 1, f: numbersBoard },
+    { id: 'so20', t: 'Số 11 – 20', n: 'một chục và mấy', art: '11–20', cls: 't-hong', two: 1, f: numbers20Board },
+    { id: 'so100', t: 'Số đến 100', n: 'chục, đơn vị, đọc số', art: '100', cls: 't-troi', two: 1, f: num100Board },
+    { id: 'tachso', t: 'Tách – gộp số', n: 'từ 2 đến 10', art: '🔴🔵', cls: 't-do', f: bondsBoard },
     { id: 'cong', t: 'Bảng cộng', n: 'trong phạm vi 10', art: '2+3', cls: 't-troi', f: b => calcBoard(b, true) },
     { id: 'tru', t: 'Bảng trừ', n: 'trong phạm vi 10', art: '5−2', cls: 't-tim', f: b => calcBoard(b, false) },
+    { id: 'tinh100', t: 'Cộng trừ đến 100', n: 'không nhớ', art: '32+15', cls: 't-la', f: calc100Board },
     { id: 'sosanh', t: 'So sánh số', n: 'dấu >, <, =', art: '&gt;&lt;', cls: 't-do', f: cmpBoard },
     { id: 'hinh', t: 'Hình và khối', n: '4 hình, 2 khối', art: '▲●■', cls: 't-cam', f: shapeBoard },
+    { id: 'vitri', t: 'Vị trí', n: 'trên, dưới, trái, phải', art: '⬆️⬇️', cls: 't-la', f: positionsBoard },
     { id: 'gio', t: 'Xem đồng hồ', n: 'giờ đúng', art: clockSVG(3, 'mini'), cls: 't-hong', f: clockBoard }] },
   { g: 'Viết', items: [
-    { id: 'to', t: 'Tập tô', n: 'chữ cái, chữ ghép, số', art: 'a', cls: 't-nau', narrow: 1, f: b => traceBoard(b, { free: true }) }] }
+    { id: 'net', t: 'Nét cơ bản', n: `${STROKES.length} nét, tô từng nét`, art: '✍️', cls: 't-troi', two: 1, f: strokesBoard },
+    { id: 'to', t: 'Tập tô', n: 'chữ cái, chữ ghép, số, nét', art: 'a', cls: 't-nau', narrow: 1, f: b => traceBoard(b, { free: true }) }] }
 ];
 ROUTES.book = function (sec) {
   sec = { letters: 'chu', spell: 'danhvan', trace: 'to' }[sec] || sec;
   const it = sec && BOOK.flatMap(g => g.items).find(x => x.id === sec);
   if (!it) {
     setBar('Sổ bí kíp', true); backTo = ['map'];
-    main.innerHTML = `<div class="bhome">${BOOK.map(g => `<section><h2>${g.g}</h2><div class="bcards">${g.items.map(x => `<button class="tile ${x.cls}" data-s="${x.id}"><span class="art" aria-hidden="true"><span class="${/^[\d+−<>&;lgt]+$/.test(x.art) ? 'art-num' : 'art-type'}">${x.art}</span></span><span class="tl"><b>${x.t}</b><small>${x.n}</small></span></button>`).join('')}</div></section>`).join('')}</div>`;
+    main.innerHTML = `<div class="bhome">${BOOK.map(g => `<section><h2>${g.g}</h2><div class="bcards">${g.items.map(x => `<button class="tile ${x.cls}" data-s="${x.id}"><span class="art" aria-hidden="true"><span class="${/^[\d+−–<>&;lgt]+$/.test(x.art) ? 'art-num' : /\p{Extended_Pictographic}/u.test(x.art) ? 'art-emo' : 'art-type'}">${x.art}</span></span><span class="tl"><b>${x.t}</b><small>${x.n}</small></span></button>`).join('')}</div></section>`).join('')}</div>`;
     main.querySelectorAll('[data-s]').forEach(b => b.onclick = () => { sfx('tap'); go('book', b.dataset.s); });
     say(PH.bookHint); return;
   }
@@ -2496,10 +3125,11 @@ ROUTES.voices = function () {
     ['Tiếng khi đánh vần', uniq(ALLW.concat(VANLIST).flatMap(W => [W.d + W.v, W.w]))],
     ['Sáu thanh', TONE_ROW],
     ['Số', NUMW],
+    ['Số từ 11 đến 100', Array.from({ length: 90 }, (_, k) => numWord(k + 11))],
     ['Câu hỏi máy chưa tự kiểm tra được (cha mẹ nghe thử)', uniq(V.check || [])]
   ].filter(g => g[1].length);
   const row = t => { const c = V.custom[norm(t)]; return `<div class="vrow" data-t="${esc(t)}"><button class="vplay">${IC.speaker}<b>${esc(t)}</b></button>${c ? '<span class="vtag">Giọng người thật</span>' : ''}<button class="iconbtn vrec" aria-label="Thu giọng thay cho ${esc(t)}">${IC.mic}</button>${c ? `<button class="iconbtn vdel" aria-label="Bỏ bản thu">${IC.trash}</button>` : ''}</div>`; };
-  main.innerHTML = `<div class="hv"><p class="note" style="text-align:left">Nghe lần lượt từng âm. Giọng máy đọc theo phát âm Hà Nội nên chưa phân biệt r với d, s với x. Âm nào chưa chuẩn, cha mẹ hoặc cô giáo bấm micrô, đọc rõ âm đó (khoảng 1 giây) để thay. Bản thu chỉ lưu trên máy này và dùng cho mọi bé trên máy.</p>
+  main.innerHTML = `<div class="hv"><button class="btn power wide" id="recAll">${IC.mic}<span>Thu giọng cha mẹ cho 29 chữ cái (khoảng 3 phút)</span></button><p class="note" style="text-align:left">Nghe lần lượt từng âm. Giọng máy đọc theo phát âm Hà Nội nên chưa phân biệt r với d, s với x. Âm nào chưa chuẩn, cha mẹ hoặc cô giáo bấm micrô, đọc rõ âm đó (khoảng 1 giây) để thay. Bản thu chỉ lưu trên máy này và dùng cho mọi bé trên máy.</p>
     ${groups.map(([n, arr]) => `<section><h3>${n}</h3><div class="vlist">${arr.map(row).join('')}</div></section>`).join('')}</div>`;
   const bind = el => {
     const t = el.dataset.t;
@@ -2519,7 +3149,28 @@ ROUTES.voices = function () {
     };
   };
   main.querySelectorAll('.vrow').forEach(bind);
+  $('#recAll').onclick = () => { sfx('tap'); if (!Rec.ok) { Rec.fail({}); return; } recLetters(0); };
 };
+// Thu lần lượt âm của 29 chữ cái bằng giọng cha mẹ (lưu trên máy, dùng thay giọng máy)
+function recLetters(i) {
+  if (i >= LETTERS.length) { hideOv(); toast('Đã thu xong 29 chữ cái. Bé sẽ nghe giọng của cha mẹ.'); go('voices'); return; }
+  const L = LETTERS[i], has = !!V.custom[norm(L.s)];
+  showOv(`<div class="ov-card sheet" role="dialog" aria-labelledby="rlT"><p class="eyebrow">Chữ ${i + 1} / ${LETTERS.length}</p>
+    <div class="rlbig"><span class="lup">${L.c.toUpperCase()}</span><span class="llo">${L.c}</span></div>
+    <h2 id="rlT">Đọc: “${L.s}”</h2><p class="note">Bấm micrô, đọc to và rõ “${L.s}” một lần (như cô giáo đọc mẫu: ${esc(L.say)}). Máy tự dừng sau 2,5 giây.</p>
+    <button class="recbtn" id="rlMic" aria-label="Thu">${IC.mic}</button><p class="vstat" id="rlS">${has ? 'Đã có bản thu. Bấm micrô để thu lại hoặc chọn Tiếp.' : ''}</p>
+    <div class="ov-row"><button class="btn" id="rlPlay">${IC.speaker}<span>Nghe</span></button><button class="btn primary" id="rlNext">Tiếp</button></div>
+    <button class="btn wide" id="rlStop">Dừng</button></div>`);
+  $('#rlPlay').onclick = () => say(L.s);
+  $('#rlNext').onclick = () => recLetters(i + 1);
+  $('#rlStop').onclick = () => { hideOv(); go('voices'); };
+  $('#rlMic').onclick = async () => {
+    const b = $('#rlMic'); if (b.classList.contains('on')) { Rec.stop(); return; }
+    b.classList.add('on'); $('#rlS').textContent = 'Đang thu…';
+    try { const blob = await Rec.start(2500); await IDB.put('voice', { text: norm(L.s), blob }); V.custom[norm(L.s)] = URL.createObjectURL(blob); b.classList.remove('on'); $('#rlS').textContent = 'Đã lưu. Nghe lại rồi bấm Tiếp.'; say(L.s); }
+    catch (e) { b.classList.remove('on'); Rec.fail(e); }
+  };
+}
 
 /* ---------- Parents' corner ---------- */
 function twoStep(btn, label, ask, doneLabel, action) {
@@ -2585,8 +3236,14 @@ function collectPhrases() {
   for (let a = 2; a <= 10; a++) for (let b = 1; b <= a; b++) add(PH.sub(a, b));
   OBJ.forEach(([, n]) => add(PH.count(n)));
   SH.forEach(x => { add(PH.shape(x)); COL.forEach(c => add(PH.shapeColor(x, c))); }); COL.forEach(c => add(PH.color(c)));
-  ALLW.forEach(W => { add(SPC[W.d]); add(W.v); vparts(W.v).forEach(ch => add(VS[ch] || ch)); add(W.d + W.v); add(W.w); add(W.say); add(PH.readWord(W.w)); add(PH.spellQ(W.w)); add(PH.toneQ(W.w)); });
-  W23.forEach(W => add(PH.vanQ(W.w)));
+  ALLW.forEach(W => { add(SPC[W.d]); add(W.v); vparts(W.v).forEach(ch => add(VS[ch] || ch)); add(W.d + W.v); add(W.w); add(W.say); if (!W.n) { add(PH.readWord(W.w)); add(PH.spellQ(W.w)); add(PH.toneQ(W.w)); } });
+  W23.forEach(W => { if (!W.n) add(PH.vanQ(W.w)); });
+  Object.values(LW).concat(Object.values(DW)).forEach(l => l.forEach(([w]) => add(w)));
+  VANLIST.forEach(x => (x.ex || []).forEach(([w]) => add(w))); TOPICS.forEach(g => g.w.forEach(([w]) => add(w))); PASSAGES.forEach(x => x.s.forEach(add));
+  for (let n = 11; n <= 100; n++) add(numWord(n)); ['cộng', 'trừ', 'bằng', 'bằng mấy?'].forEach(add);
+  DIGRAPHS.forEach(D => { if (D.n) add(D.n); });
+  RULE_PAGE.forEach(R => { add(R.say); R.g.forEach(([, ws]) => ws.forEach(([w]) => add(w))); }); POEMS.forEach(p => p.l.forEach(add)); POS.forEach(p => p.s.forEach(add));
+  STROKES.forEach(S => { add(S.n); add(S.say); }); for (let a = 2; a <= 10; a++) for (let b = 1; b < a; b++) add(PH.bondEq(a, b)); for (let n = 1; n <= 20; n++) add(numWord(n));
   DIGRAPHS.forEach(D => { add(D.s); add(D.say); add(PH.findDig(D)); });
   RULEW.forEach(R => add(R.say)); SENT.forEach(X => add(X.s));
   for (let n = 0; n <= 10; n++) { if (n < 10) add(PH.after(n)); if (n > 0) add(PH.before(n)); }
@@ -2598,7 +3255,7 @@ function collectPhrases() {
   for (let n = 2; n <= 10; n++) for (let k = 1; k < n; k++) { add(PH.addEq(k, n - k)); add(PH.subEq(n, k)); }
   CMP_EX.forEach(([a, b]) => add(PH.cmpEq(a, b))); SHAPE_B.forEach(x => add(x.n)); for (let h = 1; h <= 12; h++) add(HOURW(h) + ' giờ');
   Object.values(TONES).forEach(t => add(t.n));
-  ['upperQ', 'lowerQ', 'countHint', 'more', 'less', 'bigger', 'smaller', 'biggest', 'smallest', 'missing', 'spellTogether', 'nowYou', 'traceNone', 'traceOut', 'traceMore', 'traceMissing', 'levelClear', 'needPower', 'enoughPower', 'locked', 'zoneLocked', 'goOn', 'start', 'letGo', 'train', 'trainDone', 'flower', 'letHint', 'spellHint', 'hello', 'welcome', 'who', 'recIntro', 'recDone', 'story', 'victory', 'ruleQ', 'sentQ', 'signQ', 'picEq', 'longer', 'shorter', 'taller', 'lower', 'clock', 'digHint', 'numHint', 'bookHint', 'vanHint', 'toneHint', 'sentHint', 'calcHint', 'shapeHint', 'clockHint', 'cmpHint'].forEach(k => add(PH[k]));
+  ['upperQ', 'lowerQ', 'countHint', 'more', 'less', 'bigger', 'smaller', 'biggest', 'smallest', 'missing', 'spellTogether', 'nowYou', 'traceNone', 'traceOut', 'traceMore', 'traceMissing', 'levelClear', 'needPower', 'enoughPower', 'locked', 'zoneLocked', 'goOn', 'start', 'letGo', 'train', 'trainDone', 'flower', 'letHint', 'spellHint', 'hello', 'welcome', 'who', 'recIntro', 'recDone', 'story', 'victory', 'ruleQ', 'sentQ', 'signQ', 'picEq', 'longer', 'shorter', 'taller', 'lower', 'clock', 'digHint', 'numHint', 'bookHint', 'vanHint', 'toneHint', 'sentHint', 'calcHint', 'shapeHint', 'clockHint', 'cmpHint', 'findLetterG', 'readWordG', 'spellQG', 'toneQG', 'vanQG', 'sticks', 'findNum', 'topicHint', 'readHint', 'num100Hint', 'calc100Hint', 'posTop', 'posUnder', 'posMid', 'posLeft', 'posRight', 'poemHint', 'ruleHint', 'posHint', 'so20Hint', 'strokeHint', 'bondHint', 'traceStroke', 'drillHint'].forEach(k => add(PH[k]));
   PH.praise.forEach(add); PH.wrong.forEach(add); PH.steps.forEach(add); PH.stars.forEach(add); Object.values(PH.trainSkill).forEach(add);
   ZONES.forEach(z => { add(z.intro); add(z.bossIntro); add(z.clear); });
   return [...s];
