@@ -1,57 +1,75 @@
 {
 "cái áo": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"cái áo.\" sp=0.7",
-"core": 0.8,
-"dur": 1.07
+"ok": true,
+"heard": "cái áo",
+"v": 12,
+"src": "cái áo",
+"f0": {
+"drop": 5.3,
+"rng": 7.9
+},
+"dur": 0.54
 },
 "á": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"á.\" sp=0.65",
-"core": 0.38,
-"dur": 0.61
+"ok": true,
+"heard": "á",
+"v": 12,
+"src": "á",
+"f0": {
+"drop": 6.6,
+"rng": 7.5
+},
+"dur": 0.42
 },
 "ăn cơm": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"ăn cơm.\" sp=0.8",
-"core": 0.87,
-"dur": 1.1
+"ok": true,
+"heard": "ăn cơm",
+"v": 12,
+"src": "ăn cơm",
+"f0": {
+"drop": 0.5,
+"rng": 4.4
+},
+"dur": 0.62
 },
 "ớ": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"ớ.\" sp=0.65",
-"core": 0.44,
-"dur": 0.68
+"ok": "ctx",
+"heard": "ối",
+"v": 12,
+"src": "ớ",
+"f0": {
+"drop": 5.0,
+"rng": 6.3
+},
+"dur": 0.41
 },
 "cái ấm": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"cái ấm.\" sp=0.7",
-"core": 0.7,
-"dur": 0.94
+"ok": true,
+"heard": "cái ấm",
+"v": 12,
+"src": "cái ấm",
+"f0": {
+"drop": 8.6,
+"rng": 9.6
+},
+"dur": 0.54
 },
 "bờ": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"bờ.\" sp=0.65",
-"core": 0.57,
-"dur": 0.8
+"ok": true,
+"heard": "bờ",
+"v": 12,
+"src": "bờ",
+"f0": {
+"drop": -1.4,
+"rng": 4.3
+},
+"dur": 0.49
 },
 "con bò": {
 "mode": "short",
@@ -67,84 +85,106 @@
 },
 "cờ": {
 "mode": "short",
-"ok": "vivos",
+"ok": "ctx",
 "heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"cờ.\" sp=0.65",
-"core": 0.47,
-"dur": 0.73
+"v": 12,
+"src": "cờ",
+"f0": {
+"drop": -3.3,
+"rng": 4.0
+},
+"dur": 0.42
 },
 "con cá": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"con cá.\" sp=0.7",
-"core": 0.9,
-"dur": 1.21
+"ok": true,
+"heard": "con cá",
+"v": 12,
+"src": "con cá",
+"f0": {
+"drop": 3.0,
+"rng": 7.2
+},
+"dur": 0.59
 },
 "con dê": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"con dê.\" sp=0.7",
-"core": 0.98,
-"dur": 1.2
+"ok": true,
+"heard": "con dê",
+"v": 12,
+"src": "con dê",
+"f0": {
+"drop": -1.1,
+"rng": 4.6
+},
+"dur": 0.53
 },
 "đờ": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"đờ.\" sp=0.65",
-"core": 0.41,
-"dur": 0.63
+"ok": "ctx",
+"heard": "đ",
+"v": 12,
+"src": "đờ",
+"f0": {
+"drop": -1.3,
+"rng": 6.8
+},
+"dur": 0.51
 },
 "bóng đèn": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"bóng đèn.\" sp=0.7",
-"core": 0.77,
-"dur": 1.02
+"ok": true,
+"heard": "bóng đèn",
+"v": 12,
+"src": "bóng đèn",
+"f0": {
+"drop": 0.3,
+"rng": 12.1
+},
+"dur": 0.64
 },
 "em bé": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"em bé.\" sp=0.7",
-"core": 0.74,
-"dur": 1.03
+"ok": true,
+"heard": "em bé",
+"v": 12,
+"src": "em bé",
+"f0": {
+"drop": 2.1,
+"rng": 9.8
+},
+"dur": 0.62
 },
 "con gà": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"con gà.\" sp=0.7",
-"core": 0.78,
-"dur": 0.98
+"ok": true,
+"heard": "bây giờ cô đọc con gà",
+"v": 2,
+"dur": 0.56
 },
 "hờ": {
 "mode": "short",
-"ok": "vivos",
+"ok": "ctx",
 "heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"hờ.\" sp=0.65",
-"core": 0.46,
-"dur": 0.69
+"v": 12,
+"src": "hờ",
+"f0": {
+"drop": -1.6,
+"rng": 5.5
+},
+"dur": 0.49
 },
 "bông hoa": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"bông hoa!\" sp=0.8",
-"core": 0.78,
-"dur": 1.03
+"ok": true,
+"heard": "bông hoa",
+"v": 12,
+"src": "bông hoa",
+"f0": {
+"drop": 3.2,
+"rng": 4.3
+},
+"dur": 0.55
 },
 "con khỉ": {
 "mode": "short",
@@ -160,30 +200,39 @@
 },
 "ca": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"ca!\" sp=0.75",
-"core": 0.47,
-"dur": 0.82
+"ok": true,
+"heard": "ca",
+"v": 12,
+"src": "ca",
+"f0": {
+"drop": -0.7,
+"rng": 1.0
+},
+"dur": 0.42
 },
 "que kem": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"que kem.\" sp=0.7",
-"core": 0.96,
-"dur": 1.21
+"ok": "gate",
+"heard": "cuối ken",
+"v": 12,
+"src": "que kem",
+"f0": {
+"drop": 0.8,
+"rng": 3.3
+},
+"dur": 0.59
 },
 "lờ": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"lờ.\" sp=0.65",
-"core": 0.64,
-"dur": 0.85
+"ok": "ctx",
+"heard": "l",
+"v": 12,
+"src": "lờ",
+"f0": {
+"drop": -1.6,
+"rng": 4.0
+},
+"dur": 0.51
 },
 "chiếc lá": {
 "mode": "short",
@@ -199,84 +248,111 @@
 },
 "mờ": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"mờ.\" sp=0.65",
-"core": 0.6,
-"dur": 0.89
+"ok": "ctx",
+"heard": "m",
+"v": 12,
+"src": "mờ",
+"f0": {
+"drop": -0.2,
+"rng": 3.0
+},
+"dur": 0.49
 },
 "con mèo": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"con mèo.\" sp=0.7",
-"core": 0.95,
-"dur": 1.16
+"ok": true,
+"heard": "con mèo",
+"v": 12,
+"src": "con mèo",
+"f0": {
+"drop": -5.8,
+"rng": 8.5
+},
+"dur": 0.63
 },
 "nờ": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"nờ.\" sp=0.65",
-"core": 0.52,
-"dur": 0.75
+"ok": "ctx",
+"heard": "n",
+"v": 12,
+"src": "nờ",
+"f0": {
+"drop": -0.5,
+"rng": 2.9
+},
+"dur": 0.49
 },
 "quả ớt": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"quả ớt.\" sp=0.7",
-"core": 0.67,
-"dur": 0.99
+"ok": true,
+"heard": "quả ớt",
+"v": 12,
+"src": "quả ớt",
+"f0": {
+"drop": 9.2,
+"rng": 16.2
+},
+"dur": 0.5
 },
 "hộp quà": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"hộp quà!\" sp=0.7",
-"core": 0.74,
-"dur": 0.95
+"ok": true,
+"heard": "hộp quà",
+"v": 12,
+"src": "hộp quà",
+"f0": {
+"drop": -1.7,
+"rng": 3.9
+},
+"dur": 0.63
 },
 "con rùa": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"con rùa.\" sp=0.7",
-"core": 0.84,
-"dur": 1.03
+"ok": true,
+"heard": "con rùa",
+"v": 12,
+"src": "con rùa",
+"f0": {
+"drop": -3.3,
+"rng": 15.5
+},
+"dur": 0.67
 },
 "ngôi sao": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"ngôi sao.\" sp=0.8",
-"core": 0.98,
-"dur": 1.22
+"ok": true,
+"heard": "ngôi sao",
+"v": 12,
+"src": "ngôi sao",
+"f0": {
+"drop": 3.1,
+"rng": 5.7
+},
+"dur": 0.73
 },
 "tờ": {
 "mode": "short",
-"ok": "vivos",
+"ok": "ctx",
 "heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"tờ.\" sp=0.65",
-"core": 0.44,
-"dur": 0.7
+"v": 12,
+"src": "tờ",
+"f0": {
+"drop": -4.0,
+"rng": 7.7
+},
+"dur": 0.44
 },
 "quả táo": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"quả táo.\" sp=0.7",
-"core": 0.9,
-"dur": 1.16
+"ok": true,
+"heard": "quả táo",
+"v": 12,
+"src": "quả táo",
+"f0": {
+"drop": 5.2,
+"rng": 13.3
+},
+"dur": 0.58
 },
 "con sư tử": {
 "mode": "short",
@@ -292,12 +368,15 @@
 },
 "vờ": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"vờ.\" sp=0.65",
-"core": 0.5,
-"dur": 0.71
+"ok": true,
+"heard": "vờ",
+"v": 12,
+"src": "vờ",
+"f0": {
+"drop": -2.3,
+"rng": 4.1
+},
+"dur": 0.48
 },
 "xe ô tô": {
 "mode": "short",
@@ -320,93 +399,123 @@
 },
 "một": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"một.\" sp=0.7",
-"core": 0.31,
-"dur": 0.6
+"ok": true,
+"heard": "một",
+"v": 12,
+"src": "một",
+"f0": {
+"drop": -0.7,
+"rng": 3.5
+},
+"dur": 0.42
 },
 "hai": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"hai.\" sp=0.7",
-"core": 0.48,
-"dur": 0.69
+"ok": true,
+"heard": "hai",
+"v": 12,
+"src": "hai",
+"f0": {
+"drop": 0.9,
+"rng": 1.5
+},
+"dur": 0.48
 },
 "bốn": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"bốn.\" sp=0.7",
-"core": 0.3,
-"dur": 0.52
+"ok": true,
+"heard": "bốn",
+"v": 12,
+"src": "bốn",
+"f0": {
+"drop": 8.1,
+"rng": 8.8
+},
+"dur": 0.46
 },
 "năm": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"năm!\" sp=0.7",
-"core": 0.41,
-"dur": 0.66
+"ok": true,
+"heard": "năm",
+"v": 12,
+"src": "năm",
+"f0": {
+"drop": 1.4,
+"rng": 2.9
+},
+"dur": 0.49
 },
 "sáu": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"sáu.\" sp=0.7",
-"core": 0.62,
-"dur": 0.81
+"ok": true,
+"heard": "sáu",
+"v": 12,
+"src": "sáu",
+"f0": {
+"drop": 7.5,
+"rng": 9.1
+},
+"dur": 0.47
 },
 "tám": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"tám!\" sp=0.7",
-"core": 0.34,
-"dur": 0.6
+"ok": true,
+"heard": "tám",
+"v": 12,
+"src": "tám",
+"f0": {
+"drop": 9.2,
+"rng": 9.5
+},
+"dur": 0.49
 },
 "chín": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"chín.\" sp=0.7",
-"core": 0.37,
-"dur": 0.57
+"ok": true,
+"heard": "chín",
+"v": 12,
+"src": "chín",
+"f0": {
+"drop": 7.4,
+"rng": 8.8
+},
+"dur": 0.47
 },
 "mười": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"mười.\" sp=0.7",
-"core": 0.6,
-"dur": 0.82
+"ok": true,
+"heard": "mười",
+"v": 12,
+"src": "mười",
+"f0": {
+"drop": -0.6,
+"rng": 4.5
+},
+"dur": 0.49
 },
 "bà": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"bà.\" sp=0.7",
-"core": 0.57,
-"dur": 0.97
+"ok": "gate",
+"heard": "bài",
+"v": 12,
+"src": "bà",
+"f0": {
+"drop": -0.8,
+"rng": 7.0
+},
+"dur": 0.48
 },
 "bà ơi": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"bà ơi.\" sp=0.7",
-"core": 1.07,
-"dur": 1.31
+"ok": true,
+"heard": "bà ơi",
+"v": 12,
+"src": "bà ơi",
+"f0": {
+"drop": 0.5,
+"rng": 2.4
+},
+"dur": 0.59
 },
 "Tiếng áo bắt đầu bằng chữ nào?": {
 "mode": "long",
@@ -1499,93 +1608,123 @@
 },
 "bố": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"bố.\" sp=0.7",
-"core": 0.28,
-"dur": 0.56
+"ok": true,
+"heard": "bố",
+"v": 12,
+"src": "bố",
+"f0": {
+"drop": 7.1,
+"rng": 8.5
+},
+"dur": 0.47
 },
 "mẹ": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"mẹ!\" sp=0.7",
-"core": 0.5,
-"dur": 0.73
+"ok": true,
+"heard": "mẹ",
+"v": 12,
+"src": "mẹ",
+"f0": {
+"drop": -2.2,
+"rng": 6.1
+},
+"dur": 0.49
 },
 "mẹ ơi": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"mẹ ơi.\" sp=0.7",
-"core": 0.88,
-"dur": 1.14
+"ok": true,
+"heard": "mẹ ơi",
+"v": 12,
+"src": "mẹ ơi",
+"f0": {
+"drop": 0.6,
+"rng": 3.7
+},
+"dur": 0.61
 },
 "bé": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"bé.\" sp=0.7",
-"core": 0.52,
-"dur": 0.83
+"ok": true,
+"heard": "bé",
+"v": 12,
+"src": "bé",
+"f0": {
+"drop": 8.0,
+"rng": 9.7
+},
+"dur": 0.47
 },
 "cá": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"cá!\" sp=0.7",
-"core": 0.36,
-"dur": 0.69
+"ok": true,
+"heard": "cá",
+"v": 12,
+"src": "cá",
+"f0": {
+"drop": 5.9,
+"rng": 7.1
+},
+"dur": 0.38
 },
 "hổ": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"hổ.\" sp=0.7",
-"core": 0.46,
-"dur": 0.8
+"ok": true,
+"heard": "hổ",
+"v": 12,
+"src": "hổ",
+"f0": {
+"drop": -6.0,
+"rng": 7.0
+},
+"dur": 0.47
 },
 "con hổ": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"con hổ.\" sp=0.7",
-"core": 1.0,
-"dur": 1.2
+"ok": true,
+"heard": "con hổ",
+"v": 12,
+"src": "con hổ",
+"f0": {
+"drop": -6.8,
+"rng": 8.0
+},
+"dur": 0.55
 },
 "lá": {
 "mode": "short",
-"ok": "vivos",
+"ok": "ctx",
 "heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"lá.\" sp=0.7",
-"core": 0.36,
-"dur": 0.58
+"v": 12,
+"src": "lá",
+"f0": {
+"drop": 6.9,
+"rng": 8.6
+},
+"dur": 0.49
 },
 "xe": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"xe!\" sp=0.7",
-"core": 0.72,
-"dur": 0.91
+"ok": true,
+"heard": "xe",
+"v": 12,
+"src": "xe",
+"f0": {
+"drop": -3.2,
+"rng": 5.1
+},
+"dur": 0.44
 },
 "lê": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"lê.\" sp=0.7",
-"core": 0.56,
-"dur": 0.79
+"ok": true,
+"heard": "lê",
+"v": 12,
+"src": "lê",
+"f0": {
+"drop": 0.7,
+"rng": 1.9
+},
+"dur": 0.4
 },
 "quả lê": {
 "mode": "short",
@@ -1601,12 +1740,15 @@
 },
 "mũ": {
 "mode": "short",
-"ok": "vivos",
+"ok": "ctx",
 "heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"mũ.\" sp=0.7",
-"core": 0.56,
-"dur": 0.77
+"v": 12,
+"src": "mũ",
+"f0": {
+"drop": 8.6,
+"rng": 8.9
+},
+"dur": 0.43
 },
 "cái mũ": {
 "mode": "short",
@@ -1622,57 +1764,75 @@
 },
 "cái dù": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"cái dù.\" sp=0.7",
-"core": 0.85,
-"dur": 1.05
+"ok": "ctx",
+"heard": "k",
+"v": 12,
+"src": "cái dù",
+"f0": {
+"drop": 6.7,
+"rng": 6.7
+},
+"dur": 0.31
 },
 "lá cờ": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"lá cờ.\" sp=0.7",
-"core": 0.81,
-"dur": 1.03
+"ok": "ctx",
+"heard": "pla",
+"v": 12,
+"src": "lá cờ",
+"f0": {
+"drop": 7.9,
+"rng": 9.4
+},
+"dur": 0.39
 },
 "nơ": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"nơ!\" sp=0.7",
-"core": 0.48,
-"dur": 0.7
+"ok": "ctx",
+"heard": "n",
+"v": 12,
+"src": "nơ",
+"f0": {
+"drop": 2.9,
+"rng": 3.4
+},
+"dur": 0.48
 },
 "rổ": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"rổ.\" sp=0.7",
-"core": 0.53,
-"dur": 0.78
+"ok": true,
+"heard": "rổ",
+"v": 12,
+"src": "rổ",
+"f0": {
+"drop": -7.0,
+"rng": 8.3
+},
+"dur": 0.5
 },
 "đá": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"đá.\" sp=0.7",
-"core": 0.36,
-"dur": 0.68
+"ok": "ctx",
+"heard": "đã",
+"v": 12,
+"src": "đá",
+"f0": {
+"drop": 7.0,
+"rng": 9.7
+},
+"dur": 0.43
 },
 "cục đá": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"cục đá.\" sp=0.7",
-"core": 0.75,
-"dur": 0.96
+"ok": true,
+"heard": "cục đá",
+"v": 12,
+"src": "cục đá",
+"f0": {
+"drop": 5.7,
+"rng": 9.1
+},
+"dur": 0.55
 },
 "vẽ tranh": {
 "mode": "short",
@@ -1688,12 +1848,15 @@
 },
 "mèo": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"mèo.\" sp=0.7",
-"core": 0.68,
-"dur": 0.89
+"ok": true,
+"heard": "mèo",
+"v": 12,
+"src": "mèo",
+"f0": {
+"drop": -1.9,
+"rng": 6.4
+},
+"dur": 0.49
 },
 "sao": {
 "mode": "short",
@@ -1721,30 +1884,39 @@
 },
 "táo": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"táo.\" sp=0.7",
-"core": 0.38,
-"dur": 0.58
+"ok": true,
+"heard": "táo",
+"v": 12,
+"src": "táo",
+"f0": {
+"drop": 7.5,
+"rng": 9.6
+},
+"dur": 0.47
 },
 "cái kẹo": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"cái kẹo.\" sp=0.7",
-"core": 0.7,
-"dur": 0.89
+"ok": true,
+"heard": "cái kẹo",
+"v": 12,
+"src": "cái kẹo",
+"f0": {
+"drop": -6.2,
+"rng": 14.4
+},
+"dur": 0.55
 },
 "củ tỏi": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"củ tỏi!\" sp=0.7",
-"core": 0.84,
-"dur": 1.07
+"ok": true,
+"heard": "củ tỏi",
+"v": 12,
+"src": "củ tỏi",
+"f0": {
+"drop": -6.8,
+"rng": 9.1
+},
+"dur": 0.64
 },
 "sữa": {
 "mode": "short",
@@ -1772,39 +1944,51 @@
 },
 "lửa": {
 "mode": "short",
-"ok": "vivos",
+"ok": "ctx",
 "heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"lửa.\" sp=0.7",
-"core": 0.59,
-"dur": 0.83
+"v": 12,
+"src": "lửa",
+"f0": {
+"drop": -3.7,
+"rng": 6.2
+},
+"dur": 0.51
 },
 "ngọn lửa": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"ngọn lửa!\" sp=0.7",
-"core": 0.92,
-"dur": 1.14
+"ok": true,
+"heard": "ngọn lửa",
+"v": 12,
+"src": "ngọn lửa",
+"f0": {
+"drop": -2.0,
+"rng": 5.9
+},
+"dur": 0.67
 },
 "trời mưa": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"trời mưa.\" sp=0.7",
-"core": 0.87,
-"dur": 1.19
+"ok": true,
+"heard": "trời mưa",
+"v": 12,
+"src": "trời mưa",
+"f0": {
+"drop": 2.2,
+"rng": 5.1
+},
+"dur": 0.58
 },
 "cua": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"cua!\" sp=0.7",
-"core": 0.52,
-"dur": 0.73
+"ok": "gate",
+"heard": "gu",
+"v": 12,
+"src": "cua",
+"f0": {
+"drop": -0.8,
+"rng": 2.9
+},
+"dur": 0.38
 },
 "con cua": {
 "mode": "short",
@@ -1820,12 +2004,10 @@
 },
 "rùa": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"rùa.\" sp=0.7",
-"core": 0.66,
-"dur": 0.89
+"ok": true,
+"heard": "bây giờ cô đọc rùa",
+"v": 2,
+"dur": 0.46
 },
 "dưa": {
 "mode": "short",
@@ -1841,39 +2023,46 @@
 },
 "quả dừa": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"quả dừa.\" sp=0.7",
-"core": 0.98,
-"dur": 1.26
+"ok": true,
+"heard": "quả dừa",
+"v": 12,
+"src": "quả dừa",
+"f0": {
+"drop": -1.3,
+"rng": 7.9
+},
+"dur": 0.67
 },
 "con cáo": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"con cáo.\" sp=0.8",
-"core": 0.75,
-"dur": 0.95
+"ok": "ctx",
+"heard": "có cáo",
+"v": 12,
+"src": "con cáo",
+"f0": {
+"drop": 4.4,
+"rng": 8.7
+},
+"dur": 0.62
 },
 "tàu": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"tàu.\" sp=0.8",
-"core": 0.36,
-"dur": 0.63
+"ok": true,
+"heard": "tàu",
+"v": 12,
+"src": "tàu",
+"f0": {
+"drop": -2.8,
+"rng": 5.1
+},
+"dur": 0.45
 },
 "con tàu": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"con tàu!\" sp=0.7",
-"core": 0.8,
-"dur": 1.02
+"ok": true,
+"heard": "bây giờ cô đọc con tàu",
+"v": 2,
+"dur": 0.57
 },
 "rau xanh": {
 "mode": "short",
@@ -1889,21 +2078,27 @@
 },
 "cam": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"cam.\" sp=0.8",
-"core": 0.39,
-"dur": 0.6
+"ok": true,
+"heard": "cam",
+"v": 12,
+"src": "cam",
+"f0": {
+"drop": 0.2,
+"rng": 1.3
+},
+"dur": 0.42
 },
 "quả cam": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"quả cam!\" sp=0.8",
-"core": 0.75,
-"dur": 1.08
+"ok": true,
+"heard": "quả cam",
+"v": 12,
+"src": "quả cam",
+"f0": {
+"drop": 1.7,
+"rng": 7.8
+},
+"dur": 0.6
 },
 "nấm": {
 "mode": "short",
@@ -1919,48 +2114,63 @@
 },
 "cây nấm": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"cây nấm.\" sp=0.7",
-"core": 0.7,
-"dur": 0.9
+"ok": true,
+"heard": "cây nấm",
+"v": 12,
+"src": "cây nấm",
+"f0": {
+"drop": 5.3,
+"rng": 11.5
+},
+"dur": 0.57
 },
 "âu": {
 "mode": "short",
-"ok": "vivos",
+"ok": "ctx",
 "heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"âu!\" sp=0.65",
-"core": 0.52,
-"dur": 0.73
+"v": 12,
+"src": "âu",
+"f0": {
+"drop": 0.0,
+"rng": 2.3
+},
+"dur": 0.45
 },
 "con gấu": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"con gấu.\" sp=0.7",
-"core": 0.78,
-"dur": 0.98
+"ok": true,
+"heard": "con gấu",
+"v": 12,
+"src": "con gấu",
+"f0": {
+"drop": 2.8,
+"rng": 8.4
+},
+"dur": 0.61
 },
 "con lợn": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"con lợn.\" sp=0.7",
-"core": 0.8,
-"dur": 1.04
+"ok": true,
+"heard": "con lợn",
+"v": 12,
+"src": "con lợn",
+"f0": {
+"drop": -3.9,
+"rng": 8.1
+},
+"dur": 0.63
 },
 "đèn": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"đèn.\" sp=0.7",
-"core": 0.53,
-"dur": 0.8
+"ok": true,
+"heard": "đèn",
+"v": 12,
+"src": "đèn",
+"f0": {
+"drop": -1.6,
+"rng": 4.0
+},
+"dur": 0.49
 },
 "tay": {
 "mode": "short",
@@ -1976,12 +2186,15 @@
 },
 "bàn tay": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"bàn tay.\" sp=0.7",
-"core": 0.91,
-"dur": 1.11
+"ok": true,
+"heard": "bàn tay",
+"v": 12,
+"src": "bàn tay",
+"f0": {
+"drop": 1.3,
+"rng": 5.0
+},
+"dur": 0.6
 },
 "túi": {
 "mode": "short",
@@ -1997,39 +2210,51 @@
 },
 "cái túi": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"cái túi!\" sp=0.7",
-"core": 0.72,
-"dur": 0.99
+"ok": true,
+"heard": "cái túi",
+"v": 12,
+"src": "cái túi",
+"f0": {
+"drop": 6.7,
+"rng": 7.8
+},
+"dur": 0.57
 },
 "cây": {
 "mode": "short",
-"ok": "vivos",
+"ok": "ctx",
 "heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"cây!\" sp=0.7",
-"core": 0.42,
-"dur": 0.69
+"v": 12,
+"src": "cây",
+"f0": {
+"drop": -1.5,
+"rng": 2.8
+},
+"dur": 0.37
 },
 "cái cây": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"cái cây.\" sp=0.7",
-"core": 0.88,
-"dur": 1.22
+"ok": true,
+"heard": "cái cây",
+"v": 12,
+"src": "cái cây",
+"f0": {
+"drop": 2.1,
+"rng": 7.6
+},
+"dur": 0.51
 },
 "đám mây": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"đám mây.\" sp=0.8",
-"core": 0.72,
-"dur": 0.96
+"ok": true,
+"heard": "đám mây",
+"v": 12,
+"src": "đám mây",
+"f0": {
+"drop": 4.5,
+"rng": 10.2
+},
+"dur": 0.59
 },
 "cơm": {
 "mode": "short",
@@ -2045,39 +2270,51 @@
 },
 "em": {
 "mode": "short",
-"ok": "vivos",
+"ok": "ctx",
 "heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"em.\" sp=0.75",
-"core": 0.44,
-"dur": 0.84
+"v": 12,
+"src": "em",
+"f0": {
+"drop": -0.2,
+"rng": 0.7
+},
+"dur": 0.4
 },
 "kem": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"kem!\" sp=0.7",
-"core": 0.52,
-"dur": 0.72
+"ok": "ctx",
+"heard": "kng",
+"v": 12,
+"src": "kem",
+"f0": {
+"drop": -1.2,
+"rng": 2.3
+},
+"dur": 0.43
 },
 "huyền": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"huyền.\" sp=0.7",
-"core": 0.44,
-"dur": 0.74
+"ok": true,
+"heard": "huyền",
+"v": 12,
+"src": "huyền",
+"f0": {
+"drop": -2.2,
+"rng": 4.1
+},
+"dur": 0.48
 },
 "hỏi": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"hỏi.\" sp=0.7",
-"core": 0.46,
-"dur": 0.67
+"ok": true,
+"heard": "hỏi",
+"v": 12,
+"src": "hỏi",
+"f0": {
+"drop": -4.5,
+"rng": 7.0
+},
+"dur": 0.45
 },
 "ngã": {
 "mode": "short",
@@ -2549,183 +2786,233 @@
 },
 "a": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"a.\" sp=0.75",
-"core": 0.56,
-"dur": 0.75
+"ok": "ctx",
+"heard": "à",
+"v": 12,
+"src": "a",
+"f0": {
+"drop": 0.3,
+"rng": 1.5
+},
+"dur": 0.4
 },
 "dờ": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"dờ.\" sp=0.65",
-"core": 0.68,
-"dur": 0.92
+"ok": "carrier",
+"heard": "bây giờ cô đọc giờ",
+"v": 2,
+"dur": 0.48
 },
 "e": {
 "mode": "short",
-"ok": "vivos",
+"ok": "gate",
 "heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"e!\" sp=0.65",
-"core": 0.46,
-"dur": 0.72
+"v": 12,
+"src": "e",
+"f0": {
+"drop": -1.4,
+"rng": 2.8
+},
+"dur": 0.44
 },
 "ê": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"ê.\" sp=0.65",
-"core": 0.5,
-"dur": 0.71
+"ok": true,
+"heard": "ê",
+"v": 12,
+"src": "ê",
+"f0": {
+"drop": -2.2,
+"rng": 3.2
+},
+"dur": 0.36
 },
 "con ếch": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"con ếch.\" sp=0.7",
-"core": 0.66,
-"dur": 0.89
+"ok": "gate",
+"heard": "còn ít",
+"v": 12,
+"src": "con ếch",
+"f0": {
+"drop": 8.7,
+"rng": 10.5
+},
+"dur": 0.47
 },
 "gờ": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"gờ.\" sp=0.65",
-"core": 0.52,
-"dur": 0.73
+"ok": "gate",
+"heard": "g",
+"v": 12,
+"src": "gờ",
+"f0": {
+"drop": -3.5,
+"rng": 6.1
+},
+"dur": 0.43
 },
 "i": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"i.\" sp=0.75",
-"core": 0.5,
-"dur": 0.82
+"ok": "gate",
+"heard": "y",
+"v": 12,
+"src": "i",
+"f0": {
+"drop": -2.4,
+"rng": 5.6
+},
+"dur": 0.36
 },
 "o": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"o!\" sp=0.65",
-"core": 0.39,
-"dur": 0.63
+"ok": true,
+"heard": "o",
+"v": 12,
+"src": "o",
+"f0": {
+"drop": 0.3,
+"rng": 1.1
+},
+"dur": 0.31
 },
 "con ong": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"con ong.\" sp=0.7",
-"core": 0.87,
-"dur": 1.1
+"ok": true,
+"heard": "con ong",
+"v": 12,
+"src": "con ong",
+"f0": {
+"drop": 0.6,
+"rng": 12.3
+},
+"dur": 0.57
 },
 "ô": {
 "mode": "short",
-"ok": "vivos",
+"ok": "gate",
 "heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"ô.\" sp=0.75",
-"core": 0.48,
-"dur": 0.65
+"v": 12,
+"src": "ô",
+"f0": {
+"drop": -1.2,
+"rng": 2.5
+},
+"dur": 0.3
 },
 "cái ô": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"cái ô.\" sp=0.7",
-"core": 0.84,
-"dur": 1.16
+"ok": true,
+"heard": "cái ô",
+"v": 12,
+"src": "cái ô",
+"f0": {
+"drop": 2.8,
+"rng": 7.7
+},
+"dur": 0.48
 },
 "ơ": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"ơ.\" sp=0.75",
-"core": 0.42,
-"dur": 0.63
+"ok": true,
+"heard": "ơ",
+"v": 12,
+"src": "ơ",
+"f0": {
+"drop": 1.0,
+"rng": 2.2
+},
+"dur": 0.42
 },
 "pờ": {
 "mode": "short",
-"ok": "vivos",
+"ok": "gate",
 "heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"pờ.\" sp=0.65",
-"core": 0.54,
-"dur": 0.79
+"v": 12,
+"src": "pờ",
+"f0": {
+"drop": -2.9,
+"rng": 5.7
+},
+"dur": 0.43
 },
 "cục pin": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"cục pin.\" sp=0.7",
-"core": 0.6,
-"dur": 0.91
+"ok": "ctx",
+"heard": "cú kinh",
+"v": 12,
+"src": "cục pin",
+"f0": {
+"drop": -1.5,
+"rng": 4.8
+},
+"dur": 0.53
 },
 "quờ": {
 "mode": "short",
-"ok": "vivos",
+"ok": "gate",
 "heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"quờ.\" sp=0.65",
-"core": 0.42,
-"dur": 0.67
+"v": 12,
+"src": "quờ",
+"f0": {
+"drop": -4.2,
+"rng": 6.0
+},
+"dur": 0.42
 },
 "rờ": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"rờ.\" sp=0.65",
-"core": 0.6,
-"dur": 0.83
+"ok": "carrier",
+"heard": "bây giờ cô đọc giờ",
+"v": 2,
+"dur": 0.42
 },
 "sờ": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"sờ.\" sp=0.65",
-"core": 0.73,
-"dur": 0.97
+"ok": true,
+"heard": "sờ",
+"v": 12,
+"src": "sờ",
+"f0": {
+"drop": -4.3,
+"rng": 8.2
+},
+"dur": 0.46
 },
 "u": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"u.\" sp=0.75",
-"core": 0.56,
-"dur": 0.89
+"ok": "gate",
+"heard": "gu",
+"v": 12,
+"src": "u",
+"f0": {
+"drop": -1.5,
+"rng": 2.8
+},
+"dur": 0.3
 },
 "đôi ủng": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"đôi ủng.\" sp=0.7",
-"core": 0.8,
-"dur": 1.07
+"ok": true,
+"heard": "đôi ủng",
+"v": 12,
+"src": "đôi ủng",
+"f0": {
+"drop": -4.3,
+"rng": 17.3
+},
+"dur": 0.66
 },
 "ư": {
 "mode": "short",
-"ok": "vivos",
+"ok": "gate",
 "heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"ư.\" sp=0.75",
-"core": 0.5,
-"dur": 0.81
+"v": 12,
+"src": "ư",
+"f0": {
+"drop": -0.9,
+"rng": 2.5
+},
+"dur": 0.32
 },
 "con voi": {
 "mode": "short",
@@ -2741,57 +3028,75 @@
 },
 "xờ": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"xờ.\" sp=0.65",
-"core": 0.66,
-"dur": 1.1
+"ok": "gate",
+"heard": "s",
+"v": 12,
+"src": "xờ",
+"f0": {
+"drop": -4.0,
+"rng": 5.9
+},
+"dur": 0.46
 },
 "i dài": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"i dài.\" sp=0.65",
-"core": 0.84,
-"dur": 1.14
+"ok": "gate",
+"heard": "y dài",
+"v": 12,
+"src": "i dài",
+"f0": {
+"drop": -3.5,
+"rng": 5.7
+},
+"dur": 0.59
 },
 "không": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"không!\" sp=0.8",
-"core": 0.46,
-"dur": 0.65
+"ok": true,
+"heard": "không",
+"v": 12,
+"src": "không",
+"f0": {
+"drop": -0.2,
+"rng": 1.5
+},
+"dur": 0.39
 },
 "ba": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"ba!\" sp=0.8",
-"core": 0.44,
-"dur": 0.7
+"ok": true,
+"heard": "ba",
+"v": 12,
+"src": "ba",
+"f0": {
+"drop": 0.8,
+"rng": 2.8
+},
+"dur": 0.39
 },
 "bảy": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"bảy.\" sp=0.7",
-"core": 0.57,
-"dur": 0.79
+"ok": true,
+"heard": "bảy",
+"v": 12,
+"src": "bảy",
+"f0": {
+"drop": -4.9,
+"rng": 7.4
+},
+"dur": 0.45
 },
 "bô": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"bô.\" sp=0.8",
-"core": 0.38,
-"dur": 0.58
+"ok": "gate",
+"heard": "bo",
+"v": 12,
+"src": "bô",
+"f0": {
+"drop": 0.3,
+"rng": 1.9
+},
+"dur": 0.48
 },
 "bố ơi": {
 "mode": "short",
@@ -2807,75 +3112,99 @@
 },
 "me": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"me.\" sp=0.7",
-"core": 0.55,
-"dur": 0.77
+"ok": "gate",
+"heard": "n",
+"v": 12,
+"src": "me",
+"f0": {
+"drop": 0.5,
+"rng": 1.6
+},
+"dur": 0.42
 },
 "be": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"be.\" sp=0.7",
-"core": 0.52,
-"dur": 0.73
+"ok": "gate",
+"heard": "b",
+"v": 12,
+"src": "be",
+"f0": {
+"drop": -0.4,
+"rng": 2.4
+},
+"dur": 0.44
 },
 "ga": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"ga.\" sp=0.7",
-"core": 0.4,
-"dur": 0.61
+"ok": true,
+"heard": "ga",
+"v": 12,
+"src": "ga",
+"f0": {
+"drop": 0.4,
+"rng": 2.1
+},
+"dur": 0.37
 },
 "gà": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"gà.\" sp=0.7",
-"core": 0.52,
-"dur": 0.75
+"ok": "ctx",
+"heard": "ka",
+"v": 12,
+"src": "gà",
+"f0": {
+"drop": -1.6,
+"rng": 3.5
+},
+"dur": 0.49
 },
 "bo": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"bo!\" sp=0.7",
-"core": 0.66,
-"dur": 0.89
+"ok": true,
+"heard": "bo",
+"v": 12,
+"src": "bo",
+"f0": {
+"drop": -0.2,
+"rng": 1.5
+},
+"dur": 0.42
 },
 "bò": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"bò!\" sp=0.7",
-"core": 0.61,
-"dur": 0.83
+"ok": true,
+"heard": "bò",
+"v": 12,
+"src": "bò",
+"f0": {
+"drop": -3.0,
+"rng": 4.4
+},
+"dur": 0.47
 },
 "dê": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"dê.\" sp=0.8",
-"core": 0.46,
-"dur": 0.7
+"ok": "gate",
+"heard": "c",
+"v": 12,
+"src": "dê",
+"f0": {
+"drop": -1.3,
+"rng": 3.3
+},
+"dur": 0.47
 },
 "hô": {
 "mode": "short",
-"ok": "vivos",
+"ok": "gate",
 "heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"hô!\" sp=0.8",
-"core": 0.56,
-"dur": 0.75
+"v": 12,
+"src": "hô",
+"f0": {
+"drop": -1.6,
+"rng": 2.1
+},
+"dur": 0.41
 },
 "la": {
 "mode": "short",
@@ -2891,12 +3220,15 @@
 },
 "mu": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"mu!\" sp=0.7",
-"core": 0.57,
-"dur": 0.81
+"ok": true,
+"heard": "mu",
+"v": 12,
+"src": "mu",
+"f0": {
+"drop": 2.0,
+"rng": 2.6
+},
+"dur": 0.41
 },
 "du": {
 "mode": "short",
@@ -2912,48 +3244,63 @@
 },
 "dù": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"dù.\" sp=0.7",
-"core": 0.6,
-"dur": 0.85
+"ok": true,
+"heard": "dù",
+"v": 12,
+"src": "dù",
+"f0": {
+"drop": -4.3,
+"rng": 7.2
+},
+"dur": 0.4
 },
 "cơ": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"cơ.\" sp=0.8",
-"core": 0.37,
-"dur": 0.59
+"ok": true,
+"heard": "cơ",
+"v": 12,
+"src": "cơ",
+"f0": {
+"drop": -0.6,
+"rng": 3.1
+},
+"dur": 0.39
 },
 "cái nơ": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"cái nơ.\" sp=0.7",
-"core": 0.86,
-"dur": 1.1
+"ok": true,
+"heard": "cái nơ",
+"v": 12,
+"src": "cái nơ",
+"f0": {
+"drop": 3.5,
+"rng": 8.1
+},
+"dur": 0.55
 },
 "rô": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"rô!\" sp=0.8",
-"core": 0.43,
-"dur": 0.68
+"ok": "gate",
+"heard": "rồi",
+"v": 12,
+"src": "rô",
+"f0": {
+"drop": -1.8,
+"rng": 2.3
+},
+"dur": 0.4
 },
 "cái rổ": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"cái rổ.\" sp=0.7",
-"core": 0.82,
-"dur": 1.11
+"ok": true,
+"heard": "cái rổ",
+"v": 12,
+"src": "cái rổ",
+"f0": {
+"drop": -4.4,
+"rng": 12.0
+},
+"dur": 0.61
 },
 "đa": {
 "mode": "short",
@@ -2969,75 +3316,99 @@
 },
 "ve": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"ve!\" sp=0.8",
-"core": 0.47,
-"dur": 0.69
+"ok": "gate",
+"heard": "về",
+"v": 12,
+"src": "ve",
+"f0": {
+"drop": -2.6,
+"rng": 3.1
+},
+"dur": 0.35
 },
 "vẽ": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"vẽ.\" sp=0.7",
-"core": 0.69,
-"dur": 0.98
+"ok": true,
+"heard": "vẽ",
+"v": 12,
+"src": "vẽ",
+"f0": {
+"drop": 7.2,
+"rng": 9.1
+},
+"dur": 0.43
 },
 "eo": {
 "mode": "short",
-"ok": "vivos",
+"ok": "gate",
 "heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"eo.\" sp=0.65",
-"core": 0.53,
-"dur": 0.82
+"v": 12,
+"src": "eo",
+"f0": {
+"drop": -0.7,
+"rng": 2.5
+},
+"dur": 0.39
 },
 "meo": {
 "mode": "short",
-"ok": "vivos",
+"ok": "gate",
 "heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"meo!\" sp=0.8",
-"core": 0.55,
-"dur": 0.78
+"v": 12,
+"src": "meo",
+"f0": {
+"drop": 0.0,
+"rng": 2.3
+},
+"dur": 0.45
 },
 "oi": {
 "mode": "short",
-"ok": "vivos",
+"ok": "gate",
 "heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"oi!\" sp=0.65",
-"core": 0.56,
-"dur": 0.77
+"v": 12,
+"src": "oi",
+"f0": {
+"drop": 0.0,
+"rng": 1.0
+},
+"dur": 0.38
 },
 "voi": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"voi.\" sp=0.8",
-"core": 0.44,
-"dur": 0.65
+"ok": true,
+"heard": "voi",
+"v": 12,
+"src": "voi",
+"f0": {
+"drop": -1.2,
+"rng": 2.6
+},
+"dur": 0.34
 },
 "ao": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"ao!\" sp=0.75",
-"core": 0.42,
-"dur": 0.62
+"ok": "ctx",
+"heard": "aus",
+"v": 12,
+"src": "ao",
+"f0": {
+"drop": 0.2,
+"rng": 0.7
+},
+"dur": 0.47
 },
 "oa": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"oa!\" sp=0.65",
-"core": 0.49,
-"dur": 0.75
+"ok": "gate",
+"heard": "quá",
+"v": 12,
+"src": "oa",
+"f0": {
+"drop": 0.0,
+"rng": 1.4
+},
+"dur": 0.37
 },
 "hoa": {
 "mode": "short",
@@ -3053,12 +3424,15 @@
 },
 "keo": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"keo.\" sp=0.8",
-"core": 0.48,
-"dur": 0.71
+"ok": true,
+"heard": "keo",
+"v": 12,
+"src": "keo",
+"f0": {
+"drop": -1.9,
+"rng": 3.9
+},
+"dur": 0.39
 },
 "kẹo": {
 "mode": "short",
@@ -3074,12 +3448,15 @@
 },
 "toi": {
 "mode": "short",
-"ok": "vivos",
+"ok": "gate",
 "heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"toi.\" sp=0.7",
-"core": 0.48,
-"dur": 0.71
+"v": 12,
+"src": "toi",
+"f0": {
+"drop": -1.3,
+"rng": 2.8
+},
+"dur": 0.43
 },
 "tỏi": {
 "mode": "short",
@@ -3095,219 +3472,291 @@
 },
 "ưa": {
 "mode": "short",
-"ok": "vivos",
+"ok": "gate",
 "heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"ưa!\" sp=0.75",
-"core": 0.61,
-"dur": 0.85
+"v": 12,
+"src": "ưa",
+"f0": {
+"drop": 0.0,
+"rng": 2.4
+},
+"dur": 0.4
 },
 "sưa": {
 "mode": "short",
-"ok": "vivos",
+"ok": "gate",
 "heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"sưa!\" sp=0.7",
-"core": 0.7,
-"dur": 1.0
+"v": 12,
+"src": "sưa",
+"f0": {
+"drop": 0.2,
+"rng": 3.7
+},
+"dur": 0.46
 },
 "lưa": {
 "mode": "short",
-"ok": "vivos",
+"ok": "gate",
 "heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"lưa.\" sp=0.7",
-"core": 0.47,
-"dur": 0.74
+"v": 12,
+"src": "lưa",
+"f0": {
+"drop": 2.6,
+"rng": 3.4
+},
+"dur": 0.49
 },
 "mưa": {
 "mode": "short",
-"ok": "vivos",
+"ok": "gate",
 "heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"mưa!\" sp=0.7",
-"core": 0.56,
-"dur": 0.8
+"v": 12,
+"src": "mưa",
+"f0": {
+"drop": 3.1,
+"rng": 3.9
+},
+"dur": 0.45
 },
 "ua": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"ua!\" sp=0.75",
-"core": 0.73,
-"dur": 0.92
+"ok": "gate",
+"heard": "gu",
+"v": 12,
+"src": "ua",
+"f0": {
+"drop": -0.4,
+"rng": 2.4
+},
+"dur": 0.37
 },
 "rua": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"rua.\" sp=0.7",
-"core": 0.68,
-"dur": 0.94
+"ok": "gate",
+"heard": "dù",
+"v": 12,
+"src": "rua",
+"f0": {
+"drop": -1.0,
+"rng": 3.3
+},
+"dur": 0.45
 },
 "dừa": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"dừa.\" sp=0.7",
-"core": 0.46,
-"dur": 0.72
+"ok": true,
+"heard": "dừa",
+"v": 12,
+"src": "dừa",
+"f0": {
+"drop": -3.2,
+"rng": 5.5
+},
+"dur": 0.49
 },
 "cao": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"cao!\" sp=0.8",
-"core": 0.36,
-"dur": 0.58
+"ok": true,
+"heard": "cao",
+"v": 12,
+"src": "cao",
+"f0": {
+"drop": -0.6,
+"rng": 2.1
+},
+"dur": 0.44
 },
 "cáo": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"cáo.\" sp=0.7",
-"core": 0.36,
-"dur": 0.63
+"ok": true,
+"heard": "cáo",
+"v": 12,
+"src": "cáo",
+"f0": {
+"drop": 7.0,
+"rng": 8.1
+},
+"dur": 0.43
 },
 "au": {
 "mode": "short",
-"ok": "vivos",
+"ok": "gate",
 "heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"au!\" sp=0.65",
-"core": 0.46,
-"dur": 0.73
+"v": 12,
+"src": "au",
+"f0": {
+"drop": -0.3,
+"rng": 2.0
+},
+"dur": 0.43
 },
 "tau": {
 "mode": "short",
-"ok": "vivos",
+"ok": "gate",
 "heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"tau!\" sp=0.8",
-"core": 0.36,
-"dur": 0.57
+"v": 12,
+"src": "tau",
+"f0": {
+"drop": 0.2,
+"rng": 2.8
+},
+"dur": 0.47
 },
 "rau": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"rau!\" sp=0.8",
-"core": 0.5,
-"dur": 0.74
+"ok": "gate",
+"heard": "sáu",
+"v": 12,
+"src": "rau",
+"f0": {
+"drop": 0.0,
+"rng": 2.7
+},
+"dur": 0.48
 },
 "am": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"am!\" sp=0.75",
-"core": 0.38,
-"dur": 0.75
+"ok": true,
+"heard": "am",
+"v": 12,
+"src": "am",
+"f0": {
+"drop": -0.7,
+"rng": 1.3
+},
+"dur": 0.38
 },
 "ôm": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"ôm!\" sp=0.65",
-"core": 0.46,
-"dur": 0.69
+"ok": "gate",
+"heard": "um",
+"v": 12,
+"src": "ôm",
+"f0": {
+"drop": -1.9,
+"rng": 2.7
+},
+"dur": 0.4
 },
 "tôm": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"tôm.\" sp=0.7",
-"core": 0.57,
-"dur": 0.81
+"ok": "gate",
+"heard": "tùng",
+"v": 12,
+"src": "tôm",
+"f0": {
+"drop": -1.1,
+"rng": 2.1
+},
+"dur": 0.39
 },
 "con tôm": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"con tôm!\" sp=0.7",
-"core": 0.84,
-"dur": 1.05
+"ok": "ctx",
+"heard": "kon tum",
+"v": 12,
+"src": "con tôm",
+"f0": {
+"drop": -3.3,
+"rng": 6.6
+},
+"dur": 0.61
 },
 "âm": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"âm!\" sp=0.65",
-"core": 0.48,
-"dur": 0.7
+"ok": true,
+"heard": "âm",
+"v": 12,
+"src": "âm",
+"f0": {
+"drop": -0.9,
+"rng": 1.7
+},
+"dur": 0.42
 },
 "nâm": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"nâm.\" sp=0.8",
-"core": 0.4,
-"dur": 0.7
+"ok": true,
+"heard": "nâm",
+"v": 12,
+"src": "nâm",
+"f0": {
+"drop": 1.4,
+"rng": 1.7
+},
+"dur": 0.47
 },
 "gâu": {
 "mode": "short",
-"ok": "vivos",
+"ok": "gate",
 "heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"gâu!\" sp=0.7",
-"core": 0.4,
-"dur": 0.7
+"v": 12,
+"src": "gâu",
+"f0": {
+"drop": -0.4,
+"rng": 1.7
+},
+"dur": 0.49
 },
 "gấu": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"gấu.\" sp=0.7",
-"core": 0.51,
-"dur": 0.75
+"ok": true,
+"heard": "gấu",
+"v": 12,
+"src": "gấu",
+"f0": {
+"drop": 7.2,
+"rng": 8.3
+},
+"dur": 0.5
 },
 "ơn": {
 "mode": "short",
-"ok": "vivos",
+"ok": "gate",
 "heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"ơn!\" sp=0.75",
-"core": 0.39,
-"dur": 0.7
+"v": 12,
+"src": "ơn",
+"f0": {
+"drop": 1.2,
+"rng": 1.8
+},
+"dur": 0.39
 },
 "lơn": {
 "mode": "short",
-"ok": "vivos",
+"ok": "gate",
 "heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"lơn!\" sp=0.8",
-"core": 0.4,
-"dur": 0.64
+"v": 12,
+"src": "lơn",
+"f0": {
+"drop": 0.1,
+"rng": 1.8
+},
+"dur": 0.48
 },
 "lợn": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"lợn.\" sp=0.7",
-"core": 0.55,
-"dur": 0.81
+"ok": true,
+"heard": "lợn",
+"v": 12,
+"src": "lợn",
+"f0": {
+"drop": -1.3,
+"rng": 7.1
+},
+"dur": 0.52
 },
 "en": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"en.\" sp=0.65",
-"core": 0.53,
-"dur": 0.89
+"ok": "gate",
+"heard": "đánh",
+"v": 12,
+"src": "en",
+"f0": {
+"drop": -0.2,
+"rng": 0.7
+},
+"dur": 0.33
 },
 "đen": {
 "mode": "short",
@@ -3323,21 +3772,27 @@
 },
 "ay": {
 "mode": "short",
-"ok": "vivos",
+"ok": "gate",
 "heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"ay.\" sp=0.65",
-"core": 0.52,
-"dur": 0.69
+"v": 12,
+"src": "ay",
+"f0": {
+"drop": -1.3,
+"rng": 2.9
+},
+"dur": 0.35
 },
 "ui": {
 "mode": "short",
-"ok": "vivos",
+"ok": "gate",
 "heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"ui!\" sp=0.65",
-"core": 0.52,
-"dur": 0.73
+"v": 12,
+"src": "ui",
+"f0": {
+"drop": -2.1,
+"rng": 4.1
+},
+"dur": 0.39
 },
 "tui": {
 "mode": "short",
@@ -3353,12 +3808,15 @@
 },
 "ây": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"ây.\" sp=0.75",
-"core": 0.49,
-"dur": 0.85
+"ok": "gate",
+"heard": "a",
+"v": 12,
+"src": "ây",
+"f0": {
+"drop": -1.8,
+"rng": 3.8
+},
+"dur": 0.42
 },
 "mây": {
 "mode": "short",
@@ -3374,12 +3832,15 @@
 },
 "ơm": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"ơm!\" sp=0.65",
-"core": 0.48,
-"dur": 0.74
+"ok": "gate",
+"heard": "ấm",
+"v": 12,
+"src": "ơm",
+"f0": {
+"drop": -0.6,
+"rng": 3.0
+},
+"dur": 0.4
 },
 "bát cơm": {
 "mode": "short",
@@ -3395,21 +3856,27 @@
 },
 "sắc": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"sắc.\" sp=0.7",
-"core": 0.2,
-"dur": 0.44
+"ok": true,
+"heard": "sắc",
+"v": 12,
+"src": "sắc",
+"f0": {
+"drop": 0.9,
+"rng": 1.6
+},
+"dur": 0.42
 },
 "i ngắn": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"i ngắn.\" sp=0.65",
-"core": 0.82,
-"dur": 1.05
+"ok": "gate",
+"heard": "y ngắn",
+"v": 12,
+"src": "i ngắn",
+"f0": {
+"drop": 5.1,
+"rng": 10.0
+},
+"dur": 0.55
 },
 "Tiếng nơ bắt đầu bằng chữ nào?": {
 "mode": "long",
@@ -5140,12 +5607,15 @@
 },
 "ai": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"ai.\" sp=0.75",
-"core": 0.5,
-"dur": 0.71
+"ok": true,
+"heard": "ai",
+"v": 12,
+"src": "ai",
+"f0": {
+"drop": 0.0,
+"rng": 2.7
+},
+"dur": 0.41
 },
 "tai": {
 "mode": "short",
@@ -5161,12 +5631,15 @@
 },
 "cái tai": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"cái tai.\" sp=0.7",
-"core": 0.69,
-"dur": 0.98
+"ok": true,
+"heard": "cái tai",
+"v": 12,
+"src": "cái tai",
+"f0": {
+"drop": 0.4,
+"rng": 7.6
+},
+"dur": 0.57
 },
 "Bé hãy chọn tiếng tai nhé.": {
 "mode": "long",
@@ -5194,12 +5667,15 @@
 },
 "mui": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"mui!\" sp=0.8",
-"core": 0.47,
-"dur": 0.67
+"ok": "gate",
+"heard": "mu",
+"v": 12,
+"src": "mui",
+"f0": {
+"drop": 0.6,
+"rng": 2.3
+},
+"dur": 0.46
 },
 "mũi": {
 "mode": "short",
@@ -5249,30 +5725,39 @@
 },
 "đua": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"đua!\" sp=0.8",
-"core": 0.44,
-"dur": 0.66
+"ok": "gate",
+"heard": "đu",
+"v": 12,
+"src": "đua",
+"f0": {
+"drop": 0.5,
+"rng": 2.0
+},
+"dur": 0.48
 },
 "đũa": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"đũa.\" sp=0.7",
-"core": 0.55,
-"dur": 0.77
+"ok": true,
+"heard": "đũa",
+"v": 12,
+"src": "đũa",
+"f0": {
+"drop": 8.2,
+"rng": 8.7
+},
+"dur": 0.49
 },
 "đôi đũa": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"đôi đũa!\" sp=0.8",
-"core": 0.76,
-"dur": 1.0
+"ok": true,
+"heard": "đôi đũa",
+"v": 12,
+"src": "đôi đũa",
+"f0": {
+"drop": 3.3,
+"rng": 11.1
+},
+"dur": 0.63
 },
 "Bé hãy chọn tiếng đũa nhé.": {
 "mode": "long",
@@ -5392,48 +5877,63 @@
 },
 "ong": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"ong.\" sp=0.75",
-"core": 0.35,
-"dur": 0.64
+"ok": true,
+"heard": "ong",
+"v": 12,
+"src": "ong",
+"f0": {
+"drop": 0.4,
+"rng": 1.5
+},
+"dur": 0.4
 },
 "ngờ": {
 "mode": "short",
-"ok": "vivos",
+"ok": "ctx",
 "heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"ngờ.\" sp=0.65",
-"core": 0.65,
-"dur": 0.86
+"v": 12,
+"src": "ngờ",
+"f0": {
+"drop": -0.8,
+"rng": 2.9
+},
+"dur": 0.49
 },
 "bong": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"bong!\" sp=0.8",
-"core": 0.28,
-"dur": 0.49
+"ok": "gate",
+"heard": "băng",
+"v": 12,
+"src": "bong",
+"f0": {
+"drop": -0.1,
+"rng": 2.4
+},
+"dur": 0.4
 },
 "bóng": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"bóng.\" sp=0.7",
-"core": 0.4,
-"dur": 0.64
+"ok": true,
+"heard": "bóng",
+"v": 12,
+"src": "bóng",
+"f0": {
+"drop": 8.7,
+"rng": 8.9
+},
+"dur": 0.45
 },
 "quả bóng": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"quả bóng.\" sp=0.7",
-"core": 0.68,
-"dur": 0.9
+"ok": true,
+"heard": "quả bóng",
+"v": 12,
+"src": "quả bóng",
+"f0": {
+"drop": 5.4,
+"rng": 14.5
+},
+"dur": 0.64
 },
 "Bé hãy chọn tiếng bóng nhé.": {
 "mode": "long",
@@ -5461,30 +5961,34 @@
 },
 "ach": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"ách.\" sp=0.5",
-"core": 0.35,
-"dur": 0.6
+"ok": "carrier",
+"heard": "bây giờ cô đọc ai",
+"v": 2,
+"dur": 0.34
 },
 "chờ": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"chờ.\" sp=0.65",
-"core": 0.4,
-"dur": 0.69
+"ok": true,
+"heard": "chờ",
+"v": 12,
+"src": "chờ",
+"f0": {
+"drop": -4.9,
+"rng": 6.0
+},
+"dur": 0.49
 },
 "sach": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"sach.\" sp=0.7",
-"core": 0.39,
-"dur": 0.72
+"ok": "gate",
+"heard": "sách",
+"v": 12,
+"src": "sach",
+"f0": {
+"drop": -2.7,
+"rng": 2.8
+},
+"dur": 0.39
 },
 "sách": {
 "mode": "short",
@@ -5500,12 +6004,15 @@
 },
 "quyển sách": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"quyển sách.\" sp=0.7",
-"core": 0.71,
-"dur": 0.93
+"ok": true,
+"heard": "quyển sách",
+"v": 12,
+"src": "quyển sách",
+"f0": {
+"drop": 9.5,
+"rng": 17.1
+},
+"dur": 0.48
 },
 "Bé hãy chọn tiếng sách nhé.": {
 "mode": "long",
@@ -5533,30 +6040,39 @@
 },
 "anh": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"anh!\" sp=0.65",
-"core": 0.45,
-"dur": 0.87
+"ok": true,
+"heard": "anh",
+"v": 12,
+"src": "anh",
+"f0": {
+"drop": -0.6,
+"rng": 2.0
+},
+"dur": 0.47
 },
 "nhờ": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"nhờ.\" sp=0.65",
-"core": 0.57,
-"dur": 0.78
+"ok": true,
+"heard": "nhờ",
+"v": 12,
+"src": "nhờ",
+"f0": {
+"drop": -1.0,
+"rng": 3.8
+},
+"dur": 0.51
 },
 "banh": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"banh.\" sp=0.8",
-"core": 0.37,
-"dur": 0.66
+"ok": "ctx",
+"heard": "bánh",
+"v": 12,
+"src": "banh",
+"f0": {
+"drop": 1.5,
+"rng": 2.6
+},
+"dur": 0.39
 },
 "bánh": {
 "mode": "short",
@@ -5608,39 +6124,46 @@
 },
 "ăt": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"ắt.\" sp=0.5",
-"core": 0.3,
-"dur": 0.5
+"ok": "carrier",
+"heard": "bây giờ cô đọc cả",
+"v": 2,
+"dur": 0.31
 },
 "măt": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"măt.\" sp=0.7",
-"core": 0.28,
-"dur": 0.52
+"ok": "gate",
+"heard": "mặt",
+"v": 12,
+"src": "măt",
+"f0": {
+"drop": 0.2,
+"rng": 0.6
+},
+"dur": 0.36
 },
 "mắt": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"mắt.\" sp=0.8",
-"core": 0.19,
-"dur": 0.46
+"ok": true,
+"heard": "mắt",
+"v": 12,
+"src": "mắt",
+"f0": {
+"drop": 10.7,
+"rng": 11.5
+},
+"dur": 0.34
 },
 "đôi mắt": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"đôi mắt.\" sp=0.7",
-"core": 0.59,
-"dur": 0.9
+"ok": true,
+"heard": "đôi mắt",
+"v": 12,
+"src": "đôi mắt",
+"f0": {
+"drop": 8.6,
+"rng": 12.7
+},
+"dur": 0.57
 },
 "Bé hãy chọn tiếng mắt nhé.": {
 "mode": "long",
@@ -5668,21 +6191,27 @@
 },
 "ut": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"út.\" sp=0.5",
-"core": 0.32,
-"dur": 0.54
+"ok": "gate",
+"heard": "gup",
+"v": 12,
+"src": "út",
+"f0": {
+"drop": 4.8,
+"rng": 7.4
+},
+"dur": 0.3
 },
 "but": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"but.\" sp=0.7",
-"core": 0.16,
-"dur": 0.42
+"ok": "gate",
+"heard": "b",
+"v": 12,
+"src": "but",
+"f0": {
+"drop": 0.0,
+"rng": 0.8
+},
+"dur": 0.44
 },
 "bút": {
 "mode": "short",
@@ -5698,12 +6227,15 @@
 },
 "cái bút": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"cái bút.\" sp=0.8",
-"core": 0.48,
-"dur": 0.81
+"ok": true,
+"heard": "cái bút",
+"v": 12,
+"src": "cái bút",
+"f0": {
+"drop": 11.5,
+"rng": 11.8
+},
+"dur": 0.46
 },
 "Bé hãy chọn tiếng bút nhé.": {
 "mode": "long",
@@ -5729,39 +6261,51 @@
 },
 "ôc": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"ốc.\" sp=0.5",
-"core": 0.24,
-"dur": 0.5
+"ok": "ctx",
+"heard": "úc",
+"v": 12,
+"src": "ốc",
+"f0": {
+"drop": 3.9,
+"rng": 4.6
+},
+"dur": 0.32
 },
 "côc": {
 "mode": "short",
-"ok": "vivos",
+"ok": "gate",
 "heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"côc!\" sp=0.7",
-"core": 0.18,
-"dur": 0.42
+"v": 12,
+"src": "côc",
+"f0": {
+"drop": -2.1,
+"rng": 3.2
+},
+"dur": 0.38
 },
 "cốc": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"cốc.\" sp=0.8",
-"core": 0.13,
-"dur": 0.41
+"ok": "gate",
+"heard": "cúc",
+"v": 12,
+"src": "cốc",
+"f0": {
+"drop": 3.3,
+"rng": 3.6
+},
+"dur": 0.3
 },
 "cái cốc": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"cái cốc.\" sp=0.7",
-"core": 0.5,
-"dur": 0.73
+"ok": true,
+"heard": "cái cốc",
+"v": 12,
+"src": "cái cốc",
+"f0": {
+"drop": 12.3,
+"rng": 12.3
+},
+"dur": 0.46
 },
 "Bé hãy chọn tiếng cốc nhé.": {
 "mode": "long",
@@ -5789,20 +6333,26 @@
 },
 "it": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"ít.\" sp=0.5",
-"core": 0.28,
-"dur": 0.6
+"ok": true,
+"heard": "ít",
+"v": 12,
+"src": "ít",
+"f0": {
+"drop": 5.5,
+"rng": 6.0
+},
+"dur": 0.37
 },
 "vit": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"vit!\" sp=0.8",
-"core": 0.22,
+"ok": "gate",
+"heard": "v",
+"v": 12,
+"src": "vit",
+"f0": {
+"drop": -1.0,
+"rng": 2.0
+},
 "dur": 0.46
 },
 "vịt": {
@@ -5855,39 +6405,51 @@
 },
 "oc": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"óc!\" sp=0.5",
-"core": 0.24,
-"dur": 0.49
+"ok": "ctx",
+"heard": "ốc",
+"v": 12,
+"src": "óc",
+"f0": {
+"drop": 5.7,
+"rng": 5.7
+},
+"dur": 0.31
 },
 "soc": {
 "mode": "short",
-"ok": "vivos",
+"ok": "gate",
 "heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"soc!\" sp=0.8",
-"core": 0.28,
-"dur": 0.56
+"v": 12,
+"src": "soc",
+"f0": {
+"drop": -1.9,
+"rng": 2.3
+},
+"dur": 0.4
 },
 "sóc": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"sóc!\" sp=0.7",
-"core": 0.32,
-"dur": 0.56
+"ok": true,
+"heard": "sóc",
+"v": 12,
+"src": "sóc",
+"f0": {
+"drop": 3.5,
+"rng": 3.5
+},
+"dur": 0.42
 },
 "con sóc": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"con sóc.\" sp=0.7",
-"core": 0.63,
-"dur": 0.83
+"ok": "ctx",
+"heard": "còn sắc",
+"v": 12,
+"src": "con sóc",
+"f0": {
+"drop": 9.9,
+"rng": 12.3
+},
+"dur": 0.5
 },
 "Bé hãy chọn tiếng sóc nhé.": {
 "mode": "long",
@@ -5915,12 +6477,15 @@
 },
 "cho": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"cho!\" sp=0.7",
-"core": 0.46,
-"dur": 0.71
+"ok": true,
+"heard": "cho",
+"v": 12,
+"src": "cho",
+"f0": {
+"drop": -2.4,
+"rng": 3.5
+},
+"dur": 0.37
 },
 "chó": {
 "mode": "short",
@@ -5936,12 +6501,15 @@
 },
 "con chó": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"con chó.\" sp=0.7",
-"core": 0.96,
-"dur": 1.25
+"ok": true,
+"heard": "con chó",
+"v": 12,
+"src": "con chó",
+"f0": {
+"drop": 1.4,
+"rng": 7.4
+},
+"dur": 0.56
 },
 "Bé hãy chọn tiếng chó nhé.": {
 "mode": "long",
@@ -5977,21 +6545,27 @@
 },
 "nhà": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"nhà.\" sp=0.7",
-"core": 0.6,
-"dur": 0.84
+"ok": true,
+"heard": "nhà",
+"v": 12,
+"src": "nhà",
+"f0": {
+"drop": -1.7,
+"rng": 3.6
+},
+"dur": 0.49
 },
 "ngôi nhà": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"ngôi nhà.\" sp=0.7",
-"core": 0.81,
-"dur": 1.08
+"ok": true,
+"heard": "ngôi nhà",
+"v": 12,
+"src": "ngôi nhà",
+"f0": {
+"drop": -0.5,
+"rng": 5.6
+},
+"dur": 0.62
 },
 "Bé hãy chọn tiếng nhà nhé.": {
 "mode": "long",
@@ -6019,21 +6593,27 @@
 },
 "nho": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"nho!\" sp=0.7",
-"core": 0.5,
-"dur": 0.77
+"ok": true,
+"heard": "nho",
+"v": 12,
+"src": "nho",
+"f0": {
+"drop": 0.9,
+"rng": 1.8
+},
+"dur": 0.48
 },
 "chùm nho": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"chùm nho.\" sp=0.7",
-"core": 0.86,
-"dur": 1.08
+"ok": true,
+"heard": "chùm nho",
+"v": 12,
+"src": "chùm nho",
+"f0": {
+"drop": -1.1,
+"rng": 5.2
+},
+"dur": 0.62
 },
 "Bé hãy chọn tiếng nho nhé.": {
 "mode": "long",
@@ -6061,30 +6641,39 @@
 },
 "thờ": {
 "mode": "short",
-"ok": "vivos",
+"ok": "gate",
 "heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"thờ.\" sp=0.65",
-"core": 0.46,
-"dur": 0.67
+"v": 12,
+"src": "thờ",
+"f0": {
+"drop": -3.1,
+"rng": 4.5
+},
+"dur": 0.48
 },
 "tho": {
 "mode": "short",
-"ok": "vivos",
+"ok": "gate",
 "heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"tho!\" sp=0.7",
-"core": 0.68,
-"dur": 0.89
+"v": 12,
+"src": "tho",
+"f0": {
+"drop": 0.0,
+"rng": 1.5
+},
+"dur": 0.38
 },
 "thỏ": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"thỏ.\" sp=0.7",
-"core": 0.44,
-"dur": 0.66
+"ok": true,
+"heard": "thỏ",
+"v": 12,
+"src": "thỏ",
+"f0": {
+"drop": -6.3,
+"rng": 8.0
+},
+"dur": 0.43
 },
 "con thỏ": {
 "mode": "short",
@@ -6124,21 +6713,27 @@
 },
 "phờ": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"phờ.\" sp=0.75",
-"core": 0.55,
-"dur": 0.92
+"ok": true,
+"heard": "phờ",
+"v": 12,
+"src": "phờ",
+"f0": {
+"drop": -3.2,
+"rng": 6.4
+},
+"dur": 0.44
 },
 "phơ": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"phơ.\" sp=0.8",
-"core": 0.37,
-"dur": 0.64
+"ok": "ctx",
+"heard": "ver",
+"v": 12,
+"src": "phơ",
+"f0": {
+"drop": -0.5,
+"rng": 2.6
+},
+"dur": 0.44
 },
 "phở": {
 "mode": "short",
@@ -6190,30 +6785,39 @@
 },
 "khờ": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"khờ.\" sp=0.65",
-"core": 0.42,
-"dur": 0.66
+"ok": "ctx",
+"heard": "c",
+"v": 12,
+"src": "khờ",
+"f0": {
+"drop": -3.5,
+"rng": 4.0
+},
+"dur": 0.39
 },
 "khi": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"khi!\" sp=0.8",
-"core": 0.4,
-"dur": 0.65
+"ok": true,
+"heard": "khi",
+"v": 12,
+"src": "khi",
+"f0": {
+"drop": -2.6,
+"rng": 3.7
+},
+"dur": 0.45
 },
 "khỉ": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"khỉ.\" sp=0.7",
-"core": 0.57,
-"dur": 0.94
+"ok": true,
+"heard": "khỉ",
+"v": 12,
+"src": "khỉ",
+"f0": {
+"drop": -6.3,
+"rng": 7.8
+},
+"dur": 0.39
 },
 "Bé hãy chọn tiếng khỉ nhé.": {
 "mode": "long",
@@ -6239,21 +6843,27 @@
 },
 "ghê": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"ghê.\" sp=0.7",
-"core": 0.44,
-"dur": 0.72
+"ok": true,
+"heard": "ghê",
+"v": 12,
+"src": "ghê",
+"f0": {
+"drop": -0.1,
+"rng": 3.0
+},
+"dur": 0.42
 },
 "ghế": {
 "mode": "short",
-"ok": "vivos",
+"ok": "ctx",
 "heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"ghế!\" sp=0.7",
-"core": 0.34,
-"dur": 0.57
+"v": 12,
+"src": "ghế",
+"f0": {
+"drop": 8.1,
+"rng": 9.6
+},
+"dur": 0.44
 },
 "cái ghế": {
 "mode": "short",
@@ -6292,30 +6902,34 @@
 },
 "nghe": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"nghe!\" sp=0.7",
-"core": 0.66,
-"dur": 0.89
+"ok": true,
+"heard": "nghe",
+"v": 12,
+"src": "nghe",
+"f0": {
+"drop": 0.2,
+"rng": 2.1
+},
+"dur": 0.45
 },
 "nghé": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"nghé.\" sp=0.7",
-"core": 0.34,
-"dur": 0.6
+"ok": "gate",
+"heard": "né",
+"v": 12,
+"src": "nghé",
+"f0": {
+"drop": 8.4,
+"rng": 9.6
+},
+"dur": 0.49
 },
 "con nghé": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"con nghé.\" sp=0.7",
-"core": 0.64,
-"dur": 0.94
+"ok": true,
+"heard": "bây giờ cô đọc con nghé nhé",
+"v": 2,
+"dur": 0.34
 },
 "Bé hãy chọn tiếng nghé nhé.": {
 "mode": "long",
@@ -6346,12 +6960,15 @@
 },
 "bắp ngô": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"bắp ngô.\" sp=0.7",
-"core": 0.8,
-"dur": 1.01
+"ok": "gate",
+"heard": "bắt mô",
+"v": 12,
+"src": "bắp ngô",
+"f0": {
+"drop": -6.5,
+"rng": 11.1
+},
+"dur": 0.58
 },
 "Bé hãy chọn tiếng ngô nhé.": {
 "mode": "long",
@@ -6388,12 +7005,15 @@
 },
 "quà": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"quà.\" sp=0.7",
-"core": 0.41,
-"dur": 0.66
+"ok": "ctx",
+"heard": "qua",
+"v": 12,
+"src": "quà",
+"f0": {
+"drop": -3.1,
+"rng": 4.6
+},
+"dur": 0.4
 },
 "Bé hãy chọn tiếng quà nhé.": {
 "mode": "long",
@@ -6421,30 +7041,39 @@
 },
 "di": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"di.\" sp=0.75",
-"core": 0.58,
-"dur": 0.78
+"ok": "gate",
+"heard": "gì",
+"v": 12,
+"src": "di",
+"f0": {
+"drop": -1.8,
+"rng": 4.4
+},
+"dur": 0.44
 },
 "giay": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"giay!\" sp=0.8",
-"core": 0.46,
-"dur": 0.69
+"ok": "gate",
+"heard": "c",
+"v": 12,
+"src": "giay",
+"f0": {
+"drop": -1.8,
+"rng": 3.5
+},
+"dur": 0.47
 },
 "giày": {
 "mode": "short",
-"ok": "vivos",
+"ok": "ctx",
 "heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"giày.\" sp=0.7",
-"core": 0.36,
-"dur": 0.63
+"v": 12,
+"src": "giày",
+"f0": {
+"drop": -3.5,
+"rng": 6.8
+},
+"dur": 0.47
 },
 "đôi giày": {
 "mode": "short",
@@ -6494,12 +7123,15 @@
 },
 "lá thư": {
 "mode": "short",
-"ok": "vivos",
+"ok": "ctx",
 "heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"lá thư.\" sp=0.7",
-"core": 1.04,
-"dur": 1.28
+"v": 12,
+"src": "lá thư",
+"f0": {
+"drop": 8.7,
+"rng": 11.1
+},
+"dur": 0.43
 },
 "Bé hãy chọn tiếng thư nhé.": {
 "mode": "long",
@@ -6527,12 +7159,15 @@
 },
 "chanh": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"chanh!\" sp=0.7",
-"core": 0.44,
-"dur": 0.65
+"ok": "gate",
+"heard": "tranh",
+"v": 12,
+"src": "chanh",
+"f0": {
+"drop": 0.1,
+"rng": 2.2
+},
+"dur": 0.44
 },
 "quả chanh": {
 "mode": "short",
@@ -6570,21 +7205,27 @@
 },
 "trờ": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"trờ.\" sp=0.65",
-"core": 0.39,
-"dur": 0.61
+"ok": "gate",
+"heard": "chờ",
+"v": 12,
+"src": "trờ",
+"f0": {
+"drop": -4.4,
+"rng": 10.4
+},
+"dur": 0.49
 },
 "ông": {
 "mode": "short",
-"ok": "vivos",
+"ok": "gate",
 "heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"ông.\" sp=0.75",
-"core": 0.42,
-"dur": 0.68
+"v": 12,
+"src": "ông",
+"f0": {
+"drop": -0.3,
+"rng": 0.9
+},
+"dur": 0.33
 },
 "trông": {
 "mode": "short",
@@ -6600,21 +7241,27 @@
 },
 "trống": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"trống!\" sp=0.8",
-"core": 0.28,
-"dur": 0.51
+"ok": true,
+"heard": "trống",
+"v": 12,
+"src": "trống",
+"f0": {
+"drop": 5.2,
+"rng": 7.3
+},
+"dur": 0.42
 },
 "cái trống": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"cái trống.\" sp=0.7",
-"core": 0.66,
-"dur": 0.97
+"ok": true,
+"heard": "cái trống",
+"v": 12,
+"src": "cái trống",
+"f0": {
+"drop": 4.8,
+"rng": 9.0
+},
+"dur": 0.56
 },
 "Bé hãy chọn tiếng trống nhé.": {
 "mode": "long",
@@ -7030,30 +7677,39 @@
 },
 "con kiến": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"con kiến.\" sp=0.7",
-"core": 0.82,
-"dur": 1.02
+"ok": "ctx",
+"heard": "con",
+"v": 12,
+"src": "con kiến",
+"f0": {
+"drop": -0.6,
+"rng": 0.9
+},
+"dur": 0.31
 },
 "cái gương": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"cái gương.\" sp=0.7",
-"core": 0.72,
-"dur": 1.0
+"ok": "ctx",
+"heard": "cái khừng",
+"v": 12,
+"src": "cái gương",
+"f0": {
+"drop": 1.1,
+"rng": 9.4
+},
+"dur": 0.6
 },
 "cái ghim": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"cái ghim.\" sp=0.7",
-"core": 0.75,
-"dur": 0.97
+"ok": "gate",
+"heard": "cái khinh",
+"v": 12,
+"src": "cái ghim",
+"f0": {
+"drop": 1.9,
+"rng": 8.0
+},
+"dur": 0.51
 },
 "con ngựa": {
 "mode": "short",
@@ -7069,12 +7725,15 @@
 },
 "lắng nghe": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"lắng nghe.\" sp=0.7",
-"core": 0.87,
-"dur": 1.07
+"ok": true,
+"heard": "lắng nghe",
+"v": 12,
+"src": "lắng nghe",
+"f0": {
+"drop": 3.1,
+"rng": 10.0
+},
+"dur": 0.66
 },
 "Bé có quả táo.": {
 "mode": "long",
@@ -8066,39 +8725,46 @@
 },
 "chôi": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"chôi.\" sp=0.8",
-"core": 0.38,
-"dur": 0.59
+"ok": "gate",
+"heard": "chồi",
+"v": 12,
+"src": "chôi",
+"f0": {
+"drop": -4.2,
+"rng": 5.4
+},
+"dur": 0.47
 },
 "ôi": {
 "mode": "short",
-"ok": "vivos",
+"ok": "gate",
 "heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"ôi!\" sp=0.65",
-"core": 0.58,
-"dur": 0.82
+"v": 12,
+"src": "ôi",
+"f0": {
+"drop": -2.3,
+"rng": 3.4
+},
+"dur": 0.45
 },
 "chổi": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"chổi.\" sp=0.7",
-"core": 0.4,
-"dur": 0.6
+"ok": true,
+"heard": "bây giờ cô đọc chổi nhé",
+"v": 2,
+"dur": 0.32
 },
 "cái chổi": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"cái chổi.\" sp=0.7",
-"core": 0.76,
-"dur": 0.99
+"ok": true,
+"heard": "cái chổi",
+"v": 12,
+"src": "cái chổi",
+"f0": {
+"drop": -3.6,
+"rng": 12.0
+},
+"dur": 0.6
 },
 "bơi": {
 "mode": "short",
@@ -8114,156 +8780,207 @@
 },
 "ơi": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"ơi.\" sp=0.75",
-"core": 0.39,
-"dur": 0.71
+"ok": true,
+"heard": "ơi",
+"v": 12,
+"src": "ơi",
+"f0": {
+"drop": -1.7,
+"rng": 4.3
+},
+"dur": 0.51
 },
 "bơi lội": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"bơi lội.\" sp=0.7",
-"core": 0.84,
-"dur": 1.07
+"ok": true,
+"heard": "bơi lội",
+"v": 12,
+"src": "bơi lội",
+"f0": {
+"drop": 0.5,
+"rng": 14.2
+},
+"dur": 0.62
 },
 "lêu": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"lêu!\" sp=0.8",
-"core": 0.25,
-"dur": 0.48
+"ok": "gate",
+"heard": "lưu",
+"v": 12,
+"src": "lêu",
+"f0": {
+"drop": 3.1,
+"rng": 4.2
+},
+"dur": 0.5
 },
 "êu": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"êu!\" sp=0.75",
-"core": 0.43,
-"dur": 0.62
+"ok": "gate",
+"heard": "ê",
+"v": 12,
+"src": "êu",
+"f0": {
+"drop": 0.5,
+"rng": 2.9
+},
+"dur": 0.47
 },
 "lều": {
 "mode": "short",
-"ok": "vivos",
+"ok": "ctx",
 "heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"lều.\" sp=0.7",
-"core": 0.57,
-"dur": 0.8
+"v": 12,
+"src": "lều",
+"f0": {
+"drop": -2.1,
+"rng": 6.3
+},
+"dur": 0.5
 },
 "cái lều": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"cái lều.\" sp=0.7",
-"core": 0.9,
-"dur": 1.16
+"ok": true,
+"heard": "cái lều",
+"v": 12,
+"src": "cái lều",
+"f0": {
+"drop": -2.9,
+"rng": 10.4
+},
+"dur": 0.58
 },
 "riu": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"riu.\" sp=0.8",
-"core": 0.38,
-"dur": 0.63
+"ok": "gate",
+"heard": "gì",
+"v": 12,
+"src": "riu",
+"f0": {
+"drop": -1.1,
+"rng": 2.6
+},
+"dur": 0.45
 },
 "iu": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"iu.\" sp=0.65",
-"core": 0.67,
-"dur": 1.08
+"ok": "gate",
+"heard": "you",
+"v": 12,
+"src": "iu",
+"f0": {
+"drop": 0.4,
+"rng": 2.0
+},
+"dur": 0.42
 },
 "rìu": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"rìu.\" sp=0.7",
-"core": 0.5,
-"dur": 0.81
+"ok": true,
+"heard": "rìu",
+"v": 12,
+"src": "rìu",
+"f0": {
+"drop": -4.6,
+"rng": 5.3
+},
+"dur": 0.44
 },
 "cái rìu": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"cái rìu.\" sp=0.7",
-"core": 0.85,
-"dur": 1.1
+"ok": true,
+"heard": "cái rìu",
+"v": 12,
+"src": "cái rìu",
+"f0": {
+"drop": -0.5,
+"rng": 11.1
+},
+"dur": 0.61
 },
 "cưu": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"cưu!\" sp=0.8",
-"core": 0.44,
-"dur": 0.64
+"ok": "gate",
+"heard": "cứ",
+"v": 12,
+"src": "cưu",
+"f0": {
+"drop": -0.9,
+"rng": 2.1
+},
+"dur": 0.36
 },
 "ưu": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"ưu.\" sp=0.65",
-"core": 0.56,
-"dur": 0.8
+"ok": "gate",
+"heard": "yout",
+"v": 12,
+"src": "ưu",
+"f0": {
+"drop": -0.5,
+"rng": 2.3
+},
+"dur": 0.39
 },
 "cừu": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"cừu.\" sp=0.7",
-"core": 0.53,
-"dur": 0.84
+"ok": true,
+"heard": "cừu",
+"v": 12,
+"src": "cừu",
+"f0": {
+"drop": -4.2,
+"rng": 5.6
+},
+"dur": 0.42
 },
 "con cừu": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"con cừu.\" sp=0.7",
-"core": 0.94,
-"dur": 1.19
+"ok": true,
+"heard": "con cừu",
+"v": 12,
+"src": "con cừu",
+"f0": {
+"drop": -3.8,
+"rng": 7.9
+},
+"dur": 0.57
 },
 "tăm": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"tăm.\" sp=0.7",
-"core": 0.58,
-"dur": 0.94
+"ok": true,
+"heard": "tăm",
+"v": 12,
+"src": "tăm",
+"f0": {
+"drop": -0.1,
+"rng": 2.3
+},
+"dur": 0.44
 },
 "ăm": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"ăm!\" sp=0.65",
-"core": 0.38,
-"dur": 0.59
+"ok": "gate",
+"heard": "àm",
+"v": 12,
+"src": "ăm",
+"f0": {
+"drop": 0.0,
+"rng": 1.0
+},
+"dur": 0.45
 },
 "tắm": {
 "mode": "short",
-"ok": "vivos",
+"ok": "gate",
 "heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"tắm.\" sp=0.8",
-"core": 0.24,
-"dur": 0.47
+"v": 12,
+"src": "tắm",
+"f0": {
+"drop": 8.3,
+"rng": 9.5
+},
+"dur": 0.39
 },
 "bồn tắm": {
 "mode": "short",
@@ -8279,21 +8996,22 @@
 },
 "đêm": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"đêm.\" sp=0.8",
-"core": 0.52,
-"dur": 0.75
+"ok": true,
+"heard": "bây giờ cô đọc đêm",
+"v": 2,
+"dur": 0.46
 },
 "êm": {
 "mode": "short",
-"ok": "vivos",
+"ok": "gate",
 "heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"êm.\" sp=0.65",
-"core": 0.68,
-"dur": 1.02
+"v": 12,
+"src": "êm",
+"f0": {
+"drop": -0.5,
+"rng": 1.7
+},
+"dur": 0.45
 },
 "ban đêm": {
 "mode": "short",
@@ -8321,21 +9039,27 @@
 },
 "im": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"im.\" sp=0.65",
-"core": 0.38,
-"dur": 0.63
+"ok": "gate",
+"heard": "in",
+"v": 12,
+"src": "im",
+"f0": {
+"drop": -1.2,
+"rng": 2.2
+},
+"dur": 0.4
 },
 "con chim": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"con chim.\" sp=0.7",
-"core": 0.86,
-"dur": 1.06
+"ok": true,
+"heard": "con chim",
+"v": 12,
+"src": "con chim",
+"f0": {
+"drop": -1.5,
+"rng": 4.4
+},
+"dur": 0.63
 },
 "chum": {
 "mode": "short",
@@ -8351,84 +9075,111 @@
 },
 "um": {
 "mode": "short",
-"ok": "vivos",
+"ok": "gate",
 "heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"um.\" sp=0.75",
-"core": 0.4,
-"dur": 0.65
+"v": 12,
+"src": "um",
+"f0": {
+"drop": 0.5,
+"rng": 2.1
+},
+"dur": 0.42
 },
 "chùm": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"chùm.\" sp=0.7",
-"core": 0.34,
-"dur": 0.55
+"ok": true,
+"heard": "chùm",
+"v": 12,
+"src": "chùm",
+"f0": {
+"drop": -4.9,
+"rng": 6.2
+},
+"dur": 0.49
 },
 "đan": {
 "mode": "short",
-"ok": "vivos",
+"ok": "ctx",
 "heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"đan!\" sp=0.7",
-"core": 0.44,
-"dur": 0.67
+"v": 12,
+"src": "đan",
+"f0": {
+"drop": 0.0,
+"rng": 2.6
+},
+"dur": 0.47
 },
 "an": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"an!\" sp=0.75",
-"core": 0.44,
-"dur": 0.73
+"ok": true,
+"heard": "an",
+"v": 12,
+"src": "an",
+"f0": {
+"drop": -0.6,
+"rng": 0.7
+},
+"dur": 0.35
 },
 "đàn": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"đàn.\" sp=0.8",
-"core": 0.46,
-"dur": 0.67
+"ok": true,
+"heard": "đàn",
+"v": 12,
+"src": "đàn",
+"f0": {
+"drop": -3.7,
+"rng": 5.0
+},
+"dur": 0.48
 },
 "cây đàn": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"cây đàn.\" sp=0.8",
-"core": 0.69,
-"dur": 0.95
+"ok": true,
+"heard": "cây đàn",
+"v": 12,
+"src": "cây đàn",
+"f0": {
+"drop": -3.1,
+"rng": 5.9
+},
+"dur": 0.58
 },
 "khăn": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"khăn!\" sp=0.7",
-"core": 0.52,
-"dur": 0.75
+"ok": true,
+"heard": "khăn",
+"v": 12,
+"src": "khăn",
+"f0": {
+"drop": -1.8,
+"rng": 3.3
+},
+"dur": 0.4
 },
 "ăn": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"ăn.\" sp=0.65",
-"core": 0.5,
-"dur": 0.78
+"ok": true,
+"heard": "ăn",
+"v": 12,
+"src": "ăn",
+"f0": {
+"drop": -0.4,
+"rng": 0.9
+},
+"dur": 0.4
 },
 "cái khăn": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"cái khăn!\" sp=0.7",
-"core": 0.84,
-"dur": 1.07
+"ok": true,
+"heard": "cái khăn",
+"v": 12,
+"src": "cái khăn",
+"f0": {
+"drop": 1.6,
+"rng": 6.4
+},
+"dur": 0.51
 },
 "chân": {
 "mode": "short",
@@ -8439,93 +9190,118 @@
 },
 "ân": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"ân.\" sp=0.75",
-"core": 0.44,
-"dur": 0.64
+"ok": "gate",
+"heard": "ấn",
+"v": 12,
+"src": "ân",
+"f0": {
+"drop": -1.1,
+"rng": 1.9
+},
+"dur": 0.39
 },
 "bàn chân": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"bàn chân.\" sp=0.7",
-"core": 0.7,
-"dur": 0.97
+"ok": true,
+"heard": "bàn chân",
+"v": 12,
+"src": "bàn chân",
+"f0": {
+"drop": 0.2,
+"rng": 5.7
+},
+"dur": 0.62
 },
 "nên": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"nên.\" sp=0.7",
-"core": 0.46,
-"dur": 0.71
+"ok": true,
+"heard": "nên",
+"v": 12,
+"src": "nên",
+"f0": {
+"drop": 0.7,
+"rng": 2.3
+},
+"dur": 0.45
 },
 "ên": {
 "mode": "short",
-"ok": "vivos",
+"ok": "gate",
 "heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"ên!\" sp=0.65",
-"core": 0.3,
-"dur": 0.52
+"v": 12,
+"src": "ên",
+"f0": {
+"drop": -0.7,
+"rng": 1.4
+},
+"dur": 0.4
 },
 "nến": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"nến.\" sp=0.7",
-"core": 0.42,
-"dur": 0.65
+"ok": true,
+"heard": "nến",
+"v": 12,
+"src": "nến",
+"f0": {
+"drop": 9.9,
+"rng": 11.2
+},
+"dur": 0.52
 },
 "cây nến": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"cây nến.\" sp=0.7",
-"core": 0.76,
-"dur": 1.13
+"ok": true,
+"heard": "cây nến",
+"v": 12,
+"src": "cây nến",
+"f0": {
+"drop": 2.5,
+"rng": 10.2
+},
+"dur": 0.59
 },
 "pin": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"pin.\" sp=0.7",
-"core": 0.38,
-"dur": 0.59
+"ok": "gate",
+"heard": "ký",
+"v": 12,
+"src": "pin",
+"f0": {
+"drop": -1.3,
+"rng": 2.1
+},
+"dur": 0.37
 },
 "in": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"in.\" sp=0.65",
-"core": 0.36,
-"dur": 0.71
+"ok": true,
+"heard": "bây giờ cô đọc in nhé",
+"v": 2,
+"dur": 0.33
 },
 "non": {
 "mode": "short",
-"ok": "vivos",
+"ok": "gate",
 "heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"non!\" sp=0.7",
-"core": 0.46,
-"dur": 0.69
+"v": 12,
+"src": "non",
+"f0": {
+"drop": 0.4,
+"rng": 2.7
+},
+"dur": 0.48
 },
 "on": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"on!\" sp=0.75",
-"core": 0.44,
-"dur": 0.67
+"ok": true,
+"heard": "on",
+"v": 12,
+"src": "on",
+"f0": {
+"drop": -1.2,
+"rng": 1.9
+},
+"dur": 0.42
 },
 "nón": {
 "mode": "short",
@@ -8541,39 +9317,51 @@
 },
 "cái nón": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"cái nón!\" sp=0.8",
-"core": 0.66,
-"dur": 0.94
+"ok": true,
+"heard": "cái nón",
+"v": 12,
+"src": "cái nón",
+"f0": {
+"drop": 7.5,
+"rng": 9.0
+},
+"dur": 0.59
 },
 "giun": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"giun.\" sp=0.8",
-"core": 0.52,
-"dur": 0.76
+"ok": "gate",
+"heard": "giùm",
+"v": 12,
+"src": "giun",
+"f0": {
+"drop": 0.0,
+"rng": 1.0
+},
+"dur": 0.47
 },
 "un": {
 "mode": "short",
-"ok": "vivos",
+"ok": "gate",
 "heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"un.\" sp=0.65",
-"core": 0.6,
-"dur": 0.9
+"v": 12,
+"src": "un",
+"f0": {
+"drop": 0.7,
+"rng": 1.9
+},
+"dur": 0.35
 },
 "con giun": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"con giun.\" sp=0.7",
-"core": 0.89,
-"dur": 1.15
+"ok": "gate",
+"heard": "cong",
+"v": 12,
+"src": "con giun",
+"f0": {
+"drop": -0.6,
+"rng": 4.8
+},
+"dur": 0.56
 },
 "thang": {
 "mode": "short",
@@ -8589,39 +9377,51 @@
 },
 "ang": {
 "mode": "short",
-"ok": "vivos",
+"ok": "gate",
 "heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"ang!\" sp=0.65",
-"core": 0.61,
-"dur": 0.92
+"v": 12,
+"src": "ang",
+"f0": {
+"drop": -0.2,
+"rng": 0.7
+},
+"dur": 0.37
 },
 "cái thang": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"cái thang.\" sp=0.7",
-"core": 0.74,
-"dur": 0.96
+"ok": true,
+"heard": "cái thang",
+"v": 12,
+"src": "cái thang",
+"f0": {
+"drop": 1.3,
+"rng": 6.6
+},
+"dur": 0.54
 },
 "trăng": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"trăng!\" sp=0.8",
-"core": 0.36,
-"dur": 0.64
+"ok": true,
+"heard": "trăng",
+"v": 12,
+"src": "trăng",
+"f0": {
+"drop": -1.0,
+"rng": 2.6
+},
+"dur": 0.41
 },
 "ăng": {
 "mode": "short",
-"ok": "vivos",
+"ok": "gate",
 "heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"ăng!\" sp=0.75",
-"core": 0.5,
-"dur": 0.68
+"v": 12,
+"src": "ăng",
+"f0": {
+"drop": -0.4,
+"rng": 0.9
+},
+"dur": 0.47
 },
 "ông trăng": {
 "mode": "short",
@@ -8637,39 +9437,46 @@
 },
 "thung": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"thung!\" sp=0.8",
-"core": 0.58,
-"dur": 0.81
+"ok": true,
+"heard": "bây giờ cô đọc thung nhé",
+"v": 2,
+"dur": 0.32
 },
 "ung": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"ung.\" sp=0.75",
-"core": 0.46,
-"dur": 0.72
+"ok": "gate",
+"heard": "cùng",
+"v": 12,
+"src": "ung",
+"f0": {
+"drop": -0.1,
+"rng": 0.5
+},
+"dur": 0.36
 },
 "thùng": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"thùng.\" sp=0.7",
-"core": 0.59,
-"dur": 0.94
+"ok": true,
+"heard": "thùng",
+"v": 12,
+"src": "thùng",
+"f0": {
+"drop": -3.6,
+"rng": 4.6
+},
+"dur": 0.48
 },
 "cái thùng": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"cái thùng.\" sp=0.7",
-"core": 0.66,
-"dur": 0.94
+"ok": true,
+"heard": "cái thùng",
+"v": 12,
+"src": "cái thùng",
+"f0": {
+"drop": -3.7,
+"rng": 13.2
+},
+"dur": 0.57
 },
 "trưng": {
 "mode": "short",
@@ -8685,84 +9492,111 @@
 },
 "ưng": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"ưng!\" sp=0.65",
-"core": 0.4,
-"dur": 0.66
+"ok": "gate",
+"heard": "gừng",
+"v": 12,
+"src": "ưng",
+"f0": {
+"drop": -1.0,
+"rng": 2.1
+},
+"dur": 0.43
 },
 "trứng": {
 "mode": "short",
-"ok": "vivos",
+"ok": "gate",
 "heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"trứng!\" sp=0.7",
-"core": 0.31,
-"dur": 0.65
+"v": 12,
+"src": "trứng",
+"f0": {
+"drop": 6.7,
+"rng": 8.3
+},
+"dur": 0.44
 },
 "quả trứng": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"quả trứng.\" sp=0.7",
-"core": 0.66,
-"dur": 0.89
+"ok": "ctx",
+"heard": "quà chứng",
+"v": 12,
+"src": "quả trứng",
+"f0": {
+"drop": 7.1,
+"rng": 14.4
+},
+"dur": 0.59
 },
 "kinh": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"kinh.\" sp=0.8",
-"core": 0.31,
-"dur": 0.69
+"ok": true,
+"heard": "kinh",
+"v": 12,
+"src": "kinh",
+"f0": {
+"drop": -0.4,
+"rng": 3.1
+},
+"dur": 0.46
 },
 "inh": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"inh.\" sp=0.65",
-"core": 0.46,
-"dur": 0.68
+"ok": "gate",
+"heard": "in",
+"v": 12,
+"src": "inh",
+"f0": {
+"drop": -0.4,
+"rng": 1.9
+},
+"dur": 0.45
 },
 "kính": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"kính.\" sp=0.7",
-"core": 0.3,
-"dur": 0.63
+"ok": true,
+"heard": "kính",
+"v": 12,
+"src": "kính",
+"f0": {
+"drop": 7.7,
+"rng": 10.2
+},
+"dur": 0.48
 },
 "cái kính": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"cái kính.\" sp=0.7",
-"core": 0.59,
-"dur": 0.81
+"ok": true,
+"heard": "cái kính",
+"v": 12,
+"src": "cái kính",
+"f0": {
+"drop": 6.5,
+"rng": 8.5
+},
+"dur": 0.55
 },
 "nhac": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"nhac.\" sp=0.8",
-"core": 0.58,
-"dur": 0.82
+"ok": "gate",
+"heard": "e",
+"v": 12,
+"src": "nhac",
+"f0": {
+"drop": 1.3,
+"rng": 2.6
+},
+"dur": 0.49
 },
 "ac": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"ác.\" sp=0.5",
-"core": 0.22,
-"dur": 0.42
+"ok": true,
+"heard": "ác",
+"v": 12,
+"src": "ác",
+"f0": {
+"drop": 4.4,
+"rng": 4.9
+},
+"dur": 0.34
 },
 "nhạc": {
 "mode": "short",
@@ -8790,57 +9624,60 @@
 },
 "cuc": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"cuc.\" sp=0.7",
-"core": 0.2,
-"dur": 0.43
+"ok": "gate",
+"heard": "có",
+"v": 12,
+"src": "cuc",
+"f0": {
+"drop": -1.7,
+"rng": 2.0
+},
+"dur": 0.3
 },
 "uc": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"úc.\" sp=0.5",
-"core": 0.33,
-"dur": 0.54
+"ok": "carrier",
+"heard": "bây giờ cô đọc à",
+"v": 2,
+"dur": 0.33
 },
 "cúc": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"cúc.\" sp=0.7",
-"core": 0.22,
-"dur": 0.46
+"ok": "carrier",
+"heard": "bây giờ cô đọc quốc",
+"v": 2,
+"dur": 0.33
 },
 "hoa cúc": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"hoa cúc!\" sp=0.7",
-"core": 0.55,
-"dur": 0.8
+"ok": "ctx",
+"heard": "hoá cúc",
+"v": 12,
+"src": "hoa cúc",
+"f0": {
+"drop": 10.4,
+"rng": 11.7
+},
+"dur": 0.46
 },
 "mưc": {
 "mode": "short",
-"ok": "vivos",
+"ok": "gate",
 "heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"mưc!\" sp=0.7",
-"core": 0.26,
-"dur": 0.49
+"v": 12,
+"src": "mưc",
+"f0": {
+"drop": 0.3,
+"rng": 2.4
+},
+"dur": 0.38
 },
 "ưc": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"ức!\" sp=0.5",
-"core": 0.2,
-"dur": 0.5
+"ok": "carrier",
+"heard": "bây giờ cô đọc ở",
+"v": 2,
+"dur": 0.31
 },
 "mực": {
 "mode": "short",
@@ -8868,48 +9705,63 @@
 },
 "êch": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"ếch.\" sp=0.7",
-"core": 0.31,
-"dur": 0.57
+"ok": "gate",
+"heard": "x",
+"v": 12,
+"src": "ếch",
+"f0": {
+"drop": 5.1,
+"rng": 6.0
+},
+"dur": 0.33
 },
 "ếch": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"ếch!\" sp=0.7",
-"core": 0.23,
-"dur": 0.51
+"ok": "gate",
+"heard": "x",
+"v": 12,
+"src": "ếch",
+"f0": {
+"drop": 4.1,
+"rng": 4.7
+},
+"dur": 0.33
 },
 "lich": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"lich.\" sp=0.7",
-"core": 0.44,
-"dur": 0.68
+"ok": "gate",
+"heard": "cri",
+"v": 12,
+"src": "lich",
+"f0": {
+"drop": 2.2,
+"rng": 4.2
+},
+"dur": 0.39
 },
 "ich": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"ích.\" sp=0.5",
-"core": 0.24,
-"dur": 0.43
+"ok": "gate",
+"heard": "ít",
+"v": 12,
+"src": "ích",
+"f0": {
+"drop": 4.2,
+"rng": 5.3
+},
+"dur": 0.33
 },
 "lịch": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"lịch.\" sp=0.8",
-"core": 0.28,
-"dur": 0.55
+"ok": true,
+"heard": "lịch",
+"v": 12,
+"src": "lịch",
+"f0": {
+"drop": -0.6,
+"rng": 3.7
+},
+"dur": 0.36
 },
 "tờ lịch": {
 "mode": "short",
@@ -8925,57 +9777,70 @@
 },
 "hat": {
 "mode": "short",
-"ok": "vivos",
+"ok": "gate",
 "heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"hat!\" sp=0.7",
-"core": 0.2,
-"dur": 0.41
+"v": 12,
+"src": "hat",
+"f0": {
+"drop": -0.5,
+"rng": 1.9
+},
+"dur": 0.39
 },
 "at": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"át.\" sp=0.5",
-"core": 0.39,
-"dur": 0.64
+"ok": true,
+"heard": "át",
+"v": 12,
+"src": "át",
+"f0": {
+"drop": 6.1,
+"rng": 6.3
+},
+"dur": 0.32
 },
 "hát": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"hát.\" sp=0.7",
-"core": 0.25,
-"dur": 0.49
+"ok": "ctx",
+"heard": "khác",
+"v": 12,
+"src": "hát",
+"f0": {
+"drop": 6.0,
+"rng": 6.2
+},
+"dur": 0.34
 },
 "ca hát": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"ca hát.\" sp=0.7",
-"core": 0.59,
-"dur": 0.95
+"ok": true,
+"heard": "ca hát",
+"v": 12,
+"src": "ca hát",
+"f0": {
+"drop": 10.4,
+"rng": 10.6
+},
+"dur": 0.39
 },
 "mât": {
 "mode": "short",
-"ok": "vivos",
+"ok": "gate",
 "heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"mât.\" sp=0.7",
-"core": 0.24,
-"dur": 0.5
+"v": 12,
+"src": "mât",
+"f0": {
+"drop": 1.1,
+"rng": 2.3
+},
+"dur": 0.38
 },
 "ât": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"ất.\" sp=0.5",
-"core": 0.21,
-"dur": 0.44
+"ok": "carrier",
+"heard": "bây giờ cô đọc à",
+"v": 2,
+"dur": 0.33
 },
 "mật": {
 "mode": "short",
@@ -8991,75 +9856,99 @@
 },
 "mật ong": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"mật ong.\" sp=0.8",
-"core": 0.74,
-"dur": 0.94
+"ok": true,
+"heard": "mật ong",
+"v": 12,
+"src": "mật ong",
+"f0": {
+"drop": 4.9,
+"rng": 5.7
+},
+"dur": 0.57
 },
 "vet": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"vet.\" sp=0.8",
-"core": 0.34,
-"dur": 0.68
+"ok": "gate",
+"heard": "v",
+"v": 12,
+"src": "vet",
+"f0": {
+"drop": -1.6,
+"rng": 2.2
+},
+"dur": 0.39
 },
 "et": {
 "mode": "short",
-"ok": "vivos",
+"ok": "gate",
 "heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"ét.\" sp=0.5",
-"core": 0.38,
-"dur": 0.66
+"v": 12,
+"src": "ét",
+"f0": {
+"drop": 6.4,
+"rng": 7.1
+},
+"dur": 0.31
 },
 "vẹt": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"vẹt.\" sp=0.7",
-"core": 0.3,
-"dur": 0.54
+"ok": true,
+"heard": "vẹt",
+"v": 12,
+"src": "vẹt",
+"f0": {
+"drop": -3.0,
+"rng": 3.7
+},
+"dur": 0.35
 },
 "con vẹt": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"con vẹt.\" sp=0.7",
-"core": 0.6,
-"dur": 0.81
+"ok": true,
+"heard": "con vẹt",
+"v": 12,
+"src": "con vẹt",
+"f0": {
+"drop": -2.0,
+"rng": 13.3
+},
+"dur": 0.63
 },
 "rôt": {
 "mode": "short",
-"ok": "vivos",
+"ok": "gate",
 "heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"rôt.\" sp=0.7",
-"core": 0.3,
-"dur": 0.58
+"v": 12,
+"src": "rôt",
+"f0": {
+"drop": -1.9,
+"rng": 2.1
+},
+"dur": 0.4
 },
 "ôt": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"ốt.\" sp=0.5",
-"core": 0.27,
-"dur": 0.57
+"ok": true,
+"heard": "ốt",
+"v": 12,
+"src": "ốt",
+"f0": {
+"drop": 6.0,
+"rng": 6.8
+},
+"dur": 0.31
 },
 "rốt": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"rốt.\" sp=0.7",
-"core": 0.34,
-"dur": 0.58
+"ok": "gate",
+"heard": "rút",
+"v": 12,
+"src": "rốt",
+"f0": {
+"drop": 4.6,
+"rng": 4.6
+},
+"dur": 0.39
 },
 "cà rốt": {
 "mode": "short",
@@ -9075,318 +9964,408 @@
 },
 "ơt": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"ớt.\" sp=0.5",
-"core": 0.3,
-"dur": 0.54
+"ok": true,
+"heard": "ớt",
+"v": 12,
+"src": "ớt",
+"f0": {
+"drop": 5.4,
+"rng": 6.7
+},
+"dur": 0.3
 },
 "ớt": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"ớt.\" sp=0.7",
-"core": 0.21,
-"dur": 0.52
+"ok": true,
+"heard": "ớt",
+"v": 12,
+"src": "ớt",
+"f0": {
+"drop": 7.1,
+"rng": 7.1
+},
+"dur": 0.31
 },
 "thap": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"thap.\" sp=0.7",
-"core": 0.3,
-"dur": 0.54
+"ok": "carrier",
+"heard": "bây giờ cô đọc phạt",
+"v": 2,
+"dur": 0.34
 },
 "ap": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"áp.\" sp=0.5",
-"core": 0.29,
-"dur": 0.53
+"ok": true,
+"heard": "áp",
+"v": 12,
+"src": "áp",
+"f0": {
+"drop": 5.6,
+"rng": 6.3
+},
+"dur": 0.33
 },
 "tháp": {
 "mode": "short",
-"ok": "vivos",
+"ok": "ctx",
 "heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"tháp!\" sp=0.7",
-"core": 0.26,
-"dur": 0.55
+"v": 12,
+"src": "tháp",
+"f0": {
+"drop": 6.2,
+"rng": 6.4
+},
+"dur": 0.34
 },
 "cái tháp": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"cái tháp.\" sp=0.7",
-"core": 0.66,
-"dur": 1.01
+"ok": "ctx",
+"heard": "cái thắt",
+"v": 12,
+"src": "cái tháp",
+"f0": {
+"drop": 11.3,
+"rng": 11.8
+},
+"dur": 0.48
 },
 "băp": {
 "mode": "short",
-"ok": "vivos",
+"ok": "gate",
 "heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"băp.\" sp=0.7",
-"core": 0.25,
-"dur": 0.55
+"v": 12,
+"src": "băp",
+"f0": {
+"drop": 0.0,
+"rng": 1.6
+},
+"dur": 0.3
 },
 "ăp": {
 "mode": "short",
-"ok": "vivos",
+"ok": false,
 "heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"ắp!\" sp=0.5",
-"core": 0.25,
-"dur": 0.54
+"v": 2,
+"dur": 0.33
 },
 "bắp": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"bắp!\" sp=0.7",
-"core": 0.22,
-"dur": 0.47
+"ok": true,
+"heard": "bắp",
+"v": 12,
+"src": "bắp",
+"f0": {
+"drop": 8.5,
+"rng": 10.3
+},
+"dur": 0.31
 },
 "mâp": {
 "mode": "short",
-"ok": "vivos",
+"ok": "gate",
 "heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"mâp.\" sp=0.7",
-"core": 0.25,
-"dur": 0.49
+"v": 12,
+"src": "mâp",
+"f0": {
+"drop": 0.8,
+"rng": 1.6
+},
+"dur": 0.36
 },
 "âp": {
 "mode": "short",
-"ok": "vivos",
+"ok": "gate",
 "heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"ấp.\" sp=0.5",
-"core": 0.24,
-"dur": 0.51
+"v": 12,
+"src": "ấp",
+"f0": {
+"drop": 3.9,
+"rng": 4.2
+},
+"dur": 0.32
 },
 "mập": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"mập!\" sp=0.8",
-"core": 0.26,
-"dur": 0.48
+"ok": true,
+"heard": "mập",
+"v": 12,
+"src": "mập",
+"f0": {
+"drop": 2.2,
+"rng": 2.7
+},
+"dur": 0.42
 },
 "cá mập": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"cá mập.\" sp=0.7",
-"core": 0.54,
-"dur": 0.77
+"ok": true,
+"heard": "cá mập",
+"v": 12,
+"src": "cá mập",
+"f0": {
+"drop": 7.3,
+"rng": 9.4
+},
+"dur": 0.47
 },
 "dep": {
 "mode": "short",
-"ok": "vivos",
+"ok": "gate",
 "heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"dep.\" sp=0.8",
-"core": 0.26,
-"dur": 0.45
+"v": 12,
+"src": "dep",
+"f0": {
+"drop": -0.7,
+"rng": 1.0
+},
+"dur": 0.32
 },
 "ep": {
 "mode": "short",
-"ok": "vivos",
+"ok": "ctx",
 "heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"ép.\" sp=0.5",
-"core": 0.32,
-"dur": 0.63
+"v": 12,
+"src": "ép",
+"f0": {
+"drop": 5.0,
+"rng": 5.2
+},
+"dur": 0.31
 },
 "dép": {
 "mode": "short",
-"ok": "vivos",
+"ok": "gate",
 "heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"dép!\" sp=0.7",
-"core": 0.3,
-"dur": 0.54
+"v": 12,
+"src": "dép",
+"f0": {
+"drop": 4.5,
+"rng": 5.2
+},
+"dur": 0.31
 },
 "đôi dép": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"đôi dép.\" sp=0.7",
-"core": 0.7,
-"dur": 0.93
+"ok": "ctx",
+"heard": "đôi dét",
+"v": 12,
+"src": "đôi dép",
+"f0": {
+"drop": 11.3,
+"rng": 14.8
+},
+"dur": 0.55
 },
 "bêp": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"bêp!\" sp=0.7",
-"core": 0.3,
-"dur": 0.56
+"ok": "gate",
+"heard": "bên",
+"v": 12,
+"src": "bêp",
+"f0": {
+"drop": 0.4,
+"rng": 2.1
+},
+"dur": 0.35
 },
 "êp": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"ếp.\" sp=0.5",
-"core": 0.32,
-"dur": 0.66
+"ok": "gate",
+"heard": "ít",
+"v": 12,
+"src": "ếp",
+"f0": {
+"drop": 4.7,
+"rng": 5.7
+},
+"dur": 0.31
 },
 "bếp": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"bếp!\" sp=0.7",
-"core": 0.22,
-"dur": 0.47
+"ok": "ctx",
+"heard": "biết",
+"v": 12,
+"src": "bếp",
+"f0": {
+"drop": 9.7,
+"rng": 10.6
+},
+"dur": 0.51
 },
 "nhà bếp": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"nhà bếp.\" sp=0.7",
-"core": 0.66,
-"dur": 0.88
+"ok": true,
+"heard": "nhà bếp",
+"v": 12,
+"src": "nhà bếp",
+"f0": {
+"drop": 8.8,
+"rng": 13.8
+},
+"dur": 0.56
 },
 "cop": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"cop!\" sp=0.8",
-"core": 0.18,
-"dur": 0.41
+"ok": "gate",
+"heard": "có",
+"v": 12,
+"src": "cop",
+"f0": {
+"drop": -0.2,
+"rng": 0.5
+},
+"dur": 0.32
 },
 "op": {
 "mode": "short",
-"ok": "vivos",
+"ok": "gate",
 "heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"óp.\" sp=0.5",
-"core": 0.21,
-"dur": 0.46
+"v": 12,
+"src": "óp",
+"f0": {
+"drop": 6.1,
+"rng": 6.1
+},
+"dur": 0.31
 },
 "cọp": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"cọp.\" sp=0.7",
-"core": 0.22,
-"dur": 0.42
+"ok": true,
+"heard": "cọp",
+"v": 12,
+"src": "cọp",
+"f0": {
+"drop": -2.6,
+"rng": 15.1
+},
+"dur": 0.35
 },
 "con cọp": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"con cọp.\" sp=0.7",
-"core": 0.62,
-"dur": 0.85
+"ok": "ctx",
+"heard": "cop",
+"v": 12,
+"src": "con cọp",
+"f0": {
+"drop": -2.9,
+"rng": 3.9
+},
+"dur": 0.49
 },
 "hôp": {
 "mode": "short",
-"ok": "vivos",
+"ok": "gate",
 "heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"hôp!\" sp=0.7",
-"core": 0.19,
-"dur": 0.41
+"v": 12,
+"src": "hôp",
+"f0": {
+"drop": -0.4,
+"rng": 1.3
+},
+"dur": 0.32
 },
 "ôp": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"ốp.\" sp=0.6",
-"core": 0.25,
-"dur": 0.51
+"ok": "gate",
+"heard": "cúp",
+"v": 12,
+"src": "ốp",
+"f0": {
+"drop": 4.1,
+"rng": 4.4
+},
+"dur": 0.3
 },
 "hộp": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"hộp.\" sp=0.8",
-"core": 0.24,
-"dur": 0.48
+"ok": true,
+"heard": "hộp",
+"v": 12,
+"src": "hộp",
+"f0": {
+"drop": -2.9,
+"rng": 3.9
+},
+"dur": 0.42
 },
 "cái hộp": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"cái hộp!\" sp=0.8",
-"core": 0.6,
-"dur": 0.82
+"ok": true,
+"heard": "cái hộp",
+"v": 12,
+"src": "cái hộp",
+"f0": {
+"drop": 0.7,
+"rng": 7.7
+},
+"dur": 0.52
 },
 "lơp": {
 "mode": "short",
-"ok": "vivos",
+"ok": "gate",
 "heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"lơp.\" sp=0.7",
-"core": 0.29,
-"dur": 0.57
+"v": 12,
+"src": "lơp",
+"f0": {
+"drop": 0.8,
+"rng": 0.9
+},
+"dur": 0.38
 },
 "ơp": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"ớp.\" sp=0.5",
-"core": 0.3,
-"dur": 0.54
+"ok": "ctx",
+"heard": "ớt",
+"v": 12,
+"src": "ớp",
+"f0": {
+"drop": 5.3,
+"rng": 6.1
+},
+"dur": 0.33
 },
 "lớp": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"lớp.\" sp=0.7",
-"core": 0.26,
-"dur": 0.49
+"ok": true,
+"heard": "bây giờ cô đọc lớp",
+"v": 2,
+"dur": 0.46
 },
 "lớp học": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"lớp học.\" sp=0.7",
-"core": 0.62,
-"dur": 0.85
+"ok": true,
+"heard": "lớp học",
+"v": 12,
+"src": "lớp học",
+"f0": {
+"drop": 0.1,
+"rng": 13.7
+},
+"dur": 0.53
 },
 "ma": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"ma.\" sp=0.7",
-"core": 0.48,
-"dur": 0.71
+"ok": true,
+"heard": "ma",
+"v": 12,
+"src": "ma",
+"f0": {
+"drop": 0.8,
+"rng": 3.1
+},
+"dur": 0.45
 },
 "mà": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"mà.\" sp=0.8",
-"core": 0.54,
-"dur": 0.78
+"ok": true,
+"heard": "mà",
+"v": 12,
+"src": "mà",
+"f0": {
+"drop": -0.3,
+"rng": 3.3
+},
+"dur": 0.47
 },
 "má": {
 "mode": "short",
@@ -9397,21 +10376,27 @@
 },
 "mả": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"mả.\" sp=0.7",
-"core": 0.53,
-"dur": 0.74
+"ok": "gate",
+"heard": "mà",
+"v": 12,
+"src": "mả",
+"f0": {
+"drop": -3.2,
+"rng": 5.3
+},
+"dur": 0.51
 },
 "mã": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"mã.\" sp=0.7",
-"core": 0.47,
-"dur": 0.67
+"ok": true,
+"heard": "mã",
+"v": 12,
+"src": "mã",
+"f0": {
+"drop": 8.6,
+"rng": 9.0
+},
+"dur": 0.47
 },
 "mạ": {
 "mode": "short",
@@ -9427,12 +10412,15 @@
 },
 "thanh ngang": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"thanh ngang.\" sp=0.7",
-"core": 0.86,
-"dur": 1.05
+"ok": "ctx",
+"heard": "thánh",
+"v": 12,
+"src": "thanh ngang",
+"f0": {
+"drop": 1.0,
+"rng": 3.4
+},
+"dur": 0.56
 },
 "dấu huyền": {
 "mode": "short",
@@ -9448,21 +10436,22 @@
 },
 "dấu sắc": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"dấu sắc.\" sp=0.7",
-"core": 0.66,
-"dur": 0.89
+"ok": true,
+"heard": "dấu sắc",
+"v": 12,
+"src": "dấu sắc",
+"f0": {
+"drop": 13.0,
+"rng": 13.7
+},
+"dur": 0.59
 },
 "dấu hỏi": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"dấu hỏi.\" sp=0.7",
-"core": 0.9,
-"dur": 1.15
+"ok": true,
+"heard": "bây giờ cô đọc dấu hỏi",
+"v": 2,
+"dur": 0.6
 },
 "dấu ngã": {
 "mode": "short",
@@ -10249,12 +11238,15 @@
 },
 "hình tròn": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"hình tròn.\" sp=0.7",
-"core": 0.86,
-"dur": 1.13
+"ok": true,
+"heard": "hình tròn",
+"v": 12,
+"src": "hình tròn",
+"f0": {
+"drop": -3.3,
+"rng": 6.3
+},
+"dur": 0.73
 },
 "hình vuông": {
 "mode": "short",
@@ -10270,30 +11262,39 @@
 },
 "hình tam giác": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"hình tam giác.\" sp=0.8",
-"core": 0.73,
-"dur": 0.99
+"ok": true,
+"heard": "hình tam giác",
+"v": 12,
+"src": "hình tam giác",
+"f0": {
+"drop": 7.7,
+"rng": 14.1
+},
+"dur": 0.84
 },
 "hình chữ nhật": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"hình chữ nhật.\" sp=0.8",
-"core": 1.03,
-"dur": 1.31
+"ok": true,
+"heard": "hình chữ nhật",
+"v": 12,
+"src": "hình chữ nhật",
+"f0": {
+"drop": 2.9,
+"rng": 10.7
+},
+"dur": 0.77
 },
 "khối lập phương": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"khối lập phương.\" sp=0.7",
-"core": 1.18,
-"dur": 1.45
+"ok": "ctx",
+"heard": "khối lập",
+"v": 12,
+"src": "khối lập phương",
+"f0": {
+"drop": 5.3,
+"rng": 8.3
+},
+"dur": 0.48
 },
 "khối hộp chữ nhật": {
 "mode": "long",
@@ -10305,111 +11306,107 @@
 },
 "một giờ": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"một giờ.\" sp=0.7",
-"core": 0.99,
-"dur": 1.25
+"ok": true,
+"heard": "một giờ",
+"v": 12,
+"src": "một giờ",
+"f0": {
+"drop": 0.6,
+"rng": 5.5
+},
+"dur": 0.61
 },
 "hai giờ": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"hai giờ.\" sp=0.7",
-"core": 0.84,
-"dur": 1.06
+"ok": true,
+"heard": "hai giờ",
+"v": 12,
+"src": "hai giờ",
+"f0": {
+"drop": -2.0,
+"rng": 7.1
+},
+"dur": 0.66
 },
 "ba giờ": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"ba giờ.\" sp=0.7",
-"core": 0.94,
-"dur": 1.14
+"ok": true,
+"heard": "ba giờ",
+"v": 12,
+"src": "ba giờ",
+"f0": {
+"drop": -1.6,
+"rng": 6.5
+},
+"dur": 0.6
 },
 "bốn giờ": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"bốn giờ.\" sp=0.7",
-"core": 0.82,
-"dur": 1.06
+"ok": true,
+"heard": "bây giờ cô đọc bốn giờ",
+"v": 2,
+"dur": 0.68
 },
 "năm giờ": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"năm giờ.\" sp=0.7",
-"core": 0.84,
-"dur": 1.08
+"ok": true,
+"heard": "bây giờ cô đọc năm giờ",
+"v": 2,
+"dur": 0.73
 },
 "sáu giờ": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"sáu giờ.\" sp=0.7",
-"core": 1.12,
-"dur": 1.4
+"ok": true,
+"heard": "bây giờ cô đọc sáu giờ",
+"v": 2,
+"dur": 0.63
 },
 "bảy giờ": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"bảy giờ.\" sp=0.7",
-"core": 0.82,
-"dur": 1.12
+"ok": true,
+"heard": "bây giờ cô đọc bảy giờ",
+"v": 2,
+"dur": 0.66
 },
 "tám giờ": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"tám giờ.\" sp=0.7",
-"core": 0.82,
-"dur": 1.04
+"ok": true,
+"heard": "bây giờ cô đọc tám giờ",
+"v": 2,
+"dur": 0.65
 },
 "chín giờ": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"chín giờ.\" sp=0.7",
-"core": 0.74,
-"dur": 0.97
+"ok": true,
+"heard": "bây giờ cô đọc chín giờ",
+"v": 2,
+"dur": 0.68
 },
 "mười giờ": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"mười giờ.\" sp=0.7",
-"core": 0.8,
-"dur": 1.08
+"ok": true,
+"heard": "bây giờ cô đọc mười giờ",
+"v": 2,
+"dur": 0.66
 },
 "mười một giờ": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"mười một giờ.\" sp=0.7",
-"core": 1.27,
-"dur": 1.53
+"ok": true,
+"heard": "mười một giờ",
+"v": 12,
+"src": "mười một giờ",
+"f0": {
+"drop": 0.1,
+"rng": 4.7
+},
+"dur": 0.9
 },
 "mười hai giờ": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"mười hai giờ.\" sp=0.7",
-"core": 1.18,
-"dur": 1.4
+"ok": true,
+"heard": "bây giờ cô đọc mười hai giờ",
+"v": 2,
+"dur": 0.84
 },
 "Bé chọn một trang trong sổ bí kíp nhé.": {
 "mode": "long",
@@ -10477,30 +11474,39 @@
 },
 "dế": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"dế.\" sp=0.7",
-"core": 0.34,
-"dur": 0.6
+"ok": true,
+"heard": "dế",
+"v": 12,
+"src": "dế",
+"f0": {
+"drop": 6.7,
+"rng": 8.2
+},
+"dur": 0.48
 },
 "con dế": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"con dế.\" sp=0.7",
-"core": 0.84,
-"dur": 1.04
+"ok": true,
+"heard": "con dế",
+"v": 12,
+"src": "con dế",
+"f0": {
+"drop": 6.1,
+"rng": 9.0
+},
+"dur": 0.61
 },
 "cu": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"cu.\" sp=0.8",
-"core": 0.4,
-"dur": 0.72
+"ok": true,
+"heard": "cu",
+"v": 12,
+"src": "cu",
+"f0": {
+"drop": -1.5,
+"rng": 3.0
+},
+"dur": 0.37
 },
 "cú": {
 "mode": "short",
@@ -10516,93 +11522,123 @@
 },
 "con cú": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"con cú.\" sp=0.7",
-"core": 0.66,
-"dur": 0.93
+"ok": "ctx",
+"heard": "có cú",
+"v": 12,
+"src": "con cú",
+"f0": {
+"drop": 4.6,
+"rng": 6.3
+},
+"dur": 0.56
 },
 "bơ": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"bơ!\" sp=0.8",
-"core": 0.42,
-"dur": 0.64
+"ok": true,
+"heard": "bơ",
+"v": 12,
+"src": "bơ",
+"f0": {
+"drop": 1.0,
+"rng": 1.8
+},
+"dur": 0.47
 },
 "quả bơ": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"quả bơ!\" sp=0.7",
-"core": 0.84,
-"dur": 1.06
+"ok": "ctx",
+"heard": "bơ",
+"v": 12,
+"src": "quả bơ",
+"f0": {
+"drop": 1.2,
+"rng": 7.5
+},
+"dur": 0.68
 },
 "bi": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"bi.\" sp=0.8",
-"core": 0.44,
-"dur": 0.66
+"ok": true,
+"heard": "bi",
+"v": 12,
+"src": "bi",
+"f0": {
+"drop": -0.5,
+"rng": 4.0
+},
+"dur": 0.35
 },
 "bí": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"bí.\" sp=0.7",
-"core": 0.38,
-"dur": 0.66
+"ok": true,
+"heard": "bí",
+"v": 12,
+"src": "bí",
+"f0": {
+"drop": 8.5,
+"rng": 9.1
+},
+"dur": 0.43
 },
 "quả bí": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"quả bí.\" sp=0.7",
-"core": 0.64,
-"dur": 0.85
+"ok": true,
+"heard": "quả bí",
+"v": 12,
+"src": "quả bí",
+"f0": {
+"drop": 6.0,
+"rng": 14.8
+},
+"dur": 0.6
 },
 "cà": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"cà.\" sp=0.7",
-"core": 0.54,
-"dur": 0.74
+"ok": "ctx",
+"heard": "ca",
+"v": 12,
+"src": "cà",
+"f0": {
+"drop": -2.0,
+"rng": 3.4
+},
+"dur": 0.42
 },
 "quả cà": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"quả cà.\" sp=0.7",
-"core": 0.85,
-"dur": 1.04
+"ok": "ctx",
+"heard": "ca",
+"v": 12,
+"src": "quả cà",
+"f0": {
+"drop": -1.0,
+"rng": 5.7
+},
+"dur": 0.62
 },
 "so": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"so!\" sp=0.8",
-"core": 0.78,
-"dur": 1.08
+"ok": "gate",
+"heard": "sáu",
+"v": 12,
+"src": "so",
+"f0": {
+"drop": -0.0,
+"rng": 2.5
+},
+"dur": 0.45
 },
 "sò": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"sò.\" sp=0.7",
-"core": 0.55,
-"dur": 0.78
+"ok": true,
+"heard": "sò",
+"v": 12,
+"src": "sò",
+"f0": {
+"drop": -4.0,
+"rng": 8.2
+},
+"dur": 0.48
 },
 "con sò": {
 "mode": "short",
@@ -10618,30 +11654,39 @@
 },
 "xô": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"xô!\" sp=0.8",
-"core": 0.61,
-"dur": 0.83
+"ok": "gate",
+"heard": "số",
+"v": 12,
+"src": "xô",
+"f0": {
+"drop": -1.6,
+"rng": 3.0
+},
+"dur": 0.46
 },
 "cái xô": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"cái xô.\" sp=0.8",
-"core": 0.72,
-"dur": 0.95
+"ok": true,
+"heard": "cái xô",
+"v": 12,
+"src": "cái xô",
+"f0": {
+"drop": 4.3,
+"rng": 8.8
+},
+"dur": 0.54
 },
 "co": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"co!\" sp=0.7",
-"core": 0.48,
-"dur": 0.71
+"ok": "gate",
+"heard": "con",
+"v": 12,
+"src": "co",
+"f0": {
+"drop": -0.1,
+"rng": 1.3
+},
+"dur": 0.35
 },
 "cỏ": {
 "mode": "short",
@@ -10669,39 +11714,46 @@
 },
 "he": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"he!\" sp=0.8",
-"core": 0.48,
-"dur": 0.7
+"ok": "gate",
+"heard": "thè",
+"v": 12,
+"src": "he",
+"f0": {
+"drop": 0.0,
+"rng": 3.3
+},
+"dur": 0.42
 },
 "hè": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"hè.\" sp=0.7",
-"core": 0.55,
-"dur": 0.79
+"ok": "ctx",
+"heard": "thề",
+"v": 12,
+"src": "hè",
+"f0": {
+"drop": -2.6,
+"rng": 4.5
+},
+"dur": 0.47
 },
 "mùa hè": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"mùa hè.\" sp=0.7",
-"core": 0.93,
-"dur": 1.23
+"ok": true,
+"heard": "mùa hè",
+"v": 12,
+"src": "mùa hè",
+"f0": {
+"drop": -0.9,
+"rng": 3.8
+},
+"dur": 0.66
 },
 "gô": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"gô.\" sp=0.8",
-"core": 0.46,
-"dur": 0.66
+"ok": "carrier",
+"heard": "bây giờ cô đọc cô",
+"v": 2,
+"dur": 0.4
 },
 "gỗ": {
 "mode": "short",
@@ -10729,39 +11781,46 @@
 },
 "vi": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"vi!\" sp=0.7",
-"core": 0.56,
-"dur": 0.8
+"ok": true,
+"heard": "vi",
+"v": 12,
+"src": "vi",
+"f0": {
+"drop": -1.6,
+"rng": 2.7
+},
+"dur": 0.36
 },
 "ví": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"ví.\" sp=0.7",
-"core": 0.35,
-"dur": 0.67
+"ok": true,
+"heard": "ví",
+"v": 12,
+"src": "ví",
+"f0": {
+"drop": 8.0,
+"rng": 9.9
+},
+"dur": 0.44
 },
 "cái ví": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"cái ví.\" sp=0.7",
-"core": 0.64,
-"dur": 0.84
+"ok": true,
+"heard": "bây giờ cô đọc cái ví nhé",
+"v": 2,
+"dur": 0.44
 },
 "đôi": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"đôi!\" sp=0.8",
-"core": 0.44,
-"dur": 0.67
+"ok": "gate",
+"heard": "đồ",
+"v": 12,
+"src": "đôi",
+"f0": {
+"drop": -0.6,
+"rng": 2.9
+},
+"dur": 0.47
 },
 "đồi": {
 "mode": "short",
@@ -10789,21 +11848,27 @@
 },
 "lua": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"lua!\" sp=0.8",
-"core": 0.42,
-"dur": 0.66
+"ok": "gate",
+"heard": "đù",
+"v": 12,
+"src": "lua",
+"f0": {
+"drop": 0.0,
+"rng": 2.6
+},
+"dur": 0.49
 },
 "lúa": {
 "mode": "short",
-"ok": "vivos",
+"ok": "ctx",
 "heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"lúa!\" sp=0.7",
-"core": 0.44,
-"dur": 0.66
+"v": 12,
+"src": "lúa",
+"f0": {
+"drop": 7.5,
+"rng": 8.4
+},
+"dur": 0.5
 },
 "cây lúa": {
 "mode": "short",
@@ -10819,39 +11884,51 @@
 },
 "dứa": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"dứa.\" sp=0.7",
-"core": 0.34,
-"dur": 0.59
+"ok": "ctx",
+"heard": "dưới",
+"v": 12,
+"src": "dứa",
+"f0": {
+"drop": 5.6,
+"rng": 7.6
+},
+"dur": 0.51
 },
 "quả dứa": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"quả dứa.\" sp=0.7",
-"core": 0.77,
-"dur": 0.96
+"ok": true,
+"heard": "quả dứa",
+"v": 12,
+"src": "quả dứa",
+"f0": {
+"drop": 4.5,
+"rng": 13.0
+},
+"dur": 0.67
 },
 "kéo": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"kéo.\" sp=0.7",
-"core": 0.46,
-"dur": 0.84
+"ok": true,
+"heard": "kéo",
+"v": 12,
+"src": "kéo",
+"f0": {
+"drop": 8.6,
+"rng": 10.4
+},
+"dur": 0.47
 },
 "cái kéo": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"cái kéo.\" sp=0.7",
-"core": 0.78,
-"dur": 0.97
+"ok": true,
+"heard": "cái kéo",
+"v": 12,
+"src": "cái kéo",
+"f0": {
+"drop": 7.1,
+"rng": 8.8
+},
+"dur": 0.59
 },
 "bao": {
 "mode": "short",
@@ -10874,30 +11951,34 @@
 },
 "cơn bão": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"cơn bão.\" sp=0.7",
-"core": 0.86,
-"dur": 1.09
+"ok": true,
+"heard": "cơn bão",
+"v": 12,
+"src": "cơn bão",
+"f0": {
+"drop": 6.5,
+"rng": 10.5
+},
+"dur": 0.63
 },
 "căp": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"căp.\" sp=0.7",
-"core": 0.22,
-"dur": 0.47
+"ok": "carrier",
+"heard": "bây giờ cô đọc cam",
+"v": 2,
+"dur": 0.36
 },
 "cặp": {
 "mode": "short",
-"ok": "vivos",
+"ok": "gate",
 "heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"cặp.\" sp=0.7",
-"core": 0.14,
-"dur": 0.39
+"v": 12,
+"src": "cặp",
+"f0": {
+"drop": -2.0,
+"rng": 2.3
+},
+"dur": 0.3
 },
 "cặp sách": {
 "mode": "short",
@@ -10913,48 +11994,63 @@
 },
 "răn": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"răn.\" sp=0.8",
-"core": 0.47,
-"dur": 0.71
+"ok": "gate",
+"heard": "s",
+"v": 12,
+"src": "răn",
+"f0": {
+"drop": -1.5,
+"rng": 2.8
+},
+"dur": 0.46
 },
 "rắn": {
 "mode": "short",
-"ok": "vivos",
+"ok": "gate",
 "heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"rắn!\" sp=0.7",
-"core": 0.36,
-"dur": 0.6
+"v": 12,
+"src": "rắn",
+"f0": {
+"drop": 8.7,
+"rng": 9.7
+},
+"dur": 0.47
 },
 "con rắn": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"con rắn.\" sp=0.8",
-"core": 0.92,
-"dur": 1.15
+"ok": true,
+"heard": "con rắn",
+"v": 12,
+"src": "con rắn",
+"f0": {
+"drop": 4.4,
+"rng": 13.7
+},
+"dur": 0.62
 },
 "khoa": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"khoa.\" sp=0.8",
-"core": 0.36,
-"dur": 0.6
+"ok": true,
+"heard": "khoa",
+"v": 12,
+"src": "khoa",
+"f0": {
+"drop": -1.3,
+"rng": 2.5
+},
+"dur": 0.42
 },
 "khóa": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"khóa.\" sp=0.8",
-"core": 0.35,
-"dur": 0.69
+"ok": true,
+"heard": "khóa",
+"v": 12,
+"src": "khóa",
+"f0": {
+"drop": 5.0,
+"rng": 7.4
+},
+"dur": 0.45
 },
 "ổ khóa": {
 "mode": "short",
@@ -10970,84 +12066,111 @@
 },
 "nhên": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"nhên.\" sp=0.8",
-"core": 0.52,
-"dur": 0.74
+"ok": "gate",
+"heard": "nhìn",
+"v": 12,
+"src": "nhên",
+"f0": {
+"drop": 0.4,
+"rng": 2.9
+},
+"dur": 0.49
 },
 "nhện": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"nhện.\" sp=0.7",
-"core": 0.51,
-"dur": 0.71
+"ok": true,
+"heard": "nhện",
+"v": 12,
+"src": "nhện",
+"f0": {
+"drop": -1.6,
+"rng": 14.1
+},
+"dur": 0.51
 },
 "con nhện": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"con nhện.\" sp=0.7",
-"core": 0.89,
-"dur": 1.12
+"ok": true,
+"heard": "con nhện",
+"v": 12,
+"src": "con nhện",
+"f0": {
+"drop": -6.9,
+"rng": 12.6
+},
+"dur": 0.61
 },
 "nhim": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"nhim.\" sp=0.8",
-"core": 0.47,
-"dur": 0.84
+"ok": "gate",
+"heard": "nhìn",
+"v": 12,
+"src": "nhim",
+"f0": {
+"drop": 0.0,
+"rng": 2.7
+},
+"dur": 0.46
 },
 "nhím": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"nhím.\" sp=0.7",
-"core": 0.36,
-"dur": 0.57
+"ok": true,
+"heard": "nhím",
+"v": 12,
+"src": "nhím",
+"f0": {
+"drop": 8.3,
+"rng": 9.6
+},
+"dur": 0.47
 },
 "con nhím": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"con nhím.\" sp=0.8",
-"core": 0.85,
-"dur": 1.06
+"ok": true,
+"heard": "con nhím",
+"v": 12,
+"src": "con nhím",
+"f0": {
+"drop": 4.7,
+"rng": 8.9
+},
+"dur": 0.61
 },
 "phim": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"phim.\" sp=0.8",
-"core": 0.52,
-"dur": 0.79
+"ok": true,
+"heard": "phim",
+"v": 12,
+"src": "phim",
+"f0": {
+"drop": -1.7,
+"rng": 3.2
+},
+"dur": 0.42
 },
 "xem phim": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"xem phim.\" sp=0.7",
-"core": 0.9,
-"dur": 1.21
+"ok": true,
+"heard": "xem phim",
+"v": 12,
+"src": "xem phim",
+"f0": {
+"drop": -2.9,
+"rng": 5.2
+},
+"dur": 0.63
 },
 "thit": {
 "mode": "short",
-"ok": "vivos",
+"ok": "gate",
 "heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"thit.\" sp=0.7",
-"core": 0.32,
-"dur": 0.58
+"v": 12,
+"src": "thit",
+"f0": {
+"drop": -0.7,
+"rng": 0.9
+},
+"dur": 0.34
 },
 "thịt": {
 "mode": "short",
@@ -11063,102 +12186,130 @@
 },
 "miếng thịt": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"miếng thịt.\" sp=0.7",
-"core": 0.62,
-"dur": 0.94
+"ok": true,
+"heard": "miếng thịt",
+"v": 12,
+"src": "miếng thịt",
+"f0": {
+"drop": 4.3,
+"rng": 12.5
+},
+"dur": 0.61
 },
 "tre": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"tre!\" sp=0.7",
-"core": 0.55,
-"dur": 0.76
+"ok": "gate",
+"heard": "chè",
+"v": 12,
+"src": "tre",
+"f0": {
+"drop": -2.1,
+"rng": 4.1
+},
+"dur": 0.4
 },
 "cây tre": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"cây tre.\" sp=0.7",
-"core": 0.84,
-"dur": 1.06
+"ok": true,
+"heard": "cây tre",
+"v": 12,
+"src": "cây tre",
+"f0": {
+"drop": -2.1,
+"rng": 6.9
+},
+"dur": 0.59
 },
 "tra": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"tra!\" sp=0.8",
-"core": 0.32,
-"dur": 0.56
+"ok": "gate",
+"heard": "cha",
+"v": 12,
+"src": "tra",
+"f0": {
+"drop": -1.6,
+"rng": 2.5
+},
+"dur": 0.39
 },
 "trà": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"trà.\" sp=0.7",
-"core": 0.42,
-"dur": 0.69
+"ok": "ctx",
+"heard": "chà",
+"v": 12,
+"src": "trà",
+"f0": {
+"drop": -3.4,
+"rng": 6.2
+},
+"dur": 0.48
 },
 "chén trà": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"chén trà!\" sp=0.7",
-"core": 0.88,
-"dur": 1.16
+"ok": true,
+"heard": "bây giờ cô đọc chén trà",
+"v": 2,
+"dur": 0.72
 },
 "ghim": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"ghim!\" sp=0.8",
-"core": 0.36,
-"dur": 0.59
+"ok": "gate",
+"heard": "ghing",
+"v": 12,
+"src": "ghim",
+"f0": {
+"drop": -0.9,
+"rng": 1.5
+},
+"dur": 0.4
 },
 "gio": {
 "mode": "short",
-"ok": "vivos",
+"ok": "gate",
 "heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"gio!\" sp=0.8",
-"core": 0.48,
-"dur": 0.82
+"v": 12,
+"src": "gio",
+"f0": {
+"drop": 0.0,
+"rng": 2.4
+},
+"dur": 0.47
 },
 "gió": {
 "mode": "short",
-"ok": "vivos",
+"ok": "ctx",
 "heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"gió.\" sp=0.7",
-"core": 0.34,
-"dur": 0.67
+"v": 12,
+"src": "gió",
+"f0": {
+"drop": 8.0,
+"rng": 10.2
+},
+"dur": 0.46
 },
 "cơn gió": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"cơn gió.\" sp=0.7",
-"core": 0.88,
-"dur": 1.19
+"ok": true,
+"heard": "cơn gió",
+"v": 12,
+"src": "cơn gió",
+"f0": {
+"drop": 0.4,
+"rng": 7.8
+},
+"dur": 0.64
 },
 "ngưa": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"ngưa.\" sp=0.7",
-"core": 0.53,
-"dur": 0.73
+"ok": "gate",
+"heard": "ngư",
+"v": 12,
+"src": "ngưa",
+"f0": {
+"drop": 2.6,
+"rng": 3.2
+},
+"dur": 0.4
 },
 "ngựa": {
 "mode": "short",
@@ -11186,21 +12337,27 @@
 },
 "ngủ": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"ngủ.\" sp=0.8",
-"core": 0.69,
-"dur": 0.94
+"ok": true,
+"heard": "ngủ",
+"v": 12,
+"src": "ngủ",
+"f0": {
+"drop": -4.0,
+"rng": 14.1
+},
+"dur": 0.5
 },
 "bé ngủ": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"bé ngủ.\" sp=0.7",
-"core": 0.86,
-"dur": 1.1
+"ok": true,
+"heard": "bé ngủ",
+"v": 12,
+"src": "bé ngủ",
+"f0": {
+"drop": -1.1,
+"rng": 13.3
+},
+"dur": 0.64
 },
 "quân": {
 "mode": "short",
@@ -11216,111 +12373,147 @@
 },
 "quần": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"quần!\" sp=0.7",
-"core": 0.32,
-"dur": 0.57
+"ok": true,
+"heard": "quần",
+"v": 12,
+"src": "quần",
+"f0": {
+"drop": -3.6,
+"rng": 4.6
+},
+"dur": 0.4
 },
 "cái quần": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"cái quần.\" sp=0.7",
-"core": 0.7,
-"dur": 0.95
+"ok": true,
+"heard": "cái quần",
+"v": 12,
+"src": "cái quần",
+"f0": {
+"drop": -2.5,
+"rng": 11.6
+},
+"dur": 0.56
 },
 "áo": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"áo.\" sp=0.7",
-"core": 0.36,
-"dur": 0.64
+"ok": true,
+"heard": "áo",
+"v": 12,
+"src": "áo",
+"f0": {
+"drop": 8.3,
+"rng": 9.4
+},
+"dur": 0.41
 },
 "ấm": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"ấm.\" sp=0.7",
-"core": 0.28,
-"dur": 0.52
+"ok": true,
+"heard": "ấm",
+"v": 12,
+"src": "ấm",
+"f0": {
+"drop": 8.9,
+"rng": 10.4
+},
+"dur": 0.44
 },
 "dưa hấu": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"dưa hấu.\" sp=0.7",
-"core": 0.94,
-"dur": 1.17
+"ok": true,
+"heard": "dưa hấu",
+"v": 12,
+"src": "dưa hấu",
+"f0": {
+"drop": 1.9,
+"rng": 7.0
+},
+"dur": 0.59
 },
 "dâu tây": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"dâu tây.\" sp=0.7",
-"core": 0.96,
-"dur": 1.23
+"ok": true,
+"heard": "dâu tây",
+"v": 12,
+"src": "dâu tây",
+"f0": {
+"drop": -2.2,
+"rng": 6.6
+},
+"dur": 0.7
 },
 "đồng hồ": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"đồng hồ!\" sp=0.8",
-"core": 0.79,
-"dur": 1.08
+"ok": true,
+"heard": "đồng hồ",
+"v": 12,
+"src": "đồng hồ",
+"f0": {
+"drop": -3.3,
+"rng": 6.0
+},
+"dur": 0.62
 },
 "đĩa": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"đĩa.\" sp=0.7",
-"core": 0.57,
-"dur": 0.78
+"ok": true,
+"heard": "đĩa",
+"v": 12,
+"src": "đĩa",
+"f0": {
+"drop": 9.3,
+"rng": 9.8
+},
+"dur": 0.47
 },
 "gương": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"gương!\" sp=0.8",
-"core": 0.42,
-"dur": 0.67
+"ok": "ctx",
+"heard": "gưng",
+"v": 12,
+"src": "gương",
+"f0": {
+"drop": -0.4,
+"rng": 2.5
+},
+"dur": 0.4
 },
 "găng tay": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"găng tay.\" sp=0.7",
-"core": 0.94,
-"dur": 1.16
+"ok": true,
+"heard": "găng tay",
+"v": 12,
+"src": "găng tay",
+"f0": {
+"drop": -0.6,
+"rng": 3.9
+},
+"dur": 0.54
 },
 "gạch": {
 "mode": "short",
-"ok": "vivos",
+"ok": "ctx",
 "heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"gạch.\" sp=0.7",
-"core": 0.35,
-"dur": 0.64
+"v": 12,
+"src": "gạch",
+"f0": {
+"drop": -3.7,
+"rng": 5.3
+},
+"dur": 0.35
 },
 "hươu": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"hươu.\" sp=0.8",
-"core": 0.4,
-"dur": 0.65
+"ok": "gate",
+"heard": "cu",
+"v": 12,
+"src": "hươu",
+"f0": {
+"drop": 0.0,
+"rng": 2.4
+},
+"dur": 0.5
 },
 "hành tây": {
 "mode": "short",
@@ -11336,21 +12529,27 @@
 },
 "hạt dẻ": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"hạt dẻ!\" sp=0.7",
-"core": 0.8,
-"dur": 0.98
+"ok": "ctx",
+"heard": "rẻ",
+"v": 12,
+"src": "hạt dẻ",
+"f0": {
+"drop": -3.3,
+"rng": 7.3
+},
+"dur": 0.64
 },
 "kiến": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"kiến.\" sp=0.7",
-"core": 0.4,
-"dur": 0.74
+"ok": true,
+"heard": "kiến",
+"v": 12,
+"src": "kiến",
+"f0": {
+"drop": 4.5,
+"rng": 7.6
+},
+"dur": 0.42
 },
 "kẹp": {
 "mode": "short",
@@ -11378,12 +12577,15 @@
 },
 "nước": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"nước.\" sp=0.7",
-"core": 0.27,
-"dur": 0.51
+"ok": true,
+"heard": "nước",
+"v": 12,
+"src": "nước",
+"f0": {
+"drop": 10.2,
+"rng": 10.5
+},
+"dur": 0.42
 },
 "ô tô": {
 "mode": "short",
@@ -11399,57 +12601,75 @@
 },
 "pi-a-nô": {
 "mode": "short",
-"ok": "vivos",
+"ok": "gate",
 "heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"pi-a-nô.\" sp=0.8",
-"core": 0.74,
-"dur": 1.01
+"v": 12,
+"src": "pi-a-nô",
+"f0": {
+"drop": 0.5,
+"rng": 1.8
+},
+"dur": 0.58
 },
 "quả chuối": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"quả chuối.\" sp=0.7",
-"core": 0.88,
-"dur": 1.17
+"ok": true,
+"heard": "quả chuối",
+"v": 12,
+"src": "quả chuối",
+"f0": {
+"drop": 6.6,
+"rng": 12.5
+},
+"dur": 0.65
 },
 "rồng": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"rồng!\" sp=0.7",
-"core": 0.46,
-"dur": 0.69
+"ok": true,
+"heard": "rồng",
+"v": 12,
+"src": "rồng",
+"f0": {
+"drop": -3.0,
+"rng": 4.3
+},
+"dur": 0.51
 },
 "sư tử": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"sư tử.\" sp=0.8",
-"core": 0.84,
-"dur": 1.11
+"ok": true,
+"heard": "sư tử",
+"v": 12,
+"src": "sư tử",
+"f0": {
+"drop": -7.1,
+"rng": 9.5
+},
+"dur": 0.61
 },
 "tim": {
 "mode": "short",
-"ok": "vivos",
+"ok": "gate",
 "heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"tim!\" sp=0.8",
-"core": 0.52,
-"dur": 0.78
+"v": 12,
+"src": "tim",
+"f0": {
+"drop": -1.2,
+"rng": 2.7
+},
+"dur": 0.41
 },
 "ủng": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"ủng.\" sp=0.7",
-"core": 0.51,
-"dur": 0.73
+"ok": "ctx",
+"heard": "ùm",
+"v": 12,
+"src": "ủng",
+"f0": {
+"drop": -6.7,
+"rng": 8.5
+},
+"dur": 0.44
 },
 "vở": {
 "mode": "short",
@@ -11465,57 +12685,70 @@
 },
 "váy": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"váy.\" sp=0.7",
-"core": 0.42,
-"dur": 0.66
+"ok": true,
+"heard": "váy",
+"v": 12,
+"src": "váy",
+"f0": {
+"drop": 7.7,
+"rng": 9.4
+},
+"dur": 0.45
 },
 "xoài": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"xoài.\" sp=0.7",
-"core": 0.62,
-"dur": 0.86
+"ok": true,
+"heard": "bây giờ cô đọc xoài",
+"v": 2,
+"dur": 0.43
 },
 "xương": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"xương!\" sp=0.8",
-"core": 0.56,
-"dur": 0.81
+"ok": "gate",
+"heard": "xứng",
+"v": 12,
+"src": "xương",
+"f0": {
+"drop": -0.6,
+"rng": 2.7
+},
+"dur": 0.46
 },
 "xe đạp": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"xe đạp.\" sp=0.7",
-"core": 0.71,
-"dur": 0.92
+"ok": true,
+"heard": "xe đạp",
+"v": 12,
+"src": "xe đạp",
+"f0": {
+"drop": -2.2,
+"rng": 5.3
+},
+"dur": 0.59
 },
 "xà phòng": {
 "mode": "short",
-"ok": "vivos",
+"ok": "ctx",
 "heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"xà phòng.\" sp=0.7",
-"core": 0.92,
-"dur": 1.28
+"v": 12,
+"src": "xà phòng",
+"f0": {
+"drop": -2.4,
+"rng": 3.6
+},
+"dur": 0.42
 },
 "y tá": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"y tá!\" sp=0.8",
-"core": 0.68,
-"dur": 0.98
+"ok": true,
+"heard": "y tá",
+"v": 12,
+"src": "y tá",
+"f0": {
+"drop": 4.1,
+"rng": 9.2
+},
+"dur": 0.58
 },
 "máy bay": {
 "mode": "short",
@@ -11531,75 +12764,99 @@
 },
 "chuối": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"chuối.\" sp=0.8",
-"core": 0.38,
-"dur": 0.73
+"ok": true,
+"heard": "chuối",
+"v": 12,
+"src": "chuối",
+"f0": {
+"drop": 6.6,
+"rng": 7.9
+},
+"dur": 0.48
 },
 "chìa khóa": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"chìa khóa.\" sp=0.7",
-"core": 0.63,
-"dur": 0.85
+"ok": true,
+"heard": "chìa khóa",
+"v": 12,
+"src": "chìa khóa",
+"f0": {
+"drop": -4.4,
+"rng": 6.4
+},
+"dur": 0.39
 },
 "ghẹ": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"ghẹ.\" sp=0.7",
-"core": 0.4,
-"dur": 0.65
+"ok": true,
+"heard": "ghẹ",
+"v": 12,
+"src": "ghẹ",
+"f0": {
+"drop": -6.2,
+"rng": 8.0
+},
+"dur": 0.4
 },
 "ghi-ta": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"ghi-ta!\" sp=0.8",
-"core": 0.71,
-"dur": 1.05
+"ok": true,
+"heard": "ghi ta",
+"v": 12,
+"src": "ghi-ta",
+"f0": {
+"drop": -2.1,
+"rng": 3.7
+},
+"dur": 0.51
 },
 "giường": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"giường.\" sp=0.7",
-"core": 0.55,
-"dur": 0.81
+"ok": true,
+"heard": "giường",
+"v": 12,
+"src": "giường",
+"f0": {
+"drop": -3.6,
+"rng": 5.2
+},
+"dur": 0.51
 },
 "giỏ": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"giỏ.\" sp=0.7",
-"core": 0.57,
-"dur": 0.9
+"ok": "ctx",
+"heard": "giò",
+"v": 12,
+"src": "giỏ",
+"f0": {
+"drop": -6.1,
+"rng": 8.2
+},
+"dur": 0.39
 },
 "giấy": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"giấy.\" sp=0.7",
-"core": 0.42,
-"dur": 0.74
+"ok": true,
+"heard": "giấy",
+"v": 12,
+"src": "giấy",
+"f0": {
+"drop": 6.7,
+"rng": 7.8
+},
+"dur": 0.49
 },
 "khoai lang": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"khoai lang.\" sp=0.8",
-"core": 0.79,
-"dur": 1.08
+"ok": true,
+"heard": "khoai lang",
+"v": 12,
+"src": "khoai lang",
+"f0": {
+"drop": 0.2,
+"rng": 2.3
+},
+"dur": 0.53
 },
 "khủng long": {
 "mode": "short",
@@ -11615,84 +12872,106 @@
 },
 "khói": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"khói!\" sp=0.7",
-"core": 0.46,
-"dur": 0.69
+"ok": true,
+"heard": "bây giờ cô đọc khói",
+"v": 2,
+"dur": 0.42
 },
 "ngón tay": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"ngón tay!\" sp=0.7",
-"core": 0.86,
-"dur": 1.08
+"ok": true,
+"heard": "ngón tay",
+"v": 12,
+"src": "ngón tay",
+"f0": {
+"drop": 2.6,
+"rng": 13.3
+},
+"dur": 0.64
 },
 "nghệ sĩ": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"nghệ sĩ.\" sp=0.7",
-"core": 0.99,
-"dur": 1.38
+"ok": true,
+"heard": "nghệ sĩ",
+"v": 12,
+"src": "nghệ sĩ",
+"f0": {
+"drop": 7.2,
+"rng": 15.9
+},
+"dur": 0.39
 },
 "suy nghĩ": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"suy nghĩ.\" sp=0.7",
-"core": 0.86,
-"dur": 1.16
+"ok": true,
+"heard": "suy nghĩ",
+"v": 12,
+"src": "suy nghĩ",
+"f0": {
+"drop": 4.0,
+"rng": 6.3
+},
+"dur": 0.54
 },
 "nhẫn": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"nhẫn.\" sp=0.7",
-"core": 0.65,
-"dur": 0.87
+"ok": true,
+"heard": "nhẫn",
+"v": 12,
+"src": "nhẫn",
+"f0": {
+"drop": 9.8,
+"rng": 10.8
+},
+"dur": 0.47
 },
 "nhảy": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"nhảy.\" sp=0.7",
-"core": 0.42,
-"dur": 0.81
+"ok": true,
+"heard": "nhảy",
+"v": 12,
+"src": "nhảy",
+"f0": {
+"drop": -3.6,
+"rng": 6.1
+},
+"dur": 0.48
 },
 "pháo hoa": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"pháo hoa!\" sp=0.8",
-"core": 0.65,
-"dur": 0.98
+"ok": true,
+"heard": "pháo hoa",
+"v": 12,
+"src": "pháo hoa",
+"f0": {
+"drop": 4.0,
+"rng": 10.2
+},
+"dur": 0.64
 },
 "cà phê": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"cà phê.\" sp=0.7",
-"core": 0.8,
-"dur": 1.04
+"ok": true,
+"heard": "cà phê",
+"v": 12,
+"src": "cà phê",
+"f0": {
+"drop": 1.9,
+"rng": 5.3
+},
+"dur": 0.53
 },
 "phi hành gia": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"phi hành gia.\" sp=0.8",
-"core": 1.14,
-"dur": 1.35
+"ok": true,
+"heard": "phi hành gia",
+"v": 12,
+"src": "phi hành gia",
+"f0": {
+"drop": -1.8,
+"rng": 9.7
+},
+"dur": 0.69
 },
 "thuyền": {
 "mode": "short",
@@ -11708,48 +12987,63 @@
 },
 "thìa": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"thìa.\" sp=0.7",
-"core": 0.42,
-"dur": 0.65
+"ok": "gate",
+"heard": "thì",
+"v": 12,
+"src": "thìa",
+"f0": {
+"drop": -2.6,
+"rng": 5.2
+},
+"dur": 0.47
 },
 "trâu": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"trâu!\" sp=0.8",
-"core": 0.25,
-"dur": 0.46
+"ok": "ctx",
+"heard": "châu",
+"v": 12,
+"src": "trâu",
+"f0": {
+"drop": 0.2,
+"rng": 2.4
+},
+"dur": 0.47
 },
 "chai": {
 "mode": "short",
-"ok": "vivos",
+"ok": "gate",
 "heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"chai!\" sp=0.7",
-"core": 0.39,
-"dur": 0.6
+"v": 12,
+"src": "chai",
+"f0": {
+"drop": -1.0,
+"rng": 3.5
+},
+"dur": 0.49
 },
 "bài hát": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"bài hát.\" sp=0.7",
-"core": 0.67,
-"dur": 0.88
+"ok": true,
+"heard": "bài hát",
+"v": 12,
+"src": "bài hát",
+"f0": {
+"drop": 10.9,
+"rng": 13.7
+},
+"dur": 0.55
 },
 "nói": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"nói!\" sp=0.7",
-"core": 0.46,
-"dur": 0.71
+"ok": true,
+"heard": "nói",
+"v": 12,
+"src": "nói",
+"f0": {
+"drop": 8.7,
+"rng": 9.8
+},
+"dur": 0.48
 },
 "đồ chơi": {
 "mode": "short",
@@ -11765,48 +13059,63 @@
 },
 "bầu trời": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"bầu trời.\" sp=0.7",
-"core": 0.86,
-"dur": 1.06
+"ok": true,
+"heard": "bầu trời",
+"v": 12,
+"src": "bầu trời",
+"f0": {
+"drop": -2.1,
+"rng": 5.6
+},
+"dur": 0.69
 },
 "núi": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"núi.\" sp=0.7",
-"core": 0.44,
-"dur": 0.69
+"ok": true,
+"heard": "núi",
+"v": 12,
+"src": "núi",
+"f0": {
+"drop": 7.6,
+"rng": 7.8
+},
+"dur": 0.5
 },
 "củi": {
 "mode": "short",
-"ok": "vivos",
+"ok": "ctx",
 "heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"củi!\" sp=0.7",
-"core": 0.42,
-"dur": 0.64
+"v": 12,
+"src": "củi",
+"f0": {
+"drop": -7.4,
+"rng": 10.4
+},
+"dur": 0.4
 },
 "màu": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"màu!\" sp=0.7",
-"core": 0.55,
-"dur": 0.78
+"ok": true,
+"heard": "màu",
+"v": 12,
+"src": "màu",
+"f0": {
+"drop": -1.0,
+"rng": 2.2
+},
+"dur": 0.5
 },
 "cầu": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"cầu.\" sp=0.7",
-"core": 0.46,
-"dur": 0.65
+"ok": true,
+"heard": "cầu",
+"v": 12,
+"src": "cầu",
+"f0": {
+"drop": -3.2,
+"rng": 6.4
+},
+"dur": 0.46
 },
 "leo núi": {
 "mode": "short",
@@ -11822,12 +13131,15 @@
 },
 "bưu điện": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"bưu điện!\" sp=0.7",
-"core": 0.72,
-"dur": 0.96
+"ok": true,
+"heard": "bưu điện",
+"v": 12,
+"src": "bưu điện",
+"f0": {
+"drop": 1.8,
+"rng": 4.2
+},
+"dur": 0.59
 },
 "vua": {
 "mode": "short",
@@ -11850,12 +13162,10 @@
 },
 "loa": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"loa.\" sp=0.7",
-"core": 0.55,
-"dur": 0.78
+"ok": true,
+"heard": "bây giờ cô đọc loa",
+"v": 2,
+"dur": 0.45
 },
 "nam châm": {
 "mode": "short",
@@ -11871,48 +13181,63 @@
 },
 "cắm trại": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"cắm trại.\" sp=0.8",
-"core": 0.68,
-"dur": 0.89
+"ok": true,
+"heard": "cắm trại",
+"v": 12,
+"src": "cắm trại",
+"f0": {
+"drop": 3.4,
+"rng": 12.6
+},
+"dur": 0.66
 },
 "sấm sét": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"sấm sét.\" sp=0.8",
-"core": 0.8,
-"dur": 1.03
+"ok": true,
+"heard": "sấm sét",
+"v": 12,
+"src": "sấm sét",
+"f0": {
+"drop": 12.5,
+"rng": 13.4
+},
+"dur": 0.63
 },
 "xem": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"xem.\" sp=0.8",
-"core": 0.62,
-"dur": 0.83
+"ok": true,
+"heard": "xem",
+"v": 12,
+"src": "xem",
+"f0": {
+"drop": -0.4,
+"rng": 2.2
+},
+"dur": 0.49
 },
 "nệm": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"nệm.\" sp=0.7",
-"core": 0.5,
-"dur": 0.77
+"ok": true,
+"heard": "nệm",
+"v": 12,
+"src": "nệm",
+"f0": {
+"drop": -2.0,
+"rng": 4.7
+},
+"dur": 0.51
 },
 "kim": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"kim.\" sp=0.8",
-"core": 0.5,
-"dur": 0.84
+"ok": true,
+"heard": "kim",
+"v": 12,
+"src": "kim",
+"f0": {
+"drop": -1.3,
+"rng": 1.9
+},
+"dur": 0.41
 },
 "bạn": {
 "mode": "short",
@@ -11928,84 +13253,111 @@
 },
 "cân": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"cân.\" sp=0.8",
-"core": 0.42,
-"dur": 0.61
+"ok": true,
+"heard": "cân",
+"v": 12,
+"src": "cân",
+"f0": {
+"drop": -1.6,
+"rng": 3.5
+},
+"dur": 0.47
 },
 "kèn": {
 "mode": "short",
-"ok": "vivos",
+"ok": "ctx",
 "heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"kèn.\" sp=0.7",
-"core": 0.52,
-"dur": 0.76
+"v": 12,
+"src": "kèn",
+"f0": {
+"drop": -2.9,
+"rng": 4.6
+},
+"dur": 0.45
 },
 "len": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"len!\" sp=0.7",
-"core": 0.64,
-"dur": 0.85
+"ok": "gate",
+"heard": "gland",
+"v": 12,
+"src": "len",
+"f0": {
+"drop": 0.0,
+"rng": 1.9
+},
+"dur": 0.49
 },
 "cún": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"cún.\" sp=0.7",
-"core": 0.51,
-"dur": 0.78
+"ok": true,
+"heard": "cún",
+"v": 12,
+"src": "cún",
+"f0": {
+"drop": 8.6,
+"rng": 9.1
+},
+"dur": 0.39
 },
 "sáng": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"sáng!\" sp=0.7",
-"core": 0.46,
-"dur": 0.78
+"ok": true,
+"heard": "sáng",
+"v": 12,
+"src": "sáng",
+"f0": {
+"drop": 7.2,
+"rng": 9.0
+},
+"dur": 0.47
 },
 "răng": {
 "mode": "short",
-"ok": "vivos",
+"ok": "gate",
 "heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"răng.\" sp=0.8",
-"core": 0.34,
-"dur": 0.58
+"v": 12,
+"src": "răng",
+"f0": {
+"drop": 0.0,
+"rng": 1.0
+},
+"dur": 0.46
 },
 "nắng": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"nắng.\" sp=0.7",
-"core": 0.49,
-"dur": 0.78
+"ok": true,
+"heard": "nắng",
+"v": 12,
+"src": "nắng",
+"f0": {
+"drop": 9.9,
+"rng": 10.5
+},
+"dur": 0.52
 },
 "sông": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"sông.\" sp=0.7",
-"core": 0.56,
-"dur": 0.84
+"ok": "gate",
+"heard": "sống",
+"v": 12,
+"src": "sông",
+"f0": {
+"drop": 0.6,
+"rng": 2.1
+},
+"dur": 0.47
 },
 "công": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"công.\" sp=0.7",
-"core": 0.49,
-"dur": 0.72
+"ok": "gate",
+"heard": "cùng",
+"v": 12,
+"src": "công",
+"f0": {
+"drop": -0.8,
+"rng": 1.5
+},
+"dur": 0.4
 },
 "tranh": {
 "mode": "short",
@@ -12021,12 +13373,15 @@
 },
 "bình": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"bình.\" sp=0.7",
-"core": 0.41,
-"dur": 0.67
+"ok": true,
+"heard": "bình",
+"v": 12,
+"src": "bình",
+"f0": {
+"drop": -1.2,
+"rng": 5.8
+},
+"dur": 0.5
 },
 "bác sĩ": {
 "mode": "short",
@@ -12042,129 +13397,166 @@
 },
 "học": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"học.\" sp=0.7",
-"core": 0.2,
-"dur": 0.44
+"ok": true,
+"heard": "học",
+"v": 12,
+"src": "học",
+"f0": {
+"drop": -1.4,
+"rng": 2.0
+},
+"dur": 0.34
 },
 "ốc": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"ốc.\" sp=0.7",
-"core": 0.16,
-"dur": 0.41
+"ok": "gate",
+"heard": "úc",
+"v": 12,
+"src": "ốc",
+"f0": {
+"drop": 4.4,
+"rng": 4.4
+},
+"dur": 0.31
 },
 "xúc xắc": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"xúc xắc.\" sp=0.7",
-"core": 0.62,
-"dur": 0.91
+"ok": "gate",
+"heard": "rút",
+"v": 12,
+"src": "xúc xắc",
+"f0": {
+"drop": 1.9,
+"rng": 2.2
+},
+"dur": 0.46
 },
 "thức dậy": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"thức dậy.\" sp=0.7",
-"core": 0.68,
-"dur": 0.89
+"ok": true,
+"heard": "thức dậy",
+"v": 12,
+"src": "thức dậy",
+"f0": {
+"drop": -5.5,
+"rng": 14.8
+},
+"dur": 0.55
 },
 "bát": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"bát.\" sp=0.7",
-"core": 0.22,
-"dur": 0.47
+"ok": true,
+"heard": "bát",
+"v": 12,
+"src": "bát",
+"f0": {
+"drop": 4.5,
+"rng": 10.5
+},
+"dur": 0.35
 },
 "cát": {
 "mode": "short",
-"ok": "vivos",
+"ok": "ctx",
 "heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"cát.\" sp=0.7",
-"core": 0.23,
-"dur": 0.57
+"v": 12,
+"src": "cát",
+"f0": {
+"drop": 4.9,
+"rng": 4.9
+},
+"dur": 0.33
 },
 "cắt": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"cắt.\" sp=0.7",
-"core": 0.13,
-"dur": 0.37
+"ok": "carrier",
+"heard": "bây giờ cô đọc cách",
+"v": 2,
+"dur": 0.33
 },
 "trái đất": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"trái đất.\" sp=0.7",
-"core": 0.51,
-"dur": 0.84
+"ok": true,
+"heard": "trái đất",
+"v": 12,
+"src": "trái đất",
+"f0": {
+"drop": 11.2,
+"rng": 12.0
+},
+"dur": 0.47
 },
 "vợt": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"vợt!\" sp=0.7",
-"core": 0.38,
-"dur": 0.63
+"ok": "ctx",
+"heard": "vt",
+"v": 12,
+"src": "vợt",
+"f0": {
+"drop": 1.7,
+"rng": 4.8
+},
+"dur": 0.42
 },
 "xếp hình": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"xếp hình.\" sp=0.7",
-"core": 0.82,
-"dur": 1.09
+"ok": true,
+"heard": "xếp hình",
+"v": 12,
+"src": "xếp hình",
+"f0": {
+"drop": -10.9,
+"rng": 14.6
+},
+"dur": 0.6
 },
 "hươu cao cổ": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"hươu cao cổ.\" sp=0.7",
-"core": 1.08,
-"dur": 1.38
+"ok": "gate",
+"heard": "cu cao cổ",
+"v": 12,
+"src": "hươu cao cổ",
+"f0": {
+"drop": -4.3,
+"rng": 17.3
+},
+"dur": 0.87
 },
 "ngựa vằn": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"ngựa vằn.\" sp=0.7",
-"core": 0.92,
-"dur": 1.21
+"ok": "ctx",
+"heard": "ngựa văn",
+"v": 12,
+"src": "ngựa vằn",
+"f0": {
+"drop": 0.3,
+"rng": 14.9
+},
+"dur": 0.67
 },
 "lạc đà": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"lạc đà!\" sp=0.7",
-"core": 0.7,
-"dur": 1.0
+"ok": true,
+"heard": "lạc đà",
+"v": 12,
+"src": "lạc đà",
+"f0": {
+"drop": 0.7,
+"rng": 4.7
+},
+"dur": 0.65
 },
 "cá heo": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"cá heo.\" sp=0.7",
-"core": 0.78,
-"dur": 0.97
+"ok": true,
+"heard": "cá heo",
+"v": 12,
+"src": "cá heo",
+"f0": {
+"drop": 2.8,
+"rng": 7.9
+},
+"dur": 0.51
 },
 "cá voi": {
 "mode": "short",
@@ -12180,66 +13572,87 @@
 },
 "cá sấu": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"cá sấu.\" sp=0.7",
-"core": 0.79,
-"dur": 1.04
+"ok": true,
+"heard": "cá sấu",
+"v": 12,
+"src": "cá sấu",
+"f0": {
+"drop": 9.1,
+"rng": 9.5
+},
+"dur": 0.6
 },
 "cú mèo": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"cú mèo.\" sp=0.7",
-"core": 0.86,
-"dur": 1.08
+"ok": true,
+"heard": "cú mèo",
+"v": 12,
+"src": "cú mèo",
+"f0": {
+"drop": -1.8,
+"rng": 11.1
+},
+"dur": 0.62
 },
 "gà con": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"gà con.\" sp=0.7",
-"core": 0.88,
-"dur": 1.1
+"ok": true,
+"heard": "gà con",
+"v": 12,
+"src": "gà con",
+"f0": {
+"drop": 1.3,
+"rng": 5.1
+},
+"dur": 0.54
 },
 "chim cánh cụt": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"chim cánh cụt.\" sp=0.7",
-"core": 0.96,
-"dur": 1.21
+"ok": true,
+"heard": "chim cánh cụt",
+"v": 12,
+"src": "chim cánh cụt",
+"f0": {
+"drop": -0.2,
+"rng": 13.4
+},
+"dur": 0.84
 },
 "bướm": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"bướm.\" sp=0.8",
-"core": 0.38,
-"dur": 0.58
+"ok": true,
+"heard": "bướm",
+"v": 12,
+"src": "bướm",
+"f0": {
+"drop": 9.3,
+"rng": 9.9
+},
+"dur": 0.52
 },
 "ốc sên": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"ốc sên.\" sp=0.7",
-"core": 0.7,
-"dur": 0.92
+"ok": "gate",
+"heard": "úc sinh",
+"v": 12,
+"src": "ốc sên",
+"f0": {
+"drop": -8.2,
+"rng": 10.3
+},
+"dur": 0.51
 },
 "chuột": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"chuột.\" sp=0.7",
-"core": 0.24,
-"dur": 0.46
+"ok": true,
+"heard": "chuột",
+"v": 12,
+"src": "chuột",
+"f0": {
+"drop": -3.3,
+"rng": 5.9
+},
+"dur": 0.39
 },
 "đào": {
 "mode": "short",
@@ -12255,57 +13668,70 @@
 },
 "anh đào": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"anh đào!\" sp=0.8",
-"core": 0.84,
-"dur": 1.12
+"ok": true,
+"heard": "bây giờ cô đọc anh đào",
+"v": 2,
+"dur": 0.57
 },
 "cà chua": {
 "mode": "short",
-"ok": "vivos",
+"ok": "ctx",
 "heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"cà chua.\" sp=0.7",
-"core": 0.78,
-"dur": 1.04
+"v": 12,
+"src": "cà chua",
+"f0": {
+"drop": -2.8,
+"rng": 6.1
+},
+"dur": 0.39
 },
 "cà tím": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"cà tím.\" sp=0.7",
-"core": 0.8,
-"dur": 0.98
+"ok": true,
+"heard": "cà tím",
+"v": 12,
+"src": "cà tím",
+"f0": {
+"drop": 7.3,
+"rng": 11.1
+},
+"dur": 0.63
 },
 "dưa chuột": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"dưa chuột.\" sp=0.8",
-"core": 0.59,
-"dur": 0.82
+"ok": true,
+"heard": "dưa chuột",
+"v": 12,
+"src": "dưa chuột",
+"f0": {
+"drop": -3.3,
+"rng": 5.8
+},
+"dur": 0.57
 },
 "súp lơ xanh": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"súp lơ xanh.\" sp=0.7",
-"core": 1.28,
-"dur": 1.49
+"ok": "gate",
+"heard": "suplus",
+"v": 12,
+"src": "súp lơ xanh",
+"f0": {
+"drop": -9.7,
+"rng": 11.8
+},
+"dur": 0.66
 },
 "khoai tây": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"khoai tây.\" sp=0.7",
-"core": 0.85,
-"dur": 1.05
+"ok": true,
+"heard": "khoai tây",
+"v": 12,
+"src": "khoai tây",
+"f0": {
+"drop": -1.6,
+"rng": 5.6
+},
+"dur": 0.57
 },
 "bí ngô": {
 "mode": "short",
@@ -12316,39 +13742,51 @@
 },
 "rau cải": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"rau cải.\" sp=0.7",
-"core": 0.84,
-"dur": 1.09
+"ok": true,
+"heard": "rau cải",
+"v": 12,
+"src": "rau cải",
+"f0": {
+"drop": -5.4,
+"rng": 9.1
+},
+"dur": 0.65
 },
 "lạc": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"lạc!\" sp=0.7",
-"core": 0.3,
-"dur": 0.52
+"ok": "gate",
+"heard": "là",
+"v": 12,
+"src": "lạc",
+"f0": {
+"drop": -1.0,
+"rng": 2.1
+},
+"dur": 0.43
 },
 "bánh mì": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"bánh mì.\" sp=0.7",
-"core": 0.74,
-"dur": 0.95
+"ok": true,
+"heard": "bánh mì",
+"v": 12,
+"src": "bánh mì",
+"f0": {
+"drop": 0.5,
+"rng": 11.4
+},
+"dur": 0.66
 },
 "bánh ngọt": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"bánh ngọt!\" sp=0.8",
-"core": 0.58,
-"dur": 0.8
+"ok": true,
+"heard": "bánh ngọt",
+"v": 12,
+"src": "bánh ngọt",
+"f0": {
+"drop": -0.7,
+"rng": 12.6
+},
+"dur": 0.54
 },
 "bánh quy": {
 "mode": "short",
@@ -12364,48 +13802,63 @@
 },
 "gà rán": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"gà rán.\" sp=0.7",
-"core": 0.88,
-"dur": 1.1
+"ok": true,
+"heard": "gà rán",
+"v": 12,
+"src": "gà rán",
+"f0": {
+"drop": 4.7,
+"rng": 12.1
+},
+"dur": 0.67
 },
 "canh": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"canh!\" sp=0.7",
-"core": 0.46,
-"dur": 0.66
+"ok": true,
+"heard": "canh",
+"v": 12,
+"src": "canh",
+"f0": {
+"drop": -0.2,
+"rng": 3.4
+},
+"dur": 0.44
 },
 "nước cam": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"nước cam!\" sp=0.7",
-"core": 0.63,
-"dur": 0.86
+"ok": true,
+"heard": "nước cam",
+"v": 12,
+"src": "nước cam",
+"f0": {
+"drop": 2.0,
+"rng": 11.0
+},
+"dur": 0.66
 },
 "bỏng ngô": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"bỏng ngô.\" sp=0.7",
-"core": 0.93,
-"dur": 1.27
+"ok": "gate",
+"heard": "bằng mô",
+"v": 12,
+"src": "bỏng ngô",
+"f0": {
+"drop": 1.1,
+"rng": 4.5
+},
+"dur": 0.51
 },
 "chảo": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"chảo.\" sp=0.7",
-"core": 0.43,
-"dur": 0.64
+"ok": "ctx",
+"heard": "chào",
+"v": 12,
+"src": "chảo",
+"f0": {
+"drop": -7.5,
+"rng": 9.3
+},
+"dur": 0.51
 },
 "bàn chải đánh răng": {
 "mode": "long",
@@ -12429,30 +13882,39 @@
 },
 "máy tính": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"máy tính.\" sp=0.7",
-"core": 0.72,
-"dur": 0.94
+"ok": true,
+"heard": "máy tính",
+"v": 12,
+"src": "máy tính",
+"f0": {
+"drop": 8.5,
+"rng": 12.1
+},
+"dur": 0.63
 },
 "ti vi": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"ti vi.\" sp=0.7",
-"core": 0.76,
-"dur": 1.06
+"ok": "gate",
+"heard": "tv",
+"v": 12,
+"src": "ti vi",
+"f0": {
+"drop": -1.9,
+"rng": 7.1
+},
+"dur": 0.47
 },
 "gấu bông": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"gấu bông.\" sp=0.7",
-"core": 0.75,
-"dur": 0.96
+"ok": true,
+"heard": "gấu bông",
+"v": 12,
+"src": "gấu bông",
+"f0": {
+"drop": 1.2,
+"rng": 9.2
+},
+"dur": 0.6
 },
 "diều": {
 "mode": "short",
@@ -12468,12 +13930,10 @@
 },
 "tất": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"tất!\" sp=0.8",
-"core": 0.12,
-"dur": 0.41
+"ok": true,
+"heard": "bây giờ cô đọc tất",
+"v": 2,
+"dur": 0.33
 },
 "chị": {
 "mode": "short",
@@ -12508,93 +13968,113 @@
 },
 "chú bộ đội": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"chú bộ đội.\" sp=0.7",
-"core": 1.09,
-"dur": 1.3
+"ok": true,
+"heard": "chú bộ đội",
+"v": 12,
+"src": "chú bộ đội",
+"f0": {
+"drop": -2.3,
+"rng": 16.4
+},
+"dur": 0.84
 },
 "bác nông dân": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"bác nông dân.\" sp=0.7",
-"core": 1.18,
-"dur": 1.39
+"ok": true,
+"heard": "bác nông dân",
+"v": 12,
+"src": "bác nông dân",
+"f0": {
+"drop": -6.3,
+"rng": 13.4
+},
+"dur": 0.71
 },
 "đầu bếp": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"đầu bếp.\" sp=0.7",
-"core": 0.62,
-"dur": 0.94
+"ok": true,
+"heard": "đầu bếp",
+"v": 12,
+"src": "đầu bếp",
+"f0": {
+"drop": 8.6,
+"rng": 13.6
+},
+"dur": 0.65
 },
 "lính cứu hỏa": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"lính cứu hỏa.\" sp=0.7",
-"core": 1.17,
-"dur": 1.43
+"ok": true,
+"heard": "lính cứu hỏa",
+"v": 12,
+"src": "lính cứu hỏa",
+"f0": {
+"drop": 9.1,
+"rng": 10.8
+},
+"dur": 0.72
 },
 "xe máy": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"xe máy.\" sp=0.7",
-"core": 0.76,
-"dur": 1.05
+"ok": true,
+"heard": "xe máy",
+"v": 12,
+"src": "xe máy",
+"f0": {
+"drop": 3.0,
+"rng": 8.5
+},
+"dur": 0.65
 },
 "xe buýt": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"xe buýt.\" sp=0.7",
-"core": 0.83,
-"dur": 1.15
+"ok": true,
+"heard": "xe buýt",
+"v": 12,
+"src": "xe buýt",
+"f0": {
+"drop": 8.9,
+"rng": 10.7
+},
+"dur": 0.55
 },
 "xe tải": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"xe tải.\" sp=0.7",
-"core": 0.84,
-"dur": 1.13
+"ok": true,
+"heard": "xe tải",
+"v": 12,
+"src": "xe tải",
+"f0": {
+"drop": -7.9,
+"rng": 11.2
+},
+"dur": 0.64
 },
 "xe cứu thương": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"xe cứu thương.\" sp=0.7",
-"core": 1.56,
-"dur": 1.86
+"ok": true,
+"heard": "bây giờ cô đọc xe cứu thương",
+"v": 2,
+"dur": 0.85
 },
 "xe cứu hỏa": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"xe cứu hỏa.\" sp=0.7",
-"core": 1.29,
-"dur": 1.5
+"ok": true,
+"heard": "bây giờ cô đọc xe cứu hỏa",
+"v": 2,
+"dur": 0.82
 },
 "xe cảnh sát": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"xe cảnh sát.\" sp=0.7",
-"core": 1.06,
-"dur": 1.42
+"ok": true,
+"heard": "xe cảnh sát",
+"v": 12,
+"src": "xe cảnh sát",
+"f0": {
+"drop": 7.0,
+"rng": 17.1
+},
+"dur": 0.88
 },
 "tàu hỏa": {
 "mode": "short",
@@ -12622,39 +14102,51 @@
 },
 "trực thăng": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"trực thăng.\" sp=0.8",
-"core": 0.56,
-"dur": 0.82
+"ok": true,
+"heard": "trực thăng",
+"v": 12,
+"src": "trực thăng",
+"f0": {
+"drop": 3.0,
+"rng": 6.0
+},
+"dur": 0.55
 },
 "tên lửa": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"tên lửa.\" sp=0.7",
-"core": 0.82,
-"dur": 1.01
+"ok": true,
+"heard": "tên lửa",
+"v": 12,
+"src": "tên lửa",
+"f0": {
+"drop": -4.3,
+"rng": 9.0
+},
+"dur": 0.6
 },
 "mặt trời": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"mặt trời.\" sp=0.7",
-"core": 0.82,
-"dur": 1.03
+"ok": true,
+"heard": "mặt trời",
+"v": 12,
+"src": "mặt trời",
+"f0": {
+"drop": -1.4,
+"rng": 7.3
+},
+"dur": 0.63
 },
 "mặt trăng": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"mặt trăng.\" sp=0.7",
-"core": 0.8,
-"dur": 1.05
+"ok": true,
+"heard": "mặt trăng",
+"v": 12,
+"src": "mặt trăng",
+"f0": {
+"drop": 5.2,
+"rng": 10.5
+},
+"dur": 0.64
 },
 "cầu vồng": {
 "mode": "short",
@@ -12670,21 +14162,27 @@
 },
 "tuyết": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"tuyết.\" sp=0.7",
-"core": 0.24,
-"dur": 0.66
+"ok": true,
+"heard": "tuyết",
+"v": 12,
+"src": "tuyết",
+"f0": {
+"drop": 4.5,
+"rng": 4.8
+},
+"dur": 0.36
 },
 "biển": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"biển.\" sp=0.7",
-"core": 0.46,
-"dur": 0.72
+"ok": true,
+"heard": "biển",
+"v": 12,
+"src": "biển",
+"f0": {
+"drop": -3.2,
+"rng": 6.7
+},
+"dur": 0.5
 },
 "miệng": {
 "mode": "short",
@@ -12700,12 +14198,15 @@
 },
 "lưỡi": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"lưỡi.\" sp=0.8",
-"core": 0.42,
-"dur": 0.64
+"ok": true,
+"heard": "lưỡi",
+"v": 12,
+"src": "lưỡi",
+"f0": {
+"drop": 9.8,
+"rng": 13.4
+},
+"dur": 0.49
 },
 "cánh tay": {
 "mode": "short",
@@ -12733,12 +14234,15 @@
 },
 "vàng": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"vàng.\" sp=0.7",
-"core": 0.58,
-"dur": 0.81
+"ok": true,
+"heard": "vàng",
+"v": 12,
+"src": "vàng",
+"f0": {
+"drop": -1.8,
+"rng": 3.6
+},
+"dur": 0.51
 },
 "xanh lá cây": {
 "mode": "short",
@@ -12749,12 +14253,15 @@
 },
 "xanh da trời": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"xanh da trời.\" sp=0.7",
-"core": 1.17,
-"dur": 1.38
+"ok": "ctx",
+"heard": "xanh",
+"v": 12,
+"src": "xanh da trời",
+"f0": {
+"drop": 0.3,
+"rng": 4.9
+},
+"dur": 0.71
 },
 "tím": {
 "mode": "short",
@@ -12770,12 +14277,15 @@
 },
 "hồng": {
 "mode": "short",
-"ok": "vivos",
+"ok": "ctx",
 "heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"hồng.\" sp=0.7",
-"core": 0.52,
-"dur": 0.81
+"v": 12,
+"src": "hồng",
+"f0": {
+"drop": -2.4,
+"rng": 3.9
+},
+"dur": 0.45
 },
 "nâu": {
 "mode": "short",
@@ -12791,21 +14301,27 @@
 },
 "trắng": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"trắng!\" sp=0.8",
-"core": 0.29,
-"dur": 0.65
+"ok": true,
+"heard": "trắng",
+"v": 12,
+"src": "trắng",
+"f0": {
+"drop": 7.2,
+"rng": 8.7
+},
+"dur": 0.47
 },
 "xám": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"xám.\" sp=0.8",
-"core": 0.5,
-"dur": 0.71
+"ok": true,
+"heard": "xám",
+"v": 12,
+"src": "xám",
+"f0": {
+"drop": 8.4,
+"rng": 10.3
+},
+"dur": 0.48
 },
 "Nhà bé có bố, mẹ và bé.": {
 "mode": "long",
@@ -13005,840 +14521,1109 @@
 },
 "mười một": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"mười một.\" sp=0.7",
-"core": 0.72,
-"dur": 0.99
+"ok": true,
+"heard": "mười một",
+"v": 12,
+"src": "mười một",
+"f0": {
+"drop": 1.3,
+"rng": 1.8
+},
+"dur": 0.59
 },
 "mười hai": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"mười hai.\" sp=0.7",
-"core": 0.86,
-"dur": 1.07
+"ok": true,
+"heard": "mười hai",
+"v": 12,
+"src": "mười hai",
+"f0": {
+"drop": 1.1,
+"rng": 5.2
+},
+"dur": 0.71
 },
 "mười ba": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"mười ba!\" sp=0.8",
-"core": 0.83,
-"dur": 1.08
+"ok": true,
+"heard": "mười ba",
+"v": 12,
+"src": "mười ba",
+"f0": {
+"drop": 0.3,
+"rng": 3.7
+},
+"dur": 0.63
 },
 "mười bốn": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"mười bốn.\" sp=0.7",
-"core": 0.66,
-"dur": 0.98
+"ok": true,
+"heard": "mười bốn",
+"v": 12,
+"src": "mười bốn",
+"f0": {
+"drop": 4.4,
+"rng": 10.8
+},
+"dur": 0.63
 },
 "mười lăm": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"mười lăm.\" sp=0.8",
-"core": 0.5,
-"dur": 0.74
+"ok": true,
+"heard": "mười lăm",
+"v": 12,
+"src": "mười lăm",
+"f0": {
+"drop": 2.7,
+"rng": 4.5
+},
+"dur": 0.62
 },
 "mười sáu": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"mười sáu.\" sp=0.7",
-"core": 0.88,
-"dur": 1.09
+"ok": true,
+"heard": "mười sáu",
+"v": 12,
+"src": "mười sáu",
+"f0": {
+"drop": 5.1,
+"rng": 11.4
+},
+"dur": 0.71
 },
 "mười bảy": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"mười bảy.\" sp=0.7",
-"core": 0.75,
-"dur": 0.95
+"ok": true,
+"heard": "mười bảy",
+"v": 12,
+"src": "mười bảy",
+"f0": {
+"drop": -1.7,
+"rng": 6.5
+},
+"dur": 0.54
 },
 "mười tám": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"mười tám.\" sp=0.7",
-"core": 0.78,
-"dur": 1.0
+"ok": true,
+"heard": "mười tám",
+"v": 12,
+"src": "mười tám",
+"f0": {
+"drop": 5.5,
+"rng": 10.8
+},
+"dur": 0.63
 },
 "mười chín": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"mười chín.\" sp=0.7",
-"core": 0.76,
-"dur": 1.05
+"ok": true,
+"heard": "mười chín",
+"v": 12,
+"src": "mười chín",
+"f0": {
+"drop": 3.1,
+"rng": 11.6
+},
+"dur": 0.67
 },
 "hai mươi": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"hai mươi.\" sp=0.8",
-"core": 0.8,
-"dur": 1.11
+"ok": true,
+"heard": "hai mươi",
+"v": 12,
+"src": "hai mươi",
+"f0": {
+"drop": -2.3,
+"rng": 6.2
+},
+"dur": 0.67
 },
 "hai mươi mốt": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"hai mươi mốt.\" sp=0.7",
-"core": 0.81,
-"dur": 1.08
+"ok": true,
+"heard": "hai mươi mốt",
+"v": 12,
+"src": "hai mươi mốt",
+"f0": {
+"drop": 5.7,
+"rng": 12.5
+},
+"dur": 0.88
 },
 "hai mươi hai": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"hai mươi hai.\" sp=0.7",
-"core": 1.01,
-"dur": 1.25
+"ok": true,
+"heard": "hai mươi hai",
+"v": 12,
+"src": "hai mươi hai",
+"f0": {
+"drop": -0.6,
+"rng": 4.0
+},
+"dur": 0.87
 },
 "hai mươi ba": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"hai mươi ba.\" sp=0.8",
-"core": 0.96,
-"dur": 1.27
+"ok": true,
+"heard": "hai mươi ba",
+"v": 12,
+"src": "hai mươi ba",
+"f0": {
+"drop": 0.3,
+"rng": 4.6
+},
+"dur": 0.79
 },
 "hai mươi bốn": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"hai mươi bốn.\" sp=0.7",
-"core": 0.88,
-"dur": 1.1
+"ok": true,
+"heard": "hai mươi bốn",
+"v": 12,
+"src": "hai mươi bốn",
+"f0": {
+"drop": 0.2,
+"rng": 8.1
+},
+"dur": 0.84
 },
 "hai mươi lăm": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"hai mươi lăm.\" sp=0.7",
-"core": 0.88,
-"dur": 1.16
+"ok": true,
+"heard": "hai mươi lăm",
+"v": 12,
+"src": "hai mươi lăm",
+"f0": {
+"drop": -1.2,
+"rng": 3.0
+},
+"dur": 0.83
 },
 "hai mươi sáu": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"hai mươi sáu.\" sp=0.7",
-"core": 0.82,
-"dur": 1.08
+"ok": true,
+"heard": "hai mươi sáu",
+"v": 12,
+"src": "hai mươi sáu",
+"f0": {
+"drop": 1.0,
+"rng": 8.9
+},
+"dur": 0.95
 },
 "hai mươi bảy": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"hai mươi bảy.\" sp=0.7",
-"core": 0.91,
-"dur": 1.19
+"ok": true,
+"heard": "hai mươi bảy",
+"v": 12,
+"src": "hai mươi bảy",
+"f0": {
+"drop": -4.6,
+"rng": 9.0
+},
+"dur": 0.85
 },
 "hai mươi tám": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"hai mươi tám.\" sp=0.7",
-"core": 0.86,
-"dur": 1.14
+"ok": true,
+"heard": "hai mươi tám",
+"v": 12,
+"src": "hai mươi tám",
+"f0": {
+"drop": 1.7,
+"rng": 9.7
+},
+"dur": 0.86
 },
 "hai mươi chín": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"hai mươi chín.\" sp=0.8",
-"core": 0.83,
-"dur": 1.13
+"ok": true,
+"heard": "hai mươi chín",
+"v": 12,
+"src": "hai mươi chín",
+"f0": {
+"drop": 0.4,
+"rng": 8.4
+},
+"dur": 0.86
 },
 "ba mươi": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"ba mươi.\" sp=0.7",
-"core": 0.91,
-"dur": 1.16
+"ok": true,
+"heard": "ba mươi",
+"v": 12,
+"src": "ba mươi",
+"f0": {
+"drop": -0.7,
+"rng": 4.1
+},
+"dur": 0.6
 },
 "ba mươi mốt": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"ba mươi mốt.\" sp=0.7",
-"core": 0.9,
-"dur": 1.17
+"ok": true,
+"heard": "ba mươi mốt",
+"v": 12,
+"src": "ba mươi mốt",
+"f0": {
+"drop": 7.7,
+"rng": 13.0
+},
+"dur": 0.78
 },
 "ba mươi hai": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"ba mươi hai.\" sp=0.7",
-"core": 0.94,
-"dur": 1.18
+"ok": true,
+"heard": "ba mươi hai",
+"v": 12,
+"src": "ba mươi hai",
+"f0": {
+"drop": 1.1,
+"rng": 3.2
+},
+"dur": 0.83
 },
 "ba mươi ba": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"ba mươi ba.\" sp=0.7",
-"core": 0.86,
-"dur": 1.12
+"ok": true,
+"heard": "ba mươi ba",
+"v": 12,
+"src": "ba mươi ba",
+"f0": {
+"drop": 0.5,
+"rng": 5.2
+},
+"dur": 0.83
 },
 "ba mươi bốn": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"ba mươi bốn.\" sp=0.7",
-"core": 0.86,
-"dur": 1.14
+"ok": true,
+"heard": "ba mươi bốn",
+"v": 12,
+"src": "ba mươi bốn",
+"f0": {
+"drop": 1.1,
+"rng": 9.9
+},
+"dur": 0.8
 },
 "ba mươi lăm": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"ba mươi lăm.\" sp=0.7",
-"core": 0.86,
-"dur": 1.08
+"ok": true,
+"heard": "ba mươi lăm",
+"v": 12,
+"src": "ba mươi lăm",
+"f0": {
+"drop": 0.2,
+"rng": 3.6
+},
+"dur": 0.82
 },
 "ba mươi sáu": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"ba mươi sáu.\" sp=0.7",
-"core": 1.04,
-"dur": 1.27
+"ok": true,
+"heard": "ba mươi sáu",
+"v": 12,
+"src": "ba mươi sáu",
+"f0": {
+"drop": 1.9,
+"rng": 10.9
+},
+"dur": 0.93
 },
 "ba mươi bảy": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"ba mươi bảy.\" sp=0.7",
-"core": 1.05,
-"dur": 1.3
+"ok": true,
+"heard": "ba mươi bảy",
+"v": 12,
+"src": "ba mươi bảy",
+"f0": {
+"drop": -0.6,
+"rng": 6.2
+},
+"dur": 0.82
 },
 "ba mươi tám": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"ba mươi tám.\" sp=0.7",
-"core": 0.99,
-"dur": 1.25
+"ok": true,
+"heard": "ba mươi tám",
+"v": 12,
+"src": "ba mươi tám",
+"f0": {
+"drop": 1.2,
+"rng": 12.0
+},
+"dur": 0.83
 },
 "ba mươi chín": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"ba mươi chín.\" sp=0.7",
-"core": 0.95,
-"dur": 1.16
+"ok": true,
+"heard": "ba mươi chín",
+"v": 12,
+"src": "ba mươi chín",
+"f0": {
+"drop": 1.6,
+"rng": 9.7
+},
+"dur": 0.8
 },
 "bốn mươi": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"bốn mươi.\" sp=0.7",
-"core": 0.78,
-"dur": 1.03
+"ok": true,
+"heard": "bốn mươi",
+"v": 12,
+"src": "bốn mươi",
+"f0": {
+"drop": 1.3,
+"rng": 11.1
+},
+"dur": 0.65
 },
 "bốn mươi mốt": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"bốn mươi mốt.\" sp=0.7",
-"core": 0.86,
-"dur": 1.16
+"ok": true,
+"heard": "bốn mươi mốt",
+"v": 12,
+"src": "bốn mươi mốt",
+"f0": {
+"drop": 7.5,
+"rng": 13.5
+},
+"dur": 0.79
 },
 "bốn mươi hai": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"bốn mươi hai.\" sp=0.7",
-"core": 1.02,
-"dur": 1.33
+"ok": true,
+"heard": "bốn mươi hai",
+"v": 12,
+"src": "bốn mươi hai",
+"f0": {
+"drop": 3.5,
+"rng": 10.5
+},
+"dur": 0.81
 },
 "bốn mươi ba": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"bốn mươi ba.\" sp=0.7",
-"core": 1.01,
-"dur": 1.34
+"ok": true,
+"heard": "bốn mươi ba",
+"v": 12,
+"src": "bốn mươi ba",
+"f0": {
+"drop": 2.5,
+"rng": 9.7
+},
+"dur": 0.83
 },
 "bốn mươi bốn": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"bốn mươi bốn.\" sp=0.7",
-"core": 0.81,
-"dur": 1.03
+"ok": true,
+"heard": "bốn mươi bốn",
+"v": 12,
+"src": "bốn mươi bốn",
+"f0": {
+"drop": 2.0,
+"rng": 11.9
+},
+"dur": 0.96
 },
 "bốn mươi lăm": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"bốn mươi lăm.\" sp=0.7",
-"core": 0.88,
-"dur": 1.15
+"ok": true,
+"heard": "bốn mươi lăm",
+"v": 12,
+"src": "bốn mươi lăm",
+"f0": {
+"drop": 3.0,
+"rng": 10.6
+},
+"dur": 0.83
 },
 "bốn mươi sáu": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"bốn mươi sáu.\" sp=0.7",
-"core": 1.23,
-"dur": 1.5
+"ok": true,
+"heard": "bốn mươi sáu",
+"v": 12,
+"src": "bốn mươi sáu",
+"f0": {
+"drop": 2.6,
+"rng": 10.2
+},
+"dur": 0.94
 },
 "bốn mươi bảy": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"bốn mươi bảy.\" sp=0.7",
-"core": 0.86,
-"dur": 1.14
+"ok": true,
+"heard": "bốn mươi bảy",
+"v": 12,
+"src": "bốn mươi bảy",
+"f0": {
+"drop": -1.4,
+"rng": 13.8
+},
+"dur": 0.82
 },
 "bốn mươi tám": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"bốn mươi tám.\" sp=0.7",
-"core": 0.88,
-"dur": 1.12
+"ok": true,
+"heard": "bốn mươi tám",
+"v": 12,
+"src": "bốn mươi tám",
+"f0": {
+"drop": 2.5,
+"rng": 10.6
+},
+"dur": 0.95
 },
 "bốn mươi chín": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"bốn mươi chín.\" sp=0.7",
-"core": 0.82,
-"dur": 1.05
+"ok": true,
+"heard": "bốn mươi chín",
+"v": 12,
+"src": "bốn mươi chín",
+"f0": {
+"drop": 4.4,
+"rng": 11.0
+},
+"dur": 0.89
 },
 "năm mươi": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"năm mươi.\" sp=0.7",
-"core": 0.84,
-"dur": 1.06
+"ok": true,
+"heard": "năm mươi",
+"v": 12,
+"src": "năm mươi",
+"f0": {
+"drop": 0.6,
+"rng": 6.4
+},
+"dur": 0.64
 },
 "năm mươi mốt": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"năm mươi mốt.\" sp=0.7",
-"core": 0.92,
-"dur": 1.17
+"ok": true,
+"heard": "năm mươi mốt",
+"v": 12,
+"src": "năm mươi mốt",
+"f0": {
+"drop": 3.7,
+"rng": 12.5
+},
+"dur": 0.85
 },
 "năm mươi hai": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"năm mươi hai.\" sp=0.7",
-"core": 1.17,
-"dur": 1.45
+"ok": true,
+"heard": "năm mươi hai",
+"v": 12,
+"src": "năm mươi hai",
+"f0": {
+"drop": 0.9,
+"rng": 4.3
+},
+"dur": 0.95
 },
 "năm mươi ba": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"năm mươi ba.\" sp=0.7",
-"core": 0.88,
-"dur": 1.19
+"ok": true,
+"heard": "năm mươi ba",
+"v": 12,
+"src": "năm mươi ba",
+"f0": {
+"drop": 0.4,
+"rng": 4.9
+},
+"dur": 0.84
 },
 "năm mươi bốn": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"năm mươi bốn.\" sp=0.7",
-"core": 0.87,
-"dur": 1.16
+"ok": true,
+"heard": "năm mươi bốn",
+"v": 12,
+"src": "năm mươi bốn",
+"f0": {
+"drop": 1.3,
+"rng": 9.6
+},
+"dur": 0.86
 },
 "năm mươi lăm": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"năm mươi lăm.\" sp=0.7",
-"core": 0.97,
-"dur": 1.17
+"ok": true,
+"heard": "năm mươi lăm",
+"v": 12,
+"src": "năm mươi lăm",
+"f0": {
+"drop": -0.4,
+"rng": 3.8
+},
+"dur": 0.94
 },
 "năm mươi sáu": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"năm mươi sáu.\" sp=0.7",
-"core": 1.08,
-"dur": 1.3
+"ok": true,
+"heard": "năm mươi sáu",
+"v": 12,
+"src": "năm mươi sáu",
+"f0": {
+"drop": 0.3,
+"rng": 9.7
+},
+"dur": 0.93
 },
 "năm mươi bảy": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"năm mươi bảy.\" sp=0.7",
-"core": 0.98,
-"dur": 1.18
+"ok": true,
+"heard": "năm mươi bảy",
+"v": 12,
+"src": "năm mươi bảy",
+"f0": {
+"drop": -4.2,
+"rng": 9.8
+},
+"dur": 0.9
 },
 "năm mươi tám": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"năm mươi tám.\" sp=0.7",
-"core": 0.84,
-"dur": 1.1
+"ok": true,
+"heard": "năm mươi tám",
+"v": 12,
+"src": "năm mươi tám",
+"f0": {
+"drop": -0.2,
+"rng": 10.2
+},
+"dur": 0.88
 },
 "năm mươi chín": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"năm mươi chín.\" sp=0.7",
-"core": 0.84,
-"dur": 1.05
+"ok": true,
+"heard": "năm mươi chín",
+"v": 12,
+"src": "năm mươi chín",
+"f0": {
+"drop": 0.4,
+"rng": 9.5
+},
+"dur": 0.87
 },
 "sáu mươi": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"sáu mươi.\" sp=0.7",
-"core": 0.85,
-"dur": 1.08
+"ok": true,
+"heard": "sáu mươi",
+"v": 12,
+"src": "sáu mươi",
+"f0": {
+"drop": -0.5,
+"rng": 15.5
+},
+"dur": 0.64
 },
 "sáu mươi mốt": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"sáu mươi mốt.\" sp=0.7",
-"core": 0.88,
-"dur": 1.17
+"ok": true,
+"heard": "sáu mươi mốt",
+"v": 12,
+"src": "sáu mươi mốt",
+"f0": {
+"drop": 7.7,
+"rng": 13.3
+},
+"dur": 0.79
 },
 "sáu mươi hai": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"sáu mươi hai.\" sp=0.7",
-"core": 1.16,
-"dur": 1.37
+"ok": true,
+"heard": "sáu mươi hai",
+"v": 12,
+"src": "sáu mươi hai",
+"f0": {
+"drop": 0.9,
+"rng": 8.8
+},
+"dur": 0.85
 },
 "sáu mươi ba": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"sáu mươi ba.\" sp=0.7",
-"core": 0.98,
-"dur": 1.26
+"ok": true,
+"heard": "sáu mươi ba",
+"v": 12,
+"src": "sáu mươi ba",
+"f0": {
+"drop": 0.9,
+"rng": 10.5
+},
+"dur": 0.8
 },
 "sáu mươi bốn": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"sáu mươi bốn.\" sp=0.7",
-"core": 0.88,
-"dur": 1.21
+"ok": true,
+"heard": "sáu mươi bốn",
+"v": 12,
+"src": "sáu mươi bốn",
+"f0": {
+"drop": 2.1,
+"rng": 11.3
+},
+"dur": 0.89
 },
 "sáu mươi lăm": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"sáu mươi lăm.\" sp=0.7",
-"core": 1.02,
-"dur": 1.33
+"ok": true,
+"heard": "sáu mươi lăm",
+"v": 12,
+"src": "sáu mươi lăm",
+"f0": {
+"drop": 0.7,
+"rng": 10.0
+},
+"dur": 0.91
 },
 "sáu mươi sáu": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"sáu mươi sáu.\" sp=0.7",
-"core": 1.14,
-"dur": 1.33
+"ok": true,
+"heard": "sáu mươi sáu",
+"v": 12,
+"src": "sáu mươi sáu",
+"f0": {
+"drop": 3.0,
+"rng": 11.6
+},
+"dur": 1.0
 },
 "sáu mươi bảy": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"sáu mươi bảy.\" sp=0.7",
-"core": 1.04,
-"dur": 1.27
+"ok": true,
+"heard": "sáu mươi bảy",
+"v": 12,
+"src": "sáu mươi bảy",
+"f0": {
+"drop": -2.8,
+"rng": 13.4
+},
+"dur": 0.87
 },
 "sáu mươi tám": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"sáu mươi tám.\" sp=0.7",
-"core": 1.1,
-"dur": 1.31
+"ok": true,
+"heard": "sáu mươi tám",
+"v": 12,
+"src": "sáu mươi tám",
+"f0": {
+"drop": 4.2,
+"rng": 11.9
+},
+"dur": 0.92
 },
 "sáu mươi chín": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"sáu mươi chín.\" sp=0.7",
-"core": 1.14,
-"dur": 1.37
+"ok": true,
+"heard": "sáu mươi chín",
+"v": 12,
+"src": "sáu mươi chín",
+"f0": {
+"drop": 3.0,
+"rng": 12.0
+},
+"dur": 0.96
 },
 "bảy mươi": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"bảy mươi.\" sp=0.7",
-"core": 0.88,
-"dur": 1.11
+"ok": true,
+"heard": "bảy mươi",
+"v": 12,
+"src": "bảy mươi",
+"f0": {
+"drop": 0.1,
+"rng": 6.3
+},
+"dur": 0.68
 },
 "bảy mươi mốt": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"bảy mươi mốt.\" sp=0.7",
-"core": 0.8,
-"dur": 1.08
+"ok": true,
+"heard": "bảy mươi mốt",
+"v": 12,
+"src": "bảy mươi mốt",
+"f0": {
+"drop": 7.2,
+"rng": 16.5
+},
+"dur": 0.83
 },
 "bảy mươi hai": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"bảy mươi hai.\" sp=0.7",
-"core": 0.98,
-"dur": 1.32
+"ok": "ctx",
+"heard": "bài mười hai",
+"v": 12,
+"src": "bảy mươi hai",
+"f0": {
+"drop": 2.9,
+"rng": 6.8
+},
+"dur": 0.89
 },
 "bảy mươi ba": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"bảy mươi ba.\" sp=0.7",
-"core": 0.92,
-"dur": 1.19
+"ok": true,
+"heard": "bảy mươi ba",
+"v": 12,
+"src": "bảy mươi ba",
+"f0": {
+"drop": 1.2,
+"rng": 5.4
+},
+"dur": 0.84
 },
 "bảy mươi bốn": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"bảy mươi bốn.\" sp=0.7",
-"core": 0.84,
-"dur": 1.14
+"ok": true,
+"heard": "bây giờ cô đọc bảy mươi bốn nhé",
+"v": 2,
+"dur": 0.79
 },
 "bảy mươi lăm": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"bảy mươi lăm.\" sp=0.7",
-"core": 0.9,
-"dur": 1.14
+"ok": "gate",
+"heard": "bài mười lăm",
+"v": 12,
+"src": "bảy mươi lăm",
+"f0": {
+"drop": 1.8,
+"rng": 4.9
+},
+"dur": 0.91
 },
 "bảy mươi sáu": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"bảy mươi sáu.\" sp=0.7",
-"core": 1.07,
-"dur": 1.31
+"ok": true,
+"heard": "bây giờ cô đọc bảy mươi sáu",
+"v": 2,
+"dur": 0.95
 },
 "bảy mươi bảy": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"bảy mươi bảy.\" sp=0.7",
-"core": 0.96,
-"dur": 1.25
+"ok": true,
+"heard": "bảy mươi bảy",
+"v": 12,
+"src": "bảy mươi bảy",
+"f0": {
+"drop": -2.2,
+"rng": 6.1
+},
+"dur": 0.85
 },
 "bảy mươi tám": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"bảy mươi tám.\" sp=0.7",
-"core": 0.94,
-"dur": 1.16
+"ok": true,
+"heard": "bảy mươi tám",
+"v": 12,
+"src": "bảy mươi tám",
+"f0": {
+"drop": 1.0,
+"rng": 13.3
+},
+"dur": 0.87
 },
 "bảy mươi chín": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"bảy mươi chín.\" sp=0.7",
-"core": 0.87,
-"dur": 1.22
+"ok": true,
+"heard": "bảy mươi chín",
+"v": 12,
+"src": "bảy mươi chín",
+"f0": {
+"drop": 2.7,
+"rng": 12.7
+},
+"dur": 0.82
 },
 "tám mươi": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"tám mươi.\" sp=0.7",
-"core": 0.76,
-"dur": 1.03
+"ok": true,
+"heard": "tám mươi",
+"v": 12,
+"src": "tám mươi",
+"f0": {
+"drop": 1.8,
+"rng": 10.7
+},
+"dur": 0.58
 },
 "tám mươi mốt": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"tám mươi mốt.\" sp=0.7",
-"core": 0.81,
-"dur": 1.1
+"ok": true,
+"heard": "tám mươi mốt",
+"v": 12,
+"src": "tám mươi mốt",
+"f0": {
+"drop": 7.9,
+"rng": 13.5
+},
+"dur": 0.76
 },
 "tám mươi hai": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"tám mươi hai.\" sp=0.7",
-"core": 0.94,
-"dur": 1.22
+"ok": true,
+"heard": "tám mươi hai",
+"v": 12,
+"src": "tám mươi hai",
+"f0": {
+"drop": 3.6,
+"rng": 10.2
+},
+"dur": 0.79
 },
 "tám mươi ba": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"tám mươi ba.\" sp=0.7",
-"core": 0.82,
-"dur": 1.12
+"ok": true,
+"heard": "tám mươi ba",
+"v": 12,
+"src": "tám mươi ba",
+"f0": {
+"drop": 2.6,
+"rng": 11.0
+},
+"dur": 0.81
 },
 "tám mươi bốn": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"tám mươi bốn.\" sp=0.7",
-"core": 0.87,
-"dur": 1.09
+"ok": true,
+"heard": "tám mươi bốn",
+"v": 12,
+"src": "tám mươi bốn",
+"f0": {
+"drop": 3.0,
+"rng": 10.8
+},
+"dur": 0.79
 },
 "tám mươi lăm": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"tám mươi lăm.\" sp=0.7",
-"core": 0.81,
-"dur": 1.08
+"ok": true,
+"heard": "tám mươi lăm",
+"v": 12,
+"src": "tám mươi lăm",
+"f0": {
+"drop": 1.9,
+"rng": 10.3
+},
+"dur": 0.82
 },
 "tám mươi sáu": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"tám mươi sáu.\" sp=0.7",
-"core": 0.92,
-"dur": 1.16
+"ok": true,
+"heard": "tám mươi sáu",
+"v": 12,
+"src": "tám mươi sáu",
+"f0": {
+"drop": 6.0,
+"rng": 10.5
+},
+"dur": 0.89
 },
 "tám mươi bảy": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"tám mươi bảy.\" sp=0.7",
-"core": 0.86,
-"dur": 1.17
+"ok": true,
+"heard": "tám mươi bảy",
+"v": 12,
+"src": "tám mươi bảy",
+"f0": {
+"drop": -1.8,
+"rng": 12.9
+},
+"dur": 0.86
 },
 "tám mươi tám": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"tám mươi tám.\" sp=0.7",
-"core": 0.92,
-"dur": 1.13
+"ok": true,
+"heard": "tám mươi tám",
+"v": 12,
+"src": "tám mươi tám",
+"f0": {
+"drop": 2.6,
+"rng": 9.6
+},
+"dur": 0.86
 },
 "tám mươi chín": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"tám mươi chín.\" sp=0.7",
-"core": 0.84,
-"dur": 1.06
+"ok": true,
+"heard": "tám mươi chín",
+"v": 12,
+"src": "tám mươi chín",
+"f0": {
+"drop": 2.0,
+"rng": 10.3
+},
+"dur": 0.82
 },
 "chín mươi": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"chín mươi.\" sp=0.7",
-"core": 0.82,
-"dur": 1.18
+"ok": true,
+"heard": "chín mươi",
+"v": 12,
+"src": "chín mươi",
+"f0": {
+"drop": 0.9,
+"rng": 9.1
+},
+"dur": 0.6
 },
 "chín mươi mốt": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"chín mươi mốt.\" sp=0.7",
-"core": 0.9,
-"dur": 1.11
+"ok": true,
+"heard": "chín mươi mốt",
+"v": 12,
+"src": "chín mươi mốt",
+"f0": {
+"drop": 6.1,
+"rng": 11.7
+},
+"dur": 0.81
 },
 "chín mươi hai": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"chín mươi hai.\" sp=0.7",
-"core": 1.08,
-"dur": 1.35
+"ok": true,
+"heard": "chín mươi hai",
+"v": 12,
+"src": "chín mươi hai",
+"f0": {
+"drop": -1.2,
+"rng": 9.2
+},
+"dur": 0.88
 },
 "chín mươi ba": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"chín mươi ba.\" sp=0.7",
-"core": 0.92,
-"dur": 1.19
+"ok": true,
+"heard": "chín mươi ba",
+"v": 12,
+"src": "chín mươi ba",
+"f0": {
+"drop": 0.3,
+"rng": 9.2
+},
+"dur": 0.8
 },
 "chín mươi bốn": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"chín mươi bốn.\" sp=0.7",
-"core": 0.88,
-"dur": 1.08
+"ok": true,
+"heard": "chín mươi bốn",
+"v": 12,
+"src": "chín mươi bốn",
+"f0": {
+"drop": 1.4,
+"rng": 10.5
+},
+"dur": 0.89
 },
 "chín mươi lăm": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"chín mươi lăm.\" sp=0.7",
-"core": 0.84,
-"dur": 1.05
+"ok": true,
+"heard": "chín mươi lăm",
+"v": 12,
+"src": "chín mươi lăm",
+"f0": {
+"drop": 0.7,
+"rng": 8.4
+},
+"dur": 0.76
 },
 "chín mươi sáu": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"chín mươi sáu.\" sp=0.7",
-"core": 1.06,
-"dur": 1.38
+"ok": true,
+"heard": "chín mươi sáu",
+"v": 12,
+"src": "chín mươi sáu",
+"f0": {
+"drop": 3.7,
+"rng": 10.3
+},
+"dur": 0.88
 },
 "chín mươi bảy": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"chín mươi bảy.\" sp=0.7",
-"core": 0.96,
-"dur": 1.21
+"ok": true,
+"heard": "chín mươi bảy",
+"v": 12,
+"src": "chín mươi bảy",
+"f0": {
+"drop": -3.1,
+"rng": 13.6
+},
+"dur": 0.83
 },
 "chín mươi tám": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"chín mươi tám.\" sp=0.7",
-"core": 0.85,
-"dur": 1.21
+"ok": true,
+"heard": "chín mươi tám",
+"v": 12,
+"src": "chín mươi tám",
+"f0": {
+"drop": 2.5,
+"rng": 9.1
+},
+"dur": 0.81
 },
 "chín mươi chín": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"chín mươi chín.\" sp=0.8",
-"core": 0.86,
-"dur": 1.19
+"ok": true,
+"heard": "chín mươi chín",
+"v": 12,
+"src": "chín mươi chín",
+"f0": {
+"drop": 1.6,
+"rng": 9.3
+},
+"dur": 0.82
 },
 "một trăm": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"một trăm.\" sp=0.7",
-"core": 0.77,
-"dur": 1.03
+"ok": true,
+"heard": "một trăm",
+"v": 12,
+"src": "một trăm",
+"f0": {
+"drop": 4.1,
+"rng": 5.5
+},
+"dur": 0.59
 },
 "cộng": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"cộng!\" sp=0.8",
-"core": 0.44,
-"dur": 0.65
+"ok": true,
+"heard": "cộng",
+"v": 12,
+"src": "cộng",
+"f0": {
+"drop": -4.5,
+"rng": 4.8
+},
+"dur": 0.4
 },
 "trừ": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"trừ.\" sp=0.7",
-"core": 0.6,
-"dur": 0.8
+"ok": true,
+"heard": "trừ",
+"v": 12,
+"src": "trừ",
+"f0": {
+"drop": -3.5,
+"rng": 4.8
+},
+"dur": 0.47
 },
 "bằng": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"bằng.\" sp=0.8",
-"core": 0.45,
-"dur": 0.72
+"ok": true,
+"heard": "bằng",
+"v": 12,
+"src": "bằng",
+"f0": {
+"drop": -3.1,
+"rng": 4.5
+},
+"dur": 0.46
 },
 "bằng mấy?": {
 "mode": "long",
@@ -13850,30 +15635,39 @@
 },
 "gờ kép": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"gờ kép.\" sp=0.65",
-"core": 0.84,
-"dur": 1.09
+"ok": "gate",
+"heard": "g",
+"v": 12,
+"src": "gờ kép",
+"f0": {
+"drop": 10.3,
+"rng": 15.2
+},
+"dur": 0.56
 },
 "ngờ đơn": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"ngờ đơn.\" sp=0.7",
-"core": 0.95,
-"dur": 1.16
+"ok": "ctx",
+"heard": "đơn",
+"v": 12,
+"src": "ngờ đơn",
+"f0": {
+"drop": 1.5,
+"rng": 3.8
+},
+"dur": 0.65
 },
 "ngờ kép": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"ngờ kép.\" sp=0.65",
-"core": 0.68,
-"dur": 0.93
+"ok": "gate",
+"heard": "ng",
+"v": 12,
+"src": "ngờ kép",
+"f0": {
+"drop": 11.8,
+"rng": 14.8
+},
+"dur": 0.59
 },
 "Mẹ mua rau.": {
 "mode": "long",
@@ -14372,12 +16166,15 @@
 },
 "Tập tầm vông": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"Tập tầm vông.\" sp=0.7",
-"core": 1.17,
-"dur": 1.41
+"ok": "gate",
+"heard": "tập tâm vung",
+"v": 12,
+"src": "Tập tầm vông",
+"f0": {
+"drop": -0.5,
+"rng": 5.3
+},
+"dur": 0.76
 },
 "Tay không tay có": {
 "mode": "long",
@@ -14599,12 +16396,15 @@
 },
 "Nét thẳng đứng": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"Nét thẳng đứng.\" sp=0.7",
-"core": 1.15,
-"dur": 1.41
+"ok": true,
+"heard": "nét thẳng đứng",
+"v": 12,
+"src": "Nét thẳng đứng",
+"f0": {
+"drop": -2.1,
+"rng": 15.7
+},
+"dur": 0.9
 },
 "Nét thẳng đứng, có trong chữ p và số một.": {
 "mode": "long",
@@ -14636,12 +16436,15 @@
 },
 "Nét thẳng xiên": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"Nét thẳng xiên.\" sp=0.7",
-"core": 1.38,
-"dur": 1.62
+"ok": "ctx",
+"heard": "nét thẳng",
+"v": 12,
+"src": "Nét thẳng xiên",
+"f0": {
+"drop": -4.7,
+"rng": 18.8
+},
+"dur": 0.68
 },
 "Nét thẳng xiên, có trong số bốn và số bảy.": {
 "mode": "long",
@@ -14653,12 +16456,15 @@
 },
 "Nét hất": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"Nét hất.\" sp=0.7",
-"core": 0.64,
-"dur": 0.94
+"ok": "gate",
+"heard": "nét hơi",
+"v": 12,
+"src": "Nét hất",
+"f0": {
+"drop": 10.6,
+"rng": 12.5
+},
+"dur": 0.45
 },
 "Nét hất, có trong chữ i và chữ u.": {
 "mode": "long",
@@ -14670,12 +16476,15 @@
 },
 "Nét móc xuôi": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"Nét móc xuôi.\" sp=0.7",
-"core": 1.09,
-"dur": 1.32
+"ok": "gate",
+"heard": "nét mốc sùa",
+"v": 12,
+"src": "Nét móc xuôi",
+"f0": {
+"drop": -1.6,
+"rng": 15.4
+},
+"dur": 0.89
 },
 "Nét móc xuôi, có trong chữ mờ và chữ nờ.": {
 "mode": "long",
@@ -14687,12 +16496,15 @@
 },
 "Nét móc ngược": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"Nét móc ngược.\" sp=0.7",
-"core": 1.0,
-"dur": 1.31
+"ok": true,
+"heard": "nét móc ngược",
+"v": 12,
+"src": "Nét móc ngược",
+"f0": {
+"drop": -0.7,
+"rng": 13.7
+},
+"dur": 0.85
 },
 "Nét móc ngược, có trong chữ i và chữ u.": {
 "mode": "long",
@@ -14770,12 +16582,15 @@
 },
 "Nét khuyết xuôi": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"Nét khuyết xuôi.\" sp=0.7",
-"core": 1.12,
-"dur": 1.39
+"ok": "gate",
+"heard": "nét khuyết",
+"v": 12,
+"src": "Nét khuyết xuôi",
+"f0": {
+"drop": -2.0,
+"rng": 15.1
+},
+"dur": 0.91
 },
 "Nét khuyết xuôi, có trong chữ lờ và chữ hờ.": {
 "mode": "long",
@@ -14787,12 +16602,15 @@
 },
 "Nét khuyết ngược": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"Nét khuyết ngược.\" sp=0.7",
-"core": 0.94,
-"dur": 1.27
+"ok": "ctx",
+"heard": "nét khuyết",
+"v": 12,
+"src": "Nét khuyết ngược",
+"f0": {
+"drop": 0.5,
+"rng": 13.0
+},
+"dur": 0.79
 },
 "Nét khuyết ngược, có trong chữ gờ và chữ i dài.": {
 "mode": "long",
@@ -14804,12 +16622,15 @@
 },
 "Nét thắt": {
 "mode": "short",
-"ok": "vivos",
-"heard": "",
-"v": "vivos1",
-"src": "vivos sid1 \"Nét thắt!\" sp=0.7",
-"core": 0.57,
-"dur": 0.85
+"ok": "gate",
+"heard": "nét thất",
+"v": 12,
+"src": "Nét thắt",
+"f0": {
+"drop": 12.1,
+"rng": 13.2
+},
+"dur": 0.55
 },
 "Nét thắt, có trong chữ bờ và chữ vờ.": {
 "mode": "long",
