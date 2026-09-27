@@ -19153,5 +19153,61 @@
 "old": 1.0,
 "dur": 2.7,
 "polish": 2
+},
+"Luyện dấu thanh nào!": {
+"mode": "long",
+"score": 1.0,
+"heard": "luyện dấu thanh nào",
+"v": 12,
+"polish": 2,
+"dur": 1.06
+},
+"Luyện chữ ghép nào!": {
+"mode": "long",
+"score": 0.889,
+"heard": "luyện chữ khét nào",
+"v": 12,
+"polish": 2,
+"dur": 1.09
+},
+"Luyện chính tả nào!": {
+"mode": "long",
+"score": 1.0,
+"heard": "luyện chính tả nào",
+"v": 12,
+"polish": 2,
+"dur": 1.08
+},
+"Luyện đọc câu nào!": {
+"mode": "long",
+"score": 1.0,
+"heard": "luyện đọc câu nào",
+"v": 12,
+"polish": 2,
+"dur": 1.08
+},
+"Luyện số và đếm nào!": {
+"mode": "long",
+"score": 0.923,
+"heard": "nguyện số và đếm nào",
+"v": 12,
+"polish": 2,
+"dur": 1.32
+},
+"Luyện hình, vị trí và xem giờ nào!": {
+"mode": "long",
+"score": 1.0,
+"heard": "luyện hình vị trí và xem giờ nào",
+"v": 12,
+"polish": 2,
+"dur": 2.22
+},
+"Luyện vần nào!": {
+"mode": "long",
+"score": 0.889,
+"heard": "luyện phần nào",
+"v": 12,
+"polish": 2,
+"dur": 0.86
 }
 }
