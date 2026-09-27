@@ -13,15 +13,16 @@
 },
 "á": {
 "mode": "short",
-"ok": true,
-"heard": "á",
-"v": 12,
-"src": "á",
+"ok": "ctx",
+"heard": "(tách từ cá)",
+"v": 14,
+"src": "cá",
 "f0": {
-"drop": 6.6,
-"rng": 7.5
+"drop": 4.6,
+"rng": 7.6
 },
-"dur": 0.42
+"core": 0.44,
+"dur": 0.59
 },
 "ăn cơm": {
 "mode": "short",
@@ -37,15 +38,16 @@
 },
 "ớ": {
 "mode": "short",
-"ok": "ctx",
-"heard": "ối",
-"v": 12,
-"src": "ớ",
+"ok": "gate",
+"heard": "(tách từ sớ)",
+"v": 14,
+"src": "sớ",
 "f0": {
-"drop": 5.0,
-"rng": 6.3
+"drop": 5.3,
+"rng": 8.9
 },
-"dur": 0.41
+"core": 0.44,
+"dur": 0.6
 },
 "cái ấm": {
 "mode": "short",
@@ -63,13 +65,14 @@
 "mode": "short",
 "ok": true,
 "heard": "bờ",
-"v": 12,
+"v": 14,
 "src": "bờ",
 "f0": {
 "drop": -1.4,
 "rng": 4.3
 },
-"dur": 0.49
+"dur": 0.6,
+"core": 0.41
 },
 "con bò": {
 "mode": "short",
@@ -87,13 +90,14 @@
 "mode": "short",
 "ok": "ctx",
 "heard": "",
-"v": 12,
+"v": 14,
 "src": "cờ",
 "f0": {
 "drop": -3.3,
 "rng": 4.0
 },
-"dur": 0.42
+"dur": 0.57,
+"core": 0.41
 },
 "con cá": {
 "mode": "short",
@@ -123,13 +127,14 @@
 "mode": "short",
 "ok": "ctx",
 "heard": "đ",
-"v": 12,
+"v": 14,
 "src": "đờ",
 "f0": {
 "drop": -1.3,
 "rng": 6.8
 },
-"dur": 0.51
+"dur": 0.6,
+"core": 0.4
 },
 "bóng đèn": {
 "mode": "short",
@@ -166,13 +171,14 @@
 "mode": "short",
 "ok": "ctx",
 "heard": "",
-"v": 12,
+"v": 14,
 "src": "hờ",
 "f0": {
 "drop": -1.6,
 "rng": 5.5
 },
-"dur": 0.49
+"dur": 0.58,
+"core": 0.41
 },
 "bông hoa": {
 "mode": "short",
@@ -202,13 +208,14 @@
 "mode": "short",
 "ok": true,
 "heard": "ca",
-"v": 12,
+"v": 14,
 "src": "ca",
 "f0": {
 "drop": -0.7,
 "rng": 1.0
 },
-"dur": 0.42
+"dur": 0.57,
+"core": 0.41
 },
 "que kem": {
 "mode": "short",
@@ -226,13 +233,14 @@
 "mode": "short",
 "ok": "ctx",
 "heard": "l",
-"v": 12,
+"v": 14,
 "src": "lờ",
 "f0": {
 "drop": -1.6,
 "rng": 4.0
 },
-"dur": 0.51
+"dur": 0.61,
+"core": 0.41
 },
 "chiếc lá": {
 "mode": "short",
@@ -250,13 +258,14 @@
 "mode": "short",
 "ok": "ctx",
 "heard": "m",
-"v": 12,
+"v": 14,
 "src": "mờ",
 "f0": {
 "drop": -0.2,
 "rng": 3.0
 },
-"dur": 0.49
+"dur": 0.58,
+"core": 0.38
 },
 "con mèo": {
 "mode": "short",
@@ -274,13 +283,14 @@
 "mode": "short",
 "ok": "ctx",
 "heard": "n",
-"v": 12,
+"v": 14,
 "src": "nờ",
 "f0": {
 "drop": -0.5,
 "rng": 2.9
 },
-"dur": 0.49
+"dur": 0.6,
+"core": 0.41
 },
 "quả ớt": {
 "mode": "short",
@@ -334,13 +344,14 @@
 "mode": "short",
 "ok": "ctx",
 "heard": "",
-"v": 12,
+"v": 14,
 "src": "tờ",
 "f0": {
 "drop": -4.0,
 "rng": 7.7
 },
-"dur": 0.44
+"dur": 0.58,
+"core": 0.41
 },
 "quả táo": {
 "mode": "short",
@@ -370,13 +381,14 @@
 "mode": "short",
 "ok": true,
 "heard": "vờ",
-"v": 12,
+"v": 14,
 "src": "vờ",
 "f0": {
 "drop": -2.3,
 "rng": 4.1
 },
-"dur": 0.48
+"dur": 0.59,
+"core": 0.41
 },
 "xe ô tô": {
 "mode": "short",
@@ -2127,14 +2139,15 @@
 "âu": {
 "mode": "short",
 "ok": "ctx",
-"heard": "",
-"v": 12,
-"src": "âu",
+"heard": "(tách từ sâu)",
+"v": 14,
+"src": "sâu",
 "f0": {
-"drop": 0.0,
-"rng": 2.3
+"drop": 0.1,
+"rng": 4.1
 },
-"dur": 0.45
+"core": 0.41,
+"dur": 0.58
 },
 "con gấu": {
 "mode": "short",
@@ -2271,14 +2284,15 @@
 "em": {
 "mode": "short",
 "ok": "ctx",
-"heard": "",
-"v": 12,
-"src": "em",
+"heard": "(tách từ kem)",
+"v": 14,
+"src": "kem",
 "f0": {
-"drop": -0.2,
-"rng": 0.7
+"drop": -0.8,
+"rng": 2.1
 },
-"dur": 0.4
+"core": 0.4,
+"dur": 0.55
 },
 "kem": {
 "mode": "short",
@@ -2787,45 +2801,49 @@
 "a": {
 "mode": "short",
 "ok": "ctx",
-"heard": "à",
-"v": 12,
-"src": "a",
+"heard": "(tách từ ca)",
+"v": 14,
+"src": "ca",
 "f0": {
-"drop": 0.3,
-"rng": 1.5
+"drop": -0.5,
+"rng": 3.0
 },
-"dur": 0.4
+"core": 0.43,
+"dur": 0.58
 },
 "dờ": {
 "mode": "short",
 "ok": "carrier",
 "heard": "bây giờ cô đọc giờ",
-"v": 2,
-"dur": 0.48
+"v": 14,
+"dur": 0.6,
+"core": 0.41
 },
 "e": {
 "mode": "short",
 "ok": "gate",
-"heard": "",
-"v": 12,
-"src": "e",
+"heard": "(tách từ che)",
+"v": 14,
+"src": "che",
 "f0": {
-"drop": -1.4,
-"rng": 2.8
+"drop": -0.8,
+"rng": 3.1
 },
-"dur": 0.44
+"core": 0.43,
+"dur": 0.58
 },
 "ê": {
 "mode": "short",
-"ok": true,
-"heard": "ê",
-"v": 12,
-"src": "ê",
+"ok": "gate",
+"heard": "(tách từ khê)",
+"v": 14,
+"src": "khê",
 "f0": {
-"drop": -2.2,
-"rng": 3.2
+"drop": 0.0,
+"rng": 3.7
 },
-"dur": 0.36
+"core": 0.44,
+"dur": 0.58
 },
 "con ếch": {
 "mode": "short",
@@ -2843,37 +2861,40 @@
 "mode": "short",
 "ok": "gate",
 "heard": "g",
-"v": 12,
+"v": 14,
 "src": "gờ",
 "f0": {
 "drop": -3.5,
 "rng": 6.1
 },
-"dur": 0.43
+"dur": 0.57,
+"core": 0.41
 },
 "i": {
 "mode": "short",
-"ok": "gate",
-"heard": "y",
-"v": 12,
-"src": "i",
+"ok": "ctx",
+"heard": "(tách từ thi)",
+"v": 14,
+"src": "thi",
 "f0": {
-"drop": -2.4,
-"rng": 5.6
+"drop": -0.2,
+"rng": 3.2
 },
-"dur": 0.36
+"core": 0.43,
+"dur": 0.58
 },
 "o": {
 "mode": "short",
-"ok": true,
-"heard": "o",
-"v": 12,
-"src": "o",
+"ok": "gate",
+"heard": "(tách từ co)",
+"v": 14,
+"src": "co",
 "f0": {
-"drop": 0.3,
-"rng": 1.1
+"drop": 0.1,
+"rng": 0.9
 },
-"dur": 0.31
+"core": 0.43,
+"dur": 0.58
 },
 "con ong": {
 "mode": "short",
@@ -2890,14 +2911,15 @@
 "ô": {
 "mode": "short",
 "ok": "gate",
-"heard": "",
-"v": 12,
-"src": "ô",
+"heard": "(tách từ thô)",
+"v": 14,
+"src": "thô",
 "f0": {
 "drop": -1.2,
-"rng": 2.5
+"rng": 2.1
 },
-"dur": 0.3
+"core": 0.43,
+"dur": 0.58
 },
 "cái ô": {
 "mode": "short",
@@ -2913,27 +2935,29 @@
 },
 "ơ": {
 "mode": "short",
-"ok": true,
-"heard": "ơ",
-"v": 12,
-"src": "ơ",
+"ok": "ctx",
+"heard": "(tách từ thơ)",
+"v": 14,
+"src": "thơ",
 "f0": {
-"drop": 1.0,
-"rng": 2.2
+"drop": 0.2,
+"rng": 0.6
 },
-"dur": 0.42
+"core": 0.43,
+"dur": 0.6
 },
 "pờ": {
 "mode": "short",
 "ok": "gate",
 "heard": "",
-"v": 12,
+"v": 14,
 "src": "pờ",
 "f0": {
 "drop": -2.9,
 "rng": 5.7
 },
-"dur": 0.43
+"dur": 0.59,
+"core": 0.42
 },
 "cục pin": {
 "mode": "short",
@@ -2951,44 +2975,48 @@
 "mode": "short",
 "ok": "gate",
 "heard": "",
-"v": 12,
+"v": 14,
 "src": "quờ",
 "f0": {
 "drop": -4.2,
 "rng": 6.0
 },
-"dur": 0.42
+"dur": 0.57,
+"core": 0.39
 },
 "rờ": {
 "mode": "short",
 "ok": "carrier",
 "heard": "bây giờ cô đọc giờ",
-"v": 2,
-"dur": 0.42
+"v": 14,
+"dur": 0.59,
+"core": 0.41
 },
 "sờ": {
 "mode": "short",
 "ok": true,
 "heard": "sờ",
-"v": 12,
+"v": 14,
 "src": "sờ",
 "f0": {
 "drop": -4.3,
 "rng": 8.2
 },
-"dur": 0.46
+"dur": 0.59,
+"core": 0.41
 },
 "u": {
 "mode": "short",
-"ok": "gate",
-"heard": "gu",
-"v": 12,
-"src": "u",
+"ok": "ctx",
+"heard": "(tách từ thu)",
+"v": 14,
+"src": "thu",
 "f0": {
-"drop": -1.5,
-"rng": 2.8
+"drop": 0.3,
+"rng": 2.9
 },
-"dur": 0.3
+"core": 0.43,
+"dur": 0.58
 },
 "đôi ủng": {
 "mode": "short",
@@ -3004,15 +3032,16 @@
 },
 "ư": {
 "mode": "short",
-"ok": "gate",
-"heard": "",
-"v": 12,
-"src": "ư",
+"ok": "ctx",
+"heard": "(tách từ thư)",
+"v": 14,
+"src": "thư",
 "f0": {
-"drop": -0.9,
-"rng": 2.5
+"drop": -0.2,
+"rng": 2.3
 },
-"dur": 0.32
+"core": 0.44,
+"dur": 0.59
 },
 "con voi": {
 "mode": "short",
@@ -3030,25 +3059,27 @@
 "mode": "short",
 "ok": "gate",
 "heard": "s",
-"v": 12,
+"v": 14,
 "src": "xờ",
 "f0": {
 "drop": -4.0,
 "rng": 5.9
 },
-"dur": 0.46
+"dur": 0.59,
+"core": 0.41
 },
 "i dài": {
 "mode": "short",
 "ok": "gate",
 "heard": "y dài",
-"v": 12,
+"v": 14,
 "src": "i dài",
 "f0": {
 "drop": -3.5,
 "rng": 5.7
 },
-"dur": 0.59
+"dur": 0.62,
+"core": 0.46
 },
 "không": {
 "mode": "short",
@@ -3340,15 +3371,16 @@
 },
 "eo": {
 "mode": "short",
-"ok": "gate",
-"heard": "",
-"v": 12,
-"src": "eo",
+"ok": "ctx",
+"heard": "(tách từ theo)",
+"v": 14,
+"src": "theo",
 "f0": {
-"drop": -0.7,
-"rng": 2.5
+"drop": -0.3,
+"rng": 2.6
 },
-"dur": 0.39
+"core": 0.41,
+"dur": 0.56
 },
 "meo": {
 "mode": "short",
@@ -3364,15 +3396,16 @@
 },
 "oi": {
 "mode": "short",
-"ok": "gate",
-"heard": "",
-"v": 12,
-"src": "oi",
+"ok": "ctx",
+"heard": "(tách từ coi)",
+"v": 14,
+"src": "coi",
 "f0": {
-"drop": 0.0,
-"rng": 1.0
+"drop": -0.2,
+"rng": 1.8
 },
-"dur": 0.38
+"core": 0.41,
+"dur": 0.56
 },
 "voi": {
 "mode": "short",
@@ -3389,26 +3422,28 @@
 "ao": {
 "mode": "short",
 "ok": "ctx",
-"heard": "aus",
-"v": 12,
-"src": "ao",
+"heard": "(tách từ sao)",
+"v": 14,
+"src": "sao",
 "f0": {
-"drop": 0.2,
-"rng": 0.7
+"drop": 0.1,
+"rng": 2.3
 },
-"dur": 0.47
+"core": 0.41,
+"dur": 0.56
 },
 "oa": {
 "mode": "short",
-"ok": "gate",
-"heard": "quá",
-"v": 12,
-"src": "oa",
+"ok": "ctx",
+"heard": "(tách từ khoa)",
+"v": 14,
+"src": "khoa",
 "f0": {
-"drop": 0.0,
-"rng": 1.4
+"drop": -0.4,
+"rng": 2.1
 },
-"dur": 0.37
+"core": 0.4,
+"dur": 0.55
 },
 "hoa": {
 "mode": "short",
@@ -3472,15 +3507,16 @@
 },
 "ưa": {
 "mode": "short",
-"ok": "gate",
-"heard": "",
-"v": 12,
-"src": "ưa",
+"ok": "ctx",
+"heard": "(tách từ cưa)",
+"v": 14,
+"src": "cưa",
 "f0": {
-"drop": 0.0,
-"rng": 2.4
+"drop": -0.2,
+"rng": 2.8
 },
-"dur": 0.4
+"core": 0.41,
+"dur": 0.56
 },
 "sưa": {
 "mode": "short",
@@ -3521,14 +3557,15 @@
 "ua": {
 "mode": "short",
 "ok": "gate",
-"heard": "gu",
-"v": 12,
-"src": "ua",
+"heard": "(tách từ thua)",
+"v": 14,
+"src": "thua",
 "f0": {
-"drop": -0.4,
-"rng": 2.4
+"drop": 0.0,
+"rng": 3.1
 },
-"dur": 0.37
+"core": 0.4,
+"dur": 0.55
 },
 "rua": {
 "mode": "short",
@@ -3580,15 +3617,16 @@
 },
 "au": {
 "mode": "short",
-"ok": "gate",
-"heard": "",
-"v": 12,
-"src": "au",
+"ok": "ctx",
+"heard": "(tách từ sau)",
+"v": 14,
+"src": "sau",
 "f0": {
-"drop": -0.3,
-"rng": 2.0
+"drop": -0.1,
+"rng": 2.6
 },
-"dur": 0.43
+"core": 0.41,
+"dur": 0.57
 },
 "tau": {
 "mode": "short",
@@ -3616,27 +3654,29 @@
 },
 "am": {
 "mode": "short",
-"ok": true,
-"heard": "am",
-"v": 12,
-"src": "am",
+"ok": "ctx",
+"heard": "(tách từ cam)",
+"v": 14,
+"src": "cam",
 "f0": {
-"drop": -0.7,
-"rng": 1.3
+"drop": -0.6,
+"rng": 2.2
 },
-"dur": 0.38
+"core": 0.41,
+"dur": 0.57
 },
 "ôm": {
 "mode": "short",
 "ok": "gate",
-"heard": "um",
-"v": 12,
-"src": "ôm",
+"heard": "(tách từ xôm)",
+"v": 14,
+"src": "xôm",
 "f0": {
-"drop": -1.9,
-"rng": 2.7
+"drop": -0.4,
+"rng": 3.0
 },
-"dur": 0.4
+"core": 0.41,
+"dur": 0.57
 },
 "tôm": {
 "mode": "short",
@@ -3664,15 +3704,16 @@
 },
 "âm": {
 "mode": "short",
-"ok": true,
-"heard": "âm",
-"v": 12,
-"src": "âm",
+"ok": "ctx",
+"heard": "(tách từ thâm)",
+"v": 14,
+"src": "thâm",
 "f0": {
-"drop": -0.9,
-"rng": 1.7
+"drop": -0.6,
+"rng": 2.3
 },
-"dur": 0.42
+"core": 0.4,
+"dur": 0.55
 },
 "nâm": {
 "mode": "short",
@@ -3713,14 +3754,15 @@
 "ơn": {
 "mode": "short",
 "ok": "gate",
-"heard": "",
-"v": 12,
-"src": "ơn",
+"heard": "(tách từ chơn)",
+"v": 14,
+"src": "chơn",
 "f0": {
-"drop": 1.2,
-"rng": 1.8
+"drop": 0.0,
+"rng": 1.4
 },
-"dur": 0.39
+"core": 0.41,
+"dur": 0.58
 },
 "lơn": {
 "mode": "short",
@@ -3749,14 +3791,15 @@
 "en": {
 "mode": "short",
 "ok": "gate",
-"heard": "đánh",
-"v": 12,
-"src": "en",
+"heard": "(tách từ sen)",
+"v": 14,
+"src": "sen",
 "f0": {
-"drop": -0.2,
-"rng": 0.7
+"drop": 0.0,
+"rng": 2.4
 },
-"dur": 0.33
+"core": 0.41,
+"dur": 0.55
 },
 "đen": {
 "mode": "short",
@@ -3772,27 +3815,29 @@
 },
 "ay": {
 "mode": "short",
-"ok": "gate",
-"heard": "",
-"v": 12,
-"src": "ay",
+"ok": "ctx",
+"heard": "(tách từ say)",
+"v": 14,
+"src": "say",
 "f0": {
-"drop": -1.3,
-"rng": 2.9
+"drop": 0.3,
+"rng": 3.3
 },
-"dur": 0.35
+"core": 0.41,
+"dur": 0.56
 },
 "ui": {
 "mode": "short",
-"ok": "gate",
-"heard": "",
-"v": 12,
-"src": "ui",
+"ok": "ctx",
+"heard": "(tách từ xui)",
+"v": 14,
+"src": "xui",
 "f0": {
-"drop": -2.1,
-"rng": 4.1
+"drop": -0.6,
+"rng": 3.6
 },
-"dur": 0.39
+"core": 0.39,
+"dur": 0.55
 },
 "tui": {
 "mode": "short",
@@ -3809,14 +3854,15 @@
 "ây": {
 "mode": "short",
 "ok": "gate",
-"heard": "a",
-"v": 12,
-"src": "ây",
+"heard": "(tách từ thây)",
+"v": 14,
+"src": "thây",
 "f0": {
-"drop": -1.8,
-"rng": 3.8
+"drop": 0.0,
+"rng": 4.0
 },
-"dur": 0.42
+"core": 0.4,
+"dur": 0.55
 },
 "mây": {
 "mode": "short",
@@ -3833,14 +3879,15 @@
 "ơm": {
 "mode": "short",
 "ok": "gate",
-"heard": "ấm",
-"v": 12,
-"src": "ơm",
+"heard": "(tách từ thơm)",
+"v": 14,
+"src": "thơm",
 "f0": {
-"drop": -0.6,
-"rng": 3.0
+"drop": 0.4,
+"rng": 2.2
 },
-"dur": 0.4
+"core": 0.38,
+"dur": 0.55
 },
 "bát cơm": {
 "mode": "short",
@@ -3870,13 +3917,14 @@
 "mode": "short",
 "ok": "gate",
 "heard": "y ngắn",
-"v": 12,
+"v": 14,
 "src": "i ngắn",
 "f0": {
 "drop": 5.1,
 "rng": 10.0
 },
-"dur": 0.55
+"dur": 0.58,
+"core": 0.41
 },
 "Tiếng nơ bắt đầu bằng chữ nào?": {
 "mode": "long",
@@ -5607,15 +5655,16 @@
 },
 "ai": {
 "mode": "short",
-"ok": true,
-"heard": "ai",
-"v": 12,
-"src": "ai",
+"ok": "gate",
+"heard": "(tách từ thai)",
+"v": 14,
+"src": "thai",
 "f0": {
 "drop": 0.0,
-"rng": 2.7
+"rng": 1.7
 },
-"dur": 0.41
+"core": 0.4,
+"dur": 0.55
 },
 "tai": {
 "mode": "short",
@@ -5877,27 +5926,29 @@
 },
 "ong": {
 "mode": "short",
-"ok": true,
-"heard": "ong",
-"v": 12,
-"src": "ong",
+"ok": "gate",
+"heard": "(tách từ song)",
+"v": 14,
+"src": "song",
 "f0": {
-"drop": 0.4,
-"rng": 1.5
+"drop": 0.0,
+"rng": 2.0
 },
-"dur": 0.4
+"core": 0.38,
+"dur": 0.55
 },
 "ngờ": {
 "mode": "short",
 "ok": "ctx",
 "heard": "",
-"v": 12,
+"v": 14,
 "src": "ngờ",
 "f0": {
 "drop": -0.8,
 "rng": 2.9
 },
-"dur": 0.49
+"dur": 0.59,
+"core": 0.41
 },
 "bong": {
 "mode": "short",
@@ -5961,22 +6012,29 @@
 },
 "ach": {
 "mode": "short",
-"ok": "carrier",
-"heard": "bây giờ cô đọc ai",
-"v": 2,
-"dur": 0.34
+"ok": "ctx",
+"heard": "(tách từ sách)",
+"v": 14,
+"src": "sách",
+"f0": {
+"drop": 1.8,
+"rng": 2.7
+},
+"core": 0.29,
+"dur": 0.46
 },
 "chờ": {
 "mode": "short",
 "ok": true,
 "heard": "chờ",
-"v": 12,
+"v": 14,
 "src": "chờ",
 "f0": {
 "drop": -4.9,
 "rng": 6.0
 },
-"dur": 0.49
+"dur": 0.59,
+"core": 0.41
 },
 "sach": {
 "mode": "short",
@@ -6040,27 +6098,29 @@
 },
 "anh": {
 "mode": "short",
-"ok": true,
-"heard": "anh",
-"v": 12,
-"src": "anh",
+"ok": "gate",
+"heard": "(tách từ chanh)",
+"v": 14,
+"src": "chanh",
 "f0": {
-"drop": -0.6,
-"rng": 2.0
+"drop": 0.0,
+"rng": 2.1
 },
-"dur": 0.47
+"core": 0.4,
+"dur": 0.55
 },
 "nhờ": {
 "mode": "short",
 "ok": true,
 "heard": "nhờ",
-"v": 12,
+"v": 14,
 "src": "nhờ",
 "f0": {
 "drop": -1.0,
 "rng": 3.8
 },
-"dur": 0.51
+"dur": 0.59,
+"core": 0.41
 },
 "banh": {
 "mode": "short",
@@ -6124,10 +6184,16 @@
 },
 "ăt": {
 "mode": "short",
-"ok": "carrier",
-"heard": "bây giờ cô đọc cả",
-"v": 2,
-"dur": 0.31
+"ok": "gate",
+"heard": "(tách từ sắt)",
+"v": 14,
+"src": "sắt",
+"f0": {
+"drop": 1.4,
+"rng": 2.4
+},
+"core": 0.29,
+"dur": 0.44
 },
 "măt": {
 "mode": "short",
@@ -6191,15 +6257,16 @@
 },
 "ut": {
 "mode": "short",
-"ok": "gate",
-"heard": "gup",
-"v": 12,
-"src": "út",
+"ok": "ctx",
+"heard": "(tách từ chút)",
+"v": 14,
+"src": "chút",
 "f0": {
-"drop": 4.8,
-"rng": 7.4
+"drop": 3.6,
+"rng": 4.8
 },
-"dur": 0.3
+"core": 0.29,
+"dur": 0.44
 },
 "but": {
 "mode": "short",
@@ -6261,15 +6328,16 @@
 },
 "ôc": {
 "mode": "short",
-"ok": "ctx",
-"heard": "úc",
-"v": 12,
-"src": "ốc",
+"ok": "gate",
+"heard": "(tách từ xốc)",
+"v": 14,
+"src": "xốc",
 "f0": {
-"drop": 3.9,
-"rng": 4.6
+"drop": 2.3,
+"rng": 3.0
 },
-"dur": 0.32
+"core": 0.28,
+"dur": 0.43
 },
 "côc": {
 "mode": "short",
@@ -6333,15 +6401,16 @@
 },
 "it": {
 "mode": "short",
-"ok": true,
-"heard": "ít",
-"v": 12,
-"src": "ít",
+"ok": "gate",
+"heard": "(tách từ thít)",
+"v": 14,
+"src": "thít",
 "f0": {
-"drop": 5.5,
-"rng": 6.0
+"drop": 4.4,
+"rng": 6.2
 },
-"dur": 0.37
+"core": 0.29,
+"dur": 0.44
 },
 "vit": {
 "mode": "short",
@@ -6405,15 +6474,16 @@
 },
 "oc": {
 "mode": "short",
-"ok": "ctx",
-"heard": "ốc",
-"v": 12,
-"src": "óc",
+"ok": "gate",
+"heard": "(tách từ sóc)",
+"v": 14,
+"src": "sóc",
 "f0": {
-"drop": 5.7,
-"rng": 5.7
+"drop": 0.7,
+"rng": 2.9
 },
-"dur": 0.31
+"core": 0.29,
+"dur": 0.44
 },
 "soc": {
 "mode": "short",
@@ -6643,13 +6713,14 @@
 "mode": "short",
 "ok": "gate",
 "heard": "",
-"v": 12,
+"v": 14,
 "src": "thờ",
 "f0": {
 "drop": -3.1,
 "rng": 4.5
 },
-"dur": 0.48
+"dur": 0.58,
+"core": 0.41
 },
 "tho": {
 "mode": "short",
@@ -6715,13 +6786,14 @@
 "mode": "short",
 "ok": true,
 "heard": "phờ",
-"v": 12,
+"v": 14,
 "src": "phờ",
 "f0": {
 "drop": -3.2,
 "rng": 6.4
 },
-"dur": 0.44
+"dur": 0.58,
+"core": 0.41
 },
 "phơ": {
 "mode": "short",
@@ -6787,13 +6859,14 @@
 "mode": "short",
 "ok": "ctx",
 "heard": "c",
-"v": 12,
+"v": 14,
 "src": "khờ",
 "f0": {
 "drop": -3.5,
 "rng": 4.0
 },
-"dur": 0.39
+"dur": 0.56,
+"core": 0.41
 },
 "khi": {
 "mode": "short",
@@ -7043,13 +7116,14 @@
 "mode": "short",
 "ok": "gate",
 "heard": "gì",
-"v": 12,
+"v": 14,
 "src": "di",
 "f0": {
 "drop": -1.8,
 "rng": 4.4
 },
-"dur": 0.44
+"dur": 0.57,
+"core": 0.41
 },
 "giay": {
 "mode": "short",
@@ -7207,25 +7281,27 @@
 "mode": "short",
 "ok": "gate",
 "heard": "chờ",
-"v": 12,
+"v": 14,
 "src": "trờ",
 "f0": {
 "drop": -4.4,
 "rng": 10.4
 },
-"dur": 0.49
+"dur": 0.58,
+"core": 0.41
 },
 "ông": {
 "mode": "short",
 "ok": "gate",
-"heard": "",
-"v": 12,
-"src": "ông",
+"heard": "(tách từ sông)",
+"v": 14,
+"src": "sông",
 "f0": {
-"drop": -0.3,
-"rng": 0.9
+"drop": 0.1,
+"rng": 2.1
 },
-"dur": 0.33
+"core": 0.41,
+"dur": 0.57
 },
 "trông": {
 "mode": "short",
@@ -8738,14 +8814,15 @@
 "ôi": {
 "mode": "short",
 "ok": "gate",
-"heard": "",
-"v": 12,
-"src": "ôi",
+"heard": "(tách từ xôi)",
+"v": 14,
+"src": "xôi",
 "f0": {
-"drop": -2.3,
-"rng": 3.4
+"drop": -1.4,
+"rng": 4.7
 },
-"dur": 0.45
+"core": 0.41,
+"dur": 0.55
 },
 "chổi": {
 "mode": "short",
@@ -8780,15 +8857,16 @@
 },
 "ơi": {
 "mode": "short",
-"ok": true,
-"heard": "ơi",
-"v": 12,
-"src": "ơi",
+"ok": "ctx",
+"heard": "(tách từ khơi)",
+"v": 14,
+"src": "khơi",
 "f0": {
-"drop": -1.7,
-"rng": 4.3
+"drop": -0.1,
+"rng": 2.4
 },
-"dur": 0.51
+"core": 0.4,
+"dur": 0.57
 },
 "bơi lội": {
 "mode": "short",
@@ -8817,14 +8895,15 @@
 "êu": {
 "mode": "short",
 "ok": "gate",
-"heard": "ê",
-"v": 12,
-"src": "êu",
+"heard": "(tách từ khêu)",
+"v": 14,
+"src": "khêu",
 "f0": {
-"drop": 0.5,
-"rng": 2.9
+"drop": 0.0,
+"rng": 3.1
 },
-"dur": 0.47
+"core": 0.41,
+"dur": 0.58
 },
 "lều": {
 "mode": "short",
@@ -8865,14 +8944,15 @@
 "iu": {
 "mode": "short",
 "ok": "gate",
-"heard": "you",
-"v": 12,
-"src": "iu",
+"heard": "(tách từ thiu)",
+"v": 14,
+"src": "thiu",
 "f0": {
-"drop": 0.4,
-"rng": 2.0
+"drop": -0.1,
+"rng": 2.1
 },
-"dur": 0.42
+"core": 0.41,
+"dur": 0.56
 },
 "rìu": {
 "mode": "short",
@@ -8913,14 +8993,15 @@
 "ưu": {
 "mode": "short",
 "ok": "gate",
-"heard": "yout",
-"v": 12,
-"src": "ưu",
+"heard": "(tách từ sưu)",
+"v": 14,
+"src": "sưu",
 "f0": {
-"drop": -0.5,
-"rng": 2.3
+"drop": 0.0,
+"rng": 2.4
 },
-"dur": 0.39
+"core": 0.41,
+"dur": 0.56
 },
 "cừu": {
 "mode": "short",
@@ -8960,15 +9041,16 @@
 },
 "ăm": {
 "mode": "short",
-"ok": "gate",
-"heard": "àm",
-"v": 12,
-"src": "ăm",
+"ok": "ctx",
+"heard": "(tách từ chăm)",
+"v": 14,
+"src": "chăm",
 "f0": {
 "drop": 0.0,
-"rng": 1.0
+"rng": 1.6
 },
-"dur": 0.45
+"core": 0.41,
+"dur": 0.57
 },
 "tắm": {
 "mode": "short",
@@ -9003,15 +9085,16 @@
 },
 "êm": {
 "mode": "short",
-"ok": "gate",
-"heard": "",
-"v": 12,
-"src": "êm",
+"ok": "ctx",
+"heard": "(tách từ thêm)",
+"v": 14,
+"src": "thêm",
 "f0": {
-"drop": -0.5,
-"rng": 1.7
+"drop": -1.5,
+"rng": 3.0
 },
-"dur": 0.45
+"core": 0.41,
+"dur": 0.57
 },
 "ban đêm": {
 "mode": "short",
@@ -9040,14 +9123,15 @@
 "im": {
 "mode": "short",
 "ok": "gate",
-"heard": "in",
-"v": 12,
-"src": "im",
+"heard": "(tách từ kim)",
+"v": 14,
+"src": "kim",
 "f0": {
-"drop": -1.2,
-"rng": 2.2
+"drop": -1.3,
+"rng": 2.6
 },
-"dur": 0.4
+"core": 0.4,
+"dur": 0.55
 },
 "con chim": {
 "mode": "short",
@@ -9076,14 +9160,15 @@
 "um": {
 "mode": "short",
 "ok": "gate",
-"heard": "",
-"v": 12,
-"src": "um",
+"heard": "(tách từ khum)",
+"v": 14,
+"src": "khum",
 "f0": {
-"drop": 0.5,
-"rng": 2.1
+"drop": -0.4,
+"rng": 2.7
 },
-"dur": 0.42
+"core": 0.41,
+"dur": 0.55
 },
 "chùm": {
 "mode": "short",
@@ -9111,15 +9196,16 @@
 },
 "an": {
 "mode": "short",
-"ok": true,
-"heard": "an",
-"v": 12,
-"src": "an",
+"ok": "ctx",
+"heard": "(tách từ can)",
+"v": 14,
+"src": "can",
 "f0": {
-"drop": -0.6,
-"rng": 0.7
+"drop": -0.2,
+"rng": 1.7
 },
-"dur": 0.35
+"core": 0.4,
+"dur": 0.55
 },
 "đàn": {
 "mode": "short",
@@ -9159,15 +9245,16 @@
 },
 "ăn": {
 "mode": "short",
-"ok": true,
-"heard": "ăn",
-"v": 12,
-"src": "ăn",
+"ok": "gate",
+"heard": "(tách từ săn)",
+"v": 14,
+"src": "săn",
 "f0": {
-"drop": -0.4,
-"rng": 0.9
+"drop": -0.3,
+"rng": 1.9
 },
-"dur": 0.4
+"core": 0.41,
+"dur": 0.56
 },
 "cái khăn": {
 "mode": "short",
@@ -9190,15 +9277,16 @@
 },
 "ân": {
 "mode": "short",
-"ok": "gate",
-"heard": "ấn",
-"v": 12,
-"src": "ân",
+"ok": "ctx",
+"heard": "(tách từ sân)",
+"v": 14,
+"src": "sân",
 "f0": {
-"drop": -1.1,
-"rng": 1.9
+"drop": 0.1,
+"rng": 3.5
 },
-"dur": 0.39
+"core": 0.4,
+"dur": 0.56
 },
 "bàn chân": {
 "mode": "short",
@@ -9227,14 +9315,15 @@
 "ên": {
 "mode": "short",
 "ok": "gate",
-"heard": "",
-"v": 12,
-"src": "ên",
+"heard": "(tách từ sên)",
+"v": 14,
+"src": "sên",
 "f0": {
-"drop": -0.7,
-"rng": 1.4
+"drop": -0.8,
+"rng": 2.9
 },
-"dur": 0.4
+"core": 0.41,
+"dur": 0.56
 },
 "nến": {
 "mode": "short",
@@ -9274,10 +9363,16 @@
 },
 "in": {
 "mode": "short",
-"ok": true,
-"heard": "bây giờ cô đọc in nhé",
-"v": 2,
-"dur": 0.33
+"ok": "gate",
+"heard": "(tách từ xin)",
+"v": 14,
+"src": "xin",
+"f0": {
+"drop": -0.4,
+"rng": 2.3
+},
+"core": 0.41,
+"dur": 0.55
 },
 "non": {
 "mode": "short",
@@ -9293,15 +9388,16 @@
 },
 "on": {
 "mode": "short",
-"ok": true,
-"heard": "on",
-"v": 12,
-"src": "on",
+"ok": "ctx",
+"heard": "(tách từ con)",
+"v": 14,
+"src": "con",
 "f0": {
-"drop": -1.2,
-"rng": 1.9
+"drop": -0.7,
+"rng": 1.4
 },
-"dur": 0.42
+"core": 0.41,
+"dur": 0.57
 },
 "nón": {
 "mode": "short",
@@ -9342,14 +9438,15 @@
 "un": {
 "mode": "short",
 "ok": "gate",
-"heard": "",
-"v": 12,
-"src": "un",
+"heard": "(tách từ thun)",
+"v": 14,
+"src": "thun",
 "f0": {
-"drop": 0.7,
-"rng": 1.9
+"drop": 0.0,
+"rng": 1.3
 },
-"dur": 0.35
+"core": 0.4,
+"dur": 0.55
 },
 "con giun": {
 "mode": "short",
@@ -9377,15 +9474,16 @@
 },
 "ang": {
 "mode": "short",
-"ok": "gate",
-"heard": "",
-"v": 12,
-"src": "ang",
+"ok": "ctx",
+"heard": "(tách từ thang)",
+"v": 14,
+"src": "thang",
 "f0": {
 "drop": -0.2,
-"rng": 0.7
+"rng": 1.0
 },
-"dur": 0.37
+"core": 0.41,
+"dur": 0.55
 },
 "cái thang": {
 "mode": "short",
@@ -9414,14 +9512,15 @@
 "ăng": {
 "mode": "short",
 "ok": "gate",
-"heard": "",
-"v": 12,
-"src": "ăng",
+"heard": "(tách từ xăng)",
+"v": 14,
+"src": "xăng",
 "f0": {
-"drop": -0.4,
-"rng": 0.9
+"drop": 0.2,
+"rng": 1.9
 },
-"dur": 0.47
+"core": 0.4,
+"dur": 0.55
 },
 "ông trăng": {
 "mode": "short",
@@ -9444,15 +9543,16 @@
 },
 "ung": {
 "mode": "short",
-"ok": "gate",
-"heard": "cùng",
-"v": 12,
-"src": "ung",
+"ok": "ctx",
+"heard": "(tách từ chung)",
+"v": 14,
+"src": "chung",
 "f0": {
-"drop": -0.1,
-"rng": 0.5
+"drop": -0.3,
+"rng": 3.2
 },
-"dur": 0.36
+"core": 0.4,
+"dur": 0.55
 },
 "thùng": {
 "mode": "short",
@@ -9492,15 +9592,16 @@
 },
 "ưng": {
 "mode": "short",
-"ok": "gate",
-"heard": "gừng",
-"v": 12,
-"src": "ưng",
+"ok": "ctx",
+"heard": "(tách từ sưng)",
+"v": 14,
+"src": "sưng",
 "f0": {
-"drop": -1.0,
-"rng": 2.1
+"drop": -0.1,
+"rng": 3.6
 },
-"dur": 0.43
+"core": 0.41,
+"dur": 0.57
 },
 "trứng": {
 "mode": "short",
@@ -9540,15 +9641,16 @@
 },
 "inh": {
 "mode": "short",
-"ok": "gate",
-"heard": "in",
-"v": 12,
-"src": "inh",
+"ok": "ctx",
+"heard": "(tách từ kinh)",
+"v": 14,
+"src": "kinh",
 "f0": {
-"drop": -0.4,
-"rng": 1.9
+"drop": -0.2,
+"rng": 2.2
 },
-"dur": 0.45
+"core": 0.4,
+"dur": 0.55
 },
 "kính": {
 "mode": "short",
@@ -9588,15 +9690,16 @@
 },
 "ac": {
 "mode": "short",
-"ok": true,
-"heard": "ác",
-"v": 12,
-"src": "ác",
+"ok": "ctx",
+"heard": "(tách từ khác)",
+"v": 14,
+"src": "khác",
 "f0": {
-"drop": 4.4,
-"rng": 4.9
+"drop": 3.3,
+"rng": 4.7
 },
-"dur": 0.34
+"core": 0.29,
+"dur": 0.44
 },
 "nhạc": {
 "mode": "short",
@@ -9636,10 +9739,16 @@
 },
 "uc": {
 "mode": "short",
-"ok": "carrier",
-"heard": "bây giờ cô đọc à",
-"v": 2,
-"dur": 0.33
+"ok": "ctx",
+"heard": "(tách từ chúc)",
+"v": 14,
+"src": "chúc",
+"f0": {
+"drop": 1.5,
+"rng": 3.0
+},
+"core": 0.29,
+"dur": 0.46
 },
 "cúc": {
 "mode": "short",
@@ -9674,10 +9783,16 @@
 },
 "ưc": {
 "mode": "short",
-"ok": "carrier",
-"heard": "bây giờ cô đọc ở",
-"v": 2,
-"dur": 0.31
+"ok": "gate",
+"heard": "(tách từ chức)",
+"v": 14,
+"src": "chức",
+"f0": {
+"drop": 1.5,
+"rng": 2.6
+},
+"core": 0.29,
+"dur": 0.46
 },
 "mực": {
 "mode": "short",
@@ -9706,14 +9821,15 @@
 "êch": {
 "mode": "short",
 "ok": "gate",
-"heard": "x",
-"v": 12,
-"src": "ếch",
+"heard": "(tách từ xếch)",
+"v": 14,
+"src": "xếch",
 "f0": {
-"drop": 5.1,
-"rng": 6.0
+"drop": 1.7,
+"rng": 2.6
 },
-"dur": 0.33
+"core": 0.29,
+"dur": 0.46
 },
 "ếch": {
 "mode": "short",
@@ -9742,14 +9858,15 @@
 "ich": {
 "mode": "short",
 "ok": "gate",
-"heard": "ít",
-"v": 12,
-"src": "ích",
+"heard": "(tách từ xích)",
+"v": 14,
+"src": "xích",
 "f0": {
-"drop": 4.2,
-"rng": 5.3
+"drop": 0.1,
+"rng": 0.9
 },
-"dur": 0.33
+"core": 0.28,
+"dur": 0.43
 },
 "lịch": {
 "mode": "short",
@@ -9789,15 +9906,16 @@
 },
 "at": {
 "mode": "short",
-"ok": true,
-"heard": "át",
-"v": 12,
-"src": "át",
+"ok": "ctx",
+"heard": "(tách từ cát)",
+"v": 14,
+"src": "cát",
 "f0": {
-"drop": 6.1,
-"rng": 6.3
+"drop": 3.9,
+"rng": 5.9
 },
-"dur": 0.32
+"core": 0.29,
+"dur": 0.45
 },
 "hát": {
 "mode": "short",
@@ -9837,10 +9955,16 @@
 },
 "ât": {
 "mode": "short",
-"ok": "carrier",
-"heard": "bây giờ cô đọc à",
-"v": 2,
-"dur": 0.33
+"ok": "ctx",
+"heard": "(tách từ chất)",
+"v": 14,
+"src": "chất",
+"f0": {
+"drop": 1.6,
+"rng": 3.7
+},
+"core": 0.3,
+"dur": 0.46
 },
 "mật": {
 "mode": "short",
@@ -9881,14 +10005,15 @@
 "et": {
 "mode": "short",
 "ok": "gate",
-"heard": "",
-"v": 12,
-"src": "ét",
+"heard": "(tách từ sét)",
+"v": 14,
+"src": "sét",
 "f0": {
-"drop": 6.4,
-"rng": 7.1
+"drop": 3.4,
+"rng": 4.9
 },
-"dur": 0.31
+"core": 0.28,
+"dur": 0.43
 },
 "vẹt": {
 "mode": "short",
@@ -9928,15 +10053,16 @@
 },
 "ôt": {
 "mode": "short",
-"ok": true,
-"heard": "ốt",
-"v": 12,
-"src": "ốt",
+"ok": "ctx",
+"heard": "(tách từ cốt)",
+"v": 14,
+"src": "cốt",
 "f0": {
-"drop": 6.0,
-"rng": 6.8
+"drop": 4.1,
+"rng": 5.2
 },
-"dur": 0.31
+"core": 0.27,
+"dur": 0.44
 },
 "rốt": {
 "mode": "short",
@@ -9964,15 +10090,16 @@
 },
 "ơt": {
 "mode": "short",
-"ok": true,
-"heard": "ớt",
-"v": 12,
-"src": "ớt",
+"ok": "ctx",
+"heard": "(tách từ thớt)",
+"v": 14,
+"src": "thớt",
 "f0": {
-"drop": 5.4,
-"rng": 6.7
+"drop": 3.9,
+"rng": 5.9
 },
-"dur": 0.3
+"core": 0.29,
+"dur": 0.43
 },
 "ớt": {
 "mode": "short",
@@ -9995,15 +10122,16 @@
 },
 "ap": {
 "mode": "short",
-"ok": true,
-"heard": "áp",
-"v": 12,
-"src": "áp",
+"ok": "ctx",
+"heard": "(tách từ cáp)",
+"v": 14,
+"src": "cáp",
 "f0": {
-"drop": 5.6,
-"rng": 6.3
+"drop": 3.9,
+"rng": 6.7
 },
-"dur": 0.33
+"core": 0.29,
+"dur": 0.45
 },
 "tháp": {
 "mode": "short",
@@ -10043,10 +10171,16 @@
 },
 "ăp": {
 "mode": "short",
-"ok": false,
-"heard": "",
-"v": 2,
-"dur": 0.33
+"ok": "gate",
+"heard": "(tách từ sắp)",
+"v": 14,
+"src": "sắp",
+"f0": {
+"drop": 2.5,
+"rng": 3.5
+},
+"core": 0.27,
+"dur": 0.43
 },
 "bắp": {
 "mode": "short",
@@ -10075,14 +10209,15 @@
 "âp": {
 "mode": "short",
 "ok": "gate",
-"heard": "",
-"v": 12,
-"src": "ấp",
+"heard": "(tách từ sấp)",
+"v": 14,
+"src": "sấp",
 "f0": {
-"drop": 3.9,
-"rng": 4.2
+"drop": 1.9,
+"rng": 3.4
 },
-"dur": 0.32
+"core": 0.27,
+"dur": 0.43
 },
 "mập": {
 "mode": "short",
@@ -10122,15 +10257,16 @@
 },
 "ep": {
 "mode": "short",
-"ok": "ctx",
-"heard": "",
-"v": 12,
-"src": "ép",
+"ok": "gate",
+"heard": "(tách từ kép)",
+"v": 14,
+"src": "kép",
 "f0": {
-"drop": 5.0,
-"rng": 5.2
+"drop": 5.5,
+"rng": 6.4
 },
-"dur": 0.31
+"core": 0.27,
+"dur": 0.44
 },
 "dép": {
 "mode": "short",
@@ -10171,14 +10307,15 @@
 "êp": {
 "mode": "short",
 "ok": "gate",
-"heard": "ít",
-"v": 12,
-"src": "ếp",
+"heard": "(tách từ xếp)",
+"v": 14,
+"src": "xếp",
 "f0": {
-"drop": 4.7,
+"drop": 4.9,
 "rng": 5.7
 },
-"dur": 0.31
+"core": 0.27,
+"dur": 0.44
 },
 "bếp": {
 "mode": "short",
@@ -10219,14 +10356,15 @@
 "op": {
 "mode": "short",
 "ok": "gate",
-"heard": "",
-"v": 12,
-"src": "óp",
+"heard": "(tách từ cóp)",
+"v": 14,
+"src": "cóp",
 "f0": {
-"drop": 6.1,
-"rng": 6.1
+"drop": 5.9,
+"rng": 7.6
 },
-"dur": 0.31
+"core": 0.27,
+"dur": 0.43
 },
 "cọp": {
 "mode": "short",
@@ -10267,14 +10405,15 @@
 "ôp": {
 "mode": "short",
 "ok": "gate",
-"heard": "cúp",
-"v": 12,
-"src": "ốp",
+"heard": "(tách từ cốp)",
+"v": 14,
+"src": "cốp",
 "f0": {
-"drop": 4.1,
-"rng": 4.4
+"drop": 3.8,
+"rng": 4.7
 },
-"dur": 0.3
+"core": 0.28,
+"dur": 0.43
 },
 "hộp": {
 "mode": "short",
@@ -10314,15 +10453,16 @@
 },
 "ơp": {
 "mode": "short",
-"ok": "ctx",
-"heard": "ớt",
-"v": 12,
-"src": "ớp",
+"ok": "gate",
+"heard": "(tách từ chớp)",
+"v": 14,
+"src": "chớp",
 "f0": {
-"drop": 5.3,
-"rng": 6.1
+"drop": 3.7,
+"rng": 5.4
 },
-"dur": 0.33
+"core": 0.27,
+"dur": 0.44
 },
 "lớp": {
 "mode": "short",
@@ -15637,13 +15777,14 @@
 "mode": "short",
 "ok": "gate",
 "heard": "g",
-"v": 12,
+"v": 14,
 "src": "gờ kép",
 "f0": {
 "drop": 10.3,
 "rng": 15.2
 },
-"dur": 0.56
+"dur": 0.59,
+"core": 0.41
 },
 "ngờ đơn": {
 "mode": "short",
@@ -15661,13 +15802,14 @@
 "mode": "short",
 "ok": "gate",
 "heard": "ng",
-"v": 12,
+"v": 14,
 "src": "ngờ kép",
 "f0": {
 "drop": 11.8,
 "rng": 14.8
 },
-"dur": 0.59
+"dur": 0.62,
+"core": 0.44
 },
 "Mẹ mua rau.": {
 "mode": "long",
