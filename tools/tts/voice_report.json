@@ -2378,16 +2378,16 @@
 },
 "âu": {
 "mode": "short",
-"ok": "ctx",
-"heard": "(tách từ sâu)",
-"v": 14,
-"src": "sâu",
+"ok": "formant",
+"heard": "F1 619→361, F2 1548→930",
+"v": 15,
+"src": "châu (v14)",
 "f0": {
-"drop": 0.1,
-"rng": 4.1
+"drop": 0.0,
+"rng": 2.1
 },
-"core": 0.41,
-"dur": 0.58,
+"core": 0.4,
+"dur": 0.56,
 "polish": 2
 },
 "con gấu": {
@@ -3732,16 +3732,16 @@
 },
 "eo": {
 "mode": "short",
-"ok": "ctx",
-"heard": "(tách từ theo)",
-"v": 14,
-"src": "theo",
+"ok": "formant",
+"heard": "F1 737→701, F2 2191→1845",
+"v": 15,
+"src": "keo (rung)",
 "f0": {
-"drop": -0.3,
-"rng": 2.6
+"drop": -1.5,
+"rng": 2.7
 },
 "core": 0.41,
-"dur": 0.56,
+"dur": 0.58,
 "polish": 2
 },
 "meo": {
@@ -3759,16 +3759,16 @@
 },
 "oi": {
 "mode": "short",
-"ok": "ctx",
-"heard": "(tách từ coi)",
-"v": 14,
-"src": "coi",
+"ok": "formant",
+"heard": "F1 949→422, F2 1327→1814",
+"v": 15,
+"src": "thoi (rung)",
 "f0": {
-"drop": -0.2,
-"rng": 1.8
+"drop": 0.5,
+"rng": 2.1
 },
-"core": 0.41,
-"dur": 0.56,
+"core": 0.4,
+"dur": 0.55,
 "polish": 2
 },
 "voi": {
@@ -3879,16 +3879,16 @@
 },
 "ưa": {
 "mode": "short",
-"ok": "ctx",
-"heard": "(tách từ cưa)",
-"v": 14,
-"src": "cưa",
+"ok": "formant",
+"heard": "F1 371→454, F2 1361→1964",
+"v": 15,
+"src": "khưa (v14)",
 "f0": {
-"drop": -0.2,
-"rng": 2.8
+"drop": 0.0,
+"rng": 2.5
 },
-"core": 0.41,
-"dur": 0.56,
+"core": 0.4,
+"dur": 0.55,
 "polish": 2
 },
 "sưa": {
@@ -4212,29 +4212,29 @@
 },
 "ay": {
 "mode": "short",
-"ok": "ctx",
-"heard": "(tách từ say)",
-"v": 14,
-"src": "say",
+"ok": "formant",
+"heard": "F1 793→424, F2 2063→2518",
+"v": 15,
+"src": "say (v14)",
 "f0": {
-"drop": 0.3,
-"rng": 3.3
+"drop": -0.6,
+"rng": 5.4
 },
-"core": 0.41,
-"dur": 0.56,
+"core": 0.4,
+"dur": 0.55,
 "polish": 2
 },
 "ui": {
 "mode": "short",
-"ok": "ctx",
-"heard": "(tách từ xui)",
-"v": 14,
-"src": "xui",
+"ok": "formant",
+"heard": "F1 436→306, F2 521→1400",
+"v": 15,
+"src": "xui (rung)",
 "f0": {
-"drop": -0.6,
-"rng": 3.6
+"drop": -0.7,
+"rng": 3.9
 },
-"core": 0.39,
+"core": 0.4,
 "dur": 0.55,
 "polish": 2
 },
@@ -4253,16 +4253,16 @@
 },
 "ây": {
 "mode": "short",
-"ok": "gate",
-"heard": "(tách từ thây)",
-"v": 14,
-"src": "thây",
+"ok": "formant",
+"heard": "F1 517→405, F2 2077→2396",
+"v": 15,
+"src": "tây (rung)",
 "f0": {
-"drop": 0.0,
-"rng": 4.0
+"drop": -0.4,
+"rng": 2.7
 },
-"core": 0.4,
-"dur": 0.55,
+"core": 0.41,
+"dur": 0.56,
 "polish": 2
 },
 "mây": {
@@ -6280,15 +6280,15 @@
 },
 "ai": {
 "mode": "short",
-"ok": "gate",
-"heard": "(tách từ thai)",
-"v": 14,
-"src": "thai",
+"ok": "formant",
+"heard": "F1 930→277, F2 1946→2232",
+"v": 15,
+"src": "tai (rung)",
 "f0": {
-"drop": 0.0,
-"rng": 1.7
+"drop": 0.2,
+"rng": 1.3
 },
-"core": 0.4,
+"core": 0.41,
 "dur": 0.55,
 "polish": 2
 },
@@ -9791,15 +9791,15 @@
 },
 "ôi": {
 "mode": "short",
-"ok": "gate",
-"heard": "(tách từ xôi)",
-"v": 14,
-"src": "xôi",
+"ok": "formant",
+"heard": "F1 437→357, F2 963→1542",
+"v": 15,
+"src": "thôi (rung)",
 "f0": {
-"drop": -1.4,
-"rng": 4.7
+"drop": -2.0,
+"rng": 3.2
 },
-"core": 0.41,
+"core": 0.4,
 "dur": 0.55,
 "polish": 2
 },
@@ -9844,16 +9844,16 @@
 },
 "ơi": {
 "mode": "short",
-"ok": "ctx",
-"heard": "(tách từ khơi)",
-"v": 14,
-"src": "khơi",
+"ok": "formant",
+"heard": "F1 517→448, F2 1302→1957",
+"v": 15,
+"src": "khơi (v14)",
 "f0": {
-"drop": -0.1,
-"rng": 2.4
+"drop": 0.0,
+"rng": 3.6
 },
-"core": 0.4,
-"dur": 0.57,
+"core": 0.41,
+"dur": 0.58,
 "polish": 2
 },
 "bơi lội": {
@@ -9884,16 +9884,16 @@
 },
 "êu": {
 "mode": "short",
-"ok": "gate",
-"heard": "(tách từ khêu)",
-"v": 14,
-"src": "khêu",
+"ok": "formant",
+"heard": "F1 496→351, F2 1915→1208",
+"v": 15,
+"src": "kêu (rung)",
 "f0": {
-"drop": 0.0,
-"rng": 3.1
+"drop": 0.2,
+"rng": 2.1
 },
-"core": 0.41,
-"dur": 0.58,
+"core": 0.4,
+"dur": 0.55,
 "polish": 2
 },
 "lều": {
@@ -9937,16 +9937,16 @@
 },
 "iu": {
 "mode": "short",
-"ok": "gate",
-"heard": "(tách từ thiu)",
-"v": 14,
-"src": "thiu",
+"ok": "formant",
+"heard": "F1 389→260, F2 2572→1906",
+"v": 15,
+"src": "xiu (rung)",
 "f0": {
-"drop": -0.1,
+"drop": -0.8,
 "rng": 2.1
 },
-"core": 0.41,
-"dur": 0.56,
+"core": 0.4,
+"dur": 0.55,
 "polish": 2
 },
 "rìu": {
@@ -9990,13 +9990,13 @@
 },
 "ưu": {
 "mode": "short",
-"ok": "gate",
-"heard": "(tách từ sưu)",
-"v": 14,
-"src": "sưu",
+"ok": "formant",
+"heard": "F1 360→295, F2 2758→2300",
+"v": 15,
+"src": "sưu (v14)",
 "f0": {
-"drop": 0.0,
-"rng": 2.4
+"drop": -0.6,
+"rng": 2.3
 },
 "core": 0.41,
 "dur": 0.56,

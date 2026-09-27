@@ -1111,8 +1111,8 @@ const V = {
   audio: (() => { const a = new Audio(); a.setAttribute('playsinline', ''); a.preload = 'auto'; return a; })(),
   load() {
     const use = j => { if (j && typeof j === 'object') { this.check = Array.isArray(j.__check) ? j.__check : []; this.lib = {}; Object.keys(j).forEach(k => { if (k !== '__check') this.lib[norm(k)] = j[k]; }); this.size = Object.keys(this.lib).length; } };
-    if (window.VOICE_DATA) use(window.VOICE_DATA);      // bản chạy trên máy: voice.js
-    else fetch('voice.json').then(r => r.ok ? r.json() : null).then(use).catch(() => {});
+    if (window.VOICE_DATA) { use(window.VOICE_DATA); this.ready = Promise.resolve(); }      // bản chạy trên máy: voice.js
+    else this.ready = fetch('voice.json').then(r => r.ok ? r.json() : null).then(use).catch(() => {});
     IDB.all('voice').then(vs => vs.forEach(v => { this.custom[norm(v.text)] = URL.createObjectURL(v.blob); })).catch(() => {});
   },
   clip(t) { if (S.voice === 'may') return null; const c = this.custom[norm(t)]; if (c) return c; return this.lib && this.lib[norm(t)] ? 'data:audio/mpeg;base64,' + this.lib[norm(t)] : null; },
@@ -1131,7 +1131,12 @@ const V = {
     };
     next();
   },
-  one(text, cb, tok) {
+  one(text, cb, tok, waited) {
+    // Giọng cô chưa tải xong (file lớn, mạng chậm): chờ tối đa 15 giây thay vì đọc bằng giọng trình duyệt (đọc "ay" thành "A-Y")
+    if (!this.lib && !waited && S.voice !== 'may' && this.ready) {
+      Promise.race([this.ready, new Promise(r => setTimeout(r, 15000))]).then(() => { if (tok === this.token) this.one(text, cb, tok, true); });
+      return;
+    }
     const b = this.clip(text);
     if (!b) {
       if (this.lib && S.voice !== 'may') { this.missing.add(norm(text)); window.__missing = [...this.missing]; }
