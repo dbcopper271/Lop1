@@ -1598,7 +1598,7 @@ function spellSteps(W, withVan) {
 }
 function playSpell(rowHost, outEl, W, withVan, done) {
   const clr = () => rowHost.querySelectorAll('.hl').forEach(e => e.classList.remove('hl'));
-  V.play(spellSteps(W, withVan).map(s => ({ t: s.t, gap: s.fin ? 450 : 300, on: () => {
+  V.play(spellSteps(W, withVan).map(s => ({ t: s.t, gap: s.fin ? 450 : 150, on: () => {
     if (!rowHost.isConnected) return;
     clr(); s.hl.forEach(h => rowHost.querySelector(`[data-p="${h}"]`)?.classList.add('hl'));
     if (s.out) outEl.innerHTML = `<span class="${s.fin ? 'fin' : ''}">${s.out}</span>`;
@@ -2635,7 +2635,7 @@ function vanBoard(box) {
     <div class="br">${VANS.map(g => `<section class="vgrp"><h3>${g.g}</h3><div class="vchips">${g.list.map(x => `<button class="vchip" data-v="${x.v}">${x.v}</button>`).join('')}</div></section>`).join('')}</div>`;
   const q = x => box.querySelector(x), rowHost = q('.rowhost'), outEl = q('.sp-out'), parts = q('.vparts');
   const hl = k => parts.querySelectorAll('span').forEach((e, j) => e.classList.toggle('hl', k === 'all' || j === k));
-  const playVan = () => { const ps = vparts(cur.v); V.play(ps.map((p, k) => ({ t: VS[p] || p, gap: 250, on: () => hl(k) })).concat([{ t: cur.v, on: () => hl('all') }]), () => { if (parts.isConnected) hl(-1); }); };
+  const playVan = () => { const ps = vparts(cur.v); V.play(ps.map((p, k) => ({ t: VS[p] || p, gap: 100, on: () => hl(k) })).concat([{ t: cur.v, on: () => hl('all') }]), () => { if (parts.isConnected) hl(-1); }); };
   function show(x, play) {
     cur = x; q('.vbig').textContent = x.v;
     parts.innerHTML = vparts(x.v).map(p => `<span>${p}</span>`).join('<i>–</i>');
