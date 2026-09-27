@@ -2514,10 +2514,10 @@
 "v": 12,
 "src": "đám mây",
 "f0": {
-"drop": 3.7,
-"rng": 8.4
+"drop": 4.8,
+"rng": 9.9
 },
-"dur": 0.61,
+"dur": 0.59,
 "polish": 2
 },
 "cơm": {
@@ -2939,8 +2939,8 @@
 "score": 1.0,
 "heard": "bé chọn dấu thanh nhé",
 "v": 12,
-"old": 1.0,
-"dur": 1.33,
+"old": 0.688,
+"dur": 1.29,
 "polish": 2
 },
 "Bé được một ngôi sao!": {
@@ -7826,10 +7826,11 @@
 },
 "Tiếng ngô có dấu gì?": {
 "mode": "long",
-"score": 0.8,
-"heard": "tiếng có dấu gì",
-"dur": 1.09,
-"target_ok": false,
+"score": 0.842,
+"heard": "tiếng mua có dấu gì",
+"v": 12,
+"old": 0.722,
+"dur": 1.1,
 "polish": 2
 },
 "qua": {
@@ -8676,7 +8677,9 @@
 "mode": "long",
 "score": 1.0,
 "heard": "mẹ mua cá",
-"dur": 0.82,
+"v": 12,
+"old": 0.783,
+"dur": 0.89,
 "polish": 2
 },
 "Bố đi xe ô tô.": {
@@ -8744,11 +8747,11 @@
 },
 "Con ong bay.": {
 "mode": "long",
-"score": 0.783,
-"heard": "con đang vay",
+"score": 0.818,
+"heard": "con ong vậy",
 "v": 12,
-"old": 0.522,
-"dur": 0.61,
+"old": 0.696,
+"dur": 0.66,
 "polish": 2
 },
 "Bé đọc sách.": {
@@ -9769,11 +9772,11 @@
 },
 "Gà trống gáy ò ó o.": {
 "mode": "long",
-"score": 0.625,
-"heard": "chống cháy ò o",
+"score": 0.833,
+"heard": "gà trống kháy ò ho",
 "v": 12,
-"old": 0.5,
-"dur": 1.32,
+"old": 0.645,
+"dur": 1.21,
 "polish": 2
 },
 "chôi": {
@@ -15666,9 +15669,9 @@
 "src": "chú công an",
 "f0": {
 "drop": -5.7,
-"rng": 8.4
+"rng": 8.5
 },
-"dur": 0.81,
+"dur": 0.75,
 "polish": 2
 },
 "chú bộ đội": {
@@ -16192,8 +16195,8 @@
 "score": 0.873,
 "heard": "sáng sớm chú trống gáy ò",
 "v": 12,
-"old": 0.852,
-"dur": 1.98,
+"old": 0.873,
+"dur": 2.28,
 "polish": 2
 },
 "Cả nhà thức dậy.": {
@@ -16302,10 +16305,10 @@
 "v": 12,
 "src": "mười một",
 "f0": {
-"drop": 0.3,
-"rng": 2.0
+"drop": 0.2,
+"rng": 3.8
 },
-"dur": 0.56,
+"dur": 0.55,
 "polish": 2
 },
 "mười hai": {
@@ -16354,10 +16357,10 @@
 "v": 12,
 "src": "mười lăm",
 "f0": {
-"drop": 0.5,
-"rng": 2.3
+"drop": 3.3,
+"rng": 4.8
 },
-"dur": 0.65,
+"dur": 0.62,
 "polish": 2
 },
 "mười sáu": {
@@ -16497,10 +16500,10 @@
 "v": 12,
 "src": "hai mươi sáu",
 "f0": {
-"drop": 1.7,
-"rng": 11.3
+"drop": 0.8,
+"rng": 11.7
 },
-"dur": 0.96,
+"dur": 0.93,
 "polish": 2
 },
 "hai mươi bảy": {
@@ -16601,10 +16604,10 @@
 "v": 12,
 "src": "ba mươi bốn",
 "f0": {
-"drop": 1.1,
-"rng": 9.2
+"drop": 2.5,
+"rng": 10.6
 },
-"dur": 0.8,
+"dur": 0.88,
 "polish": 2
 },
 "ba mươi lăm": {
@@ -16615,9 +16618,9 @@
 "src": "ba mươi lăm",
 "f0": {
 "drop": 0.0,
-"rng": 3.9
+"rng": 3.5
 },
-"dur": 0.88,
+"dur": 0.93,
 "polish": 2
 },
 "ba mươi sáu": {
@@ -16653,10 +16656,10 @@
 "v": 12,
 "src": "ba mươi tám",
 "f0": {
-"drop": 1.4,
-"rng": 9.5
+"drop": 0.2,
+"rng": 9.1
 },
-"dur": 0.91,
+"dur": 0.85,
 "polish": 2
 },
 "ba mươi chín": {
@@ -16913,10 +16916,10 @@
 "v": 12,
 "src": "năm mươi tám",
 "f0": {
-"drop": -1.4,
-"rng": 13.5
+"drop": -0.8,
+"rng": 7.8
 },
-"dur": 0.89,
+"dur": 0.91,
 "polish": 2
 },
 "năm mươi chín": {
@@ -17043,10 +17046,10 @@
 "v": 12,
 "src": "sáu mươi tám",
 "f0": {
-"drop": 0.9,
-"rng": 13.7
+"drop": 1.3,
+"rng": 10.6
 },
-"dur": 0.9,
+"dur": 1.0,
 "polish": 2
 },
 "sáu mươi chín": {
@@ -17730,10 +17733,12 @@
 },
 "Chị hái hoa.": {
 "mode": "long",
-"score": 1.0,
-"heard": "chị hái hoa",
+"score": 0.87,
+"heard": "chị thái hòa",
 "dur": 0.39,
-"polish": 2
+"polish": 2,
+"v": 12,
+"old": 0.5
 },
 "Em bé đang ngủ.": {
 "mode": "long",
@@ -17930,11 +17935,11 @@
 },
 "Cho gà bới bếp": {
 "mode": "long",
-"score": 0.897,
-"heard": "cho gà bới tiếp",
+"score": 0.857,
+"heard": "cho gà bới tết",
 "v": 12,
-"old": 0.857,
-"dur": 0.87,
+"old": 0.714,
+"dur": 0.88,
 "polish": 2
 },
 "Ngồi xệp xuống đây.": {
@@ -17951,7 +17956,7 @@
 "score": 0.857,
 "heard": "nu na nung đống",
 "v": 12,
-"old": 0.857,
+"old": 0.786,
 "dur": 0.91,
 "polish": 2
 },
@@ -18051,10 +18056,12 @@
 },
 "Ba vương ngũ đế": {
 "mode": "long",
-"score": 0.75,
+"score": 0.933,
 "heard": "bà vương ngũ đế",
 "dur": 0.99,
-"polish": 2
+"polish": 2,
+"v": 12,
+"old": 0.769
 },
 "Chấp chế đi tìm": {
 "mode": "long",
@@ -18212,10 +18219,10 @@
 "Về bú tí mẹ.": {
 "mode": "long",
 "score": 0.87,
-"heard": "về bút tý mẹ",
+"heard": "về bố trí mẹ",
 "v": 12,
-"old": 0.87,
-"dur": 0.87,
+"old": 0.696,
+"dur": 0.94,
 "polish": 2
 },
 "Con kiến mà leo cành đa,": {
@@ -18526,10 +18533,12 @@
 },
 "Nét cong hở phải": {
 "mode": "long",
-"score": 0.75,
-"heard": "nét cong phải",
+"score": 0.848,
+"heard": "nét công hợp phải",
 "dur": 1.02,
-"polish": 2
+"polish": 2,
+"v": 12,
+"old": 0.788
 },
 "Nét cong hở phải, như chữ cờ.": {
 "mode": "long",
@@ -19167,8 +19176,9 @@
 "score": 0.889,
 "heard": "luyện chữ khét nào",
 "v": 12,
-"polish": 2,
-"dur": 1.09
+"old": 0.71,
+"dur": 1.06,
+"polish": 2
 },
 "Luyện chính tả nào!": {
 "mode": "long",
