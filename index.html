@@ -1507,8 +1507,8 @@ const CONS = ['b', 'c', 'd', 'đ', 'g', 'h', 'k', 'l', 'm', 'n', 'r', 's', 't', 
 const SPC_BASE = { b: 'bờ', c: 'cờ', d: 'dờ', đ: 'đờ', g: 'gờ', h: 'hờ', k: 'ca', l: 'lờ', m: 'mờ', n: 'nờ', p: 'pờ', r: 'rờ', s: 'sờ', t: 'tờ', v: 'vờ', x: 'xờ',
   ch: 'chờ', gh: 'gờ', gi: 'di', kh: 'khờ', ng: 'ngờ', ngh: 'ngờ', nh: 'nhờ', ph: 'phờ', qu: 'quờ', th: 'thờ', tr: 'trờ' };
 const SPC = new Proxy(SPC_BASE, { get: (o, k) => (k === 'k' && S.kStyle === 'co') ? 'cờ' : o[k] });
-// âm của từng chữ trong vần khi đánh vần vần (ay: a – y – ay, y đọc là i dài)
-const VS = { a: 'a', ă: 'á', â: 'ớ', e: 'e', ê: 'ê', i: 'i', o: 'o', ô: 'ô', ơ: 'ơ', u: 'u', ư: 'ư', y: 'i dài', m: 'mờ', n: 'nờ', t: 'tờ', c: 'cờ', p: 'pờ', ng: 'ngờ', nh: 'nhờ', ch: 'chờ' };
+// âm của từng chữ trong vần khi đánh vần vần, đọc theo âm (ay: a – i – ay; y cuối vần là âm i)
+const VS = { a: 'a', ă: 'á', â: 'ớ', e: 'e', ê: 'ê', i: 'i', o: 'o', ô: 'ô', ơ: 'ơ', u: 'u', ư: 'ư', y: 'i', m: 'mờ', n: 'nờ', t: 'tờ', c: 'cờ', p: 'pờ', ng: 'ngờ', nh: 'nhờ', ch: 'chờ' };
 // Tách vần thành các âm: ong → o, ng; anh → a, nh; ach → a, ch; eo → e, o
 const vparts = v => { const a = [...v.normalize('NFC')], n = a.length; return n > 2 && /^(ng|nh|ch)$/.test(a[n - 2] + a[n - 1]) ? a.slice(0, n - 2).concat(a[n - 2] + a[n - 1]) : a; };
 const markVan = W => { const a = [...W.w.normalize('NFC')], k = [...W.d].length; return `${a.slice(0, k).join('')}<mark>${a.slice(k).join('')}</mark>`; };
