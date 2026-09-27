@@ -1,5 +1,5 @@
 // Service worker: lưu app vào máy để mở được cả khi mất mạng. Không đụng tới các yêu cầu gửi lên Supabase.
-const VERSION = 'f3339291bc';
+const VERSION = '63719f3de5';
 const CACHE = 'bvl1-' + VERSION;
 const CORE = ['./', './index.html', './voice.json', './config.js', './vendor/supabase.js', './manifest.webmanifest', './icons/icon-192.png', './icons/icon-512.png'];
 const FONTS = /^https:\/\/fonts\.(googleapis|gstatic)\.com\//;

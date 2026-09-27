@@ -3,7 +3,8 @@
 - Độ to đều: chuẩn hóa theo năng lượng phần có tiếng về -20dBFS, đỉnh không quá -3dB (trước đây chuẩn theo đỉnh 0,93 nên clip to nhỏ không đều, dễ chói).
 - Cảm xúc (--expressive): với câu dài và cụm từ, dùng bộ phân tích-tổng hợp WORLD nới biên độ ngữ điệu (mặc định 1,2 lần quanh cao độ trung vị,
   giữ hướng lên xuống của từng dấu thanh) và nâng cao độ chung 0,5 nửa cung cho giọng tươi hơn. Âm, tiếng đứng riêng giữ nguyên ngữ điệu.
-Chạy từ thư mục gốc: python3 tools/tts/polish.py [--expressive] [--keys k.json --part out.json] [--merge a.json ...]"""
+  --guard: câu nào nới ngữ điệu xong máy nhận dạng nghe kém đi thì giữ ngữ điệu gốc (cần mô hình sherpa-onnx-zipformer-vi-int8-2025-04-20).
+Chạy từ thư mục gốc: python3 tools/tts/polish.py [--expressive [--guard]] [--keys k.json --part out.json] [--merge a.json ...]"""
 import base64, json, os, subprocess, sys
 import numpy as np
 
@@ -48,9 +49,30 @@ def expressive(y, stretch=1.2, lift=0.5):
     z = pw.synthesize(f1, sp, ap, SR, frame_period=5.0).astype(np.float32)
     return z[:len(y)] if len(z) >= len(y) else np.concatenate([z, np.zeros(len(y) - len(z), np.float32)])
 
-def polish(b, long, expr):
+ASR = None
+def hear(y):
+    global ASR
+    import re, unicodedata, sherpa_onnx
+    if ASR is None:
+        a = os.path.join(D, 'sherpa-onnx-zipformer-vi-int8-2025-04-20')
+        ASR = sherpa_onnx.OfflineRecognizer.from_transducer(encoder=os.path.join(a, 'encoder-epoch-12-avg-8.int8.onnx'), decoder=os.path.join(a, 'decoder-epoch-12-avg-8.onnx'),
+            joiner=os.path.join(a, 'joiner-epoch-12-avg-8.int8.onnx'), tokens=os.path.join(a, 'tokens.txt'), num_threads=1, decoding_method='greedy_search')
+    x = np.concatenate([np.zeros(int(SR * 0.2), np.float32), y, np.zeros(int(SR * 0.3), np.float32)])
+    x = np.interp(np.linspace(0, len(x) - 1, int(len(x) * 16000 / SR)), np.arange(len(x)), x).astype(np.float32)
+    st = ASR.create_stream(); st.accept_waveform(16000, x); ASR.decode_stream(st)
+    return re.sub(r'\s+', ' ', re.sub(r'[^\w\s]', ' ', unicodedata.normalize('NFC', st.result.text).lower())).strip()
+
+def match(text, y):
+    import difflib, re, unicodedata
+    t = re.sub(r'\s+', ' ', re.sub(r'[^\w\s]', ' ', unicodedata.normalize('NFC', text).lower())).strip()
+    return difflib.SequenceMatcher(None, t, hear(y)).ratio()
+
+def polish(b, long, expr, text=None):
+    """text (chốt an toàn): nới ngữ điệu làm máy nghe kém đi quá 0,05 thì bỏ bước nới ngữ điệu cho câu này."""
     y = dec(b)
-    if expr and long: y = expressive(y)
+    if expr and long:
+        z = expressive(y)
+        if text is None or match(text, z) >= match(text, y) - 0.05: y = z
     y = ff(y, EQ)
     y = loudness(y)
     fi = min(len(y), int(SR * 0.004)); y[:fi] *= np.linspace(0, 1, fi)
@@ -71,7 +93,7 @@ if __name__ == '__main__':
     for i, k in enumerate(keys):
         if rep.get(k, {}).get('polish'): continue
         long = rep.get(k, {}).get('mode') == 'long' or len(k.split()) > 1
-        out[k] = polish(V[k], long, expr)
+        out[k] = polish(V[k], long, expr, k if '--guard' in A else None)
         if i % 50 == 0: print(f'{i}/{len(keys)}', flush=True)
     if '--part' in A:
         json.dump(out, open(A[A.index('--part') + 1], 'w', encoding='utf-8'), ensure_ascii=False); sys.exit(0)

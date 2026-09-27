@@ -101,7 +101,10 @@ def cut_between(x, t_prev, t_next, thr=-30, min_q=3):
     tail = [r for r in runs if r[0] >= first[1] + int(0.1 / HOP) and r[1] - r[0] >= 2]
     if not tail: return None
     a, b = first, tail[-1]
-    st = max(a[0], a[1] - int(0.03 / HOP)) * f; en = min(b[1], b[0] + int(0.03 / HOP)) * f
+    # Âm mũi cuối tiếng (n, m, ng, nh) nhỏ, thường dưới -30dB: dò tiếp tới khi thật sự tắt (-40dB) để không cụt đuôi
+    e0 = b[0]
+    while e0 < b[1] and db[e0] >= -40: e0 += 1
+    st = max(a[0], a[1] - int(0.03 / HOP)) * f; en = min(b[1], e0 + int(0.03 / HOP)) * f
     if not (int(SR * 0.12) <= en - st <= int(SR * 0.9)): return None
     return st, en
 
@@ -142,7 +145,8 @@ def dec(b):
     return np.frombuffer(raw, dtype=np.float32).copy()
 
 def take(src, stretch_to):
-    """Nhiều bản của tiếng src; giữ bản qua cổng, ưu tiên máy nghe lại đúng chữ (riêng clip, rồi trong câu), rồi đúng thanh."""
+    """Nhiều bản của tiếng src; chỉ nhận bản máy nghe lại đúng đủ từng chữ. Không có bản nào đúng (tiếng chưa dấu khi đánh vần,
+    máy không nhận được) thì nhận bản đủ số tiếng, đủ dài. Trong các bản nhận được, chọn bản đúng thanh."""
     n = len(clean(src).split()); cls = tone(src) if n == 1 else 'any'; best = None; tries = 0
     for sp in [0.76, 0.72, 0.80, 0.68]:
         for carrier in CARRIERS:
@@ -151,12 +155,18 @@ def take(src, stretch_to):
             if r is None or not edges_quiet(r[0]): continue
             y = tidy_smooth(stretch(r[0], stretch_to))
             ok, h = audit(y, src)
-            if not ok or len(h.split()) > n: continue
-            bad, c = tone_bad(y, cls); exact = h == clean(src); ctx = r[1] == clean(src)
+            if not ok: continue
+            exact = h == clean(src)
+            if not exact and (len(h.split()) not in (0, n) or core_len(y) < 0.22 * n): continue
+            bad, c = tone_bad(y, cls); ctx = r[1] == clean(src)
             score = bad + (0 if exact else 0.7 if ctx else 1.5)
             if best is None or score < best[0]: best = (score, y, h, c, sp, exact, ctx)
-        if best and (best[0] <= 1.0 or best[5] and best[0] <= 1.5): break
+        if best and best[5] and best[0] <= 1.0: break
     return best, tries
+
+def core_len(y):
+    db, f = db_env(y); on = np.where(db > -30)[0]
+    return (on[-1] - on[0] + 1) * f / SR if len(on) else 0.0
 
 LEAD = 'Rồi, cô đọc: '
 LEAD_W = {'rồi', 'cô', 'đọc'}
@@ -210,7 +220,7 @@ def run_short(key, V):
     src, st = job(key)
     best, tries = take(src, st)
     old_h = audit(dec(V[key]), src) if key in V else (False, '')
-    old_exact = old_h[0] and old_h[1] == clean(src)
+    old_exact = old_h[0] and old_h[1] == clean(src)   # bản cũ nghe thừa/thiếu chữ thì không được giữ
     if best is None: return None, f'không có bản qua cổng ({tries} lần), giữ cũ'
     score, y, h, c, sp, exact, ctx = best
     if old_exact and not exact: return None, f'cũ nghe đúng "{old_h[1]}", mới nghe "{h}": giữ cũ'
